@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒôï Underwriting Principles",
+      "cards": [
+        {
+          "title": "Selection of Risk",
+          "content": "ΓÇó Anti-selection: Tendency of high-risk people to seek insurance more than healthy people.\nΓÇó Morbidity: Rate of sickness/disease in a specific population (crucial for pricing health policies).",
+          "color": "blue"
+        },
+        {
+          "title": "Pre-existing Disease (PED)",
+          "content": "ΓÇó A condition diagnosed or treated prior to the policy start.\nΓÇó IRDAI guidelines mandate a maximum waiting period of 36 Months for covering PEDs (reduced from 48 months).",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "ΓÅ▒∩╕Å Waiting Periods & Exclusions",
+      "items": [
+        {
+          "year": "30 Days",
+          "text": "Initial Waiting Period: No claims payable for illnesses during the first 30 days (Accidents are covered from Day 1)."
+        },
+        {
+          "year": "Specific Wait",
+          "text": "Specific Illnesses (e.g., Cataract, Hernia) usually have a 24-month waiting period."
+        },
+        {
+          "year": "Permanent Exclusions",
+          "text": "Cosmetic surgery, self-inflicted injuries, and non-allopathic treatments (unless explicitly covered)."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Group Underwriting: Based on the \"Law of Large Numbers\". It assesses the risk of the whole group rather than individuals.",
+        "Underwriting Tools: Proposal form, Medical reports, and previous claim history are key tools.",
+        "Portability: Moving from one insurer to another without losing the waiting period benefits already served.",
+        "Moral Hazard: A situation where the insured person is careless or over-utilizes medical services simply because they have insurance.",
+        "Loadings: Extra premium charged if the applicant has higher risks (like obesity or hypertension)."
+      ]
+    }
+  ]
+}

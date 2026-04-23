@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒôë Financial Planning",
+      "cards": [
+        {
+          "title": "Life Cycle Approach",
+          "content": "ΓÇó Young Unmarried: Low insurance need, high risk appetite.\nΓÇó Married with Kids: Highest need for life insurance (protection).\nΓÇó Retired: Focus shifts from protection to regular income (Pension/Annuities).",
+          "color": "green"
+        },
+        {
+          "title": "Risk & Return",
+          "content": "ΓÇó There is always an inverse relationship between Risk and Return. Higher the risk, higher the potential return (e.g., Equity).\nΓÇó Insurance provides low return but guarantees absolute safety and protection.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒÆ░ Key Financial Concepts",
+      "items": [
+        {
+          "year": "Compounding",
+          "text": "Earning interest on interest. The earlier you start saving, the greater the compounding effect."
+        },
+        {
+          "year": "Time Value",
+          "text": "Time Value of Money: Money today is worth more than the same amount in the future due to inflation."
+        },
+        {
+          "year": "Tax Benefit",
+          "text": "Section 80C allows premium deductions. Section 10(10D) makes maturity proceeds tax-free."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Financial planning is the process of meeting life goals through proper management of finances.",
+        "Savings vs Insurance: Savings cannot suddenly provide a huge amount in an emergency; Insurance immediately pays the full Sum Assured.",
+        "Section 80D is specifically for Health Insurance premium tax deductions.",
+        "An ideal investment portfolio should be a mix of Liquid, Safe, and Growth assets.",
+        "The primary purpose of Life Insurance is Protection, not investment."
+      ]
+    }
+  ]
+}

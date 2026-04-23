@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "ΓÜû∩╕Å Underwriting in Life Insurance",
+      "cards": [
+        {
+          "title": "Risk Classification",
+          "content": "ΓÇó Standard Lives: Normal health, charged normal premium.\nΓÇó Sub-Standard Lives: Higher risk (due to health/habits), charged Extra Premium.\nΓÇó Declined Lives: Risk is too high to insure.",
+          "color": "blue"
+        },
+        {
+          "title": "Hazards",
+          "content": "ΓÇó Physical Hazard: Relates to health, occupation (e.g., mining), or dangerous hobbies.\nΓÇó Moral Hazard: Intentional acts, fraud, or hidden motives (e.g., buying huge insurance with no income).",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒôï Underwriting Methods",
+      "items": [
+        {
+          "year": "Medical",
+          "text": "Medical Underwriting: Based on doctor's reports, ECG, blood tests."
+        },
+        {
+          "year": "Non-Medical",
+          "text": "Non-Medical: Approved solely based on the proposal form declarations (usually for young age/low sum assured)."
+        },
+        {
+          "year": "Financial",
+          "text": "Financial Underwriting: Ensuring the Sum Assured matches the person's income (HLV)."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Numerical Rating System: Assigning positive/negative points to various health factors to decide the final premium.",
+        "Lien: A temporary reduction in the death benefit for a specific period (used for sub-standard lives instead of extra premium).",
+        "Female insurance sometimes requires special underwriting regarding pregnancy risks.",
+        "The Agent is the \"Primary Underwriter\" because they see the prospect face-to-face.",
+        "Occupational Hazard: Jobs like circus acrobats or explosives handlers attract higher premiums."
+      ]
+    }
+  ]
+}

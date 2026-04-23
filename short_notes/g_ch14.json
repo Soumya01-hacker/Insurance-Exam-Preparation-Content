@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒÜù Motor Insurance (Most Important)",
+      "cards": [
+        {
+          "title": "Third Party Liability (Act Only)",
+          "content": "ΓÇó Mandatory by Law (Motor Vehicles Act).\nΓÇó Covers injury/death to 3rd party (Unlimited Liability).\nΓÇó Covers 3rd party property damage (Limited to Γé╣7.5 Lakhs).\nΓÇó Does NOT cover damage to own vehicle.",
+          "color": "red"
+        },
+        {
+          "title": "Comprehensive Policy (Package)",
+          "content": "ΓÇó Covers Third Party + Own Damage (OD).\nΓÇó Own Damage covers theft, fire, natural disasters, and accidents.\nΓÇó Personal Accident (PA) Cover for Owner-Driver is mandatory (Γé╣15 Lakhs).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒôè Key Motor Concepts",
+      "items": [
+        {
+          "year": "IDV",
+          "text": "Insured Declared Value: The current market value of the vehicle (Sum Insured). It depreciates every year."
+        },
+        {
+          "year": "NCB",
+          "text": "No Claim Bonus: Discount on premium for claim-free years. Ranges from 20% (1st year) to 50% (5th year)."
+        },
+        {
+          "year": "Depreciation",
+          "text": "Deduction for wear and tear. Plastics/Rubber (50%), Glass (Nil), Paint (50% of material)."
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "≡ƒÅá Retail Insurances",
+      "cards": [
+        {
+          "title": "Householder's & Shopkeeper's Policy",
+          "content": "ΓÇó Householder: Package policy covering fire, burglary, breakdown of appliances, and personal accident.\nΓÇó Shopkeeper: Covers building, contents, cash in transit, and liability in one policy.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "NCB belongs to the owner, NOT the car. If you sell the car, you can keep the NCB for your new car.",
+        "Driving without a valid license or under the influence of alcohol rejects all Own Damage claims.",
+        "Personal Accident cover pays 100% for death or loss of 2 limbs/eyes, and 50% for loss of 1 limb/eye.",
+        "Burglary Insurance requires \"forcible and violent entry\". Normal theft is NOT burglary.",
+        "Certificate of Insurance is the legal proof to be carried in the vehicle."
+      ]
+    }
+  ]
+}

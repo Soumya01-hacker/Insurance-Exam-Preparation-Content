@@ -1,0 +1,65 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒöÑ Fire & Marine Insurance",
+      "cards": [
+        {
+          "title": "Standard Fire & Special Perils (SFSP)",
+          "content": "ΓÇó Covers Fire, Lightning, Explosion, Aircraft damage, Riots, Storms, and Floods.\nΓÇó Excludes: War, Nuclear risks, Pollution, and Spontaneous combustion.\nΓÇó Reinstatement Value Policy pays to replace the property as new (no depreciation).",
+          "color": "red"
+        },
+        {
+          "title": "Marine Cargo Insurance",
+          "content": "ΓÇó Covers goods in transit (Sea, Air, Road, Rail).\nΓÇó Specific Policy (Single trip) vs Open Policy (Multiple trips over a year).\nΓÇó Institute Cargo Clauses: ICC (A) is \"All Risk\". ICC (B) and (C) are \"Named Perils\" (C being most restricted).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "ΓÜÖ∩╕Å Engineering & Business",
+      "items": [
+        {
+          "year": "Project",
+          "text": "CAR (Contractor's All Risk) & EAR (Erection All Risk): Covers projects during construction phase."
+        },
+        {
+          "year": "Machinery",
+          "text": "Machinery Breakdown (MB): Covers sudden physical damage to working machinery."
+        },
+        {
+          "year": "Loss of Profit",
+          "text": "Business Interruption: Pays for fixed expenses and lost net profit if business stops due to Fire."
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "ΓÜû∩╕Å Liability & Crime Policies",
+      "cards": [
+        {
+          "title": "Public & Professional Liability",
+          "content": "ΓÇó Public Liability: Covers injury/damage to third parties on your premises.\nΓÇó Professional Indemnity: Protects Doctors, CAs, and Lawyers against claims of negligence.\nΓÇó Employer's Liability: Covers Workmen's Compensation Act obligations.",
+          "color": "orange"
+        },
+        {
+          "title": "Crime Insurance",
+          "content": "ΓÇó Fidelity Guarantee: Protects employers against fraud/embezzlement by their own employees.\nΓÇó Banker's Indemnity: Package policy for banks covering money in transit, forged cheques, etc.",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Average Clause: If property is under-insured, claim amount is reduced proportionately.",
+        "Floater Policy: One single sum insured covering goods lying at multiple different locations.",
+        "Declaration Policy: For businesses with fluctuating stocks. Premium is adjusted based on monthly stock declarations.",
+        "Jeweller's Block Policy: A comprehensive package policy exclusively for jewelry shops.",
+        "Workmen's Compensation is a Statutory (legally mandatory) liability policy."
+      ]
+    }
+  ]
+}

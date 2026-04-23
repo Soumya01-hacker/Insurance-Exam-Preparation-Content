@@ -1,0 +1,18 @@
+{
+  "chapter_id": "ch_10",
+  "chapter_title": "Chapter 10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "Explanation will be updated soon."
+    }
+  ]
+}

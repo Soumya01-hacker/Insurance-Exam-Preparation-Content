@@ -1,0 +1,41 @@
+{
+  "chapter_id": "l_ch3",
+  "chapter_title": "Grievance Redressal Mechanism",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the full form of IGMS in the context of insurance?",
+      "options": ["Insurance General Management System", "Integrated Grievance Management System", "Internal Government Monitoring System", "Institutional Grievance Monitoring Service"],
+      "correct_index": 1,
+      "explanation": "IGMS stands for Integrated Grievance Management System, a central repository of all insurance grievances maintained by IRDAI."
+    },
+    {
+      "id": "q2",
+      "question": "The Insurance Ombudsman can entertain complaints where the compensation claimed is up to ______.",
+      "options": ["Rs. 10 Lakhs", "Rs. 20 Lakhs", "Rs. 30 Lakhs", "Rs. 50 Lakhs"],
+      "correct_index": 2,
+      "explanation": "The maximum compensation that an Insurance Ombudsman can award is Rs. 30 lakhs (including expenses)."
+    },
+    {
+      "id": "q3",
+      "question": "Within how many days must an insurer comply with an Ombudsman's award?",
+      "options": ["15 days", "30 days", "60 days", "90 days"],
+      "correct_index": 1,
+      "explanation": "The insurer must comply with the award within 30 days of receiving the acceptance letter from the complainant."
+    },
+    {
+      "id": "q4",
+      "question": "What is the time limit for filing a complaint with the Ombudsman after the insurer rejects the grievance?",
+      "options": ["Within 6 months", "Within 1 year", "Within 2 years", "Within 3 years"],
+      "correct_index": 1,
+      "explanation": "A complaint to the Ombudsman must be made within 1 year from the date of receipt of the final rejection letter from the insurer."
+    },
+    {
+      "id": "q5",
+      "question": "Which body has jurisdiction over consumer disputes involving amounts exceeding Rs. 2 Crores?",
+      "options": ["District Commission", "State Commission", "National Commission", "Insurance Ombudsman"],
+      "correct_index": 2,
+      "explanation": "As per the Consumer Protection Act 2019, the National Commission handles disputes above Rs. 2 Crores."
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "chapter_id": "customer_service",
+  "chapter_title": "Chapter 2: Customer Service",
+  "questions": [
+    {
+      "id": "ch02_q01",
+      "question": "Insurance is a/an _________ product, which means it cannot be seen or touched.",
+      "options": [
+        "Tangible",
+        "Intangible",
+        "Physical",
+        "Perishable"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance is an intangible product. You cannot see or touch it; you are essentially selling a promise to pay in the future if a specific event occurs."
+    },
+    {
+      "id": "ch02_q02",
+      "question": "What is the most important communication skill required for an insurance agent?",
+      "options": [
+        "Speaking loudly",
+        "Active listening",
+        "Arguing to prove a point",
+        "Using complex financial terms"
+      ],
+      "correct_index": 1,
+      "explanation": "Active listening is crucial. It helps the agent truly understand the customer"
+    },
+    {
+      "id": "ch02_q03",
+      "question": "In the SERVQUAL model, what does ",
+      "options": [
+        "The physical appearance of the office",
+        "The caring attitude of the staff",
+        "The ability to perform the promised service dependably and accurately",
+        "The speed of answering phone calls"
+      ],
+      "correct_index": 2,
+      "explanation": "Reliability means doing exactly what you promised the customer you would do, without errors."
+    },
+    {
+      "id": "ch02_q04",
+      "question": "Understanding the customer",
+      "options": [
+        "Sympathy",
+        "Empathy",
+        "Apathy",
+        "Pity"
+      ],
+      "correct_index": 1,
+      "explanation": "Empathy in customer service means understanding and sharing the feelings of the customer, offering individualized attention."
+    },
+    {
+      "id": "ch02_q05",
+      "question": "Which of the following is an example of ",
+      "options": [
+        "A quick email response",
+        "The agent",
+        "A well-printed policy document and professional office appearance",
+        "Solving a complaint"
+      ],
+      "correct_index": 2,
+      "explanation": "Since the product itself is intangible, the physical evidence of the service (documents, office, agent"
+    },
+    {
+      "id": "ch02_q06",
+      "question": "What does CLV stand for in customer service?",
+      "options": [
+        "Customer Life Valuation",
+        "Customer Lifetime Value",
+        "Consumer Liability Value",
+        "Customer Loyalty Verification"
+      ],
+      "correct_index": 1,
+      "explanation": "Customer Lifetime Value (CLV) is the total economic value a customer brings to a company over the entire period of their relationship."
+    },
+    {
+      "id": "ch02_q07",
+      "question": "If a customer has a grievance, who should they approach FIRST?",
+      "options": [
+        "Insurance Ombudsman",
+        "Consumer Court",
+        "The Grievance Redressal Officer of their Insurance Company",
+        "Civil Court"
+      ],
+      "correct_index": 2,
+      "explanation": "The first step in any grievance redressal process is to formally lodge a complaint with the respective insurance company."
+    },
+    {
+      "id": "ch02_q08",
+      "question": "What is the full form of IGMS?",
+      "options": [
+        "International Grievance Management System",
+        "Integrated Grievance Management System",
+        "Insurance Grievance Monitoring Service",
+        "Internal Grievance Maintenance System"
+      ],
+      "correct_index": 1,
+      "explanation": "IGMS (Integrated Grievance Management System) is an online portal launched by IRDAI to track and monitor customer complaints industry-wide."
+    },
+    {
+      "id": "ch02_q09",
+      "question": "According to IRDAI guidelines, an insurance company must resolve a grievance within how many days?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurers are mandated to resolve a customer"
+    },
+    {
+      "id": "ch02_q10",
+      "question": "If an insurance company rejects a complaint or doesn",
+      "options": [
+        "High Court",
+        "Supreme Court",
+        "Insurance Ombudsman",
+        "Police Station"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Ombudsman provides a quick, impartial, and out-of-court mechanism to resolve complaints if the insurer fails to do so."
+    },
+    {
+      "id": "ch02_q11",
+      "question": "What is the fee required to file a complaint with the Insurance Ombudsman?",
+      "options": [
+        "\u20b9100",
+        "\u20b9500",
+        "1% of the claim amount",
+        "No fee"
+      ],
+      "correct_index": 3,
+      "explanation": "The services of the Insurance Ombudsman are completely free of charge for the policyholder."
+    },
+    {
+      "id": "ch02_q12",
+      "question": "What is the maximum compensation amount that an Insurance Ombudsman can award?",
+      "options": [
+        "\u20b910 Lakhs",
+        "\u20b920 Lakhs",
+        "\u20b930 Lakhs",
+        "\u20b950 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "As per the latest amended rules, the maximum limit for an award by the Insurance Ombudsman is \u20b930 Lakhs."
+    },
+    {
+      "id": "ch02_q13",
+      "question": "A complaint must be filed with the Ombudsman within ______ of the rejection by the insurer.",
+      "options": [
+        "3 months",
+        "6 months",
+        "1 year",
+        "3 years"
+      ],
+      "correct_index": 2,
+      "explanation": "A policyholder has exactly 1 year from the date of the insurer"
+    },
+    {
+      "id": "ch02_q14",
+      "question": "Can a dispute between two insurance companies be taken to the Insurance Ombudsman?",
+      "options": [
+        "Yes, always",
+        "Only if IRDAI permits",
+        "No",
+        "Yes, if the amount is less than 30 lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "No. The Insurance Ombudsman is strictly for individual policyholders (or sole proprietors/micro-enterprises) having disputes with insurers. It is not for B2B disputes."
+    },
+    {
+      "id": "ch02_q15",
+      "question": "Is the decision (Award) of the Insurance Ombudsman binding on the customer?",
+      "options": [
+        "Yes, always",
+        "No, the customer can reject it and go to consumer court",
+        "Yes, but only for life insurance",
+        "Only if the amount is above 10 lakhs"
+      ],
+      "correct_index": 1,
+      "explanation": "The award is binding on the insurance company, but the customer has the right to accept or reject it. If they reject it, they can pursue legal remedies like Consumer Courts."
+    },
+    {
+      "id": "ch02_q16",
+      "question": "Under the Consumer Protection Act, which is the lowest tier of the redressal agency?",
+      "options": [
+        "State Commission",
+        "National Commission",
+        "District Commission",
+        "Panchayat"
+      ],
+      "correct_index": 2,
+      "explanation": "The Consumer Protection Act establishes a three-tier system: District Commission (lowest), State Commission, and National Commission (highest)."
+    },
+    {
+      "id": "ch02_q17",
+      "question": "When a policyholder realizes they bought the wrong policy, they can cancel it within a specific window without penalties. This is called:",
+      "options": [
+        "Grace Period",
+        "Free-look Period",
+        "Waiting Period",
+        "Cooling-off Period"
+      ],
+      "correct_index": 1,
+      "explanation": "The free-look period (usually 15 days from receiving the policy document) allows the customer to review the terms and cancel the policy for a refund if unsatisfied."
+    },
+    {
+      "id": "ch02_q18",
+      "question": "What is ",
+      "options": [
+        "Having a nice office",
+        "The willingness to help customers and provide prompt service",
+        "Knowing all technical jargon",
+        "Selling the most expensive policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Responsiveness refers to how quickly and eagerly an agent or company reacts to a customer"
+    },
+    {
+      "id": "ch02_q19",
+      "question": "Which of the following creates a ",
+      "options": [
+        "When the policy is printed",
+        "When the agent gets their commission",
+        "When a claim occurs and the customer needs help",
+        "When the company buys advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "A "
+    },
+    {
+      "id": "ch02_q20",
+      "question": "Who represents the customer",
+      "options": [
+        "The Underwriter",
+        "The Actuary",
+        "The Agent / Advisor",
+        "The Auditor"
+      ],
+      "correct_index": 2,
+      "explanation": "The agent acts as the primary link between the customer and the company, bringing the customer"
+    },
+    {
+      "id": "ch02_q21",
+      "question": "If a customer approaches the Ombudsman, lawyers are:",
+      "options": [
+        "Mandatory",
+        "Not required and generally not allowed",
+        "Provided by the government",
+        "Provided by the insurance company"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman process is designed to be simple and informal. Advocates or lawyers are not required and are generally discouraged to keep the process straightforward."
+    },
+    {
+      "id": "ch02_q22",
+      "question": "Within how much time should an Insurance Ombudsman pass an award (final decision)?",
+      "options": [
+        "15 days",
+        "1 month",
+        "3 months",
+        "6 months"
+      ],
+      "correct_index": 2,
+      "explanation": "The Ombudsman must pass an award within 3 months of receiving all the requirements/documents from the complainant."
+    },
+    {
+      "id": "ch02_q23",
+      "question": "In case the Ombudsman gives a ",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 1,
+      "explanation": "If a mutual settlement is recommended, the complainant has 15 days to give written acceptance."
+    },
+    {
+      "id": "ch02_q24",
+      "question": "Which of the following is NOT a characteristic of excellent customer service?",
+      "options": [
+        "Over-promising and under-delivering",
+        "Transparency in terms and conditions",
+        "Timely communication",
+        "Handling complaints professionally"
+      ],
+      "correct_index": 0,
+      "explanation": "Over-promising and under-delivering destroys trust and is the exact opposite of good customer service."
+    },
+    {
+      "id": "ch02_q25",
+      "question": "Consumer Protection Act applies to insurance services because:",
+      "options": [
+        "Insurance is a free public service",
+        "Policyholders are considered ",
+        "Insurance companies are government-owned",
+        "Only rich people buy insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "A person buying insurance pays a premium (consideration) for a service. Hence, they fall under the definition of a "
+    }
+  ]
+}

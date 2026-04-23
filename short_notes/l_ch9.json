@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒôê Non-Traditional Products & Annuities",
+      "cards": [
+        {
+          "title": "ULIPs (Unit Linked Plans)",
+          "content": "ΓÇó Combines Insurance + Investment. Premium is used to buy \"Units\" in a fund (Equity/Debt).\nΓÇó Value of units is tracked by NAV (Net Asset Value).\nΓÇó Highly transparent with visible charges (Mortality, Admin, Fund Management).",
+          "color": "orange"
+        },
+        {
+          "title": "Annuities & Pensions",
+          "content": "ΓÇó Annuity: You pay a lump sum, and the insurer pays you a regular income for life.\nΓÇó Protects against the risk of \"Living too long\".\nΓÇó Immediate Annuity starts instantly; Deferred Annuity starts after a certain period.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒ¢í∩╕Å Riders & Group Covers",
+      "items": [
+        {
+          "year": "Riders",
+          "text": "Add-on benefits (like Critical Illness or Accidental Death) attached to a base policy for a small extra cost."
+        },
+        {
+          "year": "Group Ins",
+          "text": "Covers many people under a single Master Policy (e.g., Employer-Employee). No individual underwriting."
+        },
+        {
+          "year": "PMJBY",
+          "text": "Pradhan Mantri Jeevan Jyoti Bima Yojana: Γé╣2 Lakh life cover for Γé╣436/year."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Variable Insurance: Sum assured or premiums can change based on the performance of the underlying investments.",
+        "Waiver of Premium Rider: If the insured gets disabled, future premiums are waived but the policy continues.",
+        "Micro Insurance is targeted at low-income groups, with low premiums and simplified procedures.",
+        "In ULIPs, the investment risk is borne entirely by the Policyholder, not the insurer.",
+        "Annuity Certain: Pays for a guaranteed number of years (e.g., 10 years), whether the person lives or dies."
+      ]
+    }
+  ]
+}

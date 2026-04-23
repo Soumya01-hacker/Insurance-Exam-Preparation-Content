@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "ΓÜû∩╕Å Legal Principles of Contract",
+      "cards": [
+        {
+          "title": "Valid Contract (Act of 1872)",
+          "content": "ΓÇó Needs Offer & Acceptance, Lawful Consideration, and Free Consent.\nΓÇó Capacity: Minors or people of unsound mind cannot enter contracts.\nΓÇó Consensus Ad-Idem: Agreeing on the same thing in the same sense.",
+          "color": "blue"
+        },
+        {
+          "title": "Utmost Good Faith (Uberrima Fides)",
+          "content": "ΓÇó Both parties must declare all \"Material Facts\".\nΓÇó Differs from normal commercial contracts which run on \"Caveat Emptor\" (Let the buyer beware).",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒöæ Core Insurance Principles",
+      "items": [
+        {
+          "year": "Insurable Interest",
+          "text": "You must suffer a financial loss if the insured event happens. No interest = Gambling."
+        },
+        {
+          "year": "Proximate Cause",
+          "text": "The nearest, most direct, and active cause that led to the loss."
+        },
+        {
+          "year": "Indemnity",
+          "text": "Restores you to the same financial state. (NOTE: Indemnity does NOT apply to Life Insurance)."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Material Fact: Any fact that would influence the underwriter's decision to accept the risk or fix the premium.",
+        "Breach of Utmost Good Faith makes the contract VOIDABLE at the option of the insurer.",
+        "Misrepresentation is giving incorrect information innocently. Fraud is doing it intentionally.",
+        "Contract of Adhesion: Insurance policies are \"take it or leave it\". You cannot negotiate the printed terms.",
+        "In Life Insurance, Insurable Interest must exist ONLY at the time of taking the policy, not necessarily at the time of death."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒôª Traditional Life Products",
+      "cards": [
+        {
+          "title": "Term & Whole Life",
+          "content": "ΓÇó Term Insurance: Pure protection. Pays only if death occurs during the term. No maturity benefit. Cheapest premium.\nΓÇó Whole Life: Covers the person for their entire life (up to 100 years). Creates an estate for heirs.",
+          "color": "blue"
+        },
+        {
+          "title": "Endowment & Money Back",
+          "content": "ΓÇó Endowment: Combination of Protection + Savings. Pays on Death OR on Maturity.\nΓÇó Money Back: A type of Endowment that pays periodic survival benefits (e.g., every 5 years) and the balance at maturity.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒöä Product Variants",
+      "items": [
+        {
+          "year": "ROP",
+          "text": "Return of Premium (ROP) Term Plans: Returns all paid premiums if the person survives the term."
+        },
+        {
+          "year": "Convertible",
+          "text": "Convertible Term Policy: Can be converted into an Endowment or Whole Life policy later without medical tests."
+        },
+        {
+          "year": "Participating",
+          "text": "Par Policies: Share in the profits of the company through bonuses (With-profit)."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Term insurance has the highest risk cover for the lowest premium.",
+        "Money Back policies are best for people who need periodic lump sums for milestones (like a child's education).",
+        "In a Money Back policy, if the person dies, the FULL Sum Assured is paid without deducting the survival benefits already paid.",
+        "Endowment plans are ideal for compulsory long-term savings.",
+        "Whole Life plans are ideal for leaving a legacy or wealth for the next generation."
+      ]
+    }
+  ]
+}

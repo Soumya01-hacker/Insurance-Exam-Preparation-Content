@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒô¥ General Documentation",
+      "cards": [
+        {
+          "title": "Proposal Form & Cover Note",
+          "content": "ΓÇó Proposal Form: The basis of the contract containing the declarations by the insured.\nΓÇó Cover Note: A temporary document proving insurance cover exists while the main policy is being prepared.",
+          "color": "blue"
+        },
+        {
+          "title": "Endorsements & Warranties",
+          "content": "ΓÇó Endorsement: Used to record ANY changes (like address or sum insured) in an ongoing policy.\nΓÇó Warranty: An absolute promise by the insured. Breach of warranty immediately voids the policy.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒôï Policy Components",
+      "items": [
+        {
+          "year": "Certificate",
+          "text": "Certificate of Insurance: Mandatory for Motor Vehicles under the MV Act as proof to police."
+        },
+        {
+          "year": "Schedule",
+          "text": "Policy Schedule: The customized page containing the Insured's name, dates, premium, and Sum Insured."
+        },
+        {
+          "year": "Renewal",
+          "text": "Renewal Notice is sent as a courtesy, but the legal obligation to renew rests ENTIRELY on the insured."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "A Cover Note is valid for a maximum of 60 days (mostly used in Motor Insurance).",
+        "Express Warranties are explicitly written in the policy document.",
+        "Implied Warranties are not written but assumed (e.g., a ship must be sea-worthy in Marine Insurance).",
+        "If there is a conflict between printed words and handwritten words on a policy, HANDWRITTEN words prevail.",
+        "Duty of disclosure begins at the Proposal stage and continues until the policy is issued."
+      ]
+    }
+  ]
+}

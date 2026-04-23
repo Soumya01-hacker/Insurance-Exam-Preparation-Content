@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒô£ Policy Conditions I",
+      "cards": [
+        {
+          "title": "Policy Document Structure",
+          "content": "ΓÇó Schedule: Contains specific details (Name, Sum Assured, Premium, Nominee).\nΓÇó Standard Provisions: General rules applicable to all policies.\nΓÇó Specific Provisions: Special conditions like extra premium for hazardous hobbies.",
+          "color": "blue"
+        },
+        {
+          "title": "Grace Period & Lapsation",
+          "content": "ΓÇó Grace Period: Extra time to pay premium without penalty (15 days for monthly, 30 days for others).\nΓÇó Lapse: If premium isn't paid within the grace period, the policy lapses (risk cover stops).",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒöä Policy Revival Methods",
+      "items": [
+        {
+          "year": "Ordinary",
+          "text": "Ordinary Revival: Pay all arrears of premium + interest within the revival period."
+        },
+        {
+          "year": "Special",
+          "text": "Special Revival: Policy date is shifted to reduce arrears (can be done only once)."
+        },
+        {
+          "year": "Loan",
+          "text": "Loan Revival: Arrears are recovered from a new loan taken against the policy."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "During the Grace Period, if the insured dies, the claim IS PAYABLE, but the unpaid premium is deducted.",
+        "Revival requires proof of continued good health (Declaration of Good Health or Medical report).",
+        "Endorsement: Any modification or change made to the policy after it is issued.",
+        "A lapsed policy has zero risk cover until it is officially revived by the insurer.",
+        "Warranties are strict conditions in the policy that must be fully complied with."
+      ]
+    }
+  ]
+}
