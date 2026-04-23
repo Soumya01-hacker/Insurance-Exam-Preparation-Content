@@ -17,8 +17,12 @@
           "chapters": [
             {
               "id": "introduction_to_insurance",
-              "title": "Chapter 1: Introduction to Insurance",
-              "topics": ["History", "Risk Management", "Social Security"],
+              "title": "Introduction to Insurance",
+              "topics": [
+                "History",
+                "Risk Management",
+                "Social Security"
+              ],
               "detailed_topics": [
                 "History & Evolution of Insurance (3000 BC to modern era)",
                 "Insurance through the ages — Babylonian, Greeks, Chinese traders",
@@ -34,14 +38,20 @@
                 "Role of Insurance in Society & Social Security Schemes",
                 "Govt Schemes — RKBY, RSBY, PMJBY, PMSBY"
               ],
-              "book_url": "textbooks/Chapter_1_Textbook.pdf",
-              "note_images": ["images/introduction_to_insurance_chart.webp"],
+              "book_url": "textbooks/introduction_to_insurance.pdf",
+              "note_images": [
+                "images/introduction_to_insurance_chart.webp"
+              ],
               "test_url": "local"
             },
             {
               "id": "customer_service",
-              "title": "Chapter 2: Customer Service",
-              "topics": ["SERVQUAL", "Communication", "Ethics"],
+              "title": "Customer Service",
+              "topics": [
+                "SERVQUAL",
+                "Communication",
+                "Ethics"
+              ],
               "detailed_topics": [
                 "Why Customer Service — importance in insurance",
                 "Quality of Service — SERVQUAL Model (5 dimensions)",
@@ -61,14 +71,20 @@
                 "Empathetic Listening",
                 "Ethical Behaviour — Characteristics & Code of Ethics"
               ],
-              "book_url": "textbooks/Chapter_2_Textbook.pdf",
-              "note_images": ["images/customer_service_chart.webp"],
+              "book_url": "textbooks/customer_service.pdf",
+              "note_images": [
+                "images/customer_service_chart.webp"
+              ],
               "test_url": "local"
             },
             {
               "id": "grievance_redressal_mechanism",
-              "title": "Chapter 3: Grievance Redressal Mechanism",
-              "topics": ["IGMS", "Ombudsman", "Consumer Forums"],
+              "title": "Grievance Redressal Mechanism",
+              "topics": [
+                "IGMS",
+                "Ombudsman",
+                "Consumer Forums"
+              ],
               "detailed_topics": [
                 "IGMS — Integrated Grievance Management System",
                 "How to register complaint on IGMS portal",
@@ -87,12 +103,16 @@
                 "Ombudsman Award — max Rs. 30 lakh, within 3 months",
                 "Award binding on insurer — comply within 30 days"
               ],
-              "book_url": "assets/introduction_to_insurance.pdf"
+              "book_url": "textbooks/grievance_redressal_mechanism.pdf"
             },
             {
               "id": "regulatory_aspects_of_insurance_agents",
-              "title": "Chapter 4: Regulatory Aspects of Insurance Agents",
-              "topics": ["IRDAI Act", "Agent Licensing", "Code of Conduct"],
+              "title": "Regulatory Aspects of Insurance Agents",
+              "topics": [
+                "IRDAI Act",
+                "Agent Licensing",
+                "Code of Conduct"
+              ],
               "detailed_topics": [
                 "Key Definitions — Agent, Composite Agent, Mono-line Insurer, Designated Official",
                 "Centralised List of Agents & Blacklisted Agents",
@@ -113,12 +133,16 @@
                 "90-day cooling period before joining new insurer",
                 "General conditions — max 1 Life + 1 General + 1 Health insurer"
               ],
-              "book_url": "assets/introduction_to_insurance.pdf"
+              "book_url": "textbooks/regulatory_aspects_of_insurance_agents.pdf"
             },
             {
               "id": "legal_principles_of_insurance",
-              "title": "Chapter 5: Legal Principles of an Insurance Contract",
-              "topics": ["Contract Law", "Good Faith", "Indemnity"],
+              "title": "Legal Principles of an Insurance Contract",
+              "topics": [
+                "Contract Law",
+                "Good Faith",
+                "Indemnity"
+              ],
               "detailed_topics": [
                 "Insurance Contract — definition & nature",
                 "Indian Contract Act 1872 — governs all insurance contracts",
@@ -141,7 +165,7 @@
                 "Subrogation — insurer steps into insured's shoes",
                 "Contribution — multiple policies proportional sharing"
               ],
-              "book_url": "assets/introduction_to_insurance.pdf"
+              "book_url": "textbooks/legal_principles_of_insurance.pdf"
             }
           ]
         },
@@ -150,8 +174,12 @@
           "chapters": [
             {
               "id": "what_life_insurance_involves",
-              "title": "Chapter 6: What Life Insurance Involves",
-              "topics": ["Nature of Life Insurance", "Assignment", "Nomination"],
+              "title": "What Life Insurance Involves",
+              "topics": [
+                "Nature of Life Insurance",
+                "Assignment",
+                "Nomination"
+              ],
               "detailed_topics": [
                 "Nature & scope of Life Insurance",
                 "Insurable Interest in Life Insurance — self, spouse, dependents",
@@ -165,12 +193,16 @@
                 "Free Look Period — 15 days",
                 "Duplicate Policy issuance"
               ],
-              "book_url": "assets/introduction_to_insurance.pdf"
+              "book_url": "textbooks/what_life_insurance_involves.pdf"
             },
             {
               "id": "financial_planning",
-              "title": "Chapter 7: Financial Planning",
-              "topics": ["Life Cycle", "Tax Benefits", "Time Value"],
+              "title": "Financial Planning",
+              "topics": [
+                "Life Cycle",
+                "Tax Benefits",
+                "Time Value"
+              ],
               "detailed_topics": [
                 "Concept & need for Financial Planning",
                 "Life Cycle approach — Young, Middle-aged, Retired",
@@ -184,12 +216,16 @@
                 "Tax Benefits — Section 10(10D) (maturity tax free)",
                 "Section 80D — Health Insurance premium deduction"
               ],
-              "book_url": "assets/introduction_to_insurance.pdf"
+              "book_url": "textbooks/financial_planning.pdf"
             },
             {
               "id": "life_insurance_products_1",
-              "title": "Chapter 8: Life Insurance Products – I",
-              "topics": ["Term Insurance", "Endowment", "Bonus"],
+              "title": "Life Insurance Products – I",
+              "topics": [
+                "Term Insurance",
+                "Endowment",
+                "Bonus"
+              ],
               "detailed_topics": [
                 "Term Insurance — pure protection, no maturity benefit",
                 "Return of Premium (ROP) Term Plans",
@@ -202,12 +238,16 @@
                 "Bonus types — Reversionary Bonus, Terminal Bonus",
                 "With-profit & Without-profit policies"
               ],
-              "book_url": "assets/introduction_to_insurance.pdf"
+              "book_url": "textbooks/life_insurance_products_1.pdf"
             },
             {
               "id": "life_insurance_products_2",
-              "title": "Chapter 9: Life Insurance Products – II",
-              "topics": ["ULIPs", "Pension", "Micro Insurance"],
+              "title": "Life Insurance Products – II",
+              "topics": [
+                "ULIPs",
+                "Pension",
+                "Micro Insurance"
+              ],
               "detailed_topics": [
                 "Unit Linked Insurance Plans (ULIPs) — structure & features",
                 "Fund types in ULIPs — Equity, Debt, Balanced",
@@ -224,12 +264,17 @@
                 "Critical Illness Rider",
                 "Waiver of Premium Rider",
                 "Disability Benefit Rider"
-              ]
+              ],
+              "book_url": "textbooks/life_insurance_products_2.pdf"
             },
             {
               "id": "applications_of_life_insurance",
-              "title": "Chapter 10: Applications of Life Insurance",
-              "topics": ["Keyman", "Partnership", "Estate Planning"],
+              "title": "Applications of Life Insurance",
+              "topics": [
+                "Keyman",
+                "Partnership",
+                "Estate Planning"
+              ],
               "detailed_topics": [
                 "Keyman Insurance — protecting key employee in business",
                 "Partnership Insurance — buy-sell agreement on partner's death",
@@ -240,12 +285,17 @@
                 "Business Continuation Plans",
                 "HUF (Hindu Undivided Family) insurance applications",
                 "NRI Life Insurance — special features"
-              ]
+              ],
+              "book_url": "textbooks/applications_of_life_insurance.pdf"
             },
             {
               "id": "pricing_and_valuation",
-              "title": "Chapter 11: Pricing and Valuation in Life Insurance",
-              "topics": ["Mortality Tables", "Premium", "Bonus"],
+              "title": "Pricing and Valuation in Life Insurance",
+              "topics": [
+                "Mortality Tables",
+                "Premium",
+                "Bonus"
+              ],
               "detailed_topics": [
                 "Premium calculation — basic concept",
                 "Mortality Tables — how death rates are measured",
@@ -260,12 +310,17 @@
                 "Bonus declaration process",
                 "Reversionary Bonus — Simple vs Compound",
                 "Terminal Bonus"
-              ]
+              ],
+              "book_url": "textbooks/pricing_and_valuation.pdf"
             },
             {
               "id": "documentation_proposal_stage",
-              "title": "Chapter 12: Documentation – Proposal Stage",
-              "topics": ["Proposal Form", "KYC", "e-Insurance"],
+              "title": "Documentation – Proposal Stage",
+              "topics": [
+                "Proposal Form",
+                "KYC",
+                "e-Insurance"
+              ],
               "detailed_topics": [
                 "Proposal Form — purpose & importance",
                 "Types of questions — personal, medical, financial, lifestyle",
@@ -282,12 +337,17 @@
                 "Anti-Money Laundering (AML) Guidelines",
                 "Know Your Customer (KYC) — mandatory norms",
                 "FATF — Financial Action Task Force guidelines"
-              ]
+              ],
+              "book_url": "textbooks/documentation_proposal_stage.pdf"
             },
             {
               "id": "documentation_policy_condition_1",
-              "title": "Chapter 13: Documentation – Policy Condition I",
-              "topics": ["Policy Document", "Grace Period", "Assignment"],
+              "title": "Documentation – Policy Condition I",
+              "topics": [
+                "Policy Document",
+                "Grace Period",
+                "Assignment"
+              ],
               "detailed_topics": [
                 "Policy Document — structure & contents",
                 "Schedule of the Policy — what it contains",
@@ -301,12 +361,17 @@
                 "Loan on Policy — how calculated",
                 "Assignment — Section 38 procedure",
                 "Notice of Assignment to insurer"
-              ]
+              ],
+              "book_url": "textbooks/documentation_policy_condition_1.pdf"
             },
             {
               "id": "documentation_policy_condition_2",
-              "title": "Chapter 14: Documentation – Policy Condition II",
-              "topics": ["Nomination", "Surrender", "Free Look"],
+              "title": "Documentation – Policy Condition II",
+              "topics": [
+                "Nomination",
+                "Surrender",
+                "Free Look"
+              ],
               "detailed_topics": [
                 "Nomination — Section 39 of Insurance Act",
                 "Types of Nominees — beneficial, appointee",
@@ -320,12 +385,17 @@
                 "Duplicate Policy — when & how issued",
                 "Lost Policy — declaration process",
                 "Policy Illustration — IRDAI guidelines"
-              ]
+              ],
+              "book_url": "textbooks/documentation_policy_condition_2.pdf"
             },
             {
               "id": "underwriting",
-              "title": "Chapter 15: Underwriting",
-              "topics": ["Risk Selection", "Medical", "Reinsurance"],
+              "title": "Underwriting",
+              "topics": [
+                "Risk Selection",
+                "Medical",
+                "Reinsurance"
+              ],
               "detailed_topics": [
                 "Underwriting — definition, purpose & need",
                 "Factors affecting Underwriting — Age, Health, Occupation, Habits, Lifestyle",
@@ -341,12 +411,17 @@
                 "Group Underwriting — master policy concept",
                 "Reinsurance — why and how life insurers use it",
                 "Treaty Reinsurance vs Facultative Reinsurance"
-              ]
+              ],
+              "book_url": "textbooks/underwriting.pdf"
             },
             {
               "id": "payments_under_life_policy",
-              "title": "Chapter 16: Payments Under a Life Insurance Policy",
-              "topics": ["Death Claims", "Maturity", "Repudiation"],
+              "title": "Payments Under a Life Insurance Policy",
+              "topics": [
+                "Death Claims",
+                "Maturity",
+                "Repudiation"
+              ],
               "detailed_topics": [
                 "Types of Claims — Death Claim, Maturity Claim, Survival Benefit",
                 "Death Claim — documents required",
@@ -363,7 +438,8 @@
                 "Ex-Gratia payment",
                 "Unclaimed amounts — IRDAI guidelines",
                 "Senior Citizen Redressal — special provisions"
-              ]
+              ],
+              "book_url": "textbooks/payments_under_life_policy.pdf"
             }
           ]
         },
@@ -372,8 +448,12 @@
           "chapters": [
             {
               "id": "introduction_to_health_insurance",
-              "title": "Chapter 17: Introduction to Health Insurance",
-              "topics": ["Healthcare Levels", "ESIS", "TPAs"],
+              "title": "Introduction to Health Insurance",
+              "topics": [
+                "Healthcare Levels",
+                "ESIS",
+                "TPAs"
+              ],
               "detailed_topics": [
                 "What is Healthcare — definition",
                 "Determinants of Health — genetic, lifestyle, environment",
@@ -388,12 +468,17 @@
                 "Pharmaceutical Industry role",
                 "TPAs (Third Party Administrators) — role in market",
                 "Intermediaries in Health Insurance"
-              ]
+              ],
+              "book_url": "textbooks/introduction_to_health_insurance.pdf"
             },
             {
               "id": "health_insurance_documentation",
-              "title": "Chapter 18: Insurance Documentation (Health)",
-              "topics": ["Proposal Form", "Policy Document", "AML"],
+              "title": "Insurance Documentation (Health)",
+              "topics": [
+                "Proposal Form",
+                "Policy Document",
+                "AML"
+              ],
               "detailed_topics": [
                 "Proposal Form for Health Insurance",
                 "Standard Declaration Form",
@@ -410,12 +495,17 @@
                 "Interpretation of Policies",
                 "Renewal Notice — timing & importance",
                 "AML & KYC Guidelines for health insurance"
-              ]
+              ],
+              "book_url": "textbooks/health_insurance_documentation.pdf"
             },
             {
               "id": "health_insurance_products",
-              "title": "Chapter 19: Health Insurance Products",
-              "topics": ["Mediclaim", "Top-up", "Ayushman Bharat"],
+              "title": "Health Insurance Products",
+              "topics": [
+                "Mediclaim",
+                "Top-up",
+                "Ayushman Bharat"
+              ],
               "detailed_topics": [
                 "Classification of Health Insurance Products",
                 "Hospitalization Indemnity Policy (Mediclaim) — features",
@@ -438,12 +528,17 @@
                 "Overseas Travel Insurance — coverages",
                 "Group Health Insurance — employer-employee scheme",
                 "Key Terms in Health Policies — co-pay, deductible, sub-limit, waiting period"
-              ]
+              ],
+              "book_url": "textbooks/health_insurance_products.pdf"
             },
             {
               "id": "health_insurance_underwriting",
-              "title": "Chapter 20: Health Insurance Underwriting",
-              "topics": ["PED", "Exclusions", "Moral Hazard"],
+              "title": "Health Insurance Underwriting",
+              "topics": [
+                "PED",
+                "Exclusions",
+                "Moral Hazard"
+              ],
               "detailed_topics": [
                 "Underwriting — definition & need in health insurance",
                 "Underwriting Basic Concepts",
@@ -458,12 +553,17 @@
                 "Underwriting of Overseas Travel Insurance",
                 "Underwriting of Personal Accident Insurance",
                 "Moral Hazard in Health Insurance"
-              ]
+              ],
+              "book_url": "textbooks/health_insurance_underwriting.pdf"
             },
             {
               "id": "health_insurance_claims",
-              "title": "Chapter 21: Health Insurance Claims",
-              "topics": ["Cashless", "Reimbursement", "Fraud"],
+              "title": "Health Insurance Claims",
+              "topics": [
+                "Cashless",
+                "Reimbursement",
+                "Fraud"
+              ],
               "detailed_topics": [
                 "Claims Management — importance & stakeholders",
                 "Role of Claims Management in Insurance Company",
@@ -479,7 +579,8 @@
                 "Personal Accident Claims — death, permanent disability, partial disability",
                 "Overseas Travel Insurance Claims",
                 "Grievance in Health Claims — escalation process"
-              ]
+              ],
+              "book_url": "textbooks/health_insurance_claims.pdf"
             }
           ]
         }
@@ -493,21 +594,61 @@
         {
           "name": "Section I: Common Module (1-5)",
           "chapters": [
-            { "id": "introduction_to_insurance", "title": "Chapter 1: Introduction to Insurance" },
-            { "id": "customer_service", "title": "Chapter 2: Customer Service" },
-            { "id": "grievance_redressal_mechanism", "title": "Chapter 3: Grievance Redressal Mechanism" },
-            { "id": "regulatory_aspects_of_insurance_agents", "title": "Chapter 4: Regulatory Aspects of Insurance Agents" },
-            { "id": "legal_principles_of_insurance", "title": "Chapter 5: Legal Principles of Insurance" }
+            {
+              "id": "introduction_to_insurance",
+              "title": "Introduction to Insurance",
+              "book_url": "textbooks/introduction_to_insurance.pdf"
+            },
+            {
+              "id": "customer_service",
+              "title": "Customer Service",
+              "book_url": "textbooks/customer_service.pdf"
+            },
+            {
+              "id": "grievance_redressal_mechanism",
+              "title": "Grievance Redressal Mechanism",
+              "book_url": "textbooks/grievance_redressal_mechanism.pdf"
+            },
+            {
+              "id": "regulatory_aspects_of_insurance_agents",
+              "title": "Regulatory Aspects of Insurance Agents",
+              "book_url": "textbooks/regulatory_aspects_of_insurance_agents.pdf"
+            },
+            {
+              "id": "legal_principles_of_insurance",
+              "title": "Legal Principles of Insurance",
+              "book_url": "textbooks/legal_principles_of_insurance.pdf"
+            }
           ]
         },
         {
           "name": "Section II: Health Module (6-10)",
           "chapters": [
-            { "id": "introduction_to_health_insurance", "title": "Chapter 6: Introduction to Health Insurance" },
-            { "id": "health_insurance_documentation", "title": "Chapter 7: Insurance Documentation (Health)" },
-            { "id": "health_insurance_products", "title": "Chapter 8: Health Insurance Products" },
-            { "id": "health_insurance_underwriting", "title": "Chapter 9: Health Insurance Underwriting" },
-            { "id": "health_insurance_claims", "title": "Chapter 10: Health Insurance Claims" }
+            {
+              "id": "introduction_to_health_insurance",
+              "title": "Introduction to Health Insurance",
+              "book_url": "textbooks/introduction_to_health_insurance.pdf"
+            },
+            {
+              "id": "health_insurance_documentation",
+              "title": "Insurance Documentation (Health)",
+              "book_url": "textbooks/health_insurance_documentation.pdf"
+            },
+            {
+              "id": "health_insurance_products",
+              "title": "Health Insurance Products",
+              "book_url": "textbooks/health_insurance_products.pdf"
+            },
+            {
+              "id": "health_insurance_underwriting",
+              "title": "Health Insurance Underwriting",
+              "book_url": "textbooks/health_insurance_underwriting.pdf"
+            },
+            {
+              "id": "health_insurance_claims",
+              "title": "Health Insurance Claims",
+              "book_url": "textbooks/health_insurance_claims.pdf"
+            }
           ]
         },
         {
@@ -515,8 +656,12 @@
           "chapters": [
             {
               "id": "principles_of_general_insurance",
-              "title": "Chapter 11: Principles of Insurance",
-              "topics": ["Risk Classification", "Indemnity", "Subrogation"],
+              "title": "Principles of Insurance",
+              "topics": [
+                "Risk Classification",
+                "Indemnity",
+                "Subrogation"
+              ],
               "detailed_topics": [
                 "Elements of Insurance — definition & exposure to risk",
                 "Degree of Risk Exposure",
@@ -531,12 +676,17 @@
                 "Proximate Cause",
                 "Contribution — when multiple policies exist",
                 "Subrogation — insurer's right after claim"
-              ]
+              ],
+              "book_url": "textbooks/principles_of_general_insurance.pdf"
             },
             {
               "id": "documentation_general",
-              "title": "Chapter 12: Documentation (General)",
-              "topics": ["Proposal", "Cover Note", "Warranties"],
+              "title": "Documentation (General)",
+              "topics": [
+                "Proposal",
+                "Cover Note",
+                "Warranties"
+              ],
               "detailed_topics": [
                 "Proposal Forms — role & importance",
                 "Role of Intermediary in proposal",
@@ -550,12 +700,17 @@
                 "Endorsements — how to make changes",
                 "Interpretation of Policies",
                 "Renewal Notice — 30 days before expiry"
-              ]
+              ],
+              "book_url": "textbooks/documentation_general.pdf"
             },
             {
               "id": "theory_and_practice_of_premium_rating",
-              "title": "Chapter 13: Theory & Practice of Premium Rating",
-              "topics": ["Rating Factors", "Average Clause", "Co-insurance"],
+              "title": "Theory & Practice of Premium Rating",
+              "topics": [
+                "Rating Factors",
+                "Average Clause",
+                "Co-insurance"
+              ],
               "detailed_topics": [
                 "Underwriting Basics — definition & purpose",
                 "Rate Making Basics — how premiums are calculated",
@@ -567,12 +722,17 @@
                 "Sum Insured — how to decide correct sum",
                 "Under-insurance & Average Clause",
                 "Co-insurance — sharing risk between insurers"
-              ]
+              ],
+              "book_url": "textbooks/theory_and_practice_of_premium_rating.pdf"
             },
             {
               "id": "personal_and_retail_insurance",
-              "title": "Chapter 14: Personal & Retail Insurance",
-              "topics": ["Motor", "Householder's", "NCB"],
+              "title": "Personal & Retail Insurance",
+              "topics": [
+                "Motor",
+                "Householder's",
+                "NCB"
+              ],
               "detailed_topics": [
                 "Retail Insurance Products — overview",
                 "Householder's Insurance — coverages & sum insured",
@@ -586,12 +746,17 @@
                 "No Claim Bonus (NCB) — discount on renewal",
                 "Motor Insurance Sum Insured — IDV (Insured Declared Value)",
                 "Personal Accident Cover for owner-driver"
-              ]
+              ],
+              "book_url": "textbooks/personal_and_retail_insurance.pdf"
             },
             {
               "id": "commercial_insurance",
-              "title": "Chapter 15: Commercial Insurance",
-              "topics": ["Fire", "Marine", "Engineering"],
+              "title": "Commercial Insurance",
+              "topics": [
+                "Fire",
+                "Marine",
+                "Engineering"
+              ],
               "detailed_topics": [
                 "Fire Insurance — Standard Fire & Special Perils Policy",
                 "Variants — Market Value vs Reinstatement Value Policy",
@@ -612,12 +777,17 @@
                 "Product Liability Insurance",
                 "Professional Indemnity Insurance",
                 "Employer's Liability — Workmen's Compensation"
-              ]
+              ],
+              "book_url": "textbooks/commercial_insurance.pdf"
             },
             {
               "id": "claims_procedure_general",
-              "title": "Chapter 16: Claims Procedure (General)",
-              "topics": ["Surveyors", "Salvage", "ADR"],
+              "title": "Claims Procedure (General)",
+              "topics": [
+                "Surveyors",
+                "Salvage",
+                "ADR"
+              ],
               "detailed_topics": [
                 "Claims Settlement Process — importance",
                 "Limitation / Notice of Loss — immediate reporting",
@@ -634,7 +804,8 @@
                 "Disputes related to Claims",
                 "Alternate Dispute Resolution (ADR) mechanisms",
                 "Time limits for claim settlement — IRDAI guidelines"
-              ]
+              ],
+              "book_url": "textbooks/claims_procedure_general.pdf"
             }
           ]
         }
