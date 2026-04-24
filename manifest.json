@@ -1,5 +1,5 @@
 {
-  "version": "7.0.6",
+  "version": "7.0.7",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -220,7 +220,8 @@
                 "Tax Benefits — Section 10(10D) (maturity tax free)",
                 "Section 80D — Health Insurance premium deduction"
               ],
-              "book_url": "textbooks/financial_planning.pdf"
+              "book_url": "textbooks/financial_planning.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/financial_planning.json"
             },
             {
               "id": "life_insurance_products_1",
