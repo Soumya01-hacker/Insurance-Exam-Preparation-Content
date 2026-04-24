@@ -1,5 +1,5 @@
 {
-  "version": "7.2.3",
+  "version": "7.2.4",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -631,6 +631,32 @@
               ],
               "book_url": "textbooks/principles_of_general_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_general_insurance.json"
+            },
+            {
+              "id": "documentation_general_insurance",
+              "title": "Chapter 23: Documentation (General Insurance)",
+              "topics": [
+                "Proposal Form",
+                "Cover Note",
+                "Warranties",
+                "Endorsement"
+              ],
+              "detailed_topics": [
+                "Proposal Forms — role & importance",
+                "Role of Intermediary in proposal",
+                "Duty of Intermediary towards client",
+                "Acceptance of the Proposal — cover note",
+                "Premium Receipt",
+                "Cover Notes — temporary cover before policy",
+                "Certificate of Insurance",
+                "Policy Document — structure & contents",
+                "Warranties — express & implied",
+                "Endorsements — how to make changes",
+                "Interpretation of Policies",
+                "Renewal Notice — 30 days before expiry"
+              ],
+              "book_url": "textbooks/documentation_general.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_general_insurance.json"
             }
           ]
         }
@@ -736,7 +762,7 @@
             },
             {
               "id": "documentation_general",
-              "title": "Documentation (General)",
+              "title": "Chapter 23: Documentation (General Insurance)",
               "topics": [
                 "Proposal",
                 "Cover Note",
@@ -756,7 +782,8 @@
                 "Interpretation of Policies",
                 "Renewal Notice — 30 days before expiry"
               ],
-              "book_url": "textbooks/documentation_general.pdf"
+              "book_url": "textbooks/documentation_general.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_general_insurance.json"
             },
             {
               "id": "theory_and_practice_of_premium_rating",
