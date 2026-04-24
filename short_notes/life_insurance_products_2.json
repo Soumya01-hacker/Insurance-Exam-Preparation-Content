@@ -1,0 +1,82 @@
+{
+  "chapterId": "life_insurance_products_2",
+  "title": "Chapter 9: Life Insurance Products – II",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Market-Linked Products",
+          "content": "• Traditional vs Non-Traditional Products\n• Unit Linked Insurance Plans (ULIPs)\n• Net Asset Value (NAV) Calculation\n• Universal Life Insurance Features",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💡 Traditional vs. Non-Traditional",
+      "cards": [
+        {
+          "title": "1. Why Non-Traditional?",
+          "content": "Traditional products are 'bundled' (opaque). Non-traditional products bring Transparency through 'Unbundling'—separating risk cover, expenses, and investment.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📈 ULIPs & NAV",
+      "cards": [
+        {
+          "title": "2. ULIP Core Concepts",
+          "content": "Premiums buy 'Units' in a fund (Equity, Debt, etc.). \nNAV: The price per unit.\nRisk: Investment risk is 100% borne by the POLICYHOLDER.\nLock-in: Mandatory 5 years.",
+          "color": "red"
+        },
+        {
+          "title": "3. Flexibility in ULIPs",
+          "content": "Fund Switching: Move money between Equity & Debt.\nPremium Holiday: Temporary stop in payments if fund value is high enough.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🌍 Universal Life Insurance",
+      "cards": [
+        {
+          "title": "4. Key Features",
+          "content": "Highly flexible. Allows policyholders to change the premium amount and Sum Assured based on their financial life changes.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "ULIP Investment Risk: Borne by the Policyholder.",
+        "Unbundling: Separating protection, savings, and expenses.",
+        "ULIP Value: Depends on the NAV of the units.",
+        "Switching option: Only available in ULIPs."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Who bears the investment risk in a ULIP?",
+          "content": "Answer: The Policyholder.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Advantage of non-traditional products?",
+          "content": "Answer: Complete unbundling and transparency.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}
