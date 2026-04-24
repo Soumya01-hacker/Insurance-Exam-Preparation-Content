@@ -1,5 +1,5 @@
 {
-  "version": "7.1.4",
+  "version": "7.1.5",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -424,7 +424,8 @@
                 "Reinsurance — why and how life insurers use it",
                 "Treaty Reinsurance vs Facultative Reinsurance"
               ],
-              "book_url": "textbooks/underwriting.pdf"
+              "book_url": "textbooks/underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting.json"
             },
             {
               "id": "payments_under_life_policy",
