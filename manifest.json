@@ -1,5 +1,5 @@
 {
-  "version": "7.1.7",
+  "version": "7.1.8",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -461,8 +461,8 @@
           "name": "SECTION 3: HEALTH INSURANCE MODULE (17-21)",
           "chapters": [
             {
-              "id": "introduction_to_health_insurance",
-              "title": "Introduction to Health Insurance",
+              "id": "health_insurance_introduction",
+              "title": "Chapter 17: Introduction to Health Insurance",
               "topics": [
                 "Healthcare Levels",
                 "ESIS",
@@ -483,7 +483,8 @@
                 "TPAs (Third Party Administrators) — role in market",
                 "Intermediaries in Health Insurance"
               ],
-              "book_url": "textbooks/introduction_to_health_insurance.pdf"
+              "book_url": "textbooks/introduction_to_health_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_introduction.json"
             },
             {
               "id": "health_insurance_documentation",
