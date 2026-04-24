@@ -1,5 +1,5 @@
 {
-  "version": "7.0.3",
+  "version": "7.0.4",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -134,7 +134,8 @@
                 "90-day cooling period before joining new insurer",
                 "General conditions — max 1 Life + 1 General + 1 Health insurer"
               ],
-              "book_url": "textbooks/regulatory_aspects_of_insurance_agents.pdf"
+              "book_url": "textbooks/regulatory_aspects_of_insurance_agents.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_of_insurance_agents.json"
             },
             {
               "id": "legal_principles_of_insurance",

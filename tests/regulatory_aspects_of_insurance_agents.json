@@ -1,18 +1,307 @@
 {
-  "chapter_id": "ch_4",
-  "chapter_title": "Chapter 4",
+  "chapter_id": "regulatory_aspects_of_insurance_agents",
+  "chapter_title": "Chapter 4: Regulatory Aspects of Insurance Agents",
+  "pass_marks": 9,
   "questions": [
     {
-      "id": 1,
-      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "id": "ch4_q1",
+      "text": "What is the minimum age required to become an insurance agent in India?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "16 Years",
+        "18 Years",
+        "21 Years",
+        "25 Years"
       ],
-      "correct_answer": 0,
-      "explanation": "Explanation will be updated soon."
+      "correct_index": 1,
+      "explanation": "To apply for an insurance agency license, an individual must have completed 18 years of age (must be a major)."
+    },
+    {
+      "id": "ch4_q2",
+      "text": "What is the minimum educational qualification required to become an insurance agent?",
+      "options": [
+        "8th Pass",
+        "10th Pass (Matriculation)",
+        "12th Pass",
+        "Graduate"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI guidelines, the minimum educational qualification to act as an insurance agent is passing the 10th standard or equivalent examination."
+    },
+    {
+      "id": "ch4_q3",
+      "text": "An insurance agent's license is valid for a period of how many years?",
+      "options": [
+        "1 Year",
+        "3 Years",
+        "5 Years",
+        "Lifetime"
+      ],
+      "correct_index": 1,
+      "explanation": "Once issued, an insurance agent's license remains valid for a period of 3 years. It must be renewed before its expiry."
+    },
+    {
+      "id": "ch4_q4",
+      "text": "Which section of the Insurance Act, 1938 strictly prohibits the offering or accepting of rebates?",
+      "options": [
+        "Section 38",
+        "Section 39",
+        "Section 41",
+        "Section 45"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 41 of the Insurance Act, 1938 strictly prohibits any person from offering or receiving a rebate (a discount or passing on of commission) as an inducement to buy an insurance policy."
+    },
+    {
+      "id": "ch4_q5",
+      "text": "What is the maximum penalty for a person found guilty of offering a rebate under Section 41?",
+      "options": [
+        "Rs. 1 Lakh",
+        "Rs. 5 Lakhs",
+        "Rs. 10 Lakhs",
+        "Imprisonment up to 1 year"
+      ],
+      "correct_index": 2,
+      "explanation": "Any default in complying with the provisions of Section 41 (Prohibition of Rebates) is punishable with a fine which may extend up to Rs. 10 Lakhs."
+    },
+    {
+      "id": "ch4_q6",
+      "text": "Under the IRDAI rules, can a person act as an agent for two different Life Insurance companies simultaneously?",
+      "options": [
+        "Yes, if they get permission from IRDAI",
+        "No, it is strictly prohibited",
+        "Yes, they can represent up to three life insurers",
+        "Yes, but only in different states"
+      ],
+      "correct_index": 1,
+      "explanation": "An agent cannot hold a license for more than one insurer in the SAME category. They cannot work for two life insurers, but they can work for one life and one general insurer (Composite Agent)."
+    },
+    {
+      "id": "ch4_q7",
+      "text": "According to the Code of Conduct, what must an agent do if a prospect asks about the commission the agent will earn?",
+      "options": [
+        "Politely refuse to answer as it is confidential",
+        "Lie about the amount to avoid losing the sale",
+        "Disclose the scale of commission if asked",
+        "Complain to the insurance company"
+      ],
+      "correct_index": 2,
+      "explanation": "As per the IRDAI Code of Conduct, an agent is obligated to disclose the scale of commission in respect of the policy if explicitly asked by the prospect."
+    },
+    {
+      "id": "ch4_q8",
+      "text": "Which of the following acts is considered a violation of the Code of Conduct for an insurance agent?",
+      "options": [
+        "Showing the ID card to the customer",
+        "Explaining the policy terms clearly",
+        "Forcing a customer to terminate an existing policy to buy a new one",
+        "Helping the customer fill out the proposal form"
+      ],
+      "correct_index": 2,
+      "explanation": "Forcing or inducing a prospect to cancel an existing policy within 3 years to buy a new one is an unethical practice known as 'Twisting' or 'Churning' and is strictly prohibited."
+    },
+    {
+      "id": "ch4_q9",
+      "text": "What does a 'Composite Agent' mean?",
+      "options": [
+        "An agent selling mutual funds and insurance",
+        "An agent who acts for one life insurer, one general insurer, and one health insurer",
+        "An agent who only sells group insurance",
+        "An agent representing multiple life insurance companies"
+      ],
+      "correct_index": 1,
+      "explanation": "A Composite Agent is one who holds a license to act as an agent for one life insurer, one general insurer, one standalone health insurer, and one mono-line insurer simultaneously."
+    },
+    {
+      "id": "ch4_q10",
+      "text": "Which of the following is a valid ground for the disqualification of an insurance agent?",
+      "options": [
+        "Not meeting sales targets for one month",
+        "Being of unsound mind",
+        "Having multiple children",
+        "Working part-time as a teacher"
+      ],
+      "correct_index": 1,
+      "explanation": "A person is disqualified from acting as an agent if they are found to be of unsound mind by a competent court, are a minor, or have been convicted of criminal misappropriation or fraud."
+    },
+    {
+      "id": "ch4_q11",
+      "text": "As per the Code of Conduct, what is the agent's responsibility regarding the Prospectus?",
+      "options": [
+        "To keep it hidden from the customer",
+        "To charge money for showing it",
+        "To bring the prospectus to the notice of the prospect and explain it",
+        "To submit it to the police station"
+      ],
+      "correct_index": 2,
+      "explanation": "An agent must bring to the notice of the prospect all the terms, conditions, and benefits mentioned in the Prospectus to ensure transparency."
+    },
+    {
+      "id": "ch4_q12",
+      "text": "If an agent's license is cancelled or suspended, to whom must the agent return their identity card?",
+      "options": [
+        "IRDAI Head Office",
+        "The Designated Official / Insurance Company",
+        "The Police",
+        "The Policyholder"
+      ],
+      "correct_index": 1,
+      "explanation": "If a license is suspended or cancelled, the agent must surrender their appointment letter and identity card to the designated official of the insurance company."
+    },
+    {
+      "id": "ch4_q13",
+      "text": "Can an insurance agent share a part of their commission with the client to finalize a sale?",
+      "options": [
+        "Yes, it is a common business practice",
+        "Yes, but only up to 10%",
+        "No, it is a violation of Section 41 (Rebate)",
+        "Only during festive seasons"
+      ],
+      "correct_index": 2,
+      "explanation": "Sharing commission is explicitly defined as offering a rebate, which is illegal under Section 41 of the Insurance Act."
+    },
+    {
+      "id": "ch4_q14",
+      "text": "What is the agent's duty when helping a customer fill out the proposal form?",
+      "options": [
+        "Fill in the details themselves without asking the customer",
+        "Hide the customer's medical history to ensure the policy is issued",
+        "Explain the questions and ensure all material facts are truthfully disclosed",
+        "Sign the form on behalf of the customer"
+      ],
+      "correct_index": 2,
+      "explanation": "The agent must assist the prospect in filling out the form properly and impress upon them the necessity of complete and truthful disclosure of all material facts."
+    },
+    {
+      "id": "ch4_q15",
+      "text": "Who has the authority to issue an appointment letter to an individual to act as an insurance agent?",
+      "options": [
+        "The Reserve Bank of India",
+        "The State Government",
+        "An Insurer (Insurance Company)",
+        "A senior agent"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the current regulations, an individual is appointed as an agent directly by the Insurer (Insurance Company), which issues them an appointment letter to solicit business."
+    },
+    {
+      "id": "ch4_q16",
+      "text": "Is it mandatory for an agent to show their agency identity card?",
+      "options": [
+        "No, it is optional",
+        "Yes, only to the police",
+        "Yes, on demand by the prospect",
+        "Yes, only at the time of claim settlement"
+      ],
+      "correct_index": 2,
+      "explanation": "The Code of Conduct mandates that an agent must carry their identity card and exhibit it to the prospect on demand."
+    },
+    {
+      "id": "ch4_q17",
+      "text": "Which of the following would NOT disqualify a person from becoming an insurance agent?",
+      "options": [
+        "Conviction for criminal misappropriation",
+        "Being a minor (under 18)",
+        "Not having a high-paying regular job",
+        "Being found guilty of fraud"
+      ],
+      "correct_index": 2,
+      "explanation": "Employment status or wealth is not a criterion for disqualification. Fraud, minority, and criminal convictions are legal disqualifications."
+    },
+    {
+      "id": "ch4_q18",
+      "text": "An agent tells a prospect that the policy will double their money in 3 years, which is factually incorrect. This act violates the Code of Conduct because:",
+      "options": [
+        "The agent is not allowed to talk about money",
+        "The agent made a false promise/misrepresentation",
+        "The time limit should be 5 years",
+        "The agent should have asked the manager first"
+      ],
+      "correct_index": 1,
+      "explanation": "An agent must not make any statements or promises that are false, misleading, or not guaranteed in the actual policy document."
+    },
+    {
+      "id": "ch4_q19",
+      "text": "What action should an agent take if the insurance company rejects a proposal?",
+      "options": [
+        "Fight with the underwriter",
+        "Keep the premium money",
+        "Inform the prospect about the rejection and ensure the premium is refunded",
+        "Secretly apply in another company using the same forms"
+      ],
+      "correct_index": 2,
+      "explanation": "Professional conduct dictates that the agent must promptly inform the client if the risk is declined and facilitate the refund of any deposit paid."
+    },
+    {
+      "id": "ch4_q20",
+      "text": "What is the agent's responsibility regarding a policy's renewal?",
+      "options": [
+        "No responsibility once the sale is made",
+        "To pay the renewal premium from their own pocket",
+        "To advise the policyholder to let the policy lapse and buy a new one",
+        "To render necessary assistance and remind the policyholder to remit renewal premiums"
+      ],
+      "correct_index": 3,
+      "explanation": "An agent's duty extends beyond the initial sale. They must assist the policyholder with services like renewals, nominations, and claims."
+    },
+    {
+      "id": "ch4_q21",
+      "text": "An agent is found guilty of violating the Code of Conduct. Who can suspend or cancel their appointment?",
+      "options": [
+        "The Police",
+        "The Policyholder",
+        "The Designated Official of the Insurer",
+        "The Consumer Court"
+      ],
+      "correct_index": 2,
+      "explanation": "The Designated Official of the Insurance Company who appointed the agent has the authority to suspend or cancel the appointment if a violation is proven."
+    },
+    {
+      "id": "ch4_q22",
+      "text": "According to the Code of Conduct, how should an agent handle their competitors?",
+      "options": [
+        "Criticize their products openly",
+        "Make false statements about competitor's financial stability",
+        "Not interfere with proposals introduced by other agents",
+        "Steal their clients by offering rebates"
+      ],
+      "correct_index": 2,
+      "explanation": "An agent must maintain healthy competition. They are strictly prohibited from interfering with proposals brought in by other agents or badmouthing competitors."
+    },
+    {
+      "id": "ch4_q23",
+      "text": "If an agent collects a premium from a customer in cash, what is their immediate duty?",
+      "options": [
+        "Deposit it in their personal bank account",
+        "Keep it safely at home for a week",
+        "Remit it to the insurance company immediately without any delay",
+        "Use it to pay for office expenses"
+      ],
+      "correct_index": 2,
+      "explanation": "Any premium collected by an agent is held in 'Trust' and must be remitted to the insurance company immediately without any unauthorized delay."
+    },
+    {
+      "id": "ch4_q24",
+      "text": "When can an agent demand their commission?",
+      "options": [
+        "Before filling the proposal form",
+        "From the customer directly",
+        "From the insurer only after the policy is successfully issued",
+        "When the customer goes for a medical test"
+      ],
+      "correct_index": 2,
+      "explanation": "Commission is paid by the insurance company to the agent, and it becomes payable only after the proposal is accepted and the policy is issued."
+    },
+    {
+      "id": "ch4_q25",
+      "text": "What is the primary objective of IRDAI imposing a strict Code of Conduct on agents?",
+      "options": [
+        "To limit the number of agents in the market",
+        "To ensure agents earn less money",
+        "To protect the interests of policyholders and maintain professional standards",
+        "To make the exam more difficult"
+      ],
+      "correct_index": 2,
+      "explanation": "The entire regulatory framework and Code of Conduct are designed primarily to protect the policyholders from mis-selling and to ensure high ethical standards in the industry."
     }
   ]
 }
