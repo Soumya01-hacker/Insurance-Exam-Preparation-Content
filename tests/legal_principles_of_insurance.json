@@ -1,18 +1,307 @@
 {
-  "chapter_id": "ch_5",
-  "chapter_title": "Chapter 5",
+  "chapter_id": "legal_principles_of_insurance",
+  "chapter_title": "Chapter 5: Legal Principles of an Insurance Contract",
+  "pass_marks": 9,
   "questions": [
     {
-      "id": 1,
-      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "id": "ch5_q1",
+      "text": "The Latin term 'Uberrima Fides' means:",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Buyer Beware",
+        "Utmost Good Faith",
+        "Insurable Interest",
+        "Proximate Cause"
       ],
-      "correct_answer": 0,
-      "explanation": "Explanation will be updated soon."
+      "correct_index": 1,
+      "explanation": "'Uberrima Fides' translates to 'Utmost Good Faith'. It is the foundational principle of all insurance contracts, requiring both parties to be completely honest."
+    },
+    {
+      "id": "ch5_q2",
+      "text": "Which of the following principles ensures that a person cannot insure a stranger's life or property?",
+      "options": [
+        "Principle of Indemnity",
+        "Principle of Contribution",
+        "Principle of Insurable Interest",
+        "Principle of Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurable Interest means you must suffer a direct financial loss if the insured person dies or the property is destroyed. Without it, you cannot insure a stranger."
+    },
+    {
+      "id": "ch5_q3",
+      "text": "In Life Insurance, when must 'Insurable Interest' exist?",
+      "options": [
+        "Only at the time of claim/death",
+        "Only at the time of taking the policy (inception)",
+        "Both at the time of taking the policy and at the time of death",
+        "It is not required in life insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Crucial Exam Rule: In Life Insurance, insurable interest must exist ONLY at the time of taking the policy. It is not legally required to exist at the time of death (e.g., a divorced couple where the policy was taken during marriage)."
+    },
+    {
+      "id": "ch5_q4",
+      "text": "In Marine Insurance, when must 'Insurable Interest' exist?",
+      "options": [
+        "Only at the time of taking the policy",
+        "Only at the time of the loss",
+        "Both at inception and at the time of loss",
+        "Only at the time of premium payment"
+      ],
+      "correct_index": 1,
+      "explanation": "In Marine Insurance, insurable interest must exist at the time the loss occurs. The goods may be bought and sold while in transit."
+    },
+    {
+      "id": "ch5_q5",
+      "text": "In Fire Insurance, when must 'Insurable Interest' exist?",
+      "options": [
+        "Only at the time of taking the policy",
+        "Only at the time of the loss",
+        "Both at the time of taking the policy AND at the time of loss",
+        "It is not required"
+      ],
+      "correct_index": 2,
+      "explanation": "In Fire/General Insurance, you must own or have a financial interest in the property BOTH when you buy the policy and when the fire occurs."
+    },
+    {
+      "id": "ch5_q6",
+      "text": "What is a 'Material Fact' in an insurance contract?",
+      "options": [
+        "Any fact that the agent asks about",
+        "A fact that would influence the insurer's decision to accept the risk or set the premium",
+        "A fact related to the physical material of the property",
+        "A fact that is available on public records"
+      ],
+      "correct_index": 1,
+      "explanation": "A material fact is any crucial piece of information (like a pre-existing heart condition) that would help the underwriter decide whether to accept the risk and at what price."
+    },
+    {
+      "id": "ch5_q7",
+      "text": "The principle of 'Indemnity' means:",
+      "options": [
+        "To make a profit from an insurance claim",
+        "To compensate the insured and restore them to the same financial position as before the loss",
+        "To pay the maximum sum assured regardless of the loss",
+        "To punish the person who caused the accident"
+      ],
+      "correct_index": 1,
+      "explanation": "Indemnity ensures the insured does not make a profit out of a loss. They are only compensated for the actual financial loss suffered."
+    },
+    {
+      "id": "ch5_q8",
+      "text": "Which of the following types of insurance does NOT strictly follow the Principle of Indemnity?",
+      "options": [
+        "Fire Insurance",
+        "Marine Insurance",
+        "Motor Insurance",
+        "Life Insurance and Personal Accident Insurance"
+      ],
+      "correct_index": 3,
+      "explanation": "Life and Personal Accident insurance are exceptions to Indemnity because human life cannot be valued in money. The insurer pays a fixed pre-agreed amount (Sum Assured)."
+    },
+    {
+      "id": "ch5_q9",
+      "text": "If a person hides a pre-existing illness like Diabetes while filling the life insurance proposal form, it is a breach of:",
+      "options": [
+        "Principle of Subrogation",
+        "Principle of Utmost Good Faith",
+        "Principle of Indemnity",
+        "Principle of Contribution"
+      ],
+      "correct_index": 1,
+      "explanation": "Hiding or misrepresenting material medical facts is called non-disclosure, which is a direct violation of the Principle of Utmost Good Faith."
+    },
+    {
+      "id": "ch5_q10",
+      "text": "Which principle allows the insurance company to step into the shoes of the insured to recover the claim amount from a guilty third party?",
+      "options": [
+        "Insurable Interest",
+        "Subrogation",
+        "Contribution",
+        "Proximate Cause"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation is the transfer of rights. After paying the claim, the insurer gets the legal right to sue the third party who actually caused the accident."
+    },
+    {
+      "id": "ch5_q11",
+      "text": "The principle of Subrogation does NOT apply to:",
+      "options": [
+        "Motor Insurance",
+        "Fire Insurance",
+        "Life Insurance",
+        "Burglary Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Since Subrogation is a corollary (sub-part) of Indemnity, and Indemnity does not apply to Life Insurance, Subrogation also does not apply to Life Insurance."
+    },
+    {
+      "id": "ch5_q12",
+      "text": "If a factory owner takes two fire insurance policies from two different companies for the same factory, which principle prevents him from claiming the full amount from both companies and making a double profit?",
+      "options": [
+        "Proximate Cause",
+        "Insurable Interest",
+        "Contribution",
+        "Utmost Good Faith"
+      ],
+      "correct_index": 2,
+      "explanation": "The Principle of Contribution ensures that if there are multiple policies, all insurers will share the actual loss proportionately. The insured cannot claim more than the actual loss."
+    },
+    {
+      "id": "ch5_q13",
+      "text": "What does 'Causa Proxima' or Proximate Cause mean?",
+      "options": [
+        "The most distant cause of a loss",
+        "The active, efficient, and direct cause that sets in motion a chain of events leading to the loss",
+        "A cause that is completely unrelated to the accident",
+        "The cause determined by the police"
+      ],
+      "correct_index": 1,
+      "explanation": "When there are multiple causes for a loss, the insurer looks for the Proximate Cause (the most direct, dominant, and effective cause) to see if it is covered under the policy."
+    },
+    {
+      "id": "ch5_q14",
+      "text": "An individual has an 'unlimited' insurable interest in whose life?",
+      "options": [
+        "Their employer's life",
+        "Their neighbor's life",
+        "Their own life and their spouse's life",
+        "Their friend's life"
+      ],
+      "correct_index": 2,
+      "explanation": "By law, a person is assumed to have an unlimited insurable interest in their own life and in the life of their legally wedded spouse."
+    },
+    {
+      "id": "ch5_q15",
+      "text": "Does a creditor (lender) have an insurable interest in the life of a debtor (borrower)?",
+      "options": [
+        "No, there is no blood relationship",
+        "Yes, but only up to the extent of the outstanding loan amount",
+        "Yes, for an unlimited amount",
+        "Only if the debtor agrees in writing"
+      ],
+      "correct_index": 1,
+      "explanation": "A creditor has a financial interest in the debtor staying alive to repay the loan. Therefore, they have an insurable interest, but only up to the amount of the debt."
+    },
+    {
+      "id": "ch5_q16",
+      "text": "An insurance contract entered into without 'Insurable Interest' is considered legally:",
+      "options": [
+        "Valid but contestable",
+        "A wagering (gambling) contract and is null and void",
+        "Valid if the premium is paid",
+        "Valid if IRDAI approves"
+      ],
+      "correct_index": 1,
+      "explanation": "Without insurable interest, taking an insurance policy is legally considered gambling (a wagering contract) and is completely void in the eyes of the law."
+    },
+    {
+      "id": "ch5_q17",
+      "text": "The duty to disclose material facts under the principle of Utmost Good Faith applies to:",
+      "options": [
+        "Only the proposer (insured)",
+        "Only the insurance company (insurer)",
+        "Both the proposer and the insurance company",
+        "Only the insurance agent"
+      ],
+      "correct_index": 2,
+      "explanation": "Utmost Good Faith is a mutual duty. The proposer must disclose all medical/personal facts, and the insurer must transparently disclose all policy terms and conditions."
+    },
+    {
+      "id": "ch5_q18",
+      "text": "Which of the following facts is NOT required to be disclosed by the proposer?",
+      "options": [
+        "A recent heart surgery",
+        "Facts that are common knowledge or matters of public law",
+        "A hazardous occupation (like mining)",
+        "A history of smoking"
+      ],
+      "correct_index": 1,
+      "explanation": "A proposer is not required to disclose facts that lessen the risk, facts that the insurer is expected to know (common knowledge), or matters of law."
+    },
+    {
+      "id": "ch5_q19",
+      "text": "A life insurance policy was taken by a husband on his wife. Later they got divorced, and the wife passed away. Will the death claim be payable to the ex-husband?",
+      "options": [
+        "No, because the insurable interest was lost after divorce",
+        "Yes, because in life insurance, insurable interest is only required at the time of taking the policy",
+        "Only if they had children",
+        "The premium will be refunded, but no claim paid"
+      ],
+      "correct_index": 1,
+      "explanation": "In life insurance, insurable interest must exist at inception. The subsequent loss of insurable interest (due to divorce) does not invalidate a previously valid policy."
+    },
+    {
+      "id": "ch5_q20",
+      "text": "Subrogation and Contribution are corollaries (extensions) of which main legal principle?",
+      "options": [
+        "Insurable Interest",
+        "Utmost Good Faith",
+        "Proximate Cause",
+        "Indemnity"
+      ],
+      "correct_index": 3,
+      "explanation": "Both Subrogation and Contribution exist specifically to support the Principle of Indemnity, ensuring that the insured does not make a profit from multiple sources."
+    },
+    {
+      "id": "ch5_q21",
+      "text": "An employer taking a 'Keyman Insurance' policy on their top performing manager is an example of which principle?",
+      "options": [
+        "Subrogation",
+        "Proximate Cause",
+        "Insurable Interest",
+        "Utmost Good Faith"
+      ],
+      "correct_index": 2,
+      "explanation": "The employer has a direct financial interest in the life of the key manager because their death would cause a financial loss to the business. This creates an Insurable Interest."
+    },
+    {
+      "id": "ch5_q22",
+      "text": "In case of a breach of Utmost Good Faith by the policyholder, the insurance contract becomes:",
+      "options": [
+        "Voidable at the option of the insurer",
+        "Valid but with a penalty fee",
+        "Automatically transferred to another company",
+        "Converted into a free policy"
+      ],
+      "correct_index": 0,
+      "explanation": "If a material fact is concealed, the contract becomes 'voidable'. The insurance company has the legal right to cancel the policy and reject claims."
+    },
+    {
+      "id": "ch5_q23",
+      "text": "Which of the following best describes 'Concealment' in insurance?",
+      "options": [
+        "Telling a lie intentionally",
+        "Failing to volunteer a material fact that ought to be disclosed",
+        "Making a mistake in the address",
+        "Paying the premium late"
+      ],
+      "correct_index": 1,
+      "explanation": "Concealment is the passive failure to reveal a material fact, even if a direct question wasn't asked. It is a breach of utmost good faith."
+    },
+    {
+      "id": "ch5_q24",
+      "text": "A house is insured against fire. It is damaged by water used by firefighters to extinguish a fire in the neighboring house. What is the proximate cause of the water damage?",
+      "options": [
+        "Water",
+        "The Firemen",
+        "Fire",
+        "The Neighbor"
+      ],
+      "correct_index": 2,
+      "explanation": "The fire was the direct, active, and efficient cause that set the chain of events into motion (calling firemen -> spraying water). Therefore, Fire is the proximate cause, and the claim is payable."
+    },
+    {
+      "id": "ch5_q25",
+      "text": "The concept that 'Insurance is not a contract to make money, but a contract to make good the financial loss' best defines:",
+      "options": [
+        "Contribution",
+        "Indemnity",
+        "Subrogation",
+        "Causa Proxima"
+      ],
+      "correct_index": 1,
+      "explanation": "The core purpose of Indemnity is to put the insured back in the same financial position they were in just before the loss, preventing any financial gain."
     }
   ]
 }

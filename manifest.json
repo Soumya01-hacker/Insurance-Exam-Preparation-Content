@@ -1,5 +1,5 @@
 {
-  "version": "7.0.4",
+  "version": "7.0.5",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -167,7 +167,8 @@
                 "Subrogation — insurer steps into insured's shoes",
                 "Contribution — multiple policies proportional sharing"
               ],
-              "book_url": "textbooks/legal_principles_of_insurance.pdf"
+              "book_url": "textbooks/legal_principles_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/legal_principles_of_insurance.json"
             }
           ]
         },
