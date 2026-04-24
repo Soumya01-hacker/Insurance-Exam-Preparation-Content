@@ -1,5 +1,5 @@
 {
-  "version": "7.2.6",
+  "version": "7.2.7",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 24,
+      "total_chapters": 25,
       "sections": [
         {
           "name": "SECTION 1: COMMON CHAPTERS (1-5)",
@@ -681,6 +681,32 @@
               ],
               "book_url": "textbooks/theory_and_practice_of_premium_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/theory_and_practice_of_premium_rating.json"
+            },
+            {
+              "id": "personal_retail_insurance",
+              "title": "Chapter 25: Personal and Retail Insurance",
+              "topics": [
+                "Motor Insurance",
+                "Personal Accident",
+                "Householders",
+                "IDV"
+              ],
+              "detailed_topics": [
+                "Retail Insurance Products — overview",
+                "Householder's Insurance — coverages & sum insured",
+                "Shopkeeper's Insurance — coverages",
+                "Motor Insurance — types of covers",
+                "Own Damage (OD) Cover — what it covers",
+                "Third Party Liability — mandatory by law",
+                "Third Party Property Damage — Motor Vehicles Act",
+                "Motor Insurance Exclusions",
+                "Comprehensive vs Third Party Only policy",
+                "No Claim Bonus (NCB) — discount on renewal",
+                "Motor Insurance Sum Insured — IDV (Insured Declared Value)",
+                "Personal Accident Cover for owner-driver"
+              ],
+              "book_url": "textbooks/personal_and_retail_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
             }
           ]
         }
@@ -834,7 +860,7 @@
             },
             {
               "id": "personal_and_retail_insurance",
-              "title": "Personal & Retail Insurance",
+              "title": "Chapter 25: Personal and Retail Insurance",
               "topics": [
                 "Motor",
                 "Householder's",
@@ -854,7 +880,8 @@
                 "Motor Insurance Sum Insured — IDV (Insured Declared Value)",
                 "Personal Accident Cover for owner-driver"
               ],
-              "book_url": "textbooks/personal_and_retail_insurance.pdf"
+              "book_url": "textbooks/personal_and_retail_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
             },
             {
               "id": "commercial_insurance",
