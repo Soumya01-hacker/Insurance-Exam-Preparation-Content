@@ -1,5 +1,5 @@
 {
-  "version": "7.2.9",
+  "version": "7.3.0",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 26,
+      "total_chapters": 27,
       "sections": [
         {
           "name": "SECTION 1: COMMON CHAPTERS (1-5)",
@@ -740,6 +740,35 @@
               ],
               "book_url": "textbooks/commercial_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
+            },
+            {
+              "id": "claims_procedure_general_insurance",
+              "title": "Chapter 27: Claims Procedure (General Insurance)",
+              "topics": [
+                "Surveyors",
+                "Salvage",
+                "Arbitration",
+                "TPA"
+              ],
+              "detailed_topics": [
+                "Claims Settlement Process — importance",
+                "Limitation / Notice of Loss — immediate reporting",
+                "Investigation & Assessment process",
+                "Surveyors & Loss Assessors — IRDAI licensing",
+                "Claim Forms — what is required",
+                "Loss Assessment & Claim Settlement",
+                "Important aspects in insurance claims",
+                "Categories of Claim — partial loss, total loss",
+                "Discharge Voucher — full & final settlement",
+                "Post Settlement Action",
+                "Salvage — insurer's right after total loss claim",
+                "Recoveries — subrogation recovery",
+                "Disputes related to Claims",
+                "Alternate Dispute Resolution (ADR) mechanisms",
+                "Time limits for claim settlement — IRDAI guidelines"
+              ],
+              "book_url": "textbooks/claims_procedure_general.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_procedure_general_insurance.json"
             }
           ]
         }
@@ -950,7 +979,7 @@
             },
             {
               "id": "claims_procedure_general",
-              "title": "Claims Procedure (General)",
+              "title": "Chapter 27: Claims Procedure (General Insurance)",
               "topics": [
                 "Surveyors",
                 "Salvage",
@@ -967,13 +996,14 @@
                 "Categories of Claim — partial loss, total loss",
                 "Discharge Voucher — full & final settlement",
                 "Post Settlement Action",
-                "Salvage — insurer's rights after total loss claim",
+                "Salvage — insurer's right after total loss claim",
                 "Recoveries — subrogation recovery",
                 "Disputes related to Claims",
                 "Alternate Dispute Resolution (ADR) mechanisms",
                 "Time limits for claim settlement — IRDAI guidelines"
               ],
-              "book_url": "textbooks/claims_procedure_general.pdf"
+              "book_url": "textbooks/claims_procedure_general.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_procedure_general_insurance.json"
             }
           ]
         }
