@@ -1,0 +1,54 @@
+{
+  "chapterId": "regulatory_aspects_of_insurance_agents",
+  "title": "Chapter 4: Regulatory Aspects of Insurance Agents",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "High Weightage Areas",
+          "content": "• Prerequisites and Validity of License\n• Section 41 (Prohibition of Rebates)\n• IRDAI Code of Conduct\n• Conditions for Disqualification",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Key Short Notes",
+      "cards": [
+        {
+          "title": "1. Agency License Rules",
+          "content": "Age: Min 18 years.\nQualification: Min 10th standard.\nValidity: 3 Years.\nComposite Agent: Can hold 1 Life, 1 General, 1 Health, and 1 Mono-line license simultaneously, but NOT two of the same category.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Code of Conduct (Do's and Don'ts)",
+          "content": "• Must show ID card and disclose commission if asked.\n• Churning/Twisting: Forcing customer to end policy to buy new one (Strictly Prohibited).\n• Material Facts: Agents must ensure 100% accurate disclosure.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Section 41: Prohibition of Rebates",
+          "content": "Most Important! Prohibits offering or taking discounts (rebates) to induce a purchase.\nPenalty: Fine up to Rs. 10 Lakhs.",
+          "color": "red"
+        },
+        {
+          "title": "4. Disqualification",
+          "content": "Disqualified if: Minor, Unsound mind, guilty of fraud, or breach of trust. License can be suspended or cancelled for code violations.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "License Validity: 3 Years.",
+        "Anti-Rebate Section: Section 41 of Insurance Act, 1938.",
+        "Max Rebate Penalty: Rs. 10 Lakhs.",
+        "Wait period for policy replacement (Churning): 3 Years."
+      ]
+    }
+  ]
+}
