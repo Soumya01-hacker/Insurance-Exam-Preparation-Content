@@ -1,5 +1,5 @@
 {
-  "version": "7.0.8",
+  "version": "7.0.9",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -271,7 +271,8 @@
                 "Waiver of Premium Rider",
                 "Disability Benefit Rider"
               ],
-              "book_url": "textbooks/life_insurance_products_2.pdf"
+              "book_url": "textbooks/life_insurance_products_2.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_2.json"
             },
             {
               "id": "applications_of_life_insurance",
