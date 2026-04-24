@@ -1,5 +1,5 @@
 {
-  "version": "7.0.9",
+  "version": "7.1.0",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -293,7 +293,8 @@
                 "HUF (Hindu Undivided Family) insurance applications",
                 "NRI Life Insurance — special features"
               ],
-              "book_url": "textbooks/applications_of_life_insurance.pdf"
+              "book_url": "textbooks/applications_of_life_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json"
             },
             {
               "id": "pricing_and_valuation",
