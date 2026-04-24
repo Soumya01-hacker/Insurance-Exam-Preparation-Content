@@ -1,5 +1,5 @@
 {
-  "version": "7.1.8",
+  "version": "7.1.9",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -515,7 +515,7 @@
             },
             {
               "id": "health_insurance_products",
-              "title": "Health Insurance Products",
+              "title": "Chapter 19: Health Insurance Products",
               "topics": [
                 "Mediclaim",
                 "Top-up",
@@ -544,7 +544,8 @@
                 "Group Health Insurance — employer-employee scheme",
                 "Key Terms in Health Policies — co-pay, deductible, sub-limit, waiting period"
               ],
-              "book_url": "textbooks/health_insurance_products.pdf"
+              "book_url": "textbooks/health_insurance_products.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
