@@ -1,5 +1,5 @@
 {
-  "version": "7.0.5",
+  "version": "7.0.6",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -196,7 +196,8 @@
                 "Free Look Period — 15 days",
                 "Duplicate Policy issuance"
               ],
-              "book_url": "textbooks/what_life_insurance_involves.pdf"
+              "book_url": "textbooks/what_life_insurance_involves.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/what_life_insurance_involves.json"
             },
             {
               "id": "financial_planning",
