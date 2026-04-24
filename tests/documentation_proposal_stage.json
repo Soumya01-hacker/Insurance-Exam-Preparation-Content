@@ -1,18 +1,307 @@
 {
-  "chapter_id": "ch_12",
-  "chapter_title": "Chapter 12",
+  "chapter_id": "documentation_proposal_stage",
+  "chapter_title": "Chapter 12: Documentation – Proposal Stage",
+  "pass_marks": 9,
   "questions": [
     {
-      "id": 1,
-      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "id": "ch12_q1",
+      "text": "In legal terms, the 'Prospectus' issued by a life insurance company is considered as:",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A legally binding contract",
+        "An invitation to treat (invitation to offer)",
+        "The final policy document",
+        "A valid age proof"
       ],
-      "correct_answer": 0,
-      "explanation": "Explanation will be updated soon."
+      "correct_index": 1,
+      "explanation": "A prospectus is an informational document detailing the product. Legally, it is not an offer itself, but an 'invitation to treat', prompting the customer to make an offer by filling the proposal form."
+    },
+    {
+      "id": "ch12_q2",
+      "text": "Which document is universally considered the primary 'Base' or foundation of the life insurance contract?",
+      "options": [
+        "Medical Examiner's Report",
+        "Agent's Confidential Report",
+        "The Proposal Form",
+        "The Premium Cheque"
+      ],
+      "correct_index": 2,
+      "explanation": "The Proposal Form is the primary document where the customer provides all material facts. It forms the foundation upon which the insurance contract is built."
+    },
+    {
+      "id": "ch12_q3",
+      "text": "The principle of 'Utmost Good Faith' strictly applies to the filling of which document?",
+      "options": [
+        "Proposal Form",
+        "First Premium Receipt (FPR)",
+        "Policy Schedule",
+        "Discharge Voucher"
+      ],
+      "correct_index": 0,
+      "explanation": "Since the insurer assesses the risk based on the customer's declarations, the proposer must follow 'Utmost Good Faith' and disclose all true material facts in the Proposal Form."
+    },
+    {
+      "id": "ch12_q4",
+      "text": "In which scenario is a physical 'Medical Examiner's Report' usually made mandatory by the insurance company?",
+      "options": [
+        "When the proposer is a minor child",
+        "When the policy is for a very low sum assured",
+        "For all term insurance plans without exception",
+        "When the proposer is of a high age or requests a high Sum Assured"
+      ],
+      "correct_index": 3,
+      "explanation": "Companies usually waive medical tests for young people and low sum assured. However, high age and high coverage amounts represent higher risk, making a medical checkup mandatory."
+    },
+    {
+      "id": "ch12_q5",
+      "text": "Who is responsible for preparing and submitting the 'Moral Hazard Report' (MHR) to the insurance company?",
+      "options": [
+        "The Policyholder",
+        "The Insurance Agent / Official",
+        "The Panel Doctor",
+        "IRDAI Representative"
+      ],
+      "correct_index": 1,
+      "explanation": "The Moral Hazard Report is a confidential report prepared by the agent. Since the agent meets the prospect face-to-face, they must report on the prospect's lifestyle, habits, and financial status."
+    },
+    {
+      "id": "ch12_q6",
+      "text": "Which of the following is classified as a 'Standard Age Proof'?",
+      "options": [
+        "Valid Passport",
+        "Village Panchayat Certificate",
+        "Horoscope",
+        "Self-declaration affidavit"
+      ],
+      "correct_index": 0,
+      "explanation": "Standard Age Proofs are reliable documents issued by public authorities, such as a Passport, School Leaving Certificate, or Birth Certificate."
+    },
+    {
+      "id": "ch12_q7",
+      "text": "Which of the following documents is considered a 'Non-Standard Age Proof' by insurance companies?",
+      "options": [
+        "PAN Card",
+        "Baptism Certificate",
+        "Horoscope",
+        "Driving License"
+      ],
+      "correct_index": 2,
+      "explanation": "Non-Standard Age Proofs are less reliable. A horoscope is not issued by a statutory authority and is therefore considered non-standard."
+    },
+    {
+      "id": "ch12_q8",
+      "text": "What action does an insurance company typically take if a customer submits a 'Non-Standard' age proof?",
+      "options": [
+        "They completely reject the proposal",
+        "They issue the policy for free",
+        "They double the Sum Assured",
+        "They charge an extra premium (loading) to cover the uncertain risk"
+      ],
+      "correct_index": 3,
+      "explanation": "Because a non-standard age proof is less reliable, the true age (and thus true risk) is uncertain. Insurers mitigate this risk by charging a slightly higher premium (loading)."
+    },
+    {
+      "id": "ch12_q9",
+      "text": "What is the full form of AML in the context of financial and insurance regulations?",
+      "options": [
+        "Anti-Money Laundering",
+        "Agency Management Liability",
+        "Asset Management Level",
+        "Annual Maturity Life"
+      ],
+      "correct_index": 0,
+      "explanation": "AML stands for Anti-Money Laundering. Insurance companies strictly follow AML laws to ensure their policies are not used to convert illegal black money into legal white money."
+    },
+    {
+      "id": "ch12_q10",
+      "text": "KYC (Know Your Customer) guidelines basically require the insurance company to verify two main things about the customer. What are they?",
+      "options": [
+        "Medical health and Bank balance",
+        "Employment history and Number of children",
+        "Proof of Identity and Proof of Address",
+        "Caste and Religion"
+      ],
+      "correct_index": 2,
+      "explanation": "The core of the KYC process is to definitively establish who the person is (Identity proof like PAN) and where they live (Address proof like an Electricity Bill)."
+    },
+    {
+      "id": "ch12_q11",
+      "text": "The official receipt issued by the insurance company when the underwriter accepts the risk and the first payment is cleared is called:",
+      "options": [
+        "Renewal Premium Receipt (RPR)",
+        "First Premium Receipt (FPR)",
+        "Cover Note",
+        "Proposal Acknowledgment"
+      ],
+      "correct_index": 1,
+      "explanation": "FPR stands for First Premium Receipt. It is the first official document confirming the company has accepted the premium and the risk."
+    },
+    {
+      "id": "ch12_q12",
+      "text": "Which document acts as the conclusive legal evidence that the life insurance contract has officially commenced?",
+      "options": [
+        "The Medical Report",
+        "The Prospectus",
+        "The Proposal Form",
+        "The First Premium Receipt (FPR)"
+      ],
+      "correct_index": 3,
+      "explanation": "The issuance of the FPR is the legal milestone that proves the insurance company has officially accepted the offer and the risk coverage has started."
+    },
+    {
+      "id": "ch12_q13",
+      "text": "Receipts issued for subsequent premium payments made after the first premium are known as:",
+      "options": [
+        "Renewal Premium Receipts (RPR)",
+        "Secondary Premium Receipts",
+        "Discharge Vouchers",
+        "Endorsements"
+      ],
+      "correct_index": 0,
+      "explanation": "Once the FPR is issued for the first payment, all future premium payment acknowledgments are called Renewal Premium Receipts (RPR)."
+    },
+    {
+      "id": "ch12_q14",
+      "text": "What is the legal importance of possessing a valid Renewal Premium Receipt (RPR)?",
+      "options": [
+        "It allows the policyholder to change the nominee.",
+        "It acts as a substitute for a missing policy document.",
+        "It serves as proof that the policy is currently active and has not lapsed.",
+        "It guarantees a loan from the bank."
+      ],
+      "correct_index": 2,
+      "explanation": "An RPR proves that the policyholder has paid the ongoing premium on time, keeping the policy in active (in-force) status."
+    },
+    {
+      "id": "ch12_q15",
+      "text": "The 'Free Look Period' starts from the date of receipt of which document?",
+      "options": [
+        "The Proposal Form",
+        "The Policy Document",
+        "The First Premium Receipt",
+        "The Medical Report"
+      ],
+      "correct_index": 1,
+      "explanation": "The 15-day Free Look Period gives the customer a chance to review the terms. It starts exactly from the day the customer receives the physical or electronic Policy Document."
+    },
+    {
+      "id": "ch12_q16",
+      "text": "If an insurance agent fills out the proposal form on behalf of an illiterate or uneducated prospect, what additional requirement must be fulfilled?",
+      "options": [
+        "The agent must pay the first premium.",
+        "The agent must take the prospect to a government office.",
+        "The policy must be issued as a non-medical plan.",
+        "The agent must provide a declaration stating that the contents of the form were fully explained to the prospect."
+      ],
+      "correct_index": 3,
+      "explanation": "To prevent fraud, if the prospect cannot read, the person filling the form (usually the agent) must formally declare that they truthfully explained all the questions to the prospect."
+    },
+    {
+      "id": "ch12_q17",
+      "text": "Which of the following is the final formal document that contains all the exact terms, conditions, and privileges of the insurance contract?",
+      "options": [
+        "The Policy Document",
+        "The First Premium Receipt",
+        "The Proposal Form",
+        "The KYC Form"
+      ],
+      "correct_index": 0,
+      "explanation": "While the FPR proves the contract has started, the Policy Document is the detailed, stamped legal contract containing all the rules, conditions, and benefits."
+    },
+    {
+      "id": "ch12_q18",
+      "text": "An employer's certificate of age is generally considered by insurance companies as:",
+      "options": [
+        "Completely invalid",
+        "A Non-Standard Age Proof",
+        "A Standard Age Proof",
+        "Only valid for medical policies"
+      ],
+      "correct_index": 2,
+      "explanation": "A certificate issued by a reputed employer (like government departments or large public/private limited companies) is accepted as a Standard Age Proof."
+    },
+    {
+      "id": "ch12_q19",
+      "text": "If a prospect submits a Ration Card as an age proof, the underwriter will classify it as:",
+      "options": [
+        "Standard Age Proof",
+        "Financial Proof",
+        "KYC Identity Proof",
+        "Non-Standard Age Proof"
+      ],
+      "correct_index": 3,
+      "explanation": "A Ration Card is primarily for subsidized food distribution and its age records are often inaccurate. Hence, life insurers treat it as a Non-Standard age proof."
+    },
+    {
+      "id": "ch12_q20",
+      "text": "Before the FPR is issued, if the customer gives a cheque along with the proposal form, the temporary receipt issued for this cheque is called:",
+      "options": [
+        "Cover Note",
+        "Deposit Receipt / Suspense Receipt",
+        "Renewal Receipt",
+        "Discharge Voucher"
+      ],
+      "correct_index": 1,
+      "explanation": "Before the underwriter accepts the risk, the money collected is kept in a suspense account. A 'Deposit Receipt' is issued, which does NOT mean the risk has started. Once accepted, an FPR replaces it."
+    },
+    {
+      "id": "ch12_q21",
+      "text": "Which part of the underwriting process ensures that the prospect's lifestyle and income match the requested Sum Assured?",
+      "options": [
+        "Agent's Moral Hazard Report",
+        "Medical Examiner's Report",
+        "Claim Investigation",
+        "Age Proof verification"
+      ],
+      "correct_index": 0,
+      "explanation": "The Moral Hazard Report ensures the customer is not taking a suspiciously large cover beyond their financial capacity, thus preventing potential fraud."
+    },
+    {
+      "id": "ch12_q22",
+      "text": "Under the Anti-Money Laundering (AML) guidelines, which transactions are strictly monitored by the insurance company?",
+      "options": [
+        "Online ECS premium payments",
+        "Cheque payments from salary accounts",
+        "Large cash transactions or suspicious frequent premium payments",
+        "Policy surrender after 20 years"
+      ],
+      "correct_index": 2,
+      "explanation": "AML teams closely monitor large cash deposits or unusual behavior (like paying massive premiums in cash or surrendering high-value policies instantly) to trace illegal money."
+    },
+    {
+      "id": "ch12_q23",
+      "text": "If a medical examination is required during the proposal stage, who normally conducts it?",
+      "options": [
+        "Any local chemist",
+        "The prospect's personal family doctor",
+        "The Insurance Agent",
+        "A Panel Doctor appointed by the Insurance Company"
+      ],
+      "correct_index": 3,
+      "explanation": "To maintain objectivity and prevent fraud, insurance companies appoint specific qualified doctors (Panel Doctors or Third Party Administrators) to conduct the medical tests."
+    },
+    {
+      "id": "ch12_q24",
+      "text": "If a prospect signs the proposal form in a vernacular (regional) language, what is the standard requirement?",
+      "options": [
+        "The form must be rejected immediately.",
+        "A declaration by a third person confirming that the questions were translated and explained to the prospect.",
+        "The prospect must undergo a double medical test.",
+        "The agent must pay a penalty."
+      ],
+      "correct_index": 1,
+      "explanation": "If the form is signed in a language other than English/Hindi (depending on the printed form), an independent person must declare that they translated and explained the contents to the prospect."
+    },
+    {
+      "id": "ch12_q25",
+      "text": "What is the primary objective of implementing KYC norms in the insurance sector?",
+      "options": [
+        "To prevent identity theft, fraud, and money laundering",
+        "To ensure agents get their commissions faster",
+        "To diagnose the medical conditions of the prospect",
+        "To calculate the surrender value of the policy"
+      ],
+      "correct_index": 0,
+      "explanation": "KYC (Know Your Customer) is a mandatory process across all financial sectors to definitively establish a person's true identity, thereby preventing fraud and illegal activities."
     }
   ]
 }

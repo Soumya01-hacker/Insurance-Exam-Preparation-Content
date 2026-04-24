@@ -1,5 +1,5 @@
 {
-  "version": "7.1.1",
+  "version": "7.1.2",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -347,7 +347,8 @@
                 "Know Your Customer (KYC) — mandatory norms",
                 "FATF — Financial Action Task Force guidelines"
               ],
-              "book_url": "textbooks/documentation_proposal_stage.pdf"
+              "book_url": "textbooks/documentation_proposal_stage.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_proposal_stage.json"
             },
             {
               "id": "documentation_policy_condition_1",
