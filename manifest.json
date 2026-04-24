@@ -1,5 +1,5 @@
 {
-  "version": "7.0.0",
+  "version": "7.0.1",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -103,7 +103,8 @@
                 "Ombudsman Award — max Rs. 30 lakh, within 3 months",
                 "Award binding on insurer — comply within 30 days"
               ],
-              "book_url": "textbooks/grievance_redressal_mechanism.pdf"
+              "book_url": "textbooks/grievance_redressal_mechanism.pdf",
+              "test_url": "tests/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_of_insurance_agents",
