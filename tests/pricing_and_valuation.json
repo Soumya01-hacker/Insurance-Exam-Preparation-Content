@@ -1,18 +1,307 @@
 {
-  "chapter_id": "ch_11",
-  "chapter_title": "Chapter 11",
+  "chapter_id": "pricing_and_valuation",
+  "chapter_title": "Chapter 11: Pricing and Valuation in Life Insurance",
+  "pass_marks": 9,
   "questions": [
     {
-      "id": 1,
-      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "id": "ch11_q1",
+      "text": "Who is the highly specialized professional responsible for calculating life insurance premiums, reserves, and conducting valuations?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Underwriter",
+        "Surveyor",
+        "Actuary",
+        "Insurance Broker"
       ],
-      "correct_answer": 0,
-      "explanation": "Explanation will be updated soon."
+      "correct_index": 2,
+      "explanation": "An Actuary uses mathematics, statistics, and financial theory to study uncertain future events, calculate risks, and set the correct premium rates for life insurance policies."
+    },
+    {
+      "id": "ch11_q2",
+      "text": "What is the mathematical formula for calculating the 'Net Premium' in life insurance?",
+      "options": [
+        "Mortality Cost MINUS Interest Earned",
+        "Mortality Cost PLUS Expenses",
+        "Interest Earned PLUS Expenses",
+        "Gross Premium MINUS Bonus"
+      ],
+      "correct_index": 0,
+      "explanation": "Net Premium is the exact amount required to cover the death risk. It is calculated by taking the Mortality Cost and giving a discount for the Interest the company expects to earn on the premium."
+    },
+    {
+      "id": "ch11_q3",
+      "text": "What is the formula to calculate the 'Gross Premium' (the actual amount paid by the policyholder)?",
+      "options": [
+        "Net Premium MINUS Expenses",
+        "Mortality PLUS Interest",
+        "Bonus PLUS Expenses",
+        "Net Premium PLUS Expenses (Loading)"
+      ],
+      "correct_index": 3,
+      "explanation": "To get the Gross Premium, the company adds administrative expenses, agent commissions, and a margin for contingencies (called 'Loading') to the Net Premium."
+    },
+    {
+      "id": "ch11_q4",
+      "text": "Which of the following components directly REDUCES the premium amount for a life insurance policyholder?",
+      "options": [
+        "Management Expenses",
+        "Interest earned on investments",
+        "Agent's Commission",
+        "Mortality Charges"
+      ],
+      "correct_index": 1,
+      "explanation": "Since the insurance company invests the premiums collected, they earn interest. This expected interest is passed on to the customer as a discount, thereby reducing the premium amount."
+    },
+    {
+      "id": "ch11_q5",
+      "text": "What does the term 'Valuation' mean in the context of a life insurance company?",
+      "options": [
+        "Evaluating the performance of insurance agents.",
+        "Checking the medical health of a new customer.",
+        "The process of assessing the value of all Assets and comparing it against the present value of all future Liabilities.",
+        "Calculating the surrender value of a single policy."
+      ],
+      "correct_index": 2,
+      "explanation": "Valuation is like a financial health checkup for the company. The actuary calculates if the company's current assets are enough to pay all the future claims (liabilities) of its policyholders."
+    },
+    {
+      "id": "ch11_q6",
+      "text": "During valuation, if the company finds that its Assets are greater than its Liabilities, the excess amount is called:",
+      "options": [
+        "Deficit",
+        "Solvency Margin",
+        "Paid-up Capital",
+        "Surplus"
+      ],
+      "correct_index": 3,
+      "explanation": "Surplus is the profit of the life insurance business. It is the extra money left over after setting aside enough reserves to cover all future liabilities. Surplus = Assets - Liabilities."
+    },
+    {
+      "id": "ch11_q7",
+      "text": "How is a 'Simple Reversionary Bonus' calculated?",
+      "options": [
+        "As a fixed percentage of the original basic Sum Assured only.",
+        "Based on the stock market performance every month.",
+        "As a percentage of the total premiums paid.",
+        "On the Sum Assured plus all previously attached bonuses."
+      ],
+      "correct_index": 0,
+      "explanation": "A Simple Reversionary Bonus is calculated purely on the base Sum Assured. For example, a 5% bonus on a 1 Lakh policy means Rs. 5,000 will be added every year, without compounding."
+    },
+    {
+      "id": "ch11_q8",
+      "text": "Which type of bonus calculates the new bonus on the base Sum Assured PLUS all the previously accumulated bonuses?",
+      "options": [
+        "Interim Bonus",
+        "Compound Reversionary Bonus",
+        "Terminal Bonus",
+        "Guaranteed Addition"
+      ],
+      "correct_index": 1,
+      "explanation": "Compound Reversionary Bonus works like compound interest (interest on interest). It gives the policyholder a higher return over a long period compared to a simple bonus."
+    },
+    {
+      "id": "ch11_q9",
+      "text": "A special, one-time loyalty bonus paid only when a policy terminates by death or maturity after running for many years is called:",
+      "options": [
+        "Simple Bonus",
+        "Interim Bonus",
+        "Vested Bonus",
+        "Terminal Bonus"
+      ],
+      "correct_index": 3,
+      "explanation": "Terminal Bonus (or Final Additional Bonus) is an extra reward given to policyholders who keep their policies active until the very end, rewarding them for their long-term loyalty."
+    },
+    {
+      "id": "ch11_q10",
+      "text": "Which statistical tool does an actuary use to predict the probability of a person dying at a specific age?",
+      "options": [
+        "Balance Sheet",
+        "Compound Interest Table",
+        "Mortality Table",
+        "Expense Ratio Chart"
+      ],
+      "correct_index": 2,
+      "explanation": "A Mortality Table shows the statistical death rates of a population at different ages. It is the fundamental tool used to calculate the mortality risk for pricing life insurance."
+    },
+    {
+      "id": "ch11_q11",
+      "text": "The cost of running the insurance business, such as office rent, salaries, and agent commissions, is recovered from the policyholder under which heading?",
+      "options": [
+        "Expenses / Loading",
+        "Mortality Cost",
+        "Interest Charge",
+        "Surplus Deduction"
+      ],
+      "correct_index": 0,
+      "explanation": "These are the administrative costs of doing business. The actuary 'loads' these anticipated expenses onto the net premium to arrive at the final gross premium."
+    },
+    {
+      "id": "ch11_q12",
+      "text": "Why is the life insurance premium higher for a 50-year-old compared to a 30-year-old for the exact same policy?",
+      "options": [
+        "Older people earn more money.",
+        "The probability of death (mortality risk) increases with age.",
+        "Agents demand higher commissions for older clients.",
+        "IRDAI charges extra tax on older citizens."
+      ],
+      "correct_index": 1,
+      "explanation": "Since the likelihood of dying naturally increases as a person gets older, the mortality charge—which forms the core of the premium—is higher for higher entry ages."
+    },
+    {
+      "id": "ch11_q13",
+      "text": "Life insurance policies that are entitled to receive a share of the company's surplus (profits) in the form of bonuses are called:",
+      "options": [
+        "Term Policies",
+        "Unit Linked Policies",
+        "Non-Participating Policies",
+        "Participating (With-Profit) Policies"
+      ],
+      "correct_index": 3,
+      "explanation": "Participating policies 'participate' in the profits of the company. A portion of the surplus generated from the valuation is distributed to these policyholders."
+    },
+    {
+      "id": "ch11_q14",
+      "text": "When an actuary conducts a valuation, what is the impact of 'Lapse Rate'?",
+      "options": [
+        "It tells the company how much bonus to declare.",
+        "It calculates the age of the policyholders.",
+        "It estimates how many policyholders will stop paying premiums and leave before maturity.",
+        "It calculates the stock market returns."
+      ],
+      "correct_index": 2,
+      "explanation": "Lapse rate is a crucial assumption. The actuary must estimate how many people will drop their policies midway, as this affects the expected future premium income of the company."
+    },
+    {
+      "id": "ch11_q15",
+      "text": "What is an 'Interim Bonus'?",
+      "options": [
+        "A bonus paid when the agent sells the policy.",
+        "A bonus paid for the broken period between the last valuation date and the exact date of death/maturity.",
+        "A bonus that is guaranteed on day one.",
+        "A penalty for late premium payment."
+      ],
+      "correct_index": 1,
+      "explanation": "Valuations are done yearly. If a policy matures or a death occurs in the middle of the year, an interim bonus is paid to ensure the policyholder gets their fair share of profits for those few months."
+    },
+    {
+      "id": "ch11_q16",
+      "text": "To ensure they can always pay claims even in bad times, IRDAI legally requires life insurance companies to maintain a minimum buffer of Assets over Liabilities. This is called:",
+      "options": [
+        "Solvency Margin",
+        "Paid-up Value",
+        "Surrender Value",
+        "Cash Reserve Ratio"
+      ],
+      "correct_index": 0,
+      "explanation": "The Solvency Margin is a mandatory financial buffer. It ensures that the insurance company is financially healthy and capable of honoring massive claim payouts if unexpected disasters occur."
+    },
+    {
+      "id": "ch11_q17",
+      "text": "What happens if a life insurance company's valuation reveals a 'Deficit'?",
+      "options": [
+        "The company declares a higher bonus.",
+        "The policyholders have to pay double premium.",
+        "It means Liabilities are greater than Assets, indicating severe financial trouble.",
+        "It means the company is highly profitable."
+      ],
+      "correct_index": 2,
+      "explanation": "A deficit is the opposite of a surplus. If liabilities exceed assets, the company does not have enough money to pay its future claims and cannot declare any bonuses."
+    },
+    {
+      "id": "ch11_q18",
+      "text": "When pricing a policy, why are administrative expenses (loading) highest in the very first year?",
+      "options": [
+        "Because the company pays advance taxes.",
+        "Because the policyholder might die in the first year.",
+        "Because the stock market is unpredictable.",
+        "Due to initial costs like agent commissions, medical tests, and underwriting processes."
+      ],
+      "correct_index": 3,
+      "explanation": "The cost of acquiring a new customer is high. The company has to pay the agent's first-year commission, bear the cost of medical checkups, and process the proposal paperwork."
+    },
+    {
+      "id": "ch11_q19",
+      "text": "Non-participating policies do not get any bonuses from the company's surplus. In return, what advantage do they usually offer to the customer?",
+      "options": [
+        "They provide unlimited life cover.",
+        "The premium is generally lower compared to participating policies.",
+        "They can be converted into health insurance.",
+        "They do not require any medical tests."
+      ],
+      "correct_index": 1,
+      "explanation": "Because without-profit (non-participating) policies don't share in the company's profits, their guaranteed benefits are fixed, and therefore, their premium is significantly cheaper."
+    },
+    {
+      "id": "ch11_q20",
+      "text": "Which of the following is NOT an assumption an actuary makes when calculating premiums?",
+      "options": [
+        "The personal tax rate of the insurance agent",
+        "Expected future mortality rates",
+        "Expected interest earnings on investments",
+        "Expected future administrative expenses"
+      ],
+      "correct_index": 0,
+      "explanation": "An actuary assumes mortality, interest, and expenses (M-I-E) to price a policy. The personal income tax rate of the agent has absolutely no relation to the policy's premium."
+    },
+    {
+      "id": "ch11_q21",
+      "text": "How often is a life insurance company typically required to conduct a formal actuarial valuation of its entire business in India?",
+      "options": [
+        "Once every 5 years",
+        "Once a month",
+        "Annually (Once every year)",
+        "Only when a policyholder dies"
+      ],
+      "correct_index": 2,
+      "explanation": "As per regulations, life insurers in India must conduct an actuarial valuation at the end of every financial year (annually) to determine their surplus and declare bonuses."
+    },
+    {
+      "id": "ch11_q22",
+      "text": "Once an insurance company declares a Reversionary Bonus, it becomes a 'Vested Bonus'. What does this mean?",
+      "options": [
+        "It can be withdrawn in cash immediately.",
+        "It is guaranteed and permanently attached to the policy, payable at death or maturity.",
+        "It is invested in the stock market.",
+        "It can be cancelled by the company next year."
+      ],
+      "correct_index": 1,
+      "explanation": "Once a bonus is declared and 'vests', it becomes a guaranteed legal liability of the insurer. It cannot be taken back, and will definitely be paid when the policy matures or the insured dies."
+    },
+    {
+      "id": "ch11_q23",
+      "text": "A life insurance policy where the Sum Assured and the premium remain constant throughout the term is an application of:",
+      "options": [
+        "Natural Premium System",
+        "Step-up Premium System",
+        "Flexible Premium System",
+        "Level Premium System"
+      ],
+      "correct_index": 3,
+      "explanation": "The Level Premium System averages out the increasing mortality risk over the policy term, allowing the policyholder to pay a steady, unchanging premium amount every year."
+    },
+    {
+      "id": "ch11_q24",
+      "text": "The 'Discount' component in premium calculation refers to:",
+      "options": [
+        "The estimated interest the company will earn by investing the premiums.",
+        "A special festival discount given to customers.",
+        "A discount on agent's commission.",
+        "A tax rebate given by the government."
+      ],
+      "correct_index": 0,
+      "explanation": "Because the customer pays the premium in advance, the company earns interest on it before claims arise. The actuary 'discounts' the premium, essentially giving the benefit of this interest back to the customer."
+    },
+    {
+      "id": "ch11_q25",
+      "text": "If a life insurance company uses highly conservative assumptions (e.g., assumes people will die very early and interest rates will be very low), what will happen to the calculated premium?",
+      "options": [
+        "The premium will decrease.",
+        "The premium will become zero.",
+        "The premium will be higher (more expensive).",
+        "The premium will be exactly the same."
+      ],
+      "correct_index": 2,
+      "explanation": "Conservative assumptions mean the company is preparing for the worst-case scenario. Assuming higher death rates and lower interest earnings will naturally force the actuary to charge a higher premium to remain safe."
     }
   ]
 }

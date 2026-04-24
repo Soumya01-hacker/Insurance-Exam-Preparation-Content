@@ -1,5 +1,5 @@
 {
-  "version": "7.1.0",
+  "version": "7.1.1",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -319,7 +319,8 @@
                 "Reversionary Bonus — Simple vs Compound",
                 "Terminal Bonus"
               ],
-              "book_url": "textbooks/pricing_and_valuation.pdf"
+              "book_url": "textbooks/pricing_and_valuation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/pricing_and_valuation.json"
             },
             {
               "id": "documentation_proposal_stage",
