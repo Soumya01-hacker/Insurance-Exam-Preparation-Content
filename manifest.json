@@ -1,5 +1,5 @@
 {
-  "version": "7.2.7",
+  "version": "7.2.9",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 25,
+      "total_chapters": 26,
       "sections": [
         {
           "name": "SECTION 1: COMMON CHAPTERS (1-5)",
@@ -707,6 +707,39 @@
               ],
               "book_url": "textbooks/personal_and_retail_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
+            },
+            {
+              "id": "commercial_insurance",
+              "title": "Chapter 26: Commercial Insurance",
+              "topics": [
+                "Fire",
+                "Marine",
+                "Engineering",
+                "Liability"
+              ],
+              "detailed_topics": [
+                "Fire Insurance — Standard Fire & Special Perils Policy",
+                "Variants — Market Value vs Reinstatement Value Policy",
+                "Declaration Policy & Floater Policies",
+                "Business Interruption Insurance — loss of profit",
+                "Burglary Insurance — risks covered",
+                "Cash / Money Insurance — coverage",
+                "Fidelity Guarantee Insurance",
+                "Bankers Indemnity Insurance",
+                "Jewellers Block Policy",
+                "Engineering Insurance — types (Contractors All Risk, Erection All Risk, Machinery Breakdown)",
+                "Marine Insurance — overview",
+                "Marine Cargo Insurance — voyage & open policies",
+                "Types of Marine Policies — Specific, Open, Floating",
+                "Marine Cargo Clauses — A, B, C",
+                "Liability Policies — statutory & voluntary",
+                "Public Liability Insurance",
+                "Product Liability Insurance",
+                "Professional Indemnity Insurance",
+                "Employer's Liability — Workmen's Compensation"
+              ],
+              "book_url": "textbooks/commercial_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
             }
           ]
         }
@@ -885,7 +918,7 @@
             },
             {
               "id": "commercial_insurance",
-              "title": "Commercial Insurance",
+              "title": "Chapter 26: Commercial Insurance",
               "topics": [
                 "Fire",
                 "Marine",
@@ -912,7 +945,8 @@
                 "Professional Indemnity Insurance",
                 "Employer's Liability — Workmen's Compensation"
               ],
-              "book_url": "textbooks/commercial_insurance.pdf"
+              "book_url": "textbooks/commercial_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
             },
             {
               "id": "claims_procedure_general",
