@@ -1,5 +1,5 @@
 {
-  "version": "7.0.7",
+  "version": "7.0.8",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -243,7 +243,8 @@
                 "Bonus types — Reversionary Bonus, Terminal Bonus",
                 "With-profit & Without-profit policies"
               ],
-              "book_url": "textbooks/life_insurance_products_1.pdf"
+              "book_url": "textbooks/life_insurance_products_1.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_1.json"
             },
             {
               "id": "life_insurance_products_2",
