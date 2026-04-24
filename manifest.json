@@ -1,5 +1,5 @@
 {
-  "version": "7.1.9",
+  "version": "7.2.0",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -549,7 +549,7 @@
             },
             {
               "id": "health_insurance_underwriting",
-              "title": "Health Insurance Underwriting",
+              "title": "Chapter 20: Health Insurance Underwriting",
               "topics": [
                 "PED",
                 "Exclusions",
@@ -570,7 +570,8 @@
                 "Underwriting of Personal Accident Insurance",
                 "Moral Hazard in Health Insurance"
               ],
-              "book_url": "textbooks/health_insurance_underwriting.pdf"
+              "book_url": "textbooks/health_insurance_underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
