@@ -1,5 +1,5 @@
 {
-  "version": "7.2.5",
+  "version": "7.2.6",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 23,
+      "total_chapters": 24,
       "sections": [
         {
           "name": "SECTION 1: COMMON CHAPTERS (1-5)",
@@ -657,6 +657,30 @@
               ],
               "book_url": "textbooks/documentation_general.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_general_insurance.json"
+            },
+            {
+              "id": "theory_practice_premium_rating",
+              "title": "Chapter 24: Theory and Practice of Premium Rating",
+              "topics": [
+                "Rating Factors",
+                "Pure Premium",
+                "Loading",
+                "IBNR"
+              ],
+              "detailed_topics": [
+                "Underwriting Basics — definition & purpose",
+                "Rate Making Basics — how premiums are calculated",
+                "Rating Factors — what affects premium",
+                "Hazard — Moral Hazard & Physical Hazard",
+                "Addressing Physical Hazards — risk inspection",
+                "Short Period Scales — pro-rata vs short period",
+                "Minimum Premium concept",
+                "Sum Insured — how to decide correct sum",
+                "Under-insurance & Average Clause",
+                "Co-insurance — sharing risk between insurers"
+              ],
+              "book_url": "textbooks/theory_and_practice_of_premium_rating.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/theory_and_practice_of_premium_rating.json"
             }
           ]
         }
@@ -787,7 +811,7 @@
             },
             {
               "id": "theory_and_practice_of_premium_rating",
-              "title": "Theory & Practice of Premium Rating",
+              "title": "Chapter 24: Theory and Practice of Premium Rating",
               "topics": [
                 "Rating Factors",
                 "Average Clause",
@@ -805,7 +829,8 @@
                 "Under-insurance & Average Clause",
                 "Co-insurance — sharing risk between insurers"
               ],
-              "book_url": "textbooks/theory_and_practice_of_premium_rating.pdf"
+              "book_url": "textbooks/theory_and_practice_of_premium_rating.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/theory_and_practice_of_premium_rating.json"
             },
             {
               "id": "personal_and_retail_insurance",
