@@ -1,18 +1,307 @@
 {
-  "chapter_id": "ch_21",
-  "chapter_title": "Chapter 21",
+  "chapter_id": "health_insurance_claims",
+  "chapter_title": "Chapter 21: Health Insurance Claims",
+  "pass_marks": 9,
   "questions": [
     {
-      "id": 1,
-      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "id": "ch21_q1",
+      "text": "What is the primary role of a Third Party Administrator (TPA) in health insurance?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "To sell health policies to customers.",
+        "To bear the financial risk of the claims.",
+        "To process health insurance claims and manage hospital networks.",
+        "To set the premium rates for the policies."
       ],
-      "correct_answer": 0,
-      "explanation": "Explanation will be updated soon."
+      "correct_index": 2,
+      "explanation": "A TPA acts as an intermediary. They do not sell insurance or bear financial risk; their job is purely administrative—issuing ID cards, managing hospital tie-ups, and processing claim paperwork."
+    },
+    {
+      "id": "ch21_q2",
+      "text": "If a policyholder seeks treatment at a hospital that does NOT have a tie-up with the insurance company, which claim process must they use?",
+      "options": [
+        "Cashless Facility",
+        "Reimbursement Process",
+        "Day Care Process",
+        "Direct Settlement"
+      ],
+      "correct_index": 1,
+      "explanation": "Cashless treatment is only available at 'Network Hospitals'. If a patient goes to a Non-Network hospital, they must pay the bill themselves first and then file a 'Reimbursement' claim with the insurer."
+    },
+    {
+      "id": "ch21_q3",
+      "text": "What is the standard coverage period provided for 'Pre-hospitalization' expenses in a typical mediclaim policy?",
+      "options": [
+        "7 days before admission",
+        "15 days before admission",
+        "30 days before admission",
+        "90 days before admission"
+      ],
+      "correct_index": 2,
+      "explanation": "Pre-hospitalization covers the cost of doctor consultations and diagnostic tests that lead to the hospital stay. The standard period covered is usually 30 days before the actual date of admission."
+    },
+    {
+      "id": "ch21_q4",
+      "text": "For a planned hospitalization (like a scheduled knee surgery), when should the policyholder ideally inform the TPA/Insurer for a cashless pre-authorization?",
+      "options": [
+        "On the day of discharge",
+        "Within 24 hours after admission",
+        "At least 48 to 72 hours before admission",
+        "Only after the surgery is completed"
+      ],
+      "correct_index": 2,
+      "explanation": "To ensure a smooth cashless experience without delays, patients must send the pre-authorization request for planned surgeries well in advance, typically 48 to 72 hours prior to admission."
+    },
+    {
+      "id": "ch21_q5",
+      "text": "Which crucial document is necessary to prove the exact clinical details, treatment given, and the patient's condition at the time of leaving the hospital?",
+      "options": [
+        "First Premium Receipt",
+        "Discharge Summary",
+        "Agent's Report",
+        "Policy Schedule"
+      ],
+      "correct_index": 1,
+      "explanation": "The Discharge Summary is the primary medical document for claim settlement. It outlines the diagnosis, the entire course of treatment in the hospital, and instructions given upon discharge."
+    },
+    {
+      "id": "ch21_q6",
+      "text": "In the event of an emergency hospitalization (like a sudden heart attack), what is the standard time limit within which the TPA/Insurer must be intimated?",
+      "options": [
+        "Immediately before admission",
+        "Within 7 days of admission",
+        "Within 24 hours of admission",
+        "Only at the time of discharge"
+      ],
+      "correct_index": 2,
+      "explanation": "For emergencies, patients cannot wait for pre-authorization. They get admitted first, but the family or hospital must intimate the TPA within 24 hours of admission to initiate the claim process."
+    },
+    {
+      "id": "ch21_q7",
+      "text": "What happens if a pre-authorization request for cashless treatment is denied by the TPA?",
+      "options": [
+        "The policy is immediately cancelled.",
+        "The patient cannot take treatment at that hospital.",
+        "The hospital must treat the patient for free.",
+        "The patient must pay the bill and can later apply for reimbursement, provided the treatment is covered under the policy."
+      ],
+      "correct_index": 3,
+      "explanation": "Denial of cashless facility does not mean denial of the claim. It just means the TPA needs more time or documents to verify. The patient can pay out-of-pocket and claim reimbursement later."
+    },
+    {
+      "id": "ch21_q8",
+      "text": "Which of the following expenses is generally considered a 'Non-Payable Item' (Exclusion) in a standard hospital bill under health insurance?",
+      "options": [
+        "Registration fees, toiletries, and diet charges for attendants",
+        "Surgeon's fees",
+        "Operation Theatre (OT) charges",
+        "Cost of medicines used during surgery"
+      ],
+      "correct_index": 0,
+      "explanation": "Health insurance covers medical costs. Administrative costs (registration fees) and non-medical items (toiletries, food for relatives) are classified as non-payable items and must be paid by the patient."
+    },
+    {
+      "id": "ch21_q9",
+      "text": "What is the typical time limit allowed for a policyholder to submit all documents for a 'Post-Hospitalization' reimbursement claim?",
+      "options": [
+        "Within 7 days of discharge",
+        "Within 15 days of completing the post-hospitalization period (e.g., 60 days after discharge)",
+        "Any time within 1 year",
+        "Before the next policy renewal"
+      ],
+      "correct_index": 1,
+      "explanation": "If post-hospitalization covers 60 days, the patient must collect all bills during those 60 days and submit them to the TPA within 15 days after that period ends."
+    },
+    {
+      "id": "ch21_q10",
+      "text": "When submitting a reimbursement claim, what kind of documents are mandatorily required by the TPA/Insurer to prevent fraud?",
+      "options": [
+        "Photocopies of bills attested by a gazetted officer",
+        "Scanned copies sent via WhatsApp",
+        "Original hospital bills, cash memos, and diagnostic reports",
+        "Only the claim form; bills are not required"
+      ],
+      "correct_index": 2,
+      "explanation": "To strictly enforce the Principle of Indemnity and prevent a person from claiming the same amount from multiple insurers, all final claims must be supported by 'Original' bills and reports."
+    },
+    {
+      "id": "ch21_q11",
+      "text": "In health insurance claims, what does 'Proportionate Deduction' refer to?",
+      "options": [
+        "Deducting the agent's commission from the claim amount.",
+        "If a patient chooses a room rent higher than their policy limit, the insurer proportionately reduces the payout for all associated medical expenses (like doctor fees).",
+        "Deducting tax from the final claim amount.",
+        "Reducing the claim amount if the patient is older than 60 years."
+      ],
+      "correct_index": 1,
+      "explanation": "Hospitals charge higher doctor and surgery fees for patients in expensive rooms. If a policy has a 1% room rent limit and the patient takes a pricier room, the insurer will proportionately reduce not just the room rent, but all associated doctor and surgical charges."
+    },
+    {
+      "id": "ch21_q12",
+      "text": "According to IRDAI guidelines, what is the maximum time an insurer can take to settle a health insurance claim once all required documents are submitted?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "correct_index": 1,
+      "explanation": "To protect policyholders, IRDAI mandates that insurers must settle or reject a claim within 30 days of receiving the last necessary document."
+    },
+    {
+      "id": "ch21_q13",
+      "text": "If an insurance company delays the payment of a health insurance claim beyond the stipulated time, what penalty must they pay?",
+      "options": [
+        "Double the claim amount",
+        "A flat fine to IRDAI",
+        "Interest at a rate 2% above the prevailing bank rate for the period of delay",
+        "Refund the entire policy premium"
+      ],
+      "correct_index": 2,
+      "explanation": "If the insurer delays settlement beyond 30 days without a valid reason (like an ongoing fraud investigation), they must pay penal interest to the policyholder at 2% above the current bank rate."
+    },
+    {
+      "id": "ch21_q14",
+      "text": "Which of the following situations will most likely lead to the complete repudiation (rejection) of a health insurance claim?",
+      "options": [
+        "The patient forgot to carry their physical ID card but provided the policy number.",
+        "The claim is for a disease explicitly listed under the permanent exclusions of the policy.",
+        "The hospital is located in a different city than the policyholder's residence.",
+        "The hospital bill is very low (e.g., Rs. 5,000)."
+      ],
+      "correct_index": 1,
+      "explanation": "Insurers clearly list permanent exclusions (e.g., cosmetic surgery, self-inflicted injuries). If a claim arises from an excluded condition, the company will legally repudiate it."
+    },
+    {
+      "id": "ch21_q15",
+      "text": "What is the standard coverage period for 'Post-hospitalization' expenses (like follow-up checkups and medicines after discharge)?",
+      "options": [
+        "15 days after discharge",
+        "30 days after discharge",
+        "60 days after discharge",
+        "120 days after discharge"
+      ],
+      "correct_index": 2,
+      "explanation": "Most standard mediclaim policies cover post-hospitalization expenses for 60 days following the date of discharge, provided these expenses relate directly to the illness for which the person was hospitalized."
+    },
+    {
+      "id": "ch21_q16",
+      "text": "If a health policy has a 'Co-payment' clause of 10% and the approved claim is Rs. 50,000, how much will the insurance company pay?",
+      "options": [
+        "Rs. 50,000",
+        "Rs. 5,000",
+        "Rs. 40,000",
+        "Rs. 45,000"
+      ],
+      "correct_index": 3,
+      "explanation": "Co-payment means sharing the loss. A 10% co-pay means the insured pays 10% (Rs. 5,000) and the insurer pays the remaining 90% (Rs. 45,000) of the approved amount."
+    },
+    {
+      "id": "ch21_q17",
+      "text": "In the event of a death during hospitalization, who is legally entitled to receive the reimbursement of the medical expenses from the health insurance company?",
+      "options": [
+        "The treating doctor",
+        "The hospital management",
+        "The Nominee registered in the policy",
+        "The insurance agent"
+      ],
+      "correct_index": 2,
+      "explanation": "If the policyholder passes away, the claim amount for the medical expenses incurred before death is paid to the registered Nominee."
+    },
+    {
+      "id": "ch21_q18",
+      "text": "Which form must the treating doctor fill out to provide detailed clinical information when a patient applies for a reimbursement claim?",
+      "options": [
+        "Part B of the Claim Form",
+        "Part A of the Claim Form",
+        "The Proposal Form",
+        "The KYC Declaration"
+      ],
+      "correct_index": 0,
+      "explanation": "The standard health insurance claim form has two parts. Part A is filled by the policyholder (personal and policy details), and Part B is filled and stamped by the hospital/treating doctor (clinical details)."
+    },
+    {
+      "id": "ch21_q19",
+      "text": "Under which condition will a claim for 'Domiciliary Hospitalization' (home treatment) NOT be payable?",
+      "options": [
+        "If the patient was too severely injured to be moved to a hospital.",
+        "If no beds were available in any nearby hospital.",
+        "If the patient chose home treatment simply for personal comfort and convenience.",
+        "If the treatment lasts for more than 3 days."
+      ],
+      "correct_index": 2,
+      "explanation": "Domiciliary hospitalization is an emergency provision. It is only paid if moving the patient was impossible or beds were unavailable. It is never paid if home care was chosen merely for convenience."
+    },
+    {
+      "id": "ch21_q20",
+      "text": "What is the primary purpose of a 'Claim Investigation' in health insurance?",
+      "options": [
+        "To verify the authenticity of the claim and ensure no fraud or misrepresentation has occurred.",
+        "To find reasons to cancel all policies of the customer.",
+        "To negotiate a lower bill with the hospital.",
+        "To check if the agent deserves a commission."
+      ],
+      "correct_index": 0,
+      "explanation": "Insurers conduct field investigations, especially for early claims or large amounts, to confirm the hospitalization was genuine and the patient didn't hide pre-existing diseases."
+    },
+    {
+      "id": "ch21_q21",
+      "text": "If a policyholder holds two separate health insurance policies from two different companies, how is the claim settled under the 'Principle of Contribution'?",
+      "options": [
+        "The policyholder can claim the full amount from both companies and make a profit.",
+        "The claim is shared proportionately between the two companies based on their Sum Insured limits.",
+        "The older policy is automatically cancelled.",
+        "Neither company pays the claim."
+      ],
+      "correct_index": 1,
+      "explanation": "The Contribution clause prevents double-profit. The policyholder must inform both insurers, and the total claim amount will be split and shared proportionally between the companies."
+    },
+    {
+      "id": "ch21_q22",
+      "text": "What is a 'Deductible' in a health insurance claim?",
+      "options": [
+        "A tax deduction allowed by the government.",
+        "The agent's commission deducted from the claim.",
+        "A fixed, initial amount of the claim that the policyholder must pay from their own pocket before the insurer starts paying.",
+        "A penalty for late premium payment."
+      ],
+      "correct_index": 2,
+      "explanation": "A deductible is an out-of-pocket requirement (common in Top-Up policies). If the deductible is Rs. 1 Lakh and the bill is Rs. 3 Lakhs, the policyholder pays the first 1 Lakh, and the insurer pays the remaining 2 Lakhs."
+    },
+    {
+      "id": "ch21_q23",
+      "text": "To process an accidental injury claim, which legal document must usually be submitted along with the hospital bills?",
+      "options": [
+        "Income Tax Returns",
+        "A Medico-Legal Certificate (MLC) or Police FIR",
+        "The vehicle's insurance copy",
+        "A new proposal form"
+      ],
+      "correct_index": 1,
+      "explanation": "Hospitals categorize accident cases as Medico-Legal Cases (MLC). Insurers require the MLC report or an FIR to rule out intentional self-injury or illegal activities (like drunk driving)."
+    },
+    {
+      "id": "ch21_q24",
+      "text": "In the context of cashless claims, if the final hospital bill exceeds the pre-authorized amount, what is the hospital expected to do?",
+      "options": [
+        "Force the patient to pay the difference immediately.",
+        "Discharge the patient without completing the treatment.",
+        "Send a request for an 'Enhancement' of the pre-authorized amount to the TPA.",
+        "Confiscate the patient's belongings."
+      ],
+      "correct_index": 2,
+      "explanation": "The initial pre-authorization is just an estimate. If the actual cost rises during treatment, the hospital sends an enhancement request to the TPA for further approval before discharging the patient."
+    },
+    {
+      "id": "ch21_q25",
+      "text": "Which of the following statements about 'Day Care Procedures' is TRUE?",
+      "options": [
+        "They do not require the patient to be admitted to the hospital at all.",
+        "They refer to treatments like Dialysis or Cataract surgeries that require less than 24 hours of hospitalization due to advanced medical technology.",
+        "They are only covered if the patient stays in the hospital for at least 48 hours.",
+        "They refer to routine OPD consultations."
+      ],
+      "correct_index": 1,
+      "explanation": "Standard policies require a minimum 24-hour stay. Day Care Procedures are specific exceptions (like Cataract) listed in the policy that are fully covered even if the stay is less than 24 hours due to modern surgical techniques."
     }
   ]
 }

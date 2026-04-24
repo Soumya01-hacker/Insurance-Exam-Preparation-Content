@@ -1,5 +1,5 @@
 {
-  "version": "7.2.1",
+  "version": "7.2.2",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -576,7 +576,7 @@
             },
             {
               "id": "health_insurance_claims",
-              "title": "Health Insurance Claims",
+              "title": "Chapter 21: Health Insurance Claims",
               "topics": [
                 "Cashless",
                 "Reimbursement",
@@ -598,7 +598,9 @@
                 "Overseas Travel Insurance Claims",
                 "Grievance in Health Claims — escalation process"
               ],
-              "book_url": "textbooks/health_insurance_claims.pdf"
+              "book_url": "textbooks/health_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+            }
             }
           ]
         }
@@ -649,23 +651,27 @@
             },
             {
               "id": "health_insurance_documentation",
-              "title": "Insurance Documentation (Health)",
-              "book_url": "textbooks/health_insurance_documentation.pdf"
+              "title": "Chapter 18: Insurance Documentation (Health)",
+              "book_url": "textbooks/health_insurance_documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
-              "title": "Health Insurance Products",
-              "book_url": "textbooks/health_insurance_products.pdf"
+              "title": "Chapter 19: Health Insurance Products",
+              "book_url": "textbooks/health_insurance_products.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
-              "title": "Health Insurance Underwriting",
-              "book_url": "textbooks/health_insurance_underwriting.pdf"
+              "title": "Chapter 20: Health Insurance Underwriting",
+              "book_url": "textbooks/health_insurance_underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
-              "title": "Health Insurance Claims",
-              "book_url": "textbooks/health_insurance_claims.pdf"
+              "title": "Chapter 21: Health Insurance Claims",
+              "book_url": "textbooks/health_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
             }
           ]
         },
