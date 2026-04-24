@@ -1,5 +1,5 @@
 {
-  "version": "7.2.2",
+  "version": "7.2.3",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 21,
+      "total_chapters": 27,
       "sections": [
         {
           "name": "SECTION 1: COMMON CHAPTERS (1-5)",
@@ -601,6 +601,36 @@
               "book_url": "textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
             }
+          ]
+        },
+        {
+          "name": "SECTION 4: GENERAL INSURANCE MODULE (22-27)",
+          "chapters": [
+            {
+              "id": "principles_of_general_insurance",
+              "title": "Chapter 22: Principles of General Insurance",
+              "topics": [
+                "Indemnity",
+                "Subrogation",
+                "Proximate Cause"
+              ],
+              "detailed_topics": [
+                "Elements of Insurance — definition & exposure to risk",
+                "Degree of Risk Exposure",
+                "Basis of Risk Classification",
+                "Hazard — types (Physical Hazard, Moral Hazard)",
+                "Mathematical Principle of Insurance — Risk Pooling",
+                "Conditions for Insuring a Risk — 6 conditions",
+                "The Insurance Contract — legal aspects",
+                "Indemnity in General Insurance",
+                "Uberrima Fides — Utmost Good Faith",
+                "Insurable Interest in General Insurance",
+                "Proximate Cause",
+                "Contribution — when multiple policies exist",
+                "Subrogation — insurer's right after claim"
+              ],
+              "book_url": "textbooks/principles_of_general_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_general_insurance.json"
             }
           ]
         }
@@ -680,7 +710,7 @@
           "chapters": [
             {
               "id": "principles_of_general_insurance",
-              "title": "Principles of Insurance",
+              "title": "Chapter 22: Principles of General Insurance",
               "topics": [
                 "Risk Classification",
                 "Indemnity",
@@ -701,7 +731,8 @@
                 "Contribution — when multiple policies exist",
                 "Subrogation — insurer's right after claim"
               ],
-              "book_url": "textbooks/principles_of_general_insurance.pdf"
+              "book_url": "textbooks/principles_of_general_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_general_insurance.json"
             },
             {
               "id": "documentation_general",
