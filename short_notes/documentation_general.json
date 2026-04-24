@@ -1,0 +1,82 @@
+{
+  "chapterId": "documentation_general",
+  "title": "Chapter 23: Documentation (General)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "General Documents",
+          "content": "• Cover Note (Purpose & 60-Day Validity)\n• Certificate of Insurance (Motor Act)\n• Endorsements (Making Changes)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ Temporary Documents",
+      "cards": [
+        {
+          "title": "1. Cover Note (CRITICAL)",
+          "content": "A temporary document proving cover has started while the policy is being prepared. Usually used in Motor/Marine.",
+          "color": "orange"
+        },
+        {
+          "title": "2. Maximum Validity",
+          "content": "A Cover Note is valid for ONLY 60 DAYS from issuance. Policy must be issued within this period.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Mandatory Motor Docs",
+      "cards": [
+        {
+          "title": "3. Certificate of Insurance",
+          "content": "Legally mandatory under Motor Vehicles Act, 1988. Proof for police that Third-Party Liability cover is active.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "✍️ Making Changes",
+      "cards": [
+        {
+          "title": "4. Endorsements",
+          "content": "Used for any changes/alterations to an active policy (e.g., address change, car transfer). Attached to the main policy.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Cover Note Validity: 60 Days.",
+        "Motor Legal Requirement: Certificate of Insurance.",
+        "Immediate protection doc: Cover Note.",
+        "Policy modification doc: Endorsement."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Document for immediate protection?",
+          "content": "Answer: Cover Note.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Method for modifying active policy?",
+          "content": "Answer: An Endorsement.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}
