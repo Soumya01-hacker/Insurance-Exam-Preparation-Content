@@ -1,10 +1,10 @@
 {
-  "version": "7.0.1",
+  "version": "7.0.2",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
     "exam": "50 MCQ | No Negative Marking",
-    "last_audit": "2026-04-23"
+    "last_audit": "2026-04-24"
   },
   "courses": [
     {
@@ -104,7 +104,7 @@
                 "Award binding on insurer — comply within 30 days"
               ],
               "book_url": "textbooks/grievance_redressal_mechanism.pdf",
-              "test_url": "tests/grievance_redressal_mechanism.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_of_insurance_agents",
