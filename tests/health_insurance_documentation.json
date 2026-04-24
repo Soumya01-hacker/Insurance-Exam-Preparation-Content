@@ -1,18 +1,307 @@
 {
-  "chapter_id": "ch_18",
-  "chapter_title": "Chapter 18",
+  "chapter_id": "health_insurance_documentation",
+  "chapter_title": "Chapter 18: Insurance Documentation (Health)",
+  "pass_marks": 9,
   "questions": [
     {
-      "id": 1,
-      "question": "This is a sample question for this chapter. Correct answer is A.",
+      "id": "ch18_q1",
+      "text": "Which document forms the primary foundation and the most critical basis of a health insurance contract?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "The Proposal Form",
+        "The Agent's ID Card",
+        "The Network Hospital List",
+        "The Premium Cheque"
       ],
-      "correct_answer": 0,
-      "explanation": "Explanation will be updated soon."
+      "correct_index": 0,
+      "explanation": "The Proposal Form contains the customer's declarations about their health, age, and medical history. The entire health insurance contract is issued based on the 'Utmost Good Faith' of the details filled in this form."
+    },
+    {
+      "id": "ch18_q2",
+      "text": "In the context of health insurance documentation, what is the legal status of a 'Prospectus'?",
+      "options": [
+        "It is a legally binding insurance contract.",
+        "It is an invitation to offer (invitation to treat).",
+        "It is a valid proof of age.",
+        "It is the final claim settlement voucher."
+      ],
+      "correct_index": 1,
+      "explanation": "A prospectus provides the details, features, and terms of the health policy. Legally, it is not an offer, but an invitation for the customer to make an offer by filling out the proposal form."
+    },
+    {
+      "id": "ch18_q3",
+      "text": "If an underwriter requires a physical medical checkup for a health policy, who is authorized to fill out the Medical Examiner's Report (MER)?",
+      "options": [
+        "The Insurance Agent",
+        "The Policyholder themselves",
+        "A Panel Doctor appointed by the Insurance Company",
+        "The local pharmacist"
+      ],
+      "correct_index": 2,
+      "explanation": "To ensure accurate and unbiased medical findings, the MER must strictly be filled by a qualified medical practitioner (Panel Doctor) who is authorized by the insurance company."
+    },
+    {
+      "id": "ch18_q4",
+      "text": "Which document is mandatorily required by a policyholder to claim income tax deductions on their health insurance premium?",
+      "options": [
+        "Discharge Summary",
+        "Medical fitness certificate",
+        "TPA ID Card",
+        "Section 80D Tax Certificate"
+      ],
+      "correct_index": 3,
+      "explanation": "Insurance companies issue a specific certificate under Section 80D of the Income Tax Act, which serves as valid proof for the policyholder to claim tax deductions on the health premium paid."
+    },
+    {
+      "id": "ch18_q5",
+      "text": "If a policyholder wants to port (transfer) their health insurance policy to a new company without losing the waiting period benefits, how many days before the policy expiry must they submit the Portability Form?",
+      "options": [
+        "At least 45 days before the premium renewal date",
+        "On the exact date of expiry",
+        "Within the 30-day grace period after expiry",
+        "At least 6 months before expiry"
+      ],
+      "correct_index": 0,
+      "explanation": "As per IRDAI guidelines, to ensure a smooth transition and underwriting process, the customer must submit the portability request form to the new insurer at least 45 days before the current policy expires."
+    },
+    {
+      "id": "ch18_q6",
+      "text": "To initiate 'Cashless Treatment' at a network hospital, which specific document must the hospital's billing desk send to the TPA or Insurer?",
+      "options": [
+        "A completely blank cheque",
+        "The original policy bond",
+        "A Pre-authorization Request Form",
+        "A reimbursement claim form"
+      ],
+      "correct_index": 2,
+      "explanation": "The hospital sends the Pre-authorization form detailing the diagnosis and estimated costs. The TPA approves this form, which serves as a financial guarantee that the insurer will pay the hospital directly."
+    },
+    {
+      "id": "ch18_q7",
+      "text": "What primary document does a Third Party Administrator (TPA) issue to the policyholders to help them access cashless services at network hospitals?",
+      "options": [
+        "A credit card",
+        "A Health ID Card",
+        "A medical degree certificate",
+        "A passport"
+      ],
+      "correct_index": 1,
+      "explanation": "The Health ID Card contains the policy number, TPA contact details, and the insured's basic info. It must be presented at the hospital desk to initiate the cashless claim process."
+    },
+    {
+      "id": "ch18_q8",
+      "text": "Which critical hospital document provides the complete timeline of the patient's admission, diagnosis, line of treatment, and condition at the time of leaving the hospital?",
+      "options": [
+        "The Proposal Form",
+        "The First Premium Receipt",
+        "The Cash Pharmacy Bill",
+        "The Discharge Summary"
+      ],
+      "correct_index": 3,
+      "explanation": "The Discharge Summary is the most important medical document for claim settlement. It gives the underwriter the complete clinical picture of what happened during the hospitalization."
+    },
+    {
+      "id": "ch18_q9",
+      "text": "When an agent assists an uneducated customer in filling out the health insurance proposal form, which fundamental principle are they executing?",
+      "options": [
+        "Utmost Good Faith",
+        "Subrogation",
+        "Condition of Average",
+        "Proximate Cause"
+      ],
+      "correct_index": 0,
+      "explanation": "The agent must ensure that all questions are answered truthfully and accurately as stated by the customer, upholding the principle of Utmost Good Faith (Uberrima Fides)."
+    },
+    {
+      "id": "ch18_q10",
+      "text": "In the event of a hospitalization caused by a road traffic accident, which additional legal document is mandatorily required along with the hospital bills?",
+      "options": [
+        "A new proposal form",
+        "A Medico-Legal Case (MLC) certificate or Police FIR",
+        "The vehicle's registration certificate only",
+        "An affidavit from the sarpanch"
+      ],
+      "correct_index": 1,
+      "explanation": "For accidents, insurers need an MLC report or an FIR to legally verify the cause of the injury and to rule out exclusions like drunk driving or self-inflicted injuries."
+    },
+    {
+      "id": "ch18_q11",
+      "text": "Which document serves as the primary legal evidence that the health insurance company has accepted the risk and the policy cover has officially commenced?",
+      "options": [
+        "The Prospectus",
+        "The Agent's receipt",
+        "The First Premium Receipt (FPR)",
+        "The KYC form"
+      ],
+      "correct_index": 2,
+      "explanation": "The issuance of the First Premium Receipt (FPR) by the insurance company is the legal milestone confirming that the premium is accepted and the risk cover has started."
+    },
+    {
+      "id": "ch18_q12",
+      "text": "Specific details such as the names of the insured family members, the exact Sum Insured, room rent sub-limits, and the policy period are printed in which part of the health policy document?",
+      "options": [
+        "The Standard Provisions",
+        "The Exclusions Clause",
+        "The Grievance Redressal section",
+        "The Policy Schedule"
+      ],
+      "correct_index": 3,
+      "explanation": "The Policy Schedule is the customized first page of the document that contains all the personalized data specific to that particular policyholder and their chosen plan."
+    },
+    {
+      "id": "ch18_q13",
+      "text": "If a patient pays the hospital bill from their own pocket and wants the money back from the insurance company, which primary document must they submit first?",
+      "options": [
+        "A Pre-authorization form",
+        "A Reimbursement Claim Form",
+        "A Portability form",
+        "An Endorsement form"
+      ],
+      "correct_index": 1,
+      "explanation": "To get money back for out-of-pocket expenses, the policyholder must duly fill, sign, and submit a formal Reimbursement Claim Form along with all original hospital bills and reports."
+    },
+    {
+      "id": "ch18_q14",
+      "text": "If a policyholder wants to legally change their correspondence address or update their phone number in an active health policy, how is this recorded by the insurer?",
+      "options": [
+        "By issuing an 'Endorsement' to the policy document",
+        "By cancelling the policy and issuing a new one",
+        "By asking the agent to write it on the original bond",
+        "By filing an FIR"
+      ],
+      "correct_index": 0,
+      "explanation": "An Endorsement is a formal written amendment attached to the policy document that legally records any alterations or updates made during the active term of the policy."
+    },
+    {
+      "id": "ch18_q15",
+      "text": "To exercise the 'Free Look Period' cancellation, the policyholder must send a written request to the insurer and mandatorily return which document?",
+      "options": [
+        "The Agent's commission cheque",
+        "The hospital discharge summary",
+        "The Original Policy Document",
+        "Their PAN card"
+      ],
+      "correct_index": 2,
+      "explanation": "To successfully cancel a policy under the 15-day Free Look period, the customer must surrender the physical Original Policy Document back to the insurance company."
+    },
+    {
+      "id": "ch18_q16",
+      "text": "For a standard reimbursement claim, the policyholder is generally required to submit all original hospital bills, reports, and the claim form to the TPA within how many days of discharge?",
+      "options": [
+        "24 hours",
+        "6 months",
+        "1 year",
+        "Usually 15 to 30 days"
+      ],
+      "correct_index": 3,
+      "explanation": "To ensure quick investigation and settlement, standard health insurance guidelines require the claimant to submit all necessary documents to the TPA within 15 to 30 days of being discharged."
+    },
+    {
+      "id": "ch18_q17",
+      "text": "Under the mandatory KYC (Know Your Customer) guidelines for health insurance, a customer must primarily submit valid documents proving their:",
+      "options": [
+        "Medical history and cholesterol levels",
+        "Identity and Residential Address",
+        "Educational qualifications",
+        "Number of children"
+      ],
+      "correct_index": 1,
+      "explanation": "KYC aims to verify who the customer is and where they live to prevent fraud and money laundering. Hence, Proof of Identity (e.g., PAN) and Proof of Address (e.g., Aadhaar/Utility bill) are mandatory."
+    },
+    {
+      "id": "ch18_q18",
+      "text": "Once a health insurance claim is approved and the payment is ready to be released to the policyholder, which document serves as a final receipt and agreement of settlement?",
+      "options": [
+        "The Proposal form",
+        "The First Premium Receipt",
+        "The Discharge Voucher",
+        "The Pre-authorization letter"
+      ],
+      "correct_index": 2,
+      "explanation": "By signing the Discharge Voucher, the policyholder legally acknowledges that they have received the claim amount and that the insurer is released from any further liability for that specific claim."
+    },
+    {
+      "id": "ch18_q19",
+      "text": "A health insurance policy contract becomes legally 'Void' (cancelled) if the submitted proposal form is proven to contain:",
+      "options": [
+        "Material misrepresentation, non-disclosure, or fraud",
+        "A spelling mistake in the nominee's name",
+        "A request for a monthly premium payment",
+        "The signature of the agent"
+      ],
+      "correct_index": 0,
+      "explanation": "If a customer lies or hides a critical pre-existing disease (material fact) in the proposal form, it is a breach of Utmost Good Faith. The insurer has the right to declare the policy void and reject claims."
+    },
+    {
+      "id": "ch20_q20",
+      "text": "In an Employer-Employee 'Group Health Insurance' policy, the primary contract document containing all the master terms and conditions is issued to the employer. This is known as the:",
+      "options": [
+        "TPA manual",
+        "Individual Certificate of Insurance",
+        "Employee Handbook",
+        "Master Policy"
+      ],
+      "correct_index": 3,
+      "explanation": "In group insurance, the contract is between the insurer and the corporate employer. The employer holds the 'Master Policy', while the individual employees only get an ID card or a short certificate."
+    },
+    {
+      "id": "ch18_q21",
+      "text": "Which entity is generally responsible for creating, updating, and providing the 'Network Hospital List' to the policyholders?",
+      "options": [
+        "The Medical Council of India",
+        "The TPA or the Insurance Company",
+        "The local Police Station",
+        "The policyholder's employer"
+      ],
+      "correct_index": 1,
+      "explanation": "The Third Party Administrator (TPA) or the in-house claim department of the insurer manages the tie-ups with hospitals and provides the updated network list to customers for cashless treatments."
+    },
+    {
+      "id": "ch18_q22",
+      "text": "When a health policy is up for renewal, which document issued by the insurer will indicate if the customer has earned a Cumulative Bonus (No Claim Bonus) for a claim-free year?",
+      "options": [
+        "The Renewal Notice / New Policy Schedule",
+        "The Prospectus",
+        "The initial proposal form",
+        "The discharge voucher"
+      ],
+      "correct_index": 0,
+      "explanation": "The company sends a Renewal Notice before expiry. If no claims were made in the previous year, this notice will show an increased Sum Insured (Cumulative Bonus) or a discounted premium."
+    },
+    {
+      "id": "ch18_q23",
+      "text": "To process a claim for 'Domiciliary Hospitalization' (treatment taken at home), the most critical document required by the insurer is:",
+      "options": [
+        "The electricity bill of the house",
+        "The agent's recommendation letter",
+        "A police verification report",
+        "A certificate from the attending doctor stating the patient could not be moved or no hospital beds were available"
+      ],
+      "correct_index": 3,
+      "explanation": "Domiciliary treatment is only covered under severe circumstances. The attending physician must certify in writing that moving the patient to a hospital was medically impossible or that hospital accommodation was unavailable."
+    },
+    {
+      "id": "ch18_q24",
+      "text": "During a reimbursement claim, why is it mandatory for the policyholder to submit 'Original' diagnostic reports and pharmacy cash memos?",
+      "options": [
+        "To prove that the hospital is a government entity.",
+        "To ensure the treating doctor pays their taxes.",
+        "To enforce the Principle of Indemnity and prevent the customer from claiming the same bills from multiple insurance companies.",
+        "Because original papers are easier to scan."
+      ],
+      "correct_index": 2,
+      "explanation": "If a customer submits photocopies, they could use the same bills to claim money from 3 different companies and make an illegal profit. Taking original bills ensures strict adherence to the Principle of Indemnity."
+    },
+    {
+      "id": "ch18_q25",
+      "text": "If a policyholder undergoes treatment in a 'Non-Network Hospital', which claim route and documentation process must they compulsorily follow?",
+      "options": [
+        "Pre-authorization form for Cashless treatment",
+        "No documentation is required; the agent pays the bill",
+        "The hospital directly sends an email to IRDAI",
+        "They must pay the bill themselves first, and then submit a Reimbursement Claim Form with original documents"
+      ],
+      "correct_index": 3,
+      "explanation": "Non-network hospitals do not have a tie-up with the insurer. Therefore, cashless facility is impossible. The patient must pay out-of-pocket and then file for reimbursement by submitting all original documents."
     }
   ]
 }
