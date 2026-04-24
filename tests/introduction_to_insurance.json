@@ -1,10 +1,11 @@
 {
   "chapter_id": "introduction_to_insurance",
   "chapter_title": "Chapter 1: Introduction to Insurance",
+  "pass_marks": 9,
   "questions": [
     {
       "id": "ch01_q01",
-      "question": "Which among the following is the oldest form of insurance?",
+      "text": "Which among the following is the oldest form of insurance?",
       "options": [
         "Life Insurance",
         "Marine Insurance",
@@ -12,11 +13,11 @@
         "Health Insurance"
       ],
       "correct_index": 1,
-      "explanation": "Marine insurance is historically the oldest form of modern insurance, originating among merchants in the Mediterranean and later formalized at Lloyd\\"
+      "explanation": "Marine insurance is historically the oldest form of modern insurance, originating among merchants in the Mediterranean and later formalized at Lloyd's Coffee House."
     },
     {
       "id": "ch01_q02",
-      "question": "Insurance is primarily a mechanism for transferring ________.",
+      "text": "Insurance is primarily a mechanism for transferring ________.",
       "options": [
         "Wealth",
         "Risk",
@@ -28,7 +29,7 @@
     },
     {
       "id": "ch01_q03",
-      "question": "What does the concept of \\",
+      "text": "What does the concept of 'Pooling' in insurance mean?",
       "options": [
         "Collecting money for investment",
         "Sharing the losses of a few among many",
@@ -40,7 +41,7 @@
     },
     {
       "id": "ch01_q04",
-      "question": "Which of the following is an example of \\",
+      "text": "Which of the following is an example of 'Risk Avoidance'?",
       "options": [
         "Buying a life insurance policy",
         "Refusing to travel by air to avoid a plane crash",
@@ -52,7 +53,7 @@
     },
     {
       "id": "ch01_q05",
-      "question": "The secondary burden of risk includes:",
+      "text": "The secondary burden of risk includes:",
       "options": [
         "The actual financial loss suffered",
         "Physical and mental stress and the need to maintain reserve funds",
@@ -64,7 +65,7 @@
     },
     {
       "id": "ch01_q06",
-      "question": "Name the first life insurance company to be set up in India.",
+      "text": "Name the first life insurance company to be set up in India.",
       "options": [
         "Life Insurance Corporation of India",
         "Bombay Mutual Life Assurance Society",
@@ -76,7 +77,7 @@
     },
     {
       "id": "ch01_q07",
-      "question": "In which year was the Life Insurance sector nationalized in India?",
+      "text": "In which year was the Life Insurance sector nationalized in India?",
       "options": [
         "1947",
         "1956",
@@ -88,7 +89,7 @@
     },
     {
       "id": "ch01_q08",
-      "question": "What is the primary role of an insurance company?",
+      "text": "What is the primary role of an insurance company?",
       "options": [
         "To prevent losses from happening",
         "To act as a risk-bearing financial institution",
@@ -100,7 +101,7 @@
     },
     {
       "id": "ch01_q09",
-      "question": "Lloyd\u2019s Coffee House in London is famous in insurance history for the origin of:",
+      "text": "Lloyd’s Coffee House in London is famous in insurance history for the origin of:",
       "options": [
         "Life Insurance",
         "Health Insurance",
@@ -108,11 +109,11 @@
         "Motor Insurance"
       ],
       "correct_index": 2,
-      "explanation": "Merchants and ship owners used to meet at Lloyd\\"
+      "explanation": "Merchants and ship owners used to meet at Lloyd's Coffee House to share risks, which eventually led to the formation of the Lloyd's of London insurance market."
     },
     {
       "id": "ch01_q10",
-      "question": "Which of these is NOT a method of Risk Management?",
+      "text": "Which of these is NOT a method of Risk Management?",
       "options": [
         "Risk Creation",
         "Risk Retention",
@@ -120,11 +121,11 @@
         "Risk Transfer"
       ],
       "correct_index": 0,
-      "explanation": "Risk management involves avoiding, retaining, reducing, or transferring risk. \\"
+      "explanation": "Risk management involves avoiding, retaining, reducing, or transferring risk. 'Risk Creation' is not a management technique."
     },
     {
       "id": "ch01_q11",
-      "question": "The consideration paid by the insured to the insurer is known as:",
+      "text": "The consideration paid by the insured to the insurer is known as:",
       "options": [
         "Claim",
         "Sum Assured",
@@ -136,7 +137,7 @@
     },
     {
       "id": "ch01_q12",
-      "question": "Installing sprinklers in a factory is an example of:",
+      "text": "Installing sprinklers in a factory is an example of:",
       "options": [
         "Risk Transfer",
         "Risk Avoidance",
@@ -144,11 +145,11 @@
         "Risk Retention"
       ],
       "correct_index": 2,
-      "explanation": "Installing safety devices like sprinklers doesn\\"
+      "explanation": "Installing safety devices like sprinklers doesn't eliminate the risk but reduces the severity of the loss if a fire occurs."
     },
     {
       "id": "ch01_q13",
-      "question": "An asset must have which of the following characteristics to be insurable?",
+      "text": "An asset must have which of the following characteristics to be insurable?",
       "options": [
         "It must be a physical object",
         "It must have economic value",
@@ -160,9 +161,9 @@
     },
     {
       "id": "ch01_q14",
-      "question": "Which of the following cannot be insured?",
+      "text": "Which of the following cannot be insured?",
       "options": [
-        "A person\\",
+        "A person's life",
         "A commercial building",
         "Loss in gambling",
         "A cargo ship"
@@ -172,7 +173,7 @@
     },
     {
       "id": "ch01_q15",
-      "question": "The person who assesses the risk and decides the premium to be charged is called:",
+      "text": "The person who assesses the risk and decides the premium to be charged is called:",
       "options": [
         "Agent",
         "Underwriter",
@@ -184,7 +185,7 @@
     },
     {
       "id": "ch01_q16",
-      "question": "In 1972, which sector of insurance was nationalized in India?",
+      "text": "In 1972, which sector of insurance was nationalized in India?",
       "options": [
         "Life Insurance",
         "General Insurance",
@@ -196,7 +197,7 @@
     },
     {
       "id": "ch01_q17",
-      "question": "Who regulates the insurance industry in India?",
+      "text": "Who regulates the insurance industry in India?",
       "options": [
         "Reserve Bank of India (RBI)",
         "Securities and Exchange Board of India (SEBI)",
@@ -208,7 +209,7 @@
     },
     {
       "id": "ch01_q18",
-      "question": "Which of the following statements about \\",
+      "text": "Which of the following statements about 'Mutuality' in insurance is true?",
       "options": [
         "It means the insurance company makes a mutual profit",
         "It is based on the principle that many share the losses of a few",
@@ -220,7 +221,7 @@
     },
     {
       "id": "ch01_q19",
-      "question": "A person deciding to bear the cost of minor car scratches themselves instead of buying comprehensive insurance is practicing:",
+      "text": "A person deciding to bear the cost of minor car scratches themselves instead of buying comprehensive insurance is practicing:",
       "options": [
         "Risk Transfer",
         "Risk Avoidance",
@@ -232,7 +233,7 @@
     },
     {
       "id": "ch01_q20",
-      "question": "The first Indian life insurance company started by Indians was:",
+      "text": "The first Indian life insurance company started by Indians was:",
       "options": [
         "Oriental Life Insurance Company",
         "Bombay Mutual Life Assurance Society",
@@ -244,7 +245,7 @@
     },
     {
       "id": "ch01_q21",
-      "question": "What is meant by \\",
+      "text": "What is meant by 'Peril' in insurance?",
       "options": [
         "The condition that increases risk",
         "The immediate cause of a loss",
@@ -256,7 +257,7 @@
     },
     {
       "id": "ch01_q22",
-      "question": "What is meant by \\",
+      "text": "What is meant by 'Hazard' in insurance?",
       "options": [
         "The cause of the loss",
         "A condition that increases the probability or severity of a loss",
@@ -268,7 +269,7 @@
     },
     {
       "id": "ch01_q23",
-      "question": "How does insurance benefit society as a whole?",
+      "text": "How does insurance benefit society as a whole?",
       "options": [
         "By increasing taxes",
         "By encouraging risk-taking behavior",
@@ -280,7 +281,7 @@
     },
     {
       "id": "ch01_q24",
-      "question": "Under a life insurance contract, the event insured against (death) is:",
+      "text": "Under a life insurance contract, the event insured against (death) is:",
       "options": [
         "Uncertain to happen",
         "Certain to happen, but the timing is uncertain",
@@ -292,7 +293,7 @@
     },
     {
       "id": "ch01_q25",
-      "question": "The concept of \\",
+      "text": "The concept of 'Human Life Value' (HLV) was developed by:",
       "options": [
         "Prof. Hubner",
         "Isaac Newton",

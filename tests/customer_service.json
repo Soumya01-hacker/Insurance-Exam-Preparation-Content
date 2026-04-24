@@ -1,10 +1,11 @@
 {
   "chapter_id": "customer_service",
   "chapter_title": "Chapter 2: Customer Service",
+  "pass_marks": 9,
   "questions": [
     {
       "id": "ch02_q01",
-      "question": "Insurance is a/an _________ product, which means it cannot be seen or touched.",
+      "text": "Insurance is a/an _________ product, which means it cannot be seen or touched.",
       "options": [
         "Tangible",
         "Intangible",
@@ -16,7 +17,7 @@
     },
     {
       "id": "ch02_q02",
-      "question": "What is the most important communication skill required for an insurance agent?",
+      "text": "What is the most important communication skill required for an insurance agent?",
       "options": [
         "Speaking loudly",
         "Active listening",
@@ -24,11 +25,11 @@
         "Using complex financial terms"
       ],
       "correct_index": 1,
-      "explanation": "Active listening is crucial. It helps the agent truly understand the customer"
+      "explanation": "Active listening is crucial. It helps the agent truly understand the customer's needs and build trust."
     },
     {
       "id": "ch02_q03",
-      "question": "In the SERVQUAL model, what does ",
+      "text": "In the SERVQUAL model, what does 'Reliability' mean?",
       "options": [
         "The physical appearance of the office",
         "The caring attitude of the staff",
@@ -40,7 +41,7 @@
     },
     {
       "id": "ch02_q04",
-      "question": "Understanding the customer",
+      "text": "Understanding the customer's feelings from their perspective is known as:",
       "options": [
         "Sympathy",
         "Empathy",
@@ -52,19 +53,19 @@
     },
     {
       "id": "ch02_q05",
-      "question": "Which of the following is an example of ",
+      "text": "Which of the following is an example of 'Tangibles' in insurance service?",
       "options": [
         "A quick email response",
-        "The agent",
+        "The agent's knowledge",
         "A well-printed policy document and professional office appearance",
         "Solving a complaint"
       ],
       "correct_index": 2,
-      "explanation": "Since the product itself is intangible, the physical evidence of the service (documents, office, agent"
+      "explanation": "Since the product itself is intangible, the physical evidence of the service (documents, office, agent's appearance) provides confidence to the customer."
     },
     {
       "id": "ch02_q06",
-      "question": "What does CLV stand for in customer service?",
+      "text": "What does CLV stand for in customer service?",
       "options": [
         "Customer Life Valuation",
         "Customer Lifetime Value",
@@ -76,7 +77,7 @@
     },
     {
       "id": "ch02_q07",
-      "question": "If a customer has a grievance, who should they approach FIRST?",
+      "text": "If a customer has a grievance, who should they approach FIRST?",
       "options": [
         "Insurance Ombudsman",
         "Consumer Court",
@@ -88,7 +89,7 @@
     },
     {
       "id": "ch02_q08",
-      "question": "What is the full form of IGMS?",
+      "text": "What is the full form of IGMS?",
       "options": [
         "International Grievance Management System",
         "Integrated Grievance Management System",
@@ -100,7 +101,7 @@
     },
     {
       "id": "ch02_q09",
-      "question": "According to IRDAI guidelines, an insurance company must resolve a grievance within how many days?",
+      "text": "According to IRDAI guidelines, an insurance company must resolve a grievance within how many days?",
       "options": [
         "7 days",
         "15 days",
@@ -108,11 +109,11 @@
         "45 days"
       ],
       "correct_index": 1,
-      "explanation": "Insurers are mandated to resolve a customer"
+      "explanation": "Insurers are mandated to resolve a customer's grievance within 15 days of receiving it."
     },
     {
       "id": "ch02_q10",
-      "question": "If an insurance company rejects a complaint or doesn",
+      "text": "If an insurance company rejects a complaint or doesn't respond in 30 days, where can the customer go?",
       "options": [
         "High Court",
         "Supreme Court",
@@ -124,10 +125,10 @@
     },
     {
       "id": "ch02_q11",
-      "question": "What is the fee required to file a complaint with the Insurance Ombudsman?",
+      "text": "What is the fee required to file a complaint with the Insurance Ombudsman?",
       "options": [
-        "\u20b9100",
-        "\u20b9500",
+        "₹100",
+        "₹500",
         "1% of the claim amount",
         "No fee"
       ],
@@ -136,19 +137,19 @@
     },
     {
       "id": "ch02_q12",
-      "question": "What is the maximum compensation amount that an Insurance Ombudsman can award?",
+      "text": "What is the maximum compensation amount that an Insurance Ombudsman can award?",
       "options": [
-        "\u20b910 Lakhs",
-        "\u20b920 Lakhs",
-        "\u20b930 Lakhs",
-        "\u20b950 Lakhs"
+        "₹10 Lakhs",
+        "₹20 Lakhs",
+        "₹30 Lakhs",
+        "₹50 Lakhs"
       ],
       "correct_index": 2,
-      "explanation": "As per the latest amended rules, the maximum limit for an award by the Insurance Ombudsman is \u20b930 Lakhs."
+      "explanation": "As per the latest amended rules, the maximum limit for an award by the Insurance Ombudsman is ₹30 Lakhs."
     },
     {
       "id": "ch02_q13",
-      "question": "A complaint must be filed with the Ombudsman within ______ of the rejection by the insurer.",
+      "text": "A complaint must be filed with the Ombudsman within ______ of the rejection by the insurer.",
       "options": [
         "3 months",
         "6 months",
@@ -156,11 +157,11 @@
         "3 years"
       ],
       "correct_index": 2,
-      "explanation": "A policyholder has exactly 1 year from the date of the insurer"
+      "explanation": "A policyholder has exactly 1 year from the date of the insurer's final rejection to approach the Ombudsman."
     },
     {
       "id": "ch02_q14",
-      "question": "Can a dispute between two insurance companies be taken to the Insurance Ombudsman?",
+      "text": "Can a dispute between two insurance companies be taken to the Insurance Ombudsman?",
       "options": [
         "Yes, always",
         "Only if IRDAI permits",
@@ -172,7 +173,7 @@
     },
     {
       "id": "ch02_q15",
-      "question": "Is the decision (Award) of the Insurance Ombudsman binding on the customer?",
+      "text": "Is the decision (Award) of the Insurance Ombudsman binding on the customer?",
       "options": [
         "Yes, always",
         "No, the customer can reject it and go to consumer court",
@@ -184,7 +185,7 @@
     },
     {
       "id": "ch02_q16",
-      "question": "Under the Consumer Protection Act, which is the lowest tier of the redressal agency?",
+      "text": "Under the Consumer Protection Act, which is the lowest tier of the redressal agency?",
       "options": [
         "State Commission",
         "National Commission",
@@ -196,7 +197,7 @@
     },
     {
       "id": "ch02_q17",
-      "question": "When a policyholder realizes they bought the wrong policy, they can cancel it within a specific window without penalties. This is called:",
+      "text": "When a policyholder realizes they bought the wrong policy, they can cancel it within a specific window without penalties. This is called:",
       "options": [
         "Grace Period",
         "Free-look Period",
@@ -208,7 +209,7 @@
     },
     {
       "id": "ch02_q18",
-      "question": "What is ",
+      "text": "What is 'Responsiveness' in customer service?",
       "options": [
         "Having a nice office",
         "The willingness to help customers and provide prompt service",
@@ -216,11 +217,11 @@
         "Selling the most expensive policy"
       ],
       "correct_index": 1,
-      "explanation": "Responsiveness refers to how quickly and eagerly an agent or company reacts to a customer"
+      "explanation": "Responsiveness refers to how quickly and eagerly an agent or company reacts to a customer's query or problem."
     },
     {
       "id": "ch02_q19",
-      "question": "Which of the following creates a ",
+      "text": "Which of the following creates a 'Moment of Truth' in insurance?",
       "options": [
         "When the policy is printed",
         "When the agent gets their commission",
@@ -228,11 +229,11 @@
         "When the company buys advertising"
       ],
       "correct_index": 2,
-      "explanation": "A "
+      "explanation": "A 'Moment of Truth' occurs whenever a customer interacts with the service provider and forms an opinion about the quality of service. The claim stage is the most critical moment."
     },
     {
       "id": "ch02_q20",
-      "question": "Who represents the customer",
+      "text": "Who represents the customer's needs and acts as a bridge to the insurance company?",
       "options": [
         "The Underwriter",
         "The Actuary",
@@ -240,11 +241,11 @@
         "The Auditor"
       ],
       "correct_index": 2,
-      "explanation": "The agent acts as the primary link between the customer and the company, bringing the customer"
+      "explanation": "The agent acts as the primary link between the customer and the company, bringing the customer's needs to the insurer and vice versa."
     },
     {
       "id": "ch02_q21",
-      "question": "If a customer approaches the Ombudsman, lawyers are:",
+      "text": "If a customer approaches the Ombudsman, lawyers are:",
       "options": [
         "Mandatory",
         "Not required and generally not allowed",
@@ -256,7 +257,7 @@
     },
     {
       "id": "ch02_q22",
-      "question": "Within how much time should an Insurance Ombudsman pass an award (final decision)?",
+      "text": "Within how much time should an Insurance Ombudsman pass an award (final decision)?",
       "options": [
         "15 days",
         "1 month",
@@ -268,7 +269,7 @@
     },
     {
       "id": "ch02_q23",
-      "question": "In case the Ombudsman gives a ",
+      "text": "In case the Ombudsman gives a recommendation for mutual settlement, the complainant must accept it within:",
       "options": [
         "7 days",
         "15 days",
@@ -280,7 +281,7 @@
     },
     {
       "id": "ch02_q24",
-      "question": "Which of the following is NOT a characteristic of excellent customer service?",
+      "text": "Which of the following is NOT a characteristic of excellent customer service?",
       "options": [
         "Over-promising and under-delivering",
         "Transparency in terms and conditions",
@@ -292,15 +293,15 @@
     },
     {
       "id": "ch02_q25",
-      "question": "Consumer Protection Act applies to insurance services because:",
+      "text": "Consumer Protection Act applies to insurance services because:",
       "options": [
         "Insurance is a free public service",
-        "Policyholders are considered ",
+        "Policyholders are considered 'Consumers' paying for a service",
         "Insurance companies are government-owned",
         "Only rich people buy insurance"
       ],
       "correct_index": 1,
-      "explanation": "A person buying insurance pays a premium (consideration) for a service. Hence, they fall under the definition of a "
+      "explanation": "A person buying insurance pays a premium (consideration) for a service. Hence, they fall under the definition of a 'Consumer'."
     }
   ]
 }

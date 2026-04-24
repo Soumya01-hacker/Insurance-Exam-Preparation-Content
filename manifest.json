@@ -1,5 +1,5 @@
 {
-  "version": "7.0.2",
+  "version": "7.0.3",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -42,7 +42,7 @@
               "note_images": [
                 "images/introduction_to_insurance_chart.webp"
               ],
-              "test_url": "local"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
             },
             {
               "id": "customer_service",
@@ -75,7 +75,7 @@
               "note_images": [
                 "images/customer_service_chart.webp"
               ],
-              "test_url": "local"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
