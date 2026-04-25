@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_health_mock_3",
+  "chapter_title": "Full Syllabus Mock Test 3 (Health)",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which of the following documents is the primary source of underwriting information for an insurance company?",
+      "options": [
+        "Medical records",
+        "Proposal form",
+        "Agent's confidential report",
+        "Previous policy documents"
+      ],
+      "correct_index": 1,
+      "explanation": "The proposal form is the primary and most basic document filled by the customer, which forms the basis of the insurance contract and underwriting."
+    },
+    {
+      "id": "q2",
+      "text": "The term 'Morbidity' in health insurance refers to what?",
+      "options": [
+        "Incidence of death in a population",
+        "Incidence of illness or disease in a population",
+        "The rate at which policies lapse",
+        "The percentage of fraudulent claims"
+      ],
+      "correct_index": 1,
+      "explanation": "Morbidity refers to the rate or incidence of disease, illness, or sickness in a specific population, which helps in calculating health insurance premiums."
+    },
+    {
+      "id": "q3",
+      "text": "In health insurance, what is the primary purpose of a 'Deductible'?",
+      "options": [
+        "To increase the agent's commission",
+        "To eliminate small, frequent claims and share costs",
+        "To guarantee cashless hospitalization",
+        "To increase the total sum insured"
+      ],
+      "correct_index": 1,
+      "explanation": "A deductible is an initial amount the policyholder pays out-of-pocket before the insurance coverage kicks in, effectively preventing very small, administrative-heavy claims."
+    },
+    {
+      "id": "q4",
+      "text": "Which type of health insurance policy provides a lump sum payment upon the diagnosis of specified severe illnesses?",
+      "options": [
+        "Mediclaim Policy",
+        "Hospital Cash Policy",
+        "Critical Illness Policy",
+        "Personal Accident Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Critical Illness policies pay a predetermined lump sum upon the diagnosis of specified life-threatening diseases like cancer or stroke, regardless of hospital bills."
+    },
+    {
+      "id": "q5",
+      "text": "Pre-hospitalization expenses are generally covered for how many days before admission in a standard health policy?",
+      "options": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard health insurance policies typically cover relevant medical expenses incurred up to 30 days prior to the hospital admission."
+    },
+    {
+      "id": "q6",
+      "text": "Post-hospitalization expenses are typically covered for how many days after discharge?",
+      "options": [
+        "30 days",
+        "45 days",
+        "60 days",
+        "120 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Standard health policies cover follow-up treatments and medicine costs for up to 60 days after the patient is discharged from the hospital."
+    },
+    {
+      "id": "q7",
+      "text": "A hospital that is NOT on the insurance company's or TPA's approved panel is called what?",
+      "options": [
+        "Network Hospital",
+        "Non-network Hospital",
+        "Day Care Center",
+        "Primary Health Center"
+      ],
+      "correct_index": 1,
+      "explanation": "Hospitals without a formal agreement with the insurer/TPA for cashless facilities are called non-network hospitals."
+    },
+    {
+      "id": "q8",
+      "text": "How are claims generally settled when treatment is taken at a Non-network hospital?",
+      "options": [
+        "Cashless basis",
+        "Reimbursement basis",
+        "The claim is completely rejected",
+        "The hospital waives the fees"
+      ],
+      "correct_index": 1,
+      "explanation": "In a non-network hospital, the patient must pay the bill first and then submit the documents to the insurer for reimbursement."
+    },
+    {
+      "id": "q9",
+      "text": "Which section of the Insurance Act, 1938 prohibits the offering or acceptance of rebates (sharing commission)?",
+      "options": [
+        "Section 38",
+        "Section 39",
+        "Section 41",
+        "Section 45"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 41 strictly prohibits agents from passing any portion of their commission to the customer as an inducement to buy the policy."
+    },
+    {
+      "id": "q10",
+      "text": "What is the penalty for violating Section 41 (Prohibition of Rebates) of the Insurance Act?",
+      "options": [
+        "Rs. 1 Lakh",
+        "Rs. 5 Lakhs",
+        "Rs. 10 Lakhs",
+        "Imprisonment for 5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "Any person making default in complying with the provisions of Section 41 shall be liable to a penalty which may extend to ten lakh rupees."
+    },
+    {
+      "id": "q11",
+      "text": "In underwriting, what term is used for adding an extra premium due to a higher risk profile (like obesity or smoking)?",
+      "options": [
+        "Discounting",
+        "Loading",
+        "Copayment",
+        "Subrogation"
+      ],
+      "correct_index": 1,
+      "explanation": "Loading is the additional premium charged by the insurer when the applicant's risk is higher than the standard level."
+    },
+    {
+      "id": "q12",
+      "text": "If an individual is suffering from High Blood Pressure at the time of taking the policy, what risk category do they fall into?",
+      "options": [
+        "Standard Risk",
+        "Sub-standard Risk",
+        "Preferred Risk",
+        "Uninsurable Risk"
+      ],
+      "correct_index": 1,
+      "explanation": "Individuals with pre-existing medical conditions that increase the likelihood of a claim are classified as Sub-standard Risks."
+    },
+    {
+      "id": "q13",
+      "text": "The award passed by the Insurance Ombudsman is binding on whom?",
+      "options": [
+        "Only the Customer",
+        "Only the Insurance Company",
+        "Both the Customer and the Insurance Company",
+        "The TPA"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman's decision is binding on the insurance company. If the customer is not satisfied, they can still approach consumer courts."
+    },
+    {
+      "id": "q14",
+      "text": "What is the time limit for an Insurance Ombudsman to pass an award after receiving all requirements from the complainant?",
+      "options": [
+        "1 month",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman must pass an award within 3 months (90 days) of receiving all required documents."
+    },
+    {
+      "id": "q15",
+      "text": "Who appoints the Insurance Ombudsman?",
+      "options": [
+        "IRDAI Chairman",
+        "Finance Minister of India",
+        "Council for Insurance Ombudsmen (formerly Governing Body of Insurance Council)",
+        "Supreme Court Chief Justice"
+      ],
+      "correct_index": 2,
+      "explanation": "The Council for Insurance Ombudsmen is responsible for appointing the Ombudsman across various centers."
+    },
+    {
+      "id": "q16",
+      "text": "Medical treatments that require less than 24 hours of hospitalization due to technological advancements are known as?",
+      "options": [
+        "OPD treatments",
+        "Alternative treatments",
+        "Day Care procedures",
+        "Domiciliary treatments"
+      ],
+      "correct_index": 2,
+      "explanation": "Procedures like cataract surgery or dialysis that take less than 24 hours are covered under Day Care procedures."
+    },
+    {
+      "id": "q17",
+      "text": "Which principle prevents the insured from making a profit out of an insurance claim?",
+      "options": [
+        "Utmost Good Faith",
+        "Insurable Interest",
+        "Indemnity",
+        "Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "The principle of Indemnity ensures the insured is restored to the same financial position as before the loss, preventing them from profiting."
+    },
+    {
+      "id": "q18",
+      "text": "What is 'Churning' in the context of insurance sales?",
+      "options": [
+        "Mixing two different policies",
+        "Persuading a policyholder to cancel an existing policy to buy a new one for the agent's commission",
+        "Renewing a policy on time",
+        "Increasing the sum insured"
+      ],
+      "correct_index": 1,
+      "explanation": "Churning is an unethical practice where an agent convinces a client to replace a policy just to earn a fresh, higher first-year commission."
+    },
+    {
+      "id": "q19",
+      "text": "Under what circumstance can a health insurance policy be cancelled by the insurer with immediate effect without refunding the premium?",
+      "options": [
+        "If the customer makes too many claims",
+        "If fraud or misrepresentation of material facts is proven",
+        "If the customer reaches 60 years of age",
+        "If the customer moves to another city"
+      ],
+      "correct_index": 1,
+      "explanation": "Proven fraud, moral hazard, or non-disclosure of material facts gives the insurer the right to void the policy without a refund."
+    },
+    {
+      "id": "q20",
+      "text": "According to IRDAI, within how many days must a Grievance Redressal Officer (GRO) acknowledge a customer's written complaint?",
+      "options": [
+        "3 days",
+        "7 days",
+        "15 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "An acknowledgment of the grievance must be sent to the customer within 3 working days of receipt."
+    },
+    {
+      "id": "q21",
+      "text": "Which of the following is considered a 'Moral Hazard'?",
+      "options": [
+        "Having a heart condition",
+        "Working as an underground miner",
+        "Exaggerating the cost of medical bills to get a higher claim",
+        "Failing to wear a seatbelt"
+      ],
+      "correct_index": 2,
+      "explanation": "Moral hazards refer to dishonest character traits or behavioral risks, such as submitting fraudulent or inflated claims."
+    },
+    {
+      "id": "q22",
+      "text": "Which of the following describes a 'Physical Hazard'?",
+      "options": [
+        "Submitting a fake medical bill",
+        "A family history of diabetes",
+        "Working with explosives",
+        "Hiding age details"
+      ],
+      "correct_index": 2,
+      "explanation": "Working with explosives or having a dangerous occupation is a physical hazard because the physical environment increases the risk of injury."
+    },
+    {
+      "id": "q23",
+      "text": "RSBY stands for what in the context of government health insurance schemes?",
+      "options": [
+        "Rajiv Swasthya Bima Yojana",
+        "Rashtriya Swasthya Bima Yojana",
+        "Rural State Bima Yojana",
+        "Regional Swasthya Bima Yojana"
+      ],
+      "correct_index": 1,
+      "explanation": "RSBY stands for Rashtriya Swasthya Bima Yojana, a government scheme aimed at providing health insurance to BPL (Below Poverty Line) families."
+    },
+    {
+      "id": "q24",
+      "text": "In a Personal Accident policy, what does 'PPD' stand for?",
+      "options": [
+        "Pre-Policy Diagnosis",
+        "Post Policy Deduction",
+        "Permanent Partial Disability",
+        "Permanent Patient Disease"
+      ],
+      "correct_index": 2,
+      "explanation": "PPD stands for Permanent Partial Disability, such as the loss of one finger or one eye, where the disability is permanent but not total."
+    },
+    {
+      "id": "q25",
+      "text": "What is the primary factor that determines the premium for an individual health insurance policy?",
+      "options": [
+        "The income of the proposer",
+        "The age of the insured person",
+        "The gender of the agent",
+        "The location of the insurance branch"
+      ],
+      "correct_index": 1,
+      "explanation": "Age is the most critical factor in pricing health insurance, as the risk of illness increases as a person gets older."
+    },
+    {
+      "id": "q26",
+      "text": "Which document acts as the receipt for the initial premium paid by the customer?",
+      "options": [
+        "First Premium Receipt (FPR)",
+        "Proposal Form",
+        "Renewal Notice",
+        "Discharge Voucher"
+      ],
+      "correct_index": 0,
+      "explanation": "The FPR is issued when the insurer accepts the risk and receives the first premium, marking the commencement of coverage."
+    },
+    {
+      "id": "q27",
+      "text": "Under which principle can the insurer claim the salvage (remains of damaged property) after settling a total loss claim?",
+      "options": [
+        "Utmost Good Faith",
+        "Subrogation",
+        "Contribution",
+        "Indemnity"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation allows the insurer to step into the shoes of the insured to recover salvage or sue a guilty third party after a claim is paid."
+    },
+    {
+      "id": "q28",
+      "text": "Which committee was formed in 1993 to recommend reforms in the Indian Insurance Sector?",
+      "options": [
+        "R.N. Malhotra Committee",
+        "Narasimham Committee",
+        "Kelkar Committee",
+        "Kothari Commission"
+      ],
+      "correct_index": 0,
+      "explanation": "The Malhotra Committee recommended the privatization of the insurance sector and the establishment of an independent regulator (IRDAI)."
+    },
+    {
+      "id": "q29",
+      "text": "What is a 'Floater' policy in health insurance?",
+      "options": [
+        "A policy covering only water-borne diseases",
+        "A single policy covering all family members under one overall sum insured",
+        "A policy that pays for marine accidents",
+        "A policy where premiums float according to inflation"
+      ],
+      "correct_index": 1,
+      "explanation": "A Family Floater covers the entire family, and the sum insured can be utilized by any member or a combination of members."
+    },
+    {
+      "id": "q30",
+      "text": "Does standard health insurance cover treatment for injuries caused by a suicide attempt?",
+      "options": [
+        "Yes, completely",
+        "Yes, but with 50% copay",
+        "No, it is a standard exclusion",
+        "Only if treated in a government hospital"
+      ],
+      "correct_index": 2,
+      "explanation": "Self-inflicted injuries and suicide attempts are permanent standard exclusions in health insurance policies."
+    },
+    {
+      "id": "q31",
+      "text": "A group health insurance policy is usually characterized by the lack of what?",
+      "options": [
+        "A master policy",
+        "Cashless facilities",
+        "Individual medical underwriting",
+        "A TPA"
+      ],
+      "correct_index": 2,
+      "explanation": "In group insurance, individual medical tests or underwriting are generally waived off; the risk is assessed for the group as a whole."
+    },
+    {
+      "id": "q32",
+      "text": "What happens to the 'No Claim Bonus' (NCB) if a claim is made during the policy year?",
+      "options": [
+        "The policy is cancelled",
+        "The NCB is reduced by a certain percentage or goes to zero at the next renewal",
+        "The NCB remains unaffected",
+        "The premium is doubled"
+      ],
+      "correct_index": 1,
+      "explanation": "If a claim is filed, the accumulated bonus is proportionately reduced at the time of the next renewal as per policy terms."
+    },
+    {
+      "id": "q33",
+      "text": "Which of the following expenses is NOT covered under standard health insurance?",
+      "options": [
+        "ICU Charges",
+        "Surgeon's fee",
+        "Cost of spectacles or contact lenses",
+        "Cost of medicines during hospitalization"
+      ],
+      "correct_index": 2,
+      "explanation": "Cosmetic items, spectacles, hearing aids, and dental treatments (unless arising from an accident) are standard exclusions."
+    },
+    {
+      "id": "q34",
+      "text": "In case a policyholder wants to transfer their health insurance from Company A to Company B, it is called?",
+      "options": [
+        "Assignment",
+        "Nomination",
+        "Portability",
+        "Endorsement"
+      ],
+      "correct_index": 2,
+      "explanation": "Health Insurance Portability allows policyholders to switch insurers without losing continuity benefits for pre-existing diseases."
+    },
+    {
+      "id": "q35",
+      "text": "Who defines the standard definitions of critical illnesses and standard exclusions to maintain uniformity?",
+      "options": [
+        "Individual Insurance Companies",
+        "The Hospitals",
+        "IRDAI",
+        "The TPA"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI standardizes definitions and exclusions across the industry so that customers are not confused."
+    },
+    {
+      "id": "q36",
+      "text": "A customer bought a policy online but realizes it doesn't meet their needs. What is the mechanism to return it?",
+      "options": [
+        "Grace period",
+        "Free-look period",
+        "Waiting period",
+        "Lock-in period"
+      ],
+      "correct_index": 1,
+      "explanation": "The 15-day Free Look period allows customers to review the terms and return the policy for a refund if unsatisfied."
+    },
+    {
+      "id": "q37",
+      "text": "Which form does the doctor sign at the time of a patient's discharge, detailing the treatment given?",
+      "options": [
+        "Proposal Form",
+        "Discharge Summary",
+        "KYC Form",
+        "Pre-authorization form"
+      ],
+      "correct_index": 1,
+      "explanation": "The Discharge Summary provides a complete history of the patient's illness, treatment, and condition upon leaving the hospital, crucial for claims."
+    },
+    {
+      "id": "q38",
+      "text": "What does AML stand for in the context of insurance compliance?",
+      "options": [
+        "Anti Money Laundering",
+        "Agent Management Ledger",
+        "Annual Medical Limit",
+        "Authorized Medical Leave"
+      ],
+      "correct_index": 0,
+      "explanation": "AML (Anti Money Laundering) guidelines require insurers to perform KYC to prevent illegal money from entering the financial system."
+    },
+    {
+      "id": "q39",
+      "text": "Overseas travel insurance typically calculates premiums based on what?",
+      "options": [
+        "Only the traveler's age",
+        "Age, destination country, and duration of the trip",
+        "The mode of transportation only",
+        "The traveler's occupation"
+      ],
+      "correct_index": 1,
+      "explanation": "Travel insurance risk depends on how old the person is, how expensive healthcare is in the destination country, and how long they stay."
+    },
+    {
+      "id": "q40",
+      "text": "Which of the following is essential for a contract of insurance to be valid?",
+      "options": [
+        "The agent must be a relative",
+        "Presence of Insurable Interest",
+        "The proposer must be wealthy",
+        "The premium must be paid in cash only"
+      ],
+      "correct_index": 1,
+      "explanation": "Without insurable interest (standing to suffer a financial loss if the insured event happens), an insurance contract is a legally void wager."
+    },
+    {
+      "id": "q41",
+      "text": "Which principle ensures that if a person has two health policies, they cannot claim the full amount from both to make a profit?",
+      "options": [
+        "Subrogation",
+        "Contribution",
+        "Proximate Cause",
+        "Utmost Good Faith"
+      ],
+      "correct_index": 1,
+      "explanation": "The principle of Contribution allows insurers to share the loss proportionately, preventing the policyholder from getting paid double for the same bill."
+    },
+    {
+      "id": "q42",
+      "text": "What is the primary role of an Underwriter?",
+      "options": [
+        "To sell policies in the market",
+        "To assess risk and decide terms of acceptance",
+        "To handle hospital negotiations",
+        "To conduct medical surgeries"
+      ],
+      "correct_index": 1,
+      "explanation": "An underwriter evaluates the proposal, assesses the medical risk, and decides whether to accept it and at what premium."
+    },
+    {
+      "id": "q43",
+      "text": "The time period right after buying a new policy during which non-accidental claims are not covered is called?",
+      "options": [
+        "Grace period",
+        "Initial Waiting Period (usually 30 days)",
+        "Survival period",
+        "Cooling-off period"
+      ],
+      "correct_index": 1,
+      "explanation": "Most health policies have a standard initial waiting period of 30 days during which illness-related claims are not admissible (except accidents)."
+    },
+    {
+      "id": "q44",
+      "text": "Who represents the customer and helps them choose the right policy across multiple companies?",
+      "options": [
+        "TPA",
+        "Insurance Broker",
+        "Insurance Agent",
+        "Ombudsman"
+      ],
+      "correct_index": 1,
+      "explanation": "While an agent represents a specific insurance company, an Insurance Broker represents the customer and can sell policies from multiple insurers."
+    },
+    {
+      "id": "q45",
+      "text": "A condition in the policy stating that a specific percentage of the claim amount must be borne by the insured is called?",
+      "options": [
+        "Deductible",
+        "Co-payment",
+        "Rider",
+        "Bonus"
+      ],
+      "correct_index": 1,
+      "explanation": "Co-payment is a cost-sharing requirement expressed as a percentage of the admissible claim amount that the policyholder must pay."
+    },
+    {
+      "id": "q46",
+      "text": "In a hospital cash policy, the benefit is paid based on what?",
+      "options": [
+        "Actual hospital bills",
+        "A fixed daily allowance for each day of hospitalization",
+        "The cost of medicines",
+        "The surgeon's fee"
+      ],
+      "correct_index": 1,
+      "explanation": "A Hospital Cash policy pays a predetermined flat daily amount (e.g., Rs. 1000/day) regardless of the actual medical expenses incurred."
+    },
+    {
+      "id": "q47",
+      "text": "What does IGMS stand for in the context of IRDAI?",
+      "options": [
+        "Indian General Medical System",
+        "Integrated Grievance Management System",
+        "Insurance Governing Medical Standards",
+        "Internal Guidelines for Medical Surgeries"
+      ],
+      "correct_index": 1,
+      "explanation": "IGMS is IRDAI's centralized portal (now Bima Bharosa) for policyholders to register and track grievances against insurance companies."
+    },
+    {
+      "id": "q48",
+      "text": "If an agent collects premium in cash, they must deposit it with the insurer within how much time?",
+      "options": [
+        "24 hours",
+        "7 days",
+        "15 days",
+        "At the end of the month"
+      ],
+      "correct_index": 0,
+      "explanation": "To prevent fraud and ensure timely coverage, agents are required to deposit collected cash premiums with the insurance company within 24 hours."
+    },
+    {
+      "id": "q49",
+      "text": "What does a 'Survival Period' mean in a Critical Illness policy?",
+      "options": [
+        "The patient must survive for a specified period (e.g., 30 days) after diagnosis to get the claim",
+        "The time taken to survive a surgery",
+        "The waiting period before the policy starts",
+        "The time limit to submit the claim form"
+      ],
+      "correct_index": 0,
+      "explanation": "Critical illness policies require the insured to survive for a certain number of days (usually 30) post-diagnosis for the lump-sum benefit to be payable."
+    },
+    {
+      "id": "q50",
+      "text": "If a policy is voided due to non-disclosure of material facts, what happens to the premium paid?",
+      "options": [
+        "It is refunded in full",
+        "It is refunded after a 50% deduction",
+        "It is forfeited (kept) by the insurance company",
+        "It is transferred to the Ombudsman"
+      ],
+      "correct_index": 2,
+      "explanation": "In cases of proven fraud or deliberate non-disclosure, the insurance contract is voided from inception, and all premiums paid are forfeited."
+    }
+  ]
+}

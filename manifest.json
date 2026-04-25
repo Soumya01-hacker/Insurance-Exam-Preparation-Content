@@ -1,5 +1,5 @@
 {
-  "version": "7.9.3",
+  "version": "7.9.4",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -1182,6 +1182,13 @@
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_2.json"
+        },
+        {
+          "id": "ic38_health_mock_3",
+          "title": "Full Syllabus Mock Test 3",
+          "questions": 50,
+          "time": 60,
+          "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_3.json"
         }
       ],
       "sections": [
