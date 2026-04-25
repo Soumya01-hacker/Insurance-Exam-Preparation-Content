@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_07",
+  "chapter_title": "IC-38 Life Mock Test 7",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt07_q1",
+      "text": "What are the three main components used to calculate a life insurance premium?",
+      "options": [
+        "Age, Gender, and Income",
+        "Mortality, Interest, and Expenses",
+        "Agent Commission, Profit, and Taxes",
+        "Sum Assured, Term, and Bonuses"
+      ],
+      "correct_index": 1,
+      "explanation": "Life insurance premiums are calculated based on the estimated Mortality (death rate), Expenses (cost of running the company), and Interest (returns earned on invested premiums)."
+    },
+    {
+      "id": "mt07_q2",
+      "text": "In insurance terminology, what is a 'Peril'?",
+      "options": [
+        "A condition that increases the risk",
+        "The actual event or cause of the financial loss, such as fire or death",
+        "The amount of claim paid",
+        "The person who evaluates the risk"
+      ],
+      "correct_index": 1,
+      "explanation": "A peril is the prime cause of the loss. For example, in life insurance, death is the peril. In fire insurance, fire is the peril."
+    },
+    {
+      "id": "mt07_q3",
+      "text": "If a person has a habit of reckless driving, what type of hazard is this?",
+      "options": [
+        "Physical Hazard",
+        "Occupational Hazard",
+        "Moral Hazard",
+        "Morale Hazard"
+      ],
+      "correct_index": 3,
+      "explanation": "Morale hazard refers to an attitude of carelessness or indifference to loss because the person knows they are insured (e.g., reckless driving)."
+    },
+    {
+      "id": "mt07_q4",
+      "text": "What does a 'Premium Waiver Benefit' (PWB) rider typically do in a Child Insurance Plan?",
+      "options": [
+        "Waives the child's school fees",
+        "Waives all future premiums if the proposer (usually the parent) dies, ensuring the policy continues for the child",
+        "Refunds all premiums at maturity",
+        "Waives the first year's premium"
+      ],
+      "correct_index": 1,
+      "explanation": "In child plans, the PWB rider ensures that if the earning parent dies, the insurance company pays the remaining premiums, and the child receives the full maturity benefit as planned."
+    },
+    {
+      "id": "mt07_q5",
+      "text": "What is the 'Prospectus' of an insurance policy?",
+      "options": [
+        "The policy bond",
+        "A formal document issued by the insurer detailing the product's features, benefits, and exclusions",
+        "The medical report",
+        "The agent's ID card"
+      ],
+      "correct_index": 1,
+      "explanation": "A prospectus is a legally mandated document (or brochure) that explains all the terms, conditions, and benefits of an insurance product to help the customer make an informed decision."
+    },
+    {
+      "id": "mt07_q6",
+      "text": "An agent acting on behalf of the principal (insurance company) has a 'Fiduciary Duty'. What does this mean?",
+      "options": [
+        "Duty to sell maximum policies",
+        "A legal and ethical relationship of absolute trust, confidence, and good faith",
+        "Duty to provide discounts",
+        "Duty to process claims"
+      ],
+      "correct_index": 1,
+      "explanation": "A fiduciary duty means the agent must act honestly, keep client information confidential, and always prioritize the interests of the customer and the principal over personal gain."
+    },
+    {
+      "id": "mt07_q7",
+      "text": "What is 'Valuation' in a life insurance company?",
+      "options": [
+        "Calculating the agent's commission",
+        "The process of estimating the company's future liabilities (claims to be paid) against its current assets to determine surplus or deficit",
+        "Evaluating a customer's health",
+        "Selling the company"
+      ],
+      "correct_index": 1,
+      "explanation": "Actuaries perform a valuation (usually annually) to ensure the company has enough assets to meet all its future commitments to policyholders. If assets exceed liabilities, a surplus is declared."
+    },
+    {
+      "id": "mt07_q8",
+      "text": "Which type of bonus is declared and paid only once, usually when a policy matures or becomes a death claim?",
+      "options": [
+        "Reversionary Bonus",
+        "Interim Bonus",
+        "Terminal Bonus",
+        "Guaranteed Addition"
+      ],
+      "correct_index": 2,
+      "explanation": "A Terminal (or Final) Bonus is a one-time reward given to long-term policyholders at the very end of the policy term, reflecting the overall performance of the participating fund."
+    },
+    {
+      "id": "mt07_q9",
+      "text": "In a Unit Linked Insurance Plan (ULIP), what does 'Fund Switching' mean?",
+      "options": [
+        "Changing the insurance company",
+        "Moving existing accumulated money from one investment fund (e.g., Equity) to another (e.g., Debt)",
+        "Changing the nominee",
+        "Paying the premium from a different bank account"
+      ],
+      "correct_index": 1,
+      "explanation": "Fund switching allows a policyholder to move their accumulated funds from one asset class to another (e.g., debt to equity)."
+    },
+    {
+      "id": "mt07_q10",
+      "text": "In a ULIP, what does 'Premium Redirection' allow a policyholder to do?",
+      "options": [
+        "Get a refund of the premium",
+        "Direct only the *future* premiums into a different fund, without altering the existing accumulated funds",
+        "Pay premium to a different company",
+        "Change the premium paying term"
+      ],
+      "correct_index": 1,
+      "explanation": "While switching moves existing money, premium redirection changes the allocation of future premiums into new funds."
+    },
+    {
+      "id": "mt07_q11",
+      "text": "What is a 'Top-Up Premium' in a ULIP?",
+      "options": [
+        "A penalty for late payment",
+        "An additional lump sum investment made by the policyholder over and above the regular premium",
+        "The agent's commission",
+        "A tax deduction"
+      ],
+      "correct_index": 1,
+      "explanation": "Policyholders can use a Top-Up to invest extra surplus money into their existing ULIP to increase their fund value, subject to certain conditions."
+    },
+    {
+      "id": "mt07_q12",
+      "text": "According to the AML (Anti-Money Laundering) guidelines, PAN card details are mandatory for cash premium payments exceeding what amount?",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 20,000",
+        "Rs. 50,000",
+        "Rs. 1,00,000"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance companies strictly require the policyholder's PAN card if they are paying a premium of Rs. 50,000 or more in cash, to prevent illicit money from entering the system."
+    },
+    {
+      "id": "mt07_q13",
+      "text": "In which year was the Insurance Regulatory and Development Authority of India (IRDAI) established as a statutory body?",
+      "options": [
+        "1956",
+        "1999",
+        "2005",
+        "2015"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI was constituted as an autonomous body in 1999 and incorporated as a statutory body in April 2000 to regulate and develop the insurance industry in India."
+    },
+    {
+      "id": "mt07_q14",
+      "text": "Under life insurance, an underwriter classifies a pregnant woman applying for a policy as:",
+      "options": [
+        "Standard Life",
+        "Uninsurable Life",
+        "A temporary sub-standard risk requiring special consideration or postponement until after delivery",
+        "A preferred life with discounts"
+      ],
+      "correct_index": 2,
+      "explanation": "Pregnancy involves temporary medical risks. Depending on the trimester and complications, an underwriter might postpone the policy issuance until a few months after safe delivery."
+    },
+    {
+      "id": "mt07_q15",
+      "text": "What does a 'Double Indemnity' clause or rider provide?",
+      "options": [
+        "Double the maturity amount",
+        "Payment of twice the base sum assured if the insured's death is caused directly by an accident",
+        "Double commission to the agent",
+        "Payment of claim to two nominees"
+      ],
+      "correct_index": 1,
+      "explanation": "An accidental death benefit (double indemnity) pays out the normal sum assured plus an additional amount equal to the sum assured if death occurs due to an accident."
+    },
+    {
+      "id": "mt07_q16",
+      "text": "Can a married woman take a life insurance policy on her own life under the Married Women's Property (MWP) Act?",
+      "options": [
+        "No, only a husband can take it",
+        "Yes, and she can name her husband as the beneficiary",
+        "Yes, but the trust created will be exclusively for the benefit of her children",
+        "Yes, but she must pay double premium"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 5 of the MWP Act allows a married woman to buy a policy on her own life independently. The benefits become her separate property or a trust for her children."
+    },
+    {
+      "id": "mt07_q17",
+      "text": "Which of the following is considered a 'Proof of Identity' (POI) for KYC purposes?",
+      "options": [
+        "Electricity Bill",
+        "Telephone Bill",
+        "Aadhaar Card or Passport",
+        "Rent Agreement"
+      ],
+      "correct_index": 2,
+      "explanation": "Aadhaar cards, Passports, and Voter IDs serve as official Proof of Identity as they contain a photograph and government authorization. Utility bills are Proof of Address (POA)."
+    },
+    {
+      "id": "mt07_q18",
+      "text": "What happens if a complainant does not accept the award passed by the Insurance Ombudsman within the stipulated time?",
+      "options": [
+        "The insurer is still bound to pay",
+        "The award becomes invalid and the insurer is not obligated to honor it",
+        "The Ombudsman files a court case",
+        "The agent pays the claim"
+      ],
+      "correct_index": 1,
+      "explanation": "The complainant must send an acceptance letter within 1 month. If they don't, the award lapses, and the insurance company does not have to implement the decision."
+    },
+    {
+      "id": "mt07_q19",
+      "text": "Does a customer need to hire a lawyer to represent them before the Insurance Ombudsman?",
+      "options": [
+        "Yes, it is mandatory",
+        "No, lawyers are explicitly not required, and the process is informal and free",
+        "Only for claims above 10 Lakhs",
+        "Yes, if the insurance company uses a lawyer"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman framework is designed to be highly accessible to common people. No legal representation or lawyer is required, and there are no court fees."
+    },
+    {
+      "id": "mt07_q20",
+      "text": "In Health Insurance, what does the term 'Day Care Procedure' refer to?",
+      "options": [
+        "Treatment taken at an OPD (Out Patient Department)",
+        "Medical surgeries or procedures requiring less than 24 hours of hospitalization due to advanced technology",
+        "Taking care of children in a creche",
+        "Hiring a nurse at home"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike standard claims that require a minimum 24-hour hospital stay, day-care procedures (like chemotherapy or cataract surgery) are covered even if the stay is less than 24 hours."
+    },
+    {
+      "id": "mt07_q21",
+      "text": "What is the primary difference between a Critical Illness policy and a standard Mediclaim policy?",
+      "options": [
+        "Critical Illness pays hospital bills directly",
+        "Standard Mediclaim pays a lump sum regardless of bills",
+        "Critical Illness pays a guaranteed lump sum upon diagnosis, whereas Mediclaim reimburses actual hospital bills",
+        "Mediclaim has no waiting period"
+      ],
+      "correct_index": 2,
+      "explanation": "Mediclaim is an indemnity product (pays actual expenses). Critical Illness is a benefit product (pays the full sum assured in one go upon positive diagnosis)."
+    },
+    {
+      "id": "mt07_q22",
+      "text": "In the context of communication skills for an agent, what does 'Active Listening' involve?",
+      "options": [
+        "Interrupting the customer to explain the policy",
+        "Hearing the words but thinking about the next sales pitch",
+        "Paying complete attention, understanding the message, interpreting body language, and providing feedback",
+        "Listening to the customer while checking the phone"
+      ],
+      "correct_index": 2,
+      "explanation": "Active listening is a crucial soft skill where the agent fully concentrates on understanding the customer's exact financial needs and concerns before offering a solution."
+    },
+    {
+      "id": "mt07_q23",
+      "text": "What does a 'Renewable Term Insurance' policy offer?",
+      "options": [
+        "It refunds all premiums",
+        "It allows the policyholder to renew the term policy for another term without undergoing fresh medical underwriting",
+        "It converts into a health policy",
+        "It provides a lifetime pension"
+      ],
+      "correct_index": 1,
+      "explanation": "A renewable term policy guarantees that the insured can extend their coverage for another specific period at the end of the term, regardless of changes in their health."
+    },
+    {
+      "id": "mt07_q24",
+      "text": "If an underwriter classifies a proposal as 'Declined', what does it mean?",
+      "options": [
+        "The risk is too high or uninsurable, and the company refuses to provide insurance",
+        "The premium is increased",
+        "The policy is issued with a lien",
+        "The proposal is postponed for a year"
+      ],
+      "correct_index": 0,
+      "explanation": "When an applicant has a severe terminal illness or highly dangerous profile that the insurer cannot cover even with extra premiums, the proposal is strictly declined."
+    },
+    {
+      "id": "mt07_q25",
+      "text": "In insurance, the mechanism of 'Pooling of Risks' ensures that:",
+      "options": [
+        "Only sick people pay premiums",
+        "The financial losses of a few are shared by a large number of people exposed to similar risks",
+        "The government pays all claims",
+        "Agents share their commissions"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance works on the law of large numbers. A large group contributes to a common pool (premiums), and that pool is used to compensate the few who actually suffer a loss."
+    },
+    {
+      "id": "mt07_q26",
+      "text": "Which entity provides protection to policyholders in case their insurance company goes bankrupt?",
+      "options": [
+        "There is no direct government guarantee, but IRDAI's strict 'Solvency Margin' regulations prevent bankruptcy",
+        "The RBI pays the claims",
+        "The Insurance Ombudsman",
+        "The Agent must refund the premium"
+      ],
+      "correct_index": 0,
+      "explanation": "In India, while there isn't a direct sovereign guarantee, IRDAI strictly enforces an 'Asset to Liability' ratio (Solvency Margin) so insurers always have a 150% buffer to pay claims."
+    },
+    {
+      "id": "mt07_q27",
+      "text": "What does an 'Assignment' of a policy effectively do?",
+      "options": [
+        "Changes the nominee",
+        "Changes the mode of premium payment",
+        "Transfers the legal ownership and rights of the policy from the policyholder to another person or institution",
+        "Cancels the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Assignment is the legal transfer of the title, rights, and interest in an insurance policy, commonly used when taking a loan from a bank against the policy."
+    },
+    {
+      "id": "mt07_q28",
+      "text": "Which policy gives the benefit of life insurance cover to two people (usually spouses) under a single contract?",
+      "options": [
+        "Unit Linked Insurance Plan",
+        "Joint Life Policy",
+        "Keyman Insurance",
+        "Group Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "A Joint Life Policy covers two lives. The death benefit is usually paid out on the death of the first person, after which the policy may terminate or continue depending on the terms."
+    },
+    {
+      "id": "mt07_q29",
+      "text": "What is the 'Net Premium' in life insurance pricing?",
+      "options": [
+        "Mortality cost plus Expenses",
+        "The premium calculated considering only the Mortality cost and Interest earned (excluding expenses)",
+        "The total premium paid by the customer",
+        "The agent's net commission"
+      ],
+      "correct_index": 1,
+      "explanation": "Net Premium is the mathematically pure premium required to meet death claims, based only on the mortality rate and interest. When expenses are added, it becomes the 'Gross Premium'."
+    },
+    {
+      "id": "mt07_q30",
+      "text": "According to IRDAI's Protection of Policyholders' Interests regulations, within how many days must an insurer acknowledge a grievance?",
+      "options": [
+        "3 working days",
+        "7 working days",
+        "10 working days",
+        "15 working days"
+      ],
+      "correct_index": 0,
+      "explanation": "An insurance company must formally acknowledge a customer's complaint or grievance within 3 working days of receiving it, and resolve it within 15 days."
+    },
+    {
+      "id": "mt07_q31",
+      "text": "Under Section 80C, what is the maximum deduction allowed for life insurance premiums in a financial year?",
+      "options": [
+        "Rs. 50,000",
+        "Rs. 1,00,000",
+        "Rs. 1,50,000",
+        "Rs. 2,00,000"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 80C allows individuals to claim a tax deduction up to an aggregate limit of Rs. 1,50,000 for specific investments, including life insurance premiums."
+    },
+    {
+      "id": "mt07_q32",
+      "text": "If the life insurance premium exceeds 10% of the Sum Assured for policies issued after 2012, what is the tax implication on the maturity amount?",
+      "options": [
+        "It is fully tax-free",
+        "The maturity amount becomes taxable, and TDS is deducted",
+        "The policy is cancelled",
+        "The premium is refunded"
+      ],
+      "correct_index": 1,
+      "explanation": "To get tax-free maturity under Section 10(10D), the annual premium must not exceed 10% of the base sum assured. If it does, the payouts become taxable."
+    },
+    {
+      "id": "mt07_q33",
+      "text": "What does a 'Deficit' in a life insurance company's valuation indicate?",
+      "options": [
+        "The company has paid too much commission",
+        "The company's estimated future liabilities are greater than its current assets",
+        "The company has too many agents",
+        "The company is highly profitable"
+      ],
+      "correct_index": 1,
+      "explanation": "A valuation deficit is a serious issue. It means the company mathematically does not have enough funds to meet its future promised payouts to policyholders."
+    },
+    {
+      "id": "mt07_q34",
+      "text": "What is the primary characteristic of a 'Micro-Insurance' product?",
+      "options": [
+        "It is designed for billionaires",
+        "It offers very high sum assured values",
+        "It is designed for the low-income segment with affordable premiums and a maximum cover limit of Rs. 2 Lakhs",
+        "It is only for corporate groups"
+      ],
+      "correct_index": 2,
+      "explanation": "Micro-insurance aims to provide financial protection to rural and low-income demographics by keeping premiums small and the sum assured capped."
+    },
+    {
+      "id": "mt07_q35",
+      "text": "In life insurance, what does 'Title' refer to?",
+      "options": [
+        "The name of the policy (e.g., Jeevan Anand)",
+        "The legal ownership right of the policy and its benefits",
+        "The designation of the agent",
+        "The prefix of the customer (Mr./Mrs.)"
+      ],
+      "correct_index": 1,
+      "explanation": "Title refers to legal ownership. When a policy is assigned, the 'title' is transferred from the policyholder to the assignee."
+    },
+    {
+      "id": "mt07_q36",
+      "text": "What is 'Misrepresentation' in an insurance contract?",
+      "options": [
+        "An innocent or unintentional misstatement of a material fact by the proposer",
+        "A deliberate and fraudulent attempt to hide a disease",
+        "The agent stealing the premium",
+        "The company delaying the claim"
+      ],
+      "correct_index": 0,
+      "explanation": "Misrepresentation is an incorrect statement made without the intention to deceive (unlike fraud, which is deliberate). However, if it affects the risk, it can still void the contract."
+    },
+    {
+      "id": "mt07_q37",
+      "text": "Which document must the insured submit to the insurer to formally report a loss and request payment?",
+      "options": [
+        "First Premium Receipt",
+        "Claim Form",
+        "Proposal Form",
+        "Prospectus"
+      ],
+      "correct_index": 1,
+      "explanation": "The Claim Form is the foundational document of the claim process. The claimant fills it out to formally notify the insurer about the death or loss."
+    },
+    {
+      "id": "mt07_q38",
+      "text": "What is the consequence if a policyholder takes a loan against an endowment policy and fails to pay both the interest and the principal?",
+      "options": [
+        "The agent's license is cancelled",
+        "The insurer can 'Foreclose' (terminate) the policy if the total debt exceeds the policy's surrender value",
+        "The insurer files a police complaint",
+        "The policy continues normally"
+      ],
+      "correct_index": 1,
+      "explanation": "If the outstanding loan plus accumulated interest becomes higher than the surrender value, the insurer serves a notice and foreclosures the policy, settling the debt."
+    },
+    {
+      "id": "mt07_q39",
+      "text": "What does a 'Convertible Whole Life Policy' offer?",
+      "options": [
+        "Option to convert to a health policy",
+        "Provides whole life cover with an option to convert it into an Endowment policy after a specified number of years",
+        "Option to surrender for double value",
+        "Option to transfer the policy to a friend"
+      ],
+      "correct_index": 1,
+      "explanation": "It starts as a whole life protection plan but gives the policyholder the flexibility to convert it into a maturity-paying endowment plan later, typically within the first 5 years."
+    },
+    {
+      "id": "mt07_q40",
+      "text": "What is the primary difference between a 'Deferred Annuity' and an 'Immediate Annuity'?",
+      "options": [
+        "Deferred annuity is for kids; Immediate is for adults",
+        "Immediate annuity starts payouts right away; Deferred annuity involves an accumulation phase before payouts begin",
+        "Deferred annuity has no death benefit",
+        "Immediate annuity requires regular premium payments for 10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Immediate annuities are bought with a lump sum, and the pension starts next month. Deferred annuities allow you to save over years, and the pension starts at a future retirement date."
+    },
+    {
+      "id": "mt07_q41",
+      "text": "The date on which a Deferred Annuity stops accumulating and starts paying out the pension is called:",
+      "options": [
+        "Maturity Date",
+        "Vesting Date",
+        "Commencement Date",
+        "Surrender Date"
+      ],
+      "correct_index": 1,
+      "explanation": "The 'Vesting Date' is the specific date chosen by the policyholder when the accumulation phase officially ends, and the regular annuity (pension) payouts begin."
+    },
+    {
+      "id": "mt07_q42",
+      "text": "If an applicant has a hazardous hobby like skydiving, the underwriter might:",
+      "options": [
+        "Offer a discount",
+        "Charge an extra premium or put an exclusion clause for death caused by skydiving",
+        "Give a double indemnity rider for free",
+        "Ignore it if the applicant is healthy"
+      ],
+      "correct_index": 1,
+      "explanation": "Hazardous hobbies increase mortality risk. The underwriter will either charge extra to cover it or exclude it entirely so the company doesn't pay if death happens due to that specific hobby."
+    },
+    {
+      "id": "mt07_q43",
+      "text": "A life insurance claim occurring after 3 years from the date of issuance is called:",
+      "options": [
+        "Early Claim",
+        "Non-Early Claim",
+        "Fraudulent Claim",
+        "Lapsed Claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Claims arising after 3 continuous years are Non-Early Claims. Under Section 45, insurers cannot repudiate non-early claims on grounds of misstatement, meaning standard processing is smoother."
+    },
+    {
+      "id": "mt07_q44",
+      "text": "Which principle limits the compensation to the exact amount of financial loss incurred?",
+      "options": [
+        "Insurable Interest",
+        "Utmost Good Faith",
+        "Principle of Indemnity",
+        "Principle of Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "Indemnity is applied in general insurance (like health or fire) to ensure the insured does not make a profit but is simply restored to their pre-loss financial position."
+    },
+    {
+      "id": "mt07_q45",
+      "text": "What does an 'Agent's Confidential Report' (ACR) contain?",
+      "options": [
+        "The agent's commission details",
+        "The agent's personal observations regarding the prospect's lifestyle, health, occupation, and financial standing",
+        "The medical test results of the client",
+        "The company's profit statement"
+      ],
+      "correct_index": 1,
+      "explanation": "The ACR is a critical document for the underwriter. The agent, being the field representative, reports any visible moral or physical hazards about the prospect."
+    },
+    {
+      "id": "mt07_q46",
+      "text": "What happens if a policyholder wants to change the address on their policy document?",
+      "options": [
+        "They have to buy a new policy",
+        "They must submit a written request with new address proof, and the company will issue an 'Endorsement'",
+        "They can verbally tell the agent",
+        "They cannot change the address once printed"
+      ],
+      "correct_index": 1,
+      "explanation": "Policy alterations, like changing a registered address, require formal documentary proof. The company then issues an endorsement to legally record the change."
+    },
+    {
+      "id": "mt07_q47",
+      "text": "In Health Insurance, what is the typical waiting period for covering 'Pre-Existing Diseases' (PED)?",
+      "options": [
+        "No waiting period",
+        "Usually between 12 months to 48 months, depending on the policy terms",
+        "10 years",
+        "Until age 60"
+      ],
+      "correct_index": 1,
+      "explanation": "To prevent anti-selection, health insurers impose a waiting period of up to 4 years before they start covering treatments for diseases the person had before buying the policy."
+    },
+    {
+      "id": "mt07_q48",
+      "text": "What is the primary goal of the 'Code of Conduct' for insurance agents?",
+      "options": [
+        "To ensure agents sell only high-premium policies",
+        "To establish professional, ethical, and transparent behavior while dealing with customers",
+        "To restrict agents from selling health insurance",
+        "To ensure agents share their commission"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI enforces the Code of Conduct to ensure that agents do not mis-sell, provide transparent information, and conduct their business with utmost integrity."
+    },
+    {
+      "id": "mt07_q49",
+      "text": "A person has applied for a life insurance policy, but the policy document has not been issued yet. The person dies in an accident. If the insurer had received the premium and issued a First Premium Receipt (FPR), what happens?",
+      "options": [
+        "The claim is rejected because there is no policy bond",
+        "The premium is refunded",
+        "The claim is paid because the issuance of the FPR signifies the acceptance of risk and commencement of the contract",
+        "The agent must pay the claim"
+      ],
+      "correct_index": 2,
+      "explanation": "The FPR is legally binding proof that the insurer has accepted the risk. Even without the physical policy bond, the company is liable to pay the death claim."
+    },
+    {
+      "id": "mt07_q50",
+      "text": "Which type of risk is caused by factors like inflation, stock market crashes, or changes in government policy?",
+      "options": [
+        "Pure Risk",
+        "Fundamental Risk",
+        "Particular Risk",
+        "Physical Hazard"
+      ],
+      "correct_index": 1,
+      "explanation": "Fundamental risks affect large groups or entire economies simultaneously (like recessions or earthquakes), whereas particular risks affect individuals (like a car accident)."
+    }
+  ]
+}
