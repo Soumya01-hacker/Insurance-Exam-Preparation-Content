@@ -1,5 +1,5 @@
 {
-  "version": "7.7.0",
+  "version": "7.8.0",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -1168,6 +1168,7 @@
       "id": "ic38_health",
       "name": "IC-38 Health Insurance",
       "total_chapters": 10,
+      "mock_tests": [],
       "sections": [
         {
           "name": "Section I: Common Module (1-5)",
