@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_09",
+  "chapter_title": "IC-38 Life Mock Test 9",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt09_q1",
+      "text": "What is an 'e-Insurance Account' (eIA)?",
+      "options": [
+        "A bank account to pay premiums",
+        "An electronic account that holds all your insurance policies in digital format, much like a Demat account for shares",
+        "An account for the agent's commission",
+        "A social media account for insurance companies"
+      ],
+      "correct_index": 1,
+      "explanation": "An eIA (Electronic Insurance Account) allows policyholders to keep their life, health, and general insurance policies safely in one digital account, managed by an Insurance Repository."
+    },
+    {
+      "id": "mt09_q2",
+      "text": "Which entity is licensed by IRDAI to open e-Insurance Accounts and maintain electronic policies?",
+      "options": [
+        "Reserve Bank of India",
+        "Insurance Repository",
+        "State Bank of India",
+        "Insurance Ombudsman"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance Repositories are specialized entities authorized by IRDAI to safely maintain data of insurance policies in electronic form on behalf of insurers."
+    },
+    {
+      "id": "mt09_q3",
+      "text": "Which part of the policy document contains the name and address of the insurer and states that the contract is entered into based on the proposal form?",
+      "options": [
+        "The Policy Schedule",
+        "The Preamble",
+        "The Operative Clause",
+        "The Proviso"
+      ],
+      "correct_index": 1,
+      "explanation": "The Preamble is the introductory part of the policy document. It identifies the parties (Insurer and Insured) and sets the foundation of the contract."
+    },
+    {
+      "id": "mt09_q4",
+      "text": "Which part of the policy document details the core promise of the insurer, specifying what event will trigger the claim payout?",
+      "options": [
+        "The Policy Schedule",
+        "The Preamble",
+        "The Operative Clause",
+        "The Exclusions"
+      ],
+      "correct_index": 2,
+      "explanation": "The Operative Clause explicitly states the central promise of the insurance contract, detailing exactly when and under what conditions the insurance company will pay the claim."
+    },
+    {
+      "id": "mt09_q5",
+      "text": "What does 'Ordinary Revival' of a lapsed policy mean?",
+      "options": [
+        "Reviving a policy without paying any premium arrears",
+        "Reviving a policy within a few months of lapse simply by paying the overdue premiums with interest, usually requiring only a Declaration of Good Health",
+        "Buying a new policy",
+        "Reviving a policy by going to court"
+      ],
+      "correct_index": 1,
+      "explanation": "Ordinary revival is the simplest form of reinstatement. If the lapse is recent (typically within 6 months), the insurer revives it based on a simple health declaration and payment of arrears."
+    },
+    {
+      "id": "mt09_q6",
+      "text": "When an agent collects the first premium from a customer, they issue a temporary receipt before the proposal is officially accepted. This is called:",
+      "options": [
+        "First Premium Receipt",
+        "Cover Note",
+        "Deposit Receipt",
+        "Policy Bond"
+      ],
+      "correct_index": 2,
+      "explanation": "Until the underwriter formally accepts the risk, the money collected is kept in a suspense account and acknowledged via a Deposit Receipt. Once accepted, the FPR is issued."
+    },
+    {
+      "id": "mt09_q7",
+      "text": "What is 'Non-Medical Underwriting'?",
+      "options": [
+        "Issuing a health policy",
+        "Rejecting a policy on medical grounds",
+        "Granting life insurance cover without requiring the applicant to undergo any physical medical examination, based solely on the proposal form",
+        "Underwriting done by doctors"
+      ],
+      "correct_index": 2,
+      "explanation": "For younger individuals seeking lower sum assured amounts, insurers often skip expensive medical tests and rely on the health questions answered in the proposal form."
+    },
+    {
+      "id": "mt09_q8",
+      "text": "Underwriting of a minor (child) is usually based on whose financial status?",
+      "options": [
+        "The minor's pocket money",
+        "The Proposer's (usually the parent's) income and existing insurance cover",
+        "The school principal's report",
+        "The minor's future job prospects"
+      ],
+      "correct_index": 1,
+      "explanation": "Since a minor has no income, financial underwriting ensures that the child's life cover is proportionate to the parent's income to prevent moral hazard."
+    },
+    {
+      "id": "mt09_q9",
+      "text": "In insurance, what does 'BMI' stand for, which is a key physical underwriting factor?",
+      "options": [
+        "Basic Medical Indicator",
+        "Body Mass Index",
+        "Blood Measurement Index",
+        "Bone Mass Indicator"
+      ],
+      "correct_index": 1,
+      "explanation": "Body Mass Index (BMI) is calculated using a person's height and weight. It helps underwriters quickly assess if the applicant is underweight, normal, or obese, impacting mortality risk."
+    },
+    {
+      "id": "mt09_q10",
+      "text": "Which type of assignment cannot be easily cancelled or reversed without a fresh assignment deed?",
+      "options": [
+        "Conditional Assignment",
+        "Absolute Assignment",
+        "Temporary Assignment",
+        "Nomination"
+      ],
+      "correct_index": 1,
+      "explanation": "An Absolute Assignment completely and permanently transfers ownership. The only way the original policyholder can get it back is if the assignee executes a new Absolute Assignment back to them."
+    },
+    {
+      "id": "mt09_q11",
+      "text": "Under Section 38, if a policy is assigned, what is the status of the Assignee?",
+      "options": [
+        "They become a nominee",
+        "They become the absolute owner of the policy, with all rights to surrender or take loans",
+        "They only get the money if the policyholder dies",
+        "They become the agent"
+      ],
+      "correct_index": 1,
+      "explanation": "The assignee steps into the shoes of the policyholder. They acquire full legal title and can deal with the policy (like surrendering it) without asking the original owner."
+    },
+    {
+      "id": "mt09_q12",
+      "text": "A policyholder realizes 2 years into a 20-year policy that he cannot afford the premiums. He stops paying but does not want to surrender the policy for cash. What is his best option?",
+      "options": [
+        "Ask the agent to pay",
+        "Apply to convert it into a 'Paid-up' policy",
+        "Cancel the policy and lose all money",
+        "Take a fresh medical test"
+      ],
+      "correct_index": 1,
+      "explanation": "Converting to a Paid-up policy allows the cover to continue at a reduced sum assured until maturity, without the need to pay any further premiums."
+    },
+    {
+      "id": "mt09_q13",
+      "text": "What does 'Guaranteed Surrender Value' (GSV) mean?",
+      "options": [
+        "The maximum amount an agent can earn",
+        "The minimum cash amount legally guaranteed by the insurer to be paid if the policy is terminated early",
+        "The death benefit",
+        "The maturity benefit"
+      ],
+      "correct_index": 1,
+      "explanation": "GSV is a legally mandated minimum amount (usually a percentage of total premiums paid, excluding the first year) that a policyholder is entitled to upon surrendering the policy."
+    },
+    {
+      "id": "mt09_q14",
+      "text": "What is the primary document required by the insurance company to process a maturity claim?",
+      "options": [
+        "Death Certificate",
+        "Original Policy Document and a signed Discharge Voucher",
+        "Medical Examiner's Report",
+        "FIR"
+      ],
+      "correct_index": 1,
+      "explanation": "For a maturity claim, the policyholder must return the original policy bond along with a signed discharge voucher providing bank details for NEFT transfer."
+    },
+    {
+      "id": "mt09_q15",
+      "text": "Who regulates the licensing of Third Party Administrators (TPAs) in the health insurance sector?",
+      "options": [
+        "Indian Medical Association",
+        "Ministry of Health",
+        "IRDAI",
+        "Life Insurance Council"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI regulates all insurance intermediaries, including TPAs, to ensure standard practices in health claims processing and customer service."
+    },
+    {
+      "id": "mt09_q16",
+      "text": "Which type of life insurance is designed to provide regular income after retirement?",
+      "options": [
+        "Term Insurance",
+        "Annuity / Pension Plan",
+        "Money Back Plan",
+        "Child Plan"
+      ],
+      "correct_index": 1,
+      "explanation": "Annuity plans are specifically structured to convert a lump sum or accumulated savings into a guaranteed stream of regular income for the rest of the annuitant's life."
+    },
+    {
+      "id": "mt09_q17",
+      "text": "In a Unit Linked Insurance Plan (ULIP), the charge deducted to cover the administrative expenses of running the policy is called:",
+      "options": [
+        "Mortality Charge",
+        "Fund Management Charge",
+        "Policy Administration Charge",
+        "Surrender Charge"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Administration Charge is a fixed or percentage-based fee deducted periodically (usually monthly) by cancelling units, to cover the insurer's paperwork and servicing costs."
+    },
+    {
+      "id": "mt09_q18",
+      "text": "What is a 'Free Cover Limit' (FCL) in Group Insurance?",
+      "options": [
+        "The premium paid by the employer",
+        "The maximum sum assured up to which employees are accepted without requiring any individual medical evidence",
+        "The age limit for group members",
+        "The limit of hospital bills covered"
+      ],
+      "correct_index": 1,
+      "explanation": "In group policies, underwriters grant a Free Cover Limit. Anyone opting for a sum assured below this limit does not need medical tests, simplifying the enrollment process."
+    },
+    {
+      "id": "mt09_q19",
+      "text": "Under a Group Gratuity Scheme, the insurance policy is taken to fund:",
+      "options": [
+        "The employer's personal holidays",
+        "The employer's statutory liability to pay gratuity to employees upon their retirement or resignation",
+        "The company's marketing expenses",
+        "The employees' children's education"
+      ],
+      "correct_index": 1,
+      "explanation": "Employers buy Group Gratuity policies to professionally manage and fund the lump-sum gratuity payments they are legally required to give employees after 5 years of continuous service."
+    },
+    {
+      "id": "mt09_q20",
+      "text": "Which distribution channel utilizes self-help groups (SHGs), NGOs, and micro-finance institutions to sell insurance?",
+      "options": [
+        "Bancassurance",
+        "Micro-Insurance",
+        "Direct Marketing",
+        "Corporate Agency"
+      ],
+      "correct_index": 1,
+      "explanation": "Micro-insurance heavily relies on community-based organizations like NGOs and SHGs as nodal agencies to reach rural and low-income populations effectively."
+    },
+    {
+      "id": "mt09_q21",
+      "text": "In a participating policy, how does the policyholder receive their share of the company's profits?",
+      "options": [
+        "As company shares",
+        "As a declared Bonus added to their Sum Assured",
+        "As a direct bank transfer every month",
+        "As a discount on the next car purchase"
+      ],
+      "correct_index": 1,
+      "explanation": "Profits in traditional participating policies are distributed by declaring an annual bonus (like Reversionary Bonus), which is added to the policy benefits and paid at maturity/death."
+    },
+    {
+      "id": "mt09_q22",
+      "text": "What does a 'Claimant's Statement' contain?",
+      "options": [
+        "The agent's commission request",
+        "The formal notification of death and details of the deceased, filled by the nominee/heir to initiate a claim",
+        "The doctor's diagnosis",
+        "The police report"
+      ],
+      "correct_index": 1,
+      "explanation": "The Claimant's Statement is the primary form the beneficiary fills out to officially inform the insurer about the death and formally demand the claim payout."
+    },
+    {
+      "id": "mt09_q23",
+      "text": "For a death claim investigation, insurers ask for an 'Attending Physician's Statement'. What is its purpose?",
+      "options": [
+        "To pay the doctor's fees",
+        "To get details about the deceased's last illness, cause of death, and any pre-existing medical history",
+        "To check the hospital's rating",
+        "To prescribe medicines for the nominee"
+      ],
+      "correct_index": 1,
+      "explanation": "The doctor who treated the insured just before death must fill this form. It helps the insurer verify the actual cause of death and check if any material medical facts were hidden."
+    },
+    {
+      "id": "mt09_q24",
+      "text": "What does the term 'Rider' mean in the insurance industry?",
+      "options": [
+        "The person who delivers the policy document",
+        "An amendment or attachment to a base policy that provides supplemental benefits for an extra premium",
+        "A cancellation of the policy",
+        "A customer who rides a motorcycle"
+      ],
+      "correct_index": 1,
+      "explanation": "Riders are optional add-ons (like Accidental Death or Premium Waiver) that customize and enhance the primary life insurance policy."
+    },
+    {
+      "id": "mt09_q25",
+      "text": "Which life insurance plan requires the policyholder to take the investment risk?",
+      "options": [
+        "Whole Life Policy",
+        "Endowment Policy",
+        "Unit Linked Insurance Plan (ULIP)",
+        "Money Back Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "In ULIPs, the funds are invested in the stock market or bonds based on the customer's choice. Therefore, the customer bears the risk of market fluctuations."
+    },
+    {
+      "id": "mt09_q26",
+      "text": "The primary objective of 'Anti-Money Laundering' (AML) guidelines in insurance is to prevent:",
+      "options": [
+        "Agents from earning high commissions",
+        "The financial system from being used to legitimize proceeds of crime",
+        "Customers from buying term insurance",
+        "Insurance companies from making a profit"
+      ],
+      "correct_index": 1,
+      "explanation": "AML rules ensure that criminals cannot use insurance policies (like single premium plans) to deposit illegal 'dirty' money and take out clean money as surrender values or claims."
+    },
+    {
+      "id": "mt09_q27",
+      "text": "If a prospect is overweight and has mild hypertension, an underwriter will most likely categorize them as a:",
+      "options": [
+        "Standard Risk",
+        "Sub-Standard Risk",
+        "Declined Risk",
+        "Preferred Risk"
+      ],
+      "correct_index": 1,
+      "explanation": "These conditions increase the probability of early death, making them a sub-standard risk. They can be insured, but usually with an extra premium."
+    },
+    {
+      "id": "mt09_q28",
+      "text": "An insurance agent is expected to follow 'Ethical Behavior'. This means the agent should:",
+      "options": [
+        "Force the customer to buy the highest premium policy",
+        "Put the customer's interests above their own and provide transparent, honest advice",
+        "Hide policy exclusions to close the sale faster",
+        "Share confidential customer data with other companies"
+      ],
+      "correct_index": 1,
+      "explanation": "Ethics in insurance sales dictate that the agent acts as a trusted advisor, strictly recommending products that suit the customer's needs without hiding any negative features."
+    },
+    {
+      "id": "mt09_q29",
+      "text": "Which type of assignment gives temporary ownership to a bank, but automatically returns the ownership to the policyholder once the bank loan is repaid?",
+      "options": [
+        "Absolute Assignment",
+        "Conditional Assignment",
+        "Permanent Assignment",
+        "Nomination"
+      ],
+      "correct_index": 1,
+      "explanation": "Conditional assignment is primarily used for collateral. The rights revert to the original policyholder upon fulfilling the condition (repaying the loan)."
+    },
+    {
+      "id": "mt09_q30",
+      "text": "Under Section 39 of the Insurance Act, what happens if the policyholder survives till the maturity date of the policy?",
+      "options": [
+        "The nominee gets the maturity amount",
+        "The nomination is cancelled automatically, and the policyholder receives the maturity amount",
+        "The agent receives the amount",
+        "The money is kept by the insurer"
+      ],
+      "correct_index": 1,
+      "explanation": "Nomination only applies to the death benefit. If the policyholder survives to maturity, the nomination has no effect, and the maturity proceeds are paid directly to the policyholder."
+    },
+    {
+      "id": "mt09_q31",
+      "text": "What does a 'Variable Life Insurance' policy offer?",
+      "options": [
+        "Fixed returns regardless of the market",
+        "Flexible premiums and death benefits, with cash values linked to the performance of investment accounts",
+        "Only health benefits",
+        "A policy only for variations in weather"
+      ],
+      "correct_index": 1,
+      "explanation": "Variable policies (like ULIPs) allow the cash value and sometimes the death benefit to vary based on the performance of the underlying market-linked funds."
+    },
+    {
+      "id": "mt09_q32",
+      "text": "What is the primary role of the 'Life Insurance Council' in India?",
+      "options": [
+        "To regulate the stock market",
+        "To act as a representative body for all life insurance companies and coordinate with the government/IRDAI on industry issues",
+        "To sell policies to the government",
+        "To punish fraudulent agents"
+      ],
+      "correct_index": 1,
+      "explanation": "The Life Insurance Council is an industry forum that discusses common issues, sets industry standards, and acts as a bridge between insurers and the regulator (IRDAI)."
+    },
+    {
+      "id": "mt09_q33",
+      "text": "In the case of a 'Joint Life Policy' taken by a husband and wife, when is the claim usually paid?",
+      "options": [
+        "Only when both die at the same time",
+        "Upon the death of the first person, after which the policy usually terminates",
+        "Upon maturity, even if they die",
+        "Only when they divorce"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard Joint Life policies trigger the death benefit payout on the first-to-die basis, providing financial support to the surviving spouse."
+    },
+    {
+      "id": "mt09_q34",
+      "text": "What is 'Moral Hazard' in the context of life insurance?",
+      "options": [
+        "A dangerous physical job like firefighting",
+        "Risks arising from the dishonest character or fraudulent intentions of the insured",
+        "The risk of a heart attack",
+        "The risk of an earthquake"
+      ],
+      "correct_index": 1,
+      "explanation": "Moral hazards refer to subjective traits\u2014like a person buying a huge policy with the intent to commit suicide or stage an accident for the money."
+    },
+    {
+      "id": "mt09_q35",
+      "text": "Which type of life insurance guarantees a high death benefit but provides zero returns if the person survives the term?",
+      "options": [
+        "Endowment Policy",
+        "Money Back Policy",
+        "Pure Term Insurance",
+        "Whole Life Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Pure term insurance is the cheapest form of life cover. It pays the sum assured only on death during the term, but offers no survival or maturity benefit."
+    },
+    {
+      "id": "mt09_q36",
+      "text": "What does a 'Salary Savings Scheme' (SSS) entail?",
+      "options": [
+        "The agent saves his salary",
+        "The employer deducts the life insurance premium directly from the employee's salary and remits it to the insurer",
+        "A bank account for insurance",
+        "A discount given by the employer"
+      ],
+      "correct_index": 1,
+      "explanation": "SSS is a convenient premium payment mode where the employer acts as a facilitator, deducting premiums monthly from salaries, ensuring policies don't lapse."
+    },
+    {
+      "id": "mt09_q37",
+      "text": "If the insurance company finds out during a claim that the deceased had a dangerous occupation (like a stuntman) which was not disclosed, what is the likely outcome?",
+      "options": [
+        "The claim will be paid with a bonus",
+        "The claim may be repudiated (rejected) due to non-disclosure of a material fact",
+        "The agent will be asked to pay",
+        "The claim is paid but the premium is refunded"
+      ],
+      "correct_index": 1,
+      "explanation": "Occupation is a critical material fact. Hiding a highly hazardous job breaches Utmost Good Faith, giving the insurer grounds to reject the death claim."
+    },
+    {
+      "id": "mt09_q38",
+      "text": "According to IRDAI, within how many days must an insurance agent remit the premium collected from a customer to the insurance company?",
+      "options": [
+        "Immediately or within 24 hours",
+        "Within 7 days",
+        "Within 15 days",
+        "Within 1 month"
+      ],
+      "correct_index": 0,
+      "explanation": "Agents hold the collected premium in trust for the company and must deposit it immediately (usually within 24 hours) to ensure the risk cover starts without delay."
+    },
+    {
+      "id": "mt09_q39",
+      "text": "Which of the following is an example of an 'Uninsurable Risk'?",
+      "options": [
+        "The risk of dying in a car accident",
+        "The risk of a factory catching fire",
+        "The risk of losing money in a casino or stock market (Speculative Risk)",
+        "The risk of getting cancer"
+      ],
+      "correct_index": 2,
+      "explanation": "Speculative risks, where there is a possibility of making a gain (like gambling), are uninsurable. Insurance only covers Pure Risks (only loss)."
+    },
+    {
+      "id": "mt09_q40",
+      "text": "What is the consequence of rebating (Section 41) for a policyholder?",
+      "options": [
+        "The policyholder gets a tax benefit",
+        "The policyholder gets a higher sum assured",
+        "The policy can be declared void, and the policyholder is also liable for penalties",
+        "Nothing happens to the policyholder"
+      ],
+      "correct_index": 2,
+      "explanation": "Rebating is illegal for both the giver (agent) and the receiver (customer). If caught, the policy can be cancelled and both face severe fines."
+    },
+    {
+      "id": "mt09_q41",
+      "text": "What does a 'Special Revival Scheme' usually involve?",
+      "options": [
+        "Buying a new policy at a discount",
+        "Shifting the Date of Commencement of the policy forward to reduce the burden of paying past arrears",
+        "Changing the nominee",
+        "Changing the insurance company"
+      ],
+      "correct_index": 1,
+      "explanation": "When a policyholder cannot afford heavy past arrears, the insurer might offer a special revival where the start date is pushed forward, adjusting the age and premium, saving the policy from lapsing completely."
+    },
+    {
+      "id": "mt09_q42",
+      "text": "In a Keyman Insurance policy, who receives the death benefit if the Keyman dies?",
+      "options": [
+        "The Keyman's spouse",
+        "The Keyman's children",
+        "The Employer / Company",
+        "The Insurance Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "The company pays the premium to protect itself from financial loss. Therefore, upon the death of the Keyman, the claim amount is paid directly to the company."
+    },
+    {
+      "id": "mt09_q43",
+      "text": "What is 'Subrogation' primarily used for in insurance?",
+      "options": [
+        "To transfer a life insurance policy",
+        "To allow the insurer to recover the paid claim amount from a negligent third party who caused the loss",
+        "To nominate a minor",
+        "To calculate the bonus"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation is a general insurance principle. If someone else crashes into your car, your insurer pays you, but then uses subrogation rights to sue the guilty party."
+    },
+    {
+      "id": "mt09_q44",
+      "text": "Which type of life insurance guarantees the highest coverage amount for the lowest premium outlay?",
+      "options": [
+        "Endowment Plan",
+        "Money Back Plan",
+        "Term Insurance Plan",
+        "Whole Life Plan"
+      ],
+      "correct_index": 2,
+      "explanation": "Because term insurance contains no savings or investment element, 100% of the premium goes toward covering the mortality risk, resulting in maximum coverage for minimum cost."
+    },
+    {
+      "id": "mt09_q45",
+      "text": "A 30-year-old takes a 20-year term policy. He survives till age 50. What does the policy pay him?",
+      "options": [
+        "The full sum assured",
+        "Half the sum assured",
+        "A refund of premiums",
+        "Nothing is paid, as it is a pure term plan"
+      ],
+      "correct_index": 3,
+      "explanation": "Pure term insurance pays only on death. If the insured survives the term, the contract expires without any maturity value."
+    },
+    {
+      "id": "mt09_q46",
+      "text": "What does an 'Exclusion' regarding Pre-Existing Diseases (PED) mean in health insurance?",
+      "options": [
+        "The disease is covered from day one",
+        "The insurer will not pay for treatments related to the disease that existed before buying the policy, usually for a set waiting period",
+        "The policyholder cannot buy life insurance",
+        "The premium is doubled"
+      ],
+      "correct_index": 1,
+      "explanation": "To prevent fraud, health policies impose a waiting period (often 2-4 years) during which any treatment for a pre-existing medical condition is excluded from coverage."
+    },
+    {
+      "id": "mt09_q47",
+      "text": "In a life insurance policy, what does 'Surrender Value' represent?",
+      "options": [
+        "The amount paid on death",
+        "The amount paid at maturity",
+        "The cash amount the policyholder receives for voluntarily terminating the savings-oriented policy before its maturity",
+        "A penalty fee"
+      ],
+      "correct_index": 2,
+      "explanation": "When a policyholder exits a traditional policy early, the insurer calculates the savings accumulated (after deducting charges) and pays it out as the surrender value."
+    },
+    {
+      "id": "mt09_q48",
+      "text": "Who regulates the investment strategies and fund allocations of Life Insurance Companies in India?",
+      "options": [
+        "SEBI",
+        "Reserve Bank of India",
+        "IRDAI",
+        "Ministry of Corporate Affairs"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI strictly regulates how insurers invest policyholders' money to ensure safety and liquidity, mandating a high percentage of investments in government securities."
+    },
+    {
+      "id": "mt09_q49",
+      "text": "What is an 'Employer-Employee' insurance scheme?",
+      "options": [
+        "A scheme where the employee pays the employer",
+        "A scheme where an employer buys life insurance for employees as a welfare benefit or retention tool",
+        "A government tax scheme",
+        "A health check-up plan"
+      ],
+      "correct_index": 1,
+      "explanation": "In this scheme, the employer pays the premium as a perk. The policy is usually assigned to the employee, and the family gets the death benefit."
+    },
+    {
+      "id": "mt09_q50",
+      "text": "According to the Consumer Protection Act, who is considered a 'Consumer' in insurance?",
+      "options": [
+        "The Agent",
+        "The Insurance Company",
+        "The Policyholder or the Nominee who has paid consideration (premium) for the service",
+        "The IRDAI"
+      ],
+      "correct_index": 2,
+      "explanation": "Anyone who avails a service for a consideration (premium) is a consumer. In life insurance, both the policyholder and the beneficiary (nominee) have the right to approach consumer courts."
+    }
+  ]
+}
