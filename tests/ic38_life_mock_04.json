@@ -509,15 +509,15 @@
     },
     {
       "id": "mt04_q43",
-      "text": "Under which situation can an insurance company invoke the 'Indisputability Clause' (Section 45) to reject a claim after 3 years?",
+      "text": "Under the amended Section 45 of the Insurance Act, what is the maximum time limit an insurer has to question a life insurance policy on any ground whatsoever?",
       "options": [
-        "Mistake in spelling the name",
-        "Delayed premium payment",
-        "Proven deliberate fraud or intentional suppression of material facts",
-        "If the customer complains to the Ombudsman"
+        "1 Year",
+        "2 Years",
+        "3 Years",
+        "5 Years"
       ],
       "correct_index": 2,
-      "explanation": "According to the revised Section 45, no policy can be questioned after 3 years. However, if deliberate fraud can be unequivocally proven, the claim can be repudiated."
+      "explanation": "According to the 2015 amendment of Section 45, no policy can be called in question on ANY ground whatsoever (including fraud) after 3 years have passed from the date of issuance or revival."
     },
     {
       "id": "mt04_q44",

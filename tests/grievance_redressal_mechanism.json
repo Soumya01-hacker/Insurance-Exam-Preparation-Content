@@ -302,6 +302,18 @@
       ],
       "correct_index": 1,
       "explanation": "Under the Consumer Protection Act, a consumer can file a complaint against an insurance company primarily on the grounds of 'Deficiency in Service' or unfair trade practices."
+    },
+    {
+      "id": "ch3_q26",
+      "text": "How many Insurance Ombudsman offices (centers) are currently established across India to handle policyholder grievances?",
+      "options": [
+        "12",
+        "15",
+        "17",
+        "20"
+      ],
+      "correct_index": 2,
+      "explanation": "There are currently 17 Insurance Ombudsman offices located in various cities (like Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Delhi, Guwahati, Hyderabad, Jaipur, Kochi, Kolkata, Lucknow, Mumbai, Noida, Patna, and Pune) to cover the entire country's territorial jurisdiction."
     }
   ]
 }

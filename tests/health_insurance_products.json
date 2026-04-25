@@ -302,6 +302,30 @@
       ],
       "correct_index": 3,
       "explanation": "Before starting the treatment in a cashless scenario, the hospital sends the diagnosis and estimated cost to the TPA. The TPA approves this via a 'Pre-authorization' letter, guaranteeing the payment to the hospital."
+    },
+    {
+      "id": "ch18_q26",
+      "text": "To exercise the right of 'Portability' (switching insurers), a policyholder must apply to the new insurance company at least how many days before the expiry of their current policy?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "90 days"
+      ],
+      "correct_index": 2,
+      "explanation": "As per IRDAI regulations, a policyholder who wishes to port their health insurance must inform the new insurer at least 45 days before the current policy's renewal date to allow time for the transfer of data and underwriting."
+    },
+    {
+      "id": "ch18_q27",
+      "text": "Which of the following is a standard, entry-level health insurance product mandated by IRDAI that all general and health insurance companies in India MUST offer?",
+      "options": [
+        "Arogya Sanjeevani Policy",
+        "Unit Linked Health Plan",
+        "Critical Illness Rider",
+        "High-Value Overseas Cover"
+      ],
+      "correct_index": 0,
+      "explanation": "Arogya Sanjeevani is a standardized health insurance product introduced by IRDAI. It has the same features, terms, and conditions across all insurance companies, making it easy for the common public to understand and compare."
     }
   ]
 }

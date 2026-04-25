@@ -149,7 +149,7 @@
     },
     {
       "id": "mt07_q13",
-      "text": "In which year was the Insurance Regulatory and Development Authority of India (IRDAI) established as a statutory body?",
+      "text": "In which year was the IRDA Act passed by the Parliament of India?",
       "options": [
         "1956",
         "1999",
@@ -157,7 +157,7 @@
         "2015"
       ],
       "correct_index": 1,
-      "explanation": "IRDAI was constituted as an autonomous body in 1999 and incorporated as a statutory body in April 2000 to regulate and develop the insurance industry in India."
+      "explanation": "The IRDA Act was passed in 1999, establishing the Insurance Regulatory and Development Authority of India (IRDAI) to regulate and development the insurance industry."
     },
     {
       "id": "mt07_q14",

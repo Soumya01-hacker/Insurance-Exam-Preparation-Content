@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "ic38_general_mock_5_q1",
-      "text": "In which year was the Insurance Regulatory and Development Authority of India (IRDAI) constituted?",
+      "text": "In which year was the IRDA Act passed by the Parliament of India?",
       "options": [
         "1956",
         "1999",
@@ -13,7 +13,7 @@
         "1972"
       ],
       "correct_index": 1,
-      "explanation": "IRDAI was constituted by an Act of Parliament in 1999 to regulate, promote, and ensure orderly growth of the insurance and re-insurance business in India."
+      "explanation": "The IRDA Act was passed in 1999, which led to the formation of the Insurance Regulatory and Development Authority of India (IRDAI) as the industry regulator."
     },
     {
       "id": "ic38_general_mock_5_q2",
@@ -149,7 +149,7 @@
     },
     {
       "id": "ic38_general_mock_5_q13",
-      "text": "Under the Consumer Protection Act, a complaint regarding a claim dispute of up to Rs. 1 Crore can be filed at:",
+      "text": "As per the 2021 Rules, a complaint regarding a claim dispute of up to Rs. 50 Lakhs can be filed at:",
       "options": [
         "District Consumer Disputes Redressal Commission",
         "State Consumer Disputes Redressal Commission",
@@ -157,7 +157,7 @@
         "Supreme Court"
       ],
       "correct_index": 0,
-      "explanation": "As per the revised Consumer Protection Act 2019 limits, the District Commission entertains complaints where the value of goods/services paid as consideration does not exceed Rs. 1 Crore."
+      "explanation": "While the 2019 Act initially set higher limits, the updated Consumer Protection (Jurisdiction) Rules 2021 set the District Commission's limit to Rs. 50 Lakhs."
     },
     {
       "id": "ic38_general_mock_5_q14",

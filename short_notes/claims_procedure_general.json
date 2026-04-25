@@ -19,8 +19,8 @@
       "title": "🔍 Surveyor's Role",
       "cards": [
         {
-          "title": "1. Mandatory Rule (Rs. 20,000)",
-          "content": "As per Section 64UM, a licensed surveyor is MANDATORY for claims of Rs. 20,000 or MORE.",
+          "title": "1. Mandatory Rule (Rs. 50,000)",
+          "content": "As per Section 64UM, a licensed surveyor is MANDATORY for claims of Rs. 50,000 or MORE.",
           "color": "red"
         },
         {
@@ -50,7 +50,7 @@
       "type": "tips",
       "title": "🚀 Exam Pro-Tips (Repeated Themes)",
       "items": [
-        "Mandatory Surveyor Limit: Rs. 20,000.",
+        "Mandatory Surveyor Limit: Rs. 50,000.",
         "Arbitration Use: Only for Claim Amount (Quantum).",
         "Insured's Duty: Minimize loss (as if uninsured).",
         "Final Settlement Doc: Discharge Voucher."
@@ -62,7 +62,7 @@
       "cards": [
         {
           "title": "Q1. Mandatory surveyor claim amount?",
-          "content": "Answer: Rs. 20,000 and above.",
+          "content": "Answer: Rs. 50,000 and above.",
           "color": "blue"
         },
         {

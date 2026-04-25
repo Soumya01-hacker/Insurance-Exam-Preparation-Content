@@ -41,15 +41,15 @@
     },
     {
       "id": "q4",
-      "text": "As per the Consumer Protection Act, a district forum can entertain complaints up to what value?",
+      "text": "As per the updated Consumer Protection Rules (2021), a District Commission can entertain complaints up to what value?",
       "options": [
-        "Rs. 10 Lakhs",
         "Rs. 20 Lakhs",
         "Rs. 50 Lakhs",
-        "Rs. 1 Crore"
+        "Rs. 1 Crore",
+        "Rs. 2 Crores"
       ],
       "correct_index": 1,
-      "explanation": "As per the 1986 Act (which IC-38 textbooks often refer to), the District Forum limit is up to Rs. 20 Lakhs."
+      "explanation": "According to the Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, the District Commission has jurisdiction for complaints where the value of goods or services paid as consideration does not exceed Rs. 50 Lakhs."
     },
     {
       "id": "q5",

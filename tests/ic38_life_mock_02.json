@@ -177,11 +177,11 @@
       "options": [
         "Prohibition of Rebates",
         "Nomination rules",
-        "Indisputability clause (No policy can be called into question after 3 years)",
+        "Indisputability clause (No policy can be called into question after 3 years on any ground)",
         "Licensing of agents"
       ],
       "correct_index": 2,
-      "explanation": "Section 45 states that an insurer cannot reject a claim or call the policy into question on grounds of misstatement or suppression of facts after 3 years of policy issuance."
+      "explanation": "As per the 2015 amendment to Section 45, no life insurance policy can be called in question on any ground whatsoever, including fraud, after the expiry of 3 years from the date of issuance or revival."
     },
     {
       "id": "ic38_life_mock_02_q16",
