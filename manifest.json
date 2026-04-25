@@ -14,7 +14,7 @@
       "mock_tests": [
         {
           "id": "py_2023_set_01",
-          "title": "Mock Test - 1",
+          "title": "Mock Test 1",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/py_2023_set_01.json",
