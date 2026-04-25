@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_04",
+  "chapter_title": "IC-38 Life Mock Test 4",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt04_q1",
+      "text": "What does 'Human Life Value' (HLV) primarily measure?",
+      "options": [
+        "The exact age of a person",
+        "The future earning capacity of an individual",
+        "The medical expenses of an individual",
+        "The total assets owned by a person"
+      ],
+      "correct_index": 1,
+      "explanation": "HLV calculates the capitalized value of an individual's future net earnings, helping to determine how much life insurance coverage they actually need."
+    },
+    {
+      "id": "mt04_q2",
+      "text": "Which basic principle of insurance is NOT applicable to Life Insurance?",
+      "options": [
+        "Utmost Good Faith",
+        "Insurable Interest",
+        "Indemnity",
+        "Proximate Cause"
+      ],
+      "correct_index": 2,
+      "explanation": "The Principle of Indemnity (restoring to the exact financial position before loss) does not apply to life insurance because human life cannot be assigned a precise financial value."
+    },
+    {
+      "id": "mt04_q3",
+      "text": "If a person has been missing and not heard of for a certain period, the Indian Evidence Act presumes the person to be dead. What is this period?",
+      "options": [
+        "3 years",
+        "5 years",
+        "7 years",
+        "10 years"
+      ],
+      "correct_index": 2,
+      "explanation": "Under Section 108 of the Indian Evidence Act, if a person has not been heard of for 7 years by those who would naturally hear of them, they are presumed dead, and a claim can be filed."
+    },
+    {
+      "id": "mt04_q4",
+      "text": "In the case of a minor's policy, when does the risk usually commence?",
+      "options": [
+        "Immediately upon birth",
+        "When the minor completes 18 years of age",
+        "On the Date of Commencement of Risk (often deferred until a specific age)",
+        "When the proposer dies"
+      ],
+      "correct_index": 2,
+      "explanation": "For children's policies, the risk coverage (life cover) often starts at a later date, known as the deferred date or date of commencement of risk (e.g., when the child turns 7 or 8)."
+    },
+    {
+      "id": "mt04_q5",
+      "text": "What does the 'Persistency Rate' of an insurance agent or company indicate?",
+      "options": [
+        "The number of new policies sold",
+        "The percentage of policies that remain active because customers continue paying renewal premiums",
+        "The number of claims rejected",
+        "The amount of commission earned"
+      ],
+      "correct_index": 1,
+      "explanation": "Persistency measures customer retention. A high persistency rate means clients are satisfied and are regularly paying their renewal premiums."
+    },
+    {
+      "id": "mt04_q6",
+      "text": "What is the primary difference between a Participating and a Non-Participating policy?",
+      "options": [
+        "Non-participating policies do not pay death claims",
+        "Participating policies share in the profits/bonuses of the insurance company",
+        "Participating policies are strictly for health insurance",
+        "Non-participating policies have variable premiums"
+      ],
+      "correct_index": 1,
+      "explanation": "Participating (With-Profit) policies are eligible to receive periodic bonuses declared by the insurer, whereas Non-Participating policies have guaranteed, fixed benefits."
+    },
+    {
+      "id": "mt04_q7",
+      "text": "Under which section of the Income Tax Act is the life insurance premium paid eligible for deduction?",
+      "options": [
+        "Section 10(10D)",
+        "Section 80D",
+        "Section 80C",
+        "Section 80G"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 80C of the Income Tax Act allows taxpayers to claim deductions up to Rs. 1.5 Lakhs per financial year for investments like life insurance premiums."
+    },
+    {
+      "id": "mt04_q8",
+      "text": "Which document is issued by the insurer as evidence that the risk has been accepted and the contract has started?",
+      "options": [
+        "Proposal Form",
+        "First Premium Receipt (FPR)",
+        "Renewal Notice",
+        "Claim Form"
+      ],
+      "correct_index": 1,
+      "explanation": "The FPR is the conclusive proof that the first premium has been received, the proposal is accepted, and the insurance contract has officially begun."
+    },
+    {
+      "id": "mt04_q9",
+      "text": "For which type of policy is a 'Benefit Illustration' mandatory before making a sale?",
+      "options": [
+        "Term Insurance",
+        "Health Insurance",
+        "Unit Linked Insurance Plan (ULIP)",
+        "Motor Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI mandates providing a Benefit Illustration for ULIPs and traditional savings plans to show customers the projected fund values at assumed interest rates (usually 4% and 8%)."
+    },
+    {
+      "id": "mt04_q10",
+      "text": "Which of the following describes 'Anti-Selection' (Adverse Selection)?",
+      "options": [
+        "Healthy people buying more insurance",
+        "People with higher risks or poor health being more likely to buy insurance",
+        "The insurer selecting only healthy lives",
+        "Customers rejecting the policy during the free look period"
+      ],
+      "correct_index": 1,
+      "explanation": "Anti-selection occurs when individuals who know they have a higher risk of claim (like a hidden illness) actively seek out insurance, increasing the risk for the insurer."
+    },
+    {
+      "id": "mt04_q11",
+      "text": "What does a 'Mortality Charge' cover in a ULIP?",
+      "options": [
+        "Fund management expenses",
+        "Agent's commission",
+        "The cost of providing the life insurance cover (death benefit)",
+        "Policy administration costs"
+      ],
+      "correct_index": 2,
+      "explanation": "The mortality charge is deducted from the policyholder's fund value specifically to provide the pure life cover component in a ULIP."
+    },
+    {
+      "id": "mt04_q12",
+      "text": "A life insurance policy states it is a 'Whole Life Policy'. When does the policy mature?",
+      "options": [
+        "After 20 years",
+        "At age 60",
+        "Typically when the insured reaches age 100",
+        "It never matures"
+      ],
+      "correct_index": 2,
+      "explanation": "A whole life policy covers the insured for their entire life. In standard contracts, it is considered to mature if the insured survives to 100 years of age."
+    },
+    {
+      "id": "mt04_q13",
+      "text": "In standard traditional policies, after how many years of continuous premium payment does a policy usually acquire a 'Surrender Value'?",
+      "options": [
+        "Immediately",
+        "After 1 year",
+        "After 2 or 3 years depending on the policy term",
+        "Only at maturity"
+      ],
+      "correct_index": 2,
+      "explanation": "Traditional savings policies typically require premiums to be paid fully for at least 2 consecutive years (sometimes 3 for longer terms) to acquire a guaranteed surrender value."
+    },
+    {
+      "id": "mt04_q14",
+      "text": "What is the maximum limit for a policy loan?",
+      "options": [
+        "Equal to the sum assured",
+        "A specified percentage (usually 80-90%) of the acquired Surrender Value",
+        "Equal to the total premiums paid",
+        "No limit"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance companies generally grant a policy loan up to 80% to 90% of the Surrender Value that the policy has acquired at the time of the loan request."
+    },
+    {
+      "id": "mt04_q15",
+      "text": "Which rider waives off all future premiums if the policyholder suffers from a specified severe disease?",
+      "options": [
+        "Accidental Death Benefit Rider",
+        "Critical Illness Rider (with Premium Waiver Benefit)",
+        "Term Rider",
+        "Hospital Cash Rider"
+      ],
+      "correct_index": 1,
+      "explanation": "A Critical Illness rider with a waiver of premium benefit ensures that if the insured is diagnosed with a covered critical illness, future premiums are waived while the life cover continues."
+    },
+    {
+      "id": "mt04_q16",
+      "text": "What happens if a policyholder misrepresents their age as lower than it actually is?",
+      "options": [
+        "The policy is immediately cancelled",
+        "The insurer pays double the claim",
+        "The sum assured is proportionately reduced based on the correct age's premium",
+        "The agent's license is revoked"
+      ],
+      "correct_index": 2,
+      "explanation": "If the actual age is found to be higher, the standard procedure is to reduce the sum assured to an amount that the paid premium would have bought at the correct age."
+    },
+    {
+      "id": "mt04_q17",
+      "text": "Which document is essential for an assignee to claim the policy money?",
+      "options": [
+        "The original Proposal Form",
+        "The Deed of Assignment and the original Policy Document",
+        "A medical certificate",
+        "The agent's ID card"
+      ],
+      "correct_index": 1,
+      "explanation": "The assignee must produce the original policy document along with the legally executed Deed of Assignment to prove their right to the claim money."
+    },
+    {
+      "id": "mt04_q18",
+      "text": "What is the primary function of a 'Medical Examiner's Report' in underwriting?",
+      "options": [
+        "To prescribe medicines to the prospect",
+        "To evaluate the current health status and detect any underlying physical hazards",
+        "To check the prospect's bank balance",
+        "To verify the prospect's address"
+      ],
+      "correct_index": 1,
+      "explanation": "The medical examiner's report gives the underwriter an objective evaluation of the prospect's health, helping to identify risks like hypertension, diabetes, or physical abnormalities."
+    },
+    {
+      "id": "mt04_q19",
+      "text": "Under the MWP Act, if a policyholder goes bankrupt, can his creditors attach the MWP policy to recover dues?",
+      "options": [
+        "Yes, completely",
+        "Yes, but only up to 50%",
+        "No, the policy is protected as a trust for the wife/children and cannot be attached by creditors",
+        "Yes, if the court permits"
+      ],
+      "correct_index": 2,
+      "explanation": "The Married Women's Property Act creates a legal trust for the named beneficiaries (wife/children). This puts the policy proceeds completely out of reach of the policyholder's creditors."
+    },
+    {
+      "id": "mt04_q20",
+      "text": "What does an 'Extra Premium' signify?",
+      "options": [
+        "A bonus given to the policyholder",
+        "An additional premium charged because the applicant poses a higher (sub-standard) risk",
+        "A tip for the agent",
+        "A tax imposed by the government"
+      ],
+      "correct_index": 1,
+      "explanation": "When an applicant has health issues or a hazardous occupation, the underwriter accepts the risk as 'sub-standard' but charges an extra premium to compensate for the higher risk."
+    },
+    {
+      "id": "mt04_q21",
+      "text": "What is the primary objective of the 'Know Your Customer' (KYC) norms?",
+      "options": [
+        "To prevent money laundering and terrorist financing",
+        "To increase the company's profit",
+        "To market new products",
+        "To reject proposals"
+      ],
+      "correct_index": 0,
+      "explanation": "KYC ensures the establishment of the true identity of the customer, which is critical in preventing the financial system from being used for money laundering or illegal activities."
+    },
+    {
+      "id": "mt04_q22",
+      "text": "If a life insurance claim is rejected, the policyholder can approach the Insurance Ombudsman if the total claim amount does NOT exceed:",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 30 Lakhs",
+        "Rs. 50 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "The territorial jurisdiction and maximum award limit of an Insurance Ombudsman is up to Rs. 30 Lakhs."
+    },
+    {
+      "id": "mt04_q23",
+      "text": "A policyholder wants to stop paying premiums but wants a reduced life cover to continue. What is this concept called?",
+      "options": [
+        "Surrender",
+        "Free Look",
+        "Paid-up Policy",
+        "Grace Period"
+      ],
+      "correct_index": 2,
+      "explanation": "If premiums stop after the policy acquires a surrender value, it can be converted into a 'Paid-up' policy, where a proportionately reduced sum assured continues until maturity/death."
+    },
+    {
+      "id": "mt04_q24",
+      "text": "Which type of assignment is usually done when pledging a policy to a bank for a loan?",
+      "options": [
+        "Absolute Assignment",
+        "Conditional Assignment",
+        "Temporary Assignment",
+        "Fraudulent Assignment"
+      ],
+      "correct_index": 1,
+      "explanation": "In Conditional Assignment, the policy rights are transferred to the lender (bank), but once the loan is fully repaid, the rights automatically revert back to the policyholder."
+    },
+    {
+      "id": "mt04_q25",
+      "text": "Who bears the risk of generating investment returns in an Endowment Policy?",
+      "options": [
+        "The Policyholder",
+        "The Agent",
+        "The Insurance Company",
+        "IRDAI"
+      ],
+      "correct_index": 2,
+      "explanation": "In traditional Endowment policies, benefits are guaranteed. Therefore, the Insurance Company bears all the investment risk to meet those guaranteed obligations."
+    },
+    {
+      "id": "mt04_q26",
+      "text": "What is a 'Vesting Bonus'?",
+      "options": [
+        "A bonus paid immediately in cash",
+        "A bonus added to the policy's value, payable only at maturity or death",
+        "A bonus for the agent",
+        "A penalty fee"
+      ],
+      "correct_index": 1,
+      "explanation": "Vested bonuses (like Reversionary Bonuses) are declared annually and attached to the policy, but they are not paid out immediately. They accumulate and are paid at maturity or death."
+    },
+    {
+      "id": "mt04_q27",
+      "text": "In a Keyman Insurance policy, the premium is paid by:",
+      "options": [
+        "The Key Employee",
+        "The Employer (Company)",
+        "The Government",
+        "The Employee's spouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman insurance is a corporate policy. The employer pays the premium to insure the life of a vital employee, and the claim money goes to the employer to cover business losses."
+    },
+    {
+      "id": "mt04_q28",
+      "text": "Under Section 41 of the Insurance Act, rebating is strictly prohibited. What is the penalty for offering a rebate?",
+      "options": [
+        "Warning letter",
+        "Suspension for 1 month",
+        "A fine which may extend up to Rs. 10 Lakhs",
+        "Jail for 5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "Offering or accepting a rebate (sharing commission) is a severe offense punishable by a heavy fine that can extend up to Rs. 10 Lakhs."
+    },
+    {
+      "id": "mt04_q29",
+      "text": "Which document legally records any changes, additions, or restrictions made to the original insurance policy?",
+      "options": [
+        "Discharge Voucher",
+        "Endorsement",
+        "First Premium Receipt",
+        "Proposal Form"
+      ],
+      "correct_index": 1,
+      "explanation": "An Endorsement is an official written clause attached to the policy document that alters its standard terms, such as recording a change of address or adding a new nominee."
+    },
+    {
+      "id": "mt04_q30",
+      "text": "What happens if a nominee predeceases the policyholder?",
+      "options": [
+        "The policy is cancelled",
+        "The nomination is cancelled and the policyholder must make a new nomination",
+        "The policy money goes to the agent",
+        "The policy money goes to the government"
+      ],
+      "correct_index": 1,
+      "explanation": "Nomination does not confer absolute right. If the nominee dies before the life assured, the nomination becomes void, and the rights revert to the policyholder, who can appoint a new nominee."
+    },
+    {
+      "id": "mt04_q31",
+      "text": "Which plan provides a pension to the individual, but upon their death, returns the original purchase price to the nominee?",
+      "options": [
+        "Term Plan",
+        "Annuity Certain",
+        "Annuity for life with Return of Purchase Price (ROPP)",
+        "Endowment Plan"
+      ],
+      "correct_index": 2,
+      "explanation": "In a Life Annuity with ROPP, the annuitant receives a pension for life. Upon death, the principal amount (purchase price) originally invested is refunded to the nominee."
+    },
+    {
+      "id": "mt04_q32",
+      "text": "What is the 'Net Asset Value' (NAV) in a ULIP?",
+      "options": [
+        "The sum assured of the policy",
+        "The price of one unit of the investment fund",
+        "The mortality charge",
+        "The agent's total commission"
+      ],
+      "correct_index": 1,
+      "explanation": "NAV represents the per-unit market value of the fund in a Unit Linked Insurance Plan. It fluctuates daily based on the performance of the underlying assets (stocks/bonds)."
+    },
+    {
+      "id": "mt04_q33",
+      "text": "According to IRDAI, within how many days must an insurance company resolve a customer grievance raised on the IGMS portal?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurers are mandated by IRDAI to acknowledge and resolve customer complaints registered through the Integrated Grievance Management System (IGMS) within 15 days."
+    },
+    {
+      "id": "mt04_q34",
+      "text": "Which type of hazard refers to a person's lack of integrity, such as making fraudulent claims?",
+      "options": [
+        "Physical Hazard",
+        "Occupational Hazard",
+        "Moral Hazard",
+        "Environmental Hazard"
+      ],
+      "correct_index": 2,
+      "explanation": "Moral hazard involves subjective traits like dishonesty, fraud, or character defects that increase the likelihood of a false or inflated insurance claim."
+    },
+    {
+      "id": "mt04_q35",
+      "text": "An insurance agent is expected to recommend a policy based on the customer's actual needs. This process is called:",
+      "options": [
+        "Underwriting",
+        "Need Analysis",
+        "Rebating",
+        "Subrogation"
+      ],
+      "correct_index": 1,
+      "explanation": "Need Analysis is the ethical sales process where the agent evaluates the prospect's financial situation, goals, and liabilities to recommend the most suitable product."
+    },
+    {
+      "id": "mt04_q36",
+      "text": "In the case of a suicide committed within 12 months from the date of policy revival, what is payable to the nominee?",
+      "options": [
+        "Full Sum Assured",
+        "Nothing",
+        "An amount higher of 80% of the premiums paid till the date of death or the surrender value",
+        "Double the sum assured"
+      ],
+      "correct_index": 2,
+      "explanation": "As per current suicide clauses, if suicide occurs within 12 months of inception or revival, the nominee is typically paid 80% of total premiums paid or the acquired surrender value, whichever is higher."
+    },
+    {
+      "id": "mt04_q37",
+      "text": "What does a 'Convertible Endowment Policy' generally offer?",
+      "options": [
+        "Conversion into a health policy",
+        "Option to convert from a pure term plan into an endowment plan after a certain period without medicals",
+        "Conversion into a mutual fund",
+        "Conversion of sum assured into a loan"
+      ],
+      "correct_index": 1,
+      "explanation": "It starts as a low-cost term policy but provides an inbuilt option to convert it into a savings-oriented endowment plan after a few years, without requiring fresh medical underwriting."
+    },
+    {
+      "id": "mt04_q38",
+      "text": "What is the primary factor that causes the cost of life insurance to increase as a person gets older?",
+      "options": [
+        "Increase in agent commissions",
+        "Increase in mortality rate",
+        "Increase in inflation",
+        "Decrease in company profits"
+      ],
+      "correct_index": 1,
+      "explanation": "Mortality rate is the statistical probability of death at a specific age. As age increases, the mortality rate increases, which inherently drives up the premium cost."
+    },
+    {
+      "id": "mt04_q39",
+      "text": "Which document serves as conclusive proof of age in the absence of a birth certificate?",
+      "options": [
+        "Self-declaration",
+        "Village Panchayat letter",
+        "Horoscope",
+        "School Leaving Certificate (Transfer Certificate)"
+      ],
+      "correct_index": 3,
+      "explanation": "A School/College Leaving Certificate or Board Exam Marksheet containing the Date of Birth is considered a standard, conclusive proof of age."
+    },
+    {
+      "id": "mt04_q40",
+      "text": "Who regulates the investment of funds collected by insurance companies?",
+      "options": [
+        "SEBI",
+        "RBI",
+        "IRDAI",
+        "AMFI"
+      ],
+      "correct_index": 2,
+      "explanation": "While SEBI regulates mutual funds, IRDAI directly regulates and issues strict guidelines on how and where insurance companies can invest policyholders' premium money."
+    },
+    {
+      "id": "mt04_q41",
+      "text": "If a policy is assigned, who is responsible for paying the future premiums?",
+      "options": [
+        "The Agent",
+        "The Assignor or Assignee, as per their mutual agreement",
+        "The Insurer",
+        "The Government"
+      ],
+      "correct_index": 1,
+      "explanation": "Legally, to keep the policy active, either the Assignor (original owner) or the Assignee (new owner) can pay the premium, depending on their private agreement."
+    },
+    {
+      "id": "mt04_q42",
+      "text": "What is 'Adverse Selection' triggered by?",
+      "options": [
+        "Information asymmetry (the customer knows more about their bad health than the insurer)",
+        "High agent commissions",
+        "Too many medical tests",
+        "Strict underwriting rules"
+      ],
+      "correct_index": 0,
+      "explanation": "Adverse selection happens due to information asymmetry, where the proposer conceals vital health facts that the underwriter does not know, leading to an unfair risk transfer."
+    },
+    {
+      "id": "mt04_q43",
+      "text": "Under which situation can an insurance company invoke the 'Indisputability Clause' (Section 45) to reject a claim after 3 years?",
+      "options": [
+        "Mistake in spelling the name",
+        "Delayed premium payment",
+        "Proven deliberate fraud or intentional suppression of material facts",
+        "If the customer complains to the Ombudsman"
+      ],
+      "correct_index": 2,
+      "explanation": "According to the revised Section 45, no policy can be questioned after 3 years. However, if deliberate fraud can be unequivocally proven, the claim can be repudiated."
+    },
+    {
+      "id": "mt04_q44",
+      "text": "What is 'Churning' in insurance sales?",
+      "options": [
+        "Investing in high-risk stocks",
+        "An agent convincing a client to surrender an existing policy just to buy a new one, generating fresh commission",
+        "Mixing health and life insurance",
+        "Paying premiums in advance"
+      ],
+      "correct_index": 1,
+      "explanation": "Churning (or Twisting) is an unethical practice where an agent induces a policyholder to lapse or surrender a good existing policy to buy a new one for the agent's financial gain."
+    },
+    {
+      "id": "mt04_q45",
+      "text": "Which type of life insurance guarantees a payout irrespective of when the insured dies?",
+      "options": [
+        "Term Insurance",
+        "Whole Life Insurance",
+        "Decreasing Term Insurance",
+        "Medical Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Whole Life Insurance covers the person until death (or age 100). Since death is certain, a payout to the nominee (or to the insured at 100) is absolutely guaranteed."
+    },
+    {
+      "id": "mt04_q46",
+      "text": "In case of a policy under the MWP Act, who manages the policy proceeds?",
+      "options": [
+        "The Insurer",
+        "The IRDAI",
+        "Official Trustees appointed by the policyholder",
+        "The Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "The policyholder must appoint specific trustees when creating an MWP policy. The claim amount is paid to these trustees, who manage it for the benefit of the wife/children."
+    },
+    {
+      "id": "mt04_q47",
+      "text": "What is the primary role of a 'Surveyor' or 'Loss Assessor'?",
+      "options": [
+        "To sell policies",
+        "To assess, quantify, and report on the extent of loss in non-life insurance claims",
+        "To conduct medical tests",
+        "To collect premiums"
+      ],
+      "correct_index": 1,
+      "explanation": "While mostly relevant in general insurance, surveyors are independent professionals appointed by insurers to investigate the cause of loss and estimate the claim amount."
+    },
+    {
+      "id": "mt04_q48",
+      "text": "Which factor does an underwriter NOT consider while assessing the 'Financial Hazard' of a prospect?",
+      "options": [
+        "Current Income",
+        "Existing Life Cover",
+        "Occupation and Job Stability",
+        "Favorite Sports Team"
+      ],
+      "correct_index": 3,
+      "explanation": "Financial underwriting ensures the requested sum assured aligns with the prospect's actual earning capacity. Personal hobbies like sports teams are irrelevant to financial risk."
+    },
+    {
+      "id": "mt04_q49",
+      "text": "What happens to the 'Fund Value' in a ULIP if the policyholder dies?",
+      "options": [
+        "It is forfeited by the company",
+        "The nominee gets either the Sum Assured or the Fund Value, whichever is higher (in standard Type 1 ULIPs)",
+        "It goes to the agent",
+        "It is frozen until the policy matures"
+      ],
+      "correct_index": 1,
+      "explanation": "In standard Type 1 ULIPs, upon the death of the life assured, the nominee receives the higher of the guaranteed Sum Assured or the current accumulated Fund Value."
+    },
+    {
+      "id": "mt04_q50",
+      "text": "Which document does the claimant submit to prove the legal title if there is no nomination or assignment in the policy?",
+      "options": [
+        "Succession Certificate",
+        "Identity Card",
+        "Ration Card",
+        "Agent's Declaration"
+      ],
+      "correct_index": 0,
+      "explanation": "If a policyholder dies without a nominee or assignee, the legal heirs must obtain a Succession Certificate from the court to prove their right to receive the claim money."
+    }
+  ]
+}
