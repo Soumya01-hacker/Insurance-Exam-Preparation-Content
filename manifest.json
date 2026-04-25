@@ -691,6 +691,15 @@
       "id": "ic38_general",
       "name": "IC-38 General Insurance",
       "total_chapters": 16,
+      "mock_tests": [
+        {
+          "id": "ic38_general_mock_1",
+          "title": "IC-38 General: Full Syllabus Mock Test 1",
+          "questions": 50,
+          "time": 60,
+          "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_general_mock_1.json"
+        }
+      ],
       "sections": [
         {
           "name": "Section I: Common Module (1-5)",

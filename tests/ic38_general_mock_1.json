@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_general_mock_1",
+  "chapter_title": "IC-38 General: Full Syllabus Mock Test 1",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "ic38_general_mock_1_q1",
+      "text": "What is the name of the first Fire Insurance Company in the world?",
+      "options": [
+        "Fire Office",
+        "Fire Insurance Co.",
+        "National Fire Insurance Co.",
+        "Global Fire Office"
+      ],
+      "correct_index": 0,
+      "explanation": "The 'Fire Office' was the first fire insurance company in the world, established in 1667 after the Great Fire of London."
+    },
+    {
+      "id": "ic38_general_mock_1_q2",
+      "text": "Which of the following is the regulator for the insurance industry in India?",
+      "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) is the statutory body responsible for regulating and promoting the insurance industry in India."
+    },
+    {
+      "id": "ic38_general_mock_1_q3",
+      "text": "By transferring risk to the insurer, it becomes possible to:",
+      "options": [
+        "Enjoy floods",
+        "Make money from insurance",
+        "Enjoy a fire in the factory",
+        "Enjoy peace of mind and plan business effectively"
+      ],
+      "correct_index": 3,
+      "explanation": "Insurance provides security against financial loss, allowing individuals and businesses to operate with peace of mind."
+    },
+    {
+      "id": "ic38_general_mock_1_q4",
+      "text": "In the insurance context, 'risk retention' indicates a situation where:",
+      "options": [
+        "Possibility of loss or damage is not there",
+        "Loss producing event has no value",
+        "Property is covered by insurance",
+        "One decides to bear the risk and its effects"
+      ],
+      "correct_index": 3,
+      "explanation": "Risk retention occurs when an individual or business chooses to self-insure or personally bear the financial consequences of a risk."
+    },
+    {
+      "id": "ic38_general_mock_1_q5",
+      "text": "Risk transfer through risk pooling is called:",
+      "options": [
+        "Savings",
+        "Investment",
+        "Insurance",
+        "Gambling"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance is the process of pooling risks from many individuals to provide protection against the losses of a few."
+    },
+    {
+      "id": "ic38_general_mock_1_q6",
+      "text": "Insurance is a method of sharing the losses of:",
+      "options": [
+        "A 'few' by 'many'",
+        "An individual to another individual",
+        "Many' by a 'few'",
+        "The gains of a few to the many"
+      ],
+      "correct_index": 0,
+      "explanation": "The basic principle of insurance is that the losses of a few are shared by the many who contribute to the insurance pool."
+    },
+    {
+      "id": "ic38_general_mock_1_q7",
+      "text": "Before acceptance of a risk, the insurer arranges a survey and inspection of the property to:",
+      "options": [
+        "Assess the risk for rating purposes",
+        "Find out how the insured purchased the property",
+        "Find out whether other insurers have also inspected the property",
+        "Find out whether neighboring property also can be insured"
+      ],
+      "correct_index": 0,
+      "explanation": "Surveys and inspections help underwriters evaluate the risk level to determine the appropriate premium and policy terms."
+    },
+    {
+      "id": "ic38_general_mock_1_q8",
+      "text": "The principle of utmost good faith is also known by the Latin term:",
+      "options": [
+        "Caveat Emptor",
+        "Causa Proxima",
+        "Uberrimae Fides",
+        "Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "Uberrimae Fides is the Latin term for Utmost Good Faith, requiring full disclosure of all material facts by both parties."
+    },
+    {
+      "id": "ic38_general_mock_1_q9",
+      "text": "Which principle ensures that the insured is restored to the same financial position as before the loss?",
+      "options": [
+        "Subrogation",
+        "Indemnity",
+        "Contribution",
+        "Insurable Interest"
+      ],
+      "correct_index": 1,
+      "explanation": "The Principle of Indemnity states that insurance is meant to compensate for the actual loss, not to allow the insured to profit."
+    },
+    {
+      "id": "ic38_general_mock_1_q10",
+      "text": "The consideration paid by the insured to the insurer for the insurance cover is called:",
+      "options": [
+        "Bonus",
+        "Claim",
+        "Premium",
+        "Deductible"
+      ],
+      "correct_index": 2,
+      "explanation": "Premium is the monetary consideration paid by the policyholder to keep the insurance policy active."
+    },
+    {
+      "id": "ic38_general_mock_1_q11",
+      "text": "Which of the following is NOT a standard general insurance policy?",
+      "options": [
+        "Motor Insurance",
+        "Marine Insurance",
+        "Endowment Policy",
+        "Health Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "An Endowment Policy is a life insurance product, not a general insurance product."
+    },
+    {
+      "id": "ic38_general_mock_1_q12",
+      "text": "What is a proposal form?",
+      "options": [
+        "A formal document issued after a claim",
+        "A formal request for insurance cover by the proposer",
+        "A certificate of insurance",
+        "A renewal notice"
+      ],
+      "correct_index": 1,
+      "explanation": "The proposal form is the primary document where the applicant provides details required by the insurer to assess the risk."
+    },
+    {
+      "id": "ic38_general_mock_1_q13",
+      "text": "What does a 'cover note' indicate?",
+      "options": [
+        "Rejection of the risk",
+        "Temporary proof of insurance cover before the policy is issued",
+        "Final claim settlement document",
+        "List of policy exclusions"
+      ],
+      "correct_index": 1,
+      "explanation": "A cover note is a temporary document issued by the insurer that provides proof of insurance until the formal policy document is prepared."
+    },
+    {
+      "id": "ic38_general_mock_1_q14",
+      "text": "The principle of subrogation is applicable to:",
+      "options": [
+        "Contracts of guarantee",
+        "Life insurance contracts",
+        "Contracts of indemnity only",
+        "All insurance contracts"
+      ],
+      "correct_index": 2,
+      "explanation": "Subrogation applies only to contracts of indemnity (like fire or motor insurance) to prevent the insured from recovering more than the actual loss."
+    },
+    {
+      "id": "ic38_general_mock_1_q15",
+      "text": "The principle of contribution applies when:",
+      "options": [
+        "The insured claims a bonus",
+        "The policy is surrendered",
+        "There are multiple insurance policies covering the same risk",
+        "The premium is paid in installments"
+      ],
+      "correct_index": 2,
+      "explanation": "Contribution ensures that if multiple policies exist for the same risk, all insurers share the loss proportionately."
+    },
+    {
+      "id": "ic38_general_mock_1_q16",
+      "text": "Proximate cause means:",
+      "options": [
+        "The most distant cause of loss",
+        "The active, efficient cause that sets in motion a chain of events bringing about a result",
+        "The cheapest cause to fix",
+        "The deliberate cause by the insured"
+      ],
+      "correct_index": 1,
+      "explanation": "Proximate Cause (Causa Proxima) is the immediate and effective cause of a loss, which determines whether the loss is covered by the policy."
+    },
+    {
+      "id": "ic38_general_mock_1_q17",
+      "text": "Which of the following is considered an 'Act of God' peril?",
+      "options": [
+        "Riot",
+        "Theft",
+        "Earthquake",
+        "Malicious damage"
+      ],
+      "correct_index": 2,
+      "explanation": "Natural disasters like earthquakes, floods, and lightning are classified as 'Acts of God' (force majeure) in insurance."
+    },
+    {
+      "id": "ic38_general_mock_1_q18",
+      "text": "In motor insurance, 'Third Party' refers to:",
+      "options": [
+        "The insurance company",
+        "The policyholder",
+        "Anyone other than the insured and the insurer",
+        "The insurance agent"
+      ],
+      "correct_index": 2,
+      "explanation": "In an insurance contract, the Insurer is the 1st party, the Insured is the 2nd party, and any other affected person is the 3rd party."
+    },
+    {
+      "id": "ic38_general_mock_1_q19",
+      "text": "What does 'OD' stand for in motor insurance?",
+      "options": [
+        "Over Draft",
+        "Own Damage",
+        "Other Damages",
+        "On Delivery"
+      ],
+      "correct_index": 1,
+      "explanation": "Own Damage (OD) cover protects the policyholder's own vehicle against damage due to accidents, fire, theft, or natural calamities."
+    },
+    {
+      "id": "ic38_general_mock_1_q20",
+      "text": "Health insurance policies generally do NOT cover:",
+      "options": [
+        "Hospitalization expenses",
+        "Cosmetic surgery",
+        "Daycare procedures",
+        "Pre-hospitalization expenses"
+      ],
+      "correct_index": 1,
+      "explanation": "Cosmetic or aesthetic surgeries are typically excluded from health insurance unless required due to an accident or injury."
+    },
+    {
+      "id": "ic38_general_mock_1_q21",
+      "text": "The standard grace period for the renewal of a health insurance policy is typically:",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 2,
+      "explanation": "A grace period of 30 days is usually allowed to renew a health policy without losing continuity benefits."
+    },
+    {
+      "id": "ic38_general_mock_1_q22",
+      "text": "A 'Family Floater' health insurance policy covers:",
+      "options": [
+        "Only the primary earner",
+        "Multiple family members under a single shared sum insured",
+        "Only senior citizens in the family",
+        "Only the children"
+      ],
+      "correct_index": 1,
+      "explanation": "A family floater allows all family members to be covered under one policy, sharing a single pool of sum insured."
+    },
+    {
+      "id": "ic38_general_mock_1_q23",
+      "text": "Marine cargo insurance covers risks mainly during:",
+      "options": [
+        "Manufacturing of goods",
+        "Transit of goods",
+        "Storage in a retail shop",
+        "Consumption of goods"
+      ],
+      "correct_index": 1,
+      "explanation": "Marine cargo insurance provides protection for goods while they are in transit by sea, air, or land."
+    },
+    {
+      "id": "ic38_general_mock_1_q24",
+      "text": "Fidelity guarantee insurance protects an employer against:",
+      "options": [
+        "Financial loss caused by fraud or dishonesty of employees",
+        "Loss of profit due to fire",
+        "Liability arising from defective products",
+        "Workplace accidents"
+      ],
+      "correct_index": 0,
+      "explanation": "Fidelity Guarantee covers losses sustained by the employer due to acts of forgery, embezzlement, or theft by employees."
+    },
+    {
+      "id": "ic38_general_mock_1_q25",
+      "text": "Who is the primary beneficiary in a Keyman insurance policy?",
+      "options": [
+        "The keyman's family",
+        "The employer/company",
+        "The insurance agent",
+        "The government"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman insurance is taken by a business to protect itself against financial loss resulting from the death of a key employee."
+    },
+    {
+      "id": "ic38_general_mock_1_q26",
+      "text": "Burglary insurance policies usually require proof of:",
+      "options": [
+        "A completely unlocked premise",
+        "Forcible and violent entry or exit",
+        "Employee negligence",
+        "Natural disaster"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard burglary policies define the act as involving forcible and violent entry into or exit from the premises."
+    },
+    {
+      "id": "ic38_general_mock_1_q27",
+      "text": "The Insurance Ombudsman in the insurance sector can resolve disputes up to the value of:",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 30 Lakhs",
+        "Rs. 50 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Ombudsman has the authority to award compensation up to a maximum of Rs. 30 Lakhs."
+    },
+    {
+      "id": "ic38_general_mock_1_q28",
+      "text": "The time limit for filing a complaint with the Insurance Ombudsman is within:",
+      "options": [
+        "30 days of rejection of the claim",
+        "6 months of rejection of the claim",
+        "One year of rejection of the claim by the insurer",
+        "Three years of rejection of the claim"
+      ],
+      "correct_index": 2,
+      "explanation": "A complaint must be filed with the Ombudsman within 12 months after the insurer has rejected the representation."
+    },
+    {
+      "id": "ic38_general_mock_1_q29",
+      "text": "In health insurance, what is a 'waiting period'?",
+      "options": [
+        "The time taken to issue the policy",
+        "The time taken to settle a claim",
+        "The time during which specific diseases or conditions are not covered",
+        "The time given to pay the premium"
+      ],
+      "correct_index": 2,
+      "explanation": "Waiting periods apply to pre-existing diseases or specific surgeries where coverage starts only after a certain duration (e.g., 2-4 years)."
+    },
+    {
+      "id": "ic38_general_mock_1_q30",
+      "text": "What is a 'deductible' in an insurance policy?",
+      "options": [
+        "An amount discounted from the premium",
+        "The initial amount of the claim that must be borne by the insured",
+        "The tax deducted at source",
+        "The agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "A deductible is a fixed amount that the policyholder must pay towards a claim before the insurer covers the rest."
+    },
+    {
+      "id": "ic38_general_mock_1_q31",
+      "text": "Which insurance is mandatory for all motor vehicles plying on public roads in India?",
+      "options": [
+        "Comprehensive Insurance",
+        "Third Party Liability Insurance",
+        "Personal Accident Cover",
+        "Theft Cover"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the Motor Vehicles Act, Third Party Liability insurance is legally mandatory for all vehicles used in public spaces."
+    },
+    {
+      "id": "ic38_general_mock_1_q32",
+      "text": "The concept of 'Insurable Interest' must exist at what time in general insurance?",
+      "options": [
+        "Only at the time of inception",
+        "Only at the time of claim",
+        "At both inception and at the time of the claim",
+        "It is not required in general insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "In general insurance (like fire or motor), the insured must have an insurable interest both when buying the policy and when a loss occurs."
+    },
+    {
+      "id": "ic38_general_mock_1_q33",
+      "text": "What is the standard duration of a basic fire insurance policy?",
+      "options": [
+        "6 months",
+        "1 year",
+        "3 years",
+        "5 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard fire insurance policies are usually issued for a period of 12 months and renewed annually."
+    },
+    {
+      "id": "ic38_general_mock_1_q34",
+      "text": "TPA in health insurance stands for:",
+      "options": [
+        "Third Party Agent",
+        "Total Premium Amount",
+        "Third Party Administrator",
+        "Temporary Policy Agreement"
+      ],
+      "correct_index": 2,
+      "explanation": "TPAs are entities licensed by IRDAI to provide administrative services like claim processing and cashless approvals for health insurers."
+    },
+    {
+      "id": "ic38_general_mock_1_q35",
+      "text": "What does 'Cashless Facility' mean in health insurance?",
+      "options": [
+        "The insured does not need to pay premium in cash",
+        "The hospital bills are directly settled by the insurer or TPA up to the approved limit",
+        "No money is involved in the insurance contract",
+        "The claim is paid directly in cash to the insured"
+      ],
+      "correct_index": 1,
+      "explanation": "Cashless facility allows the insured to receive treatment at network hospitals without paying the bills upfront (except for non-medical expenses)."
+    },
+    {
+      "id": "ic38_general_mock_1_q36",
+      "text": "Professional Indemnity insurance is usually taken by:",
+      "options": [
+        "Factory workers",
+        "Doctors, lawyers, and architects",
+        "Students",
+        "Farmers"
+      ],
+      "correct_index": 1,
+      "explanation": "Professional Indemnity (PI) covers legal liability arising from errors, omissions, or negligence in professional services."
+    },
+    {
+      "id": "ic38_general_mock_1_q37",
+      "text": "What does 'Endorsement' mean in an insurance policy?",
+      "options": [
+        "A promotional advertisement for the policy",
+        "Cancellation of the policy",
+        "A document attached to the policy that modifies or alters its original terms",
+        "The signature of the insured"
+      ],
+      "correct_index": 2,
+      "explanation": "An endorsement is a formal amendment to the policy document to record changes like address updates or sum insured revisions."
+    },
+    {
+      "id": "ic38_general_mock_1_q38",
+      "text": "Moral hazard refers to:",
+      "options": [
+        "Physical conditions that increase the chance of loss",
+        "The attitude, character, or behavior of the insured that increases the chance of loss",
+        "The ethical guidelines of the insurance company",
+        "Hazards created by nature"
+      ],
+      "correct_index": 1,
+      "explanation": "Moral hazard relates to the mental attitude or character of the insured, such as carelessness or dishonest intent to stage a loss."
+    },
+    {
+      "id": "ic38_general_mock_1_q39",
+      "text": "Physical hazard refers to:",
+      "options": [
+        "Dishonesty of the insured",
+        "Physical characteristics of the risk that increase the likelihood of loss",
+        "Financial instability of the insurer",
+        "Lack of insurable interest"
+      ],
+      "correct_index": 1,
+      "explanation": "Physical hazards are tangible factors, such as using flammable materials in a building or poor brakes in a car."
+    },
+    {
+      "id": "ic38_general_mock_1_q40",
+      "text": "Which document contains the complete terms, conditions, and exclusions of the insurance contract?",
+      "options": [
+        "Proposal Form",
+        "Cover Note",
+        "The Policy Document",
+        "Claim Form"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Document is the formal legal evidence of the insurance contract between the insurer and the insured."
+    },
+    {
+      "id": "ic38_general_mock_1_q41",
+      "text": "What is the role of an insurance surveyor/loss assessor?",
+      "options": [
+        "To sell insurance policies",
+        "To independently assess the cause and extent of a loss",
+        "To invest the premium collected",
+        "To draft policy wordings"
+      ],
+      "correct_index": 1,
+      "explanation": "Surveyors are independent professionals who investigate and quantify the extent of loss in general insurance claims over a certain value."
+    },
+    {
+      "id": "ic38_general_mock_1_q42",
+      "text": "The principle of Causa Proxima is used to determine:",
+      "options": [
+        "The premium amount",
+        "The primary, effective cause of the loss",
+        "The age of the insured",
+        "The financial status of the proposer"
+      ],
+      "correct_index": 1,
+      "explanation": "Causa Proxima helps determine if a loss was caused by an insured peril or an excluded peril in a chain of events."
+    },
+    {
+      "id": "ic38_general_mock_1_q43",
+      "text": "In marine insurance, 'Jettison' means:",
+      "options": [
+        "A type of cargo vessel",
+        "Voluntary throwing of cargo overboard to lighten and save the ship",
+        "Sinking of the ship",
+        "Piracy attacks"
+      ],
+      "correct_index": 1,
+      "explanation": "Jettison is a deliberate act of throwing goods overboard during an emergency to prevent the vessel from sinking."
+    },
+    {
+      "id": "ic38_general_mock_1_q44",
+      "text": "Consequential loss insurance is also commonly known as:",
+      "options": [
+        "Liability insurance",
+        "Marine insurance",
+        "Loss of Profit insurance",
+        "Personal Accident insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Consequential loss insurance covers the loss of revenue and business profits resulting from a fire or other insured peril."
+    },
+    {
+      "id": "ic38_general_mock_1_q45",
+      "text": "Which authority issues the license to act as an insurance agent in India?",
+      "options": [
+        "Life Insurance Corporation (LIC)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)",
+        "Ministry of Finance",
+        "General Insurance Corporation (GIC)"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI is the sole authority empowered to grant, renew, or cancel licenses for insurance intermediaries in India."
+    },
+    {
+      "id": "ic38_general_mock_1_q46",
+      "text": "What is the minimum age requirement to become an insurance agent in India?",
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "No minimum age limit"
+      ],
+      "correct_index": 0,
+      "explanation": "An individual must be at least 18 years old and have the required educational qualifications to apply for an agency license."
+    },
+    {
+      "id": "ic38_general_mock_1_q47",
+      "text": "A void contract in insurance is one that is:",
+      "options": [
+        "Valid but can be cancelled",
+        "Unenforceable by law from the beginning",
+        "Valid only in a court of law",
+        "A contract that has expired"
+      ],
+      "correct_index": 1,
+      "explanation": "A void contract has no legal standing and is treated as if it never existed (e.g., insurance taken without insurable interest)."
+    },
+    {
+      "id": "ic38_general_mock_1_q48",
+      "text": "What does 'Sum Insured' represent in a general insurance policy?",
+      "options": [
+        "The total premium to be paid",
+        "The agent's commission",
+        "The maximum liability of the insurer in case of a loss",
+        "The minimum claim amount"
+      ],
+      "correct_index": 2,
+      "explanation": "The Sum Insured is the maximum amount the insurer is liable to pay for any loss during the policy period."
+    },
+    {
+      "id": "ic38_general_mock_1_q49",
+      "text": "Which of these is NOT a function of the insurance agent?",
+      "options": [
+        "Explaining the policy features",
+        "Assisting in filling the proposal form",
+        "Underwriting the risk and setting the premium",
+        "Providing post-sales service"
+      ],
+      "correct_index": 2,
+      "explanation": "Underwriting (assessing risk and setting prices) is the function of the insurance company, not the agent."
+    },
+    {
+      "id": "ic38_general_mock_1_q50",
+      "text": "When does the risk coverage typically begin in general insurance?",
+      "options": [
+        "When the proposal form is printed",
+        "Only when the premium is received by the insurer",
+        "When the agent visits the customer",
+        "When the customer signs the claim form"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 64VB of the Insurance Act states that risk cover cannot commence until the premium is received by the insurer."
+    }
+  ]
+}
