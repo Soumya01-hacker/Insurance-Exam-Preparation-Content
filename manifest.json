@@ -14,7 +14,7 @@
       "mock_tests": [
         {
           "id": "ic38_life_mock_01",
-          "title": "IC-38 Life Mock Test 1",
+          "title": "IC-38 Life: Full Syllabus Mock Test 1",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_01.json",
@@ -22,7 +22,7 @@
         },
         {
           "id": "ic38_life_mock_02",
-          "title": "IC-38 Life Mock Test 2",
+          "title": "IC-38 Life: Full Syllabus Mock Test 2",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_02.json",
@@ -30,7 +30,7 @@
         },
         {
           "id": "ic38_life_mock_03",
-          "title": "IC-38 Life Mock Test 3",
+          "title": "IC-38 Life: Full Syllabus Mock Test 3",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_03.json",
@@ -38,7 +38,7 @@
         },
         {
           "id": "ic38_life_mock_04",
-          "title": "IC-38 Life Mock Test 4",
+          "title": "IC-38 Life: Full Syllabus Mock Test 4",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_04.json",
@@ -46,7 +46,7 @@
         },
         {
           "id": "ic38_life_mock_05",
-          "title": "IC-38 Life Mock Test 5",
+          "title": "IC-38 Life: Full Syllabus Mock Test 5",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_05.json",
@@ -54,7 +54,7 @@
         },
         {
           "id": "ic38_life_mock_06",
-          "title": "IC-38 Life Mock Test 6",
+          "title": "IC-38 Life: Full Syllabus Mock Test 6",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_06.json",
@@ -62,7 +62,7 @@
         },
         {
           "id": "ic38_life_mock_07",
-          "title": "IC-38 Life Mock Test 7",
+          "title": "IC-38 Life: Full Syllabus Mock Test 7",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_07.json",
@@ -70,7 +70,7 @@
         },
         {
           "id": "ic38_life_mock_08",
-          "title": "IC-38 Life Mock Test 8",
+          "title": "IC-38 Life: Full Syllabus Mock Test 8",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_08.json",
@@ -78,7 +78,7 @@
         },
         {
           "id": "ic38_life_mock_09",
-          "title": "IC-38 Life Mock Test 9",
+          "title": "IC-38 Life: Full Syllabus Mock Test 9",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_09.json",
@@ -86,7 +86,7 @@
         },
         {
           "id": "ic38_life_mock_10",
-          "title": "IC-38 Life Mock Test 10",
+          "title": "IC-38 Life: Full Syllabus Mock Test 10",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_life_mock_10.json",
@@ -1171,35 +1171,35 @@
       "mock_tests": [
         {
           "id": "ic38_health_mock_1",
-          "title": "Full Syllabus Mock Test 1",
+          "title": "IC-38 Health: Full Syllabus Mock Test 1",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_1.json"
         },
         {
           "id": "ic38_health_mock_2",
-          "title": "Full Syllabus Mock Test 2",
+          "title": "IC-38 Health: Full Syllabus Mock Test 2",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_2.json"
         },
         {
           "id": "ic38_health_mock_3",
-          "title": "Full Syllabus Mock Test 3",
+          "title": "IC-38 Health: Full Syllabus Mock Test 3",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_3.json"
         },
         {
           "id": "ic38_health_mock_4",
-          "title": "Full Syllabus Mock Test 4",
+          "title": "IC-38 Health: Full Syllabus Mock Test 4",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_4.json"
         },
         {
           "id": "ic38_health_mock_5",
-          "title": "Full Syllabus Mock Test 5",
+          "title": "IC-38 Health: Full Syllabus Mock Test 5",
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_health_mock_5.json"
