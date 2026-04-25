@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_general_mock_3",
+  "chapter_title": "IC-38 General: Full Syllabus Mock Test 3",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "ic38_general_mock_3_q1",
+      "text": "In health insurance, what does 'Domiciliary Hospitalization' mean?",
+      "options": [
+        "Treatment taken in a foreign country",
+        "Medical treatment taken at home which would otherwise require hospitalization",
+        "Treatment in a government hospital only",
+        "Daycare procedures"
+      ],
+      "correct_index": 1,
+      "explanation": "Domiciliary Hospitalization refers to medical treatment for a period exceeding 3 days for a condition that normally requires hospitalization but is taken at home due to the patient's condition or lack of hospital beds."
+    },
+    {
+      "id": "ic38_general_mock_3_q2",
+      "text": "What does 'IDV' stand for in Motor Insurance?",
+      "options": [
+        "Insurance Declared Value",
+        "Insured's Declared Value",
+        "Internal Depreciation Value",
+        "Incidental Damage Value"
+      ],
+      "correct_index": 1,
+      "explanation": "IDV stands for Insured's Declared Value. It represents the maximum sum insured fixed by the insurer, which is the current market value of the vehicle."
+    },
+    {
+      "id": "ic38_general_mock_3_q3",
+      "text": "How is the Insured's Declared Value (IDV) of a vehicle determined?",
+      "options": [
+        "By the insurance agent",
+        "Manufacturer's listed selling price minus depreciation",
+        "The price at which the owner bought the car",
+        "The current market price of a second-hand car"
+      ],
+      "correct_index": 1,
+      "explanation": "IDV is calculated as the manufacturer's listed selling price of the vehicle at the commencement of insurance, adjusted for depreciation based on the vehicle's age."
+    },
+    {
+      "id": "ic38_general_mock_3_q4",
+      "text": "What is the primary purpose of 'Reinsurance'?",
+      "options": [
+        "To sell insurance twice to the same customer",
+        "An insurance company transferring part of its risk to another insurance company",
+        "Insuring a property after it has been damaged",
+        "Renewing a policy after it expires"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinsurance is 'insurance for insurance companies.' It allows primary insurers to protect themselves against large losses by spreading risk to other global reinsurers."
+    },
+    {
+      "id": "ic38_general_mock_3_q5",
+      "text": "What is a 'Network Hospital' in the context of health insurance?",
+      "options": [
+        "A hospital equipped with internet services",
+        "A hospital that provides free treatment to all",
+        "A hospital that has an agreement with the insurer/TPA to provide cashless treatment",
+        "A chain of government hospitals"
+      ],
+      "correct_index": 2,
+      "explanation": "Network hospitals are healthcare providers that have tied up with insurance companies or TPAs to provide cashless treatment facilities to policyholders."
+    },
+    {
+      "id": "ic38_general_mock_3_q6",
+      "text": "Which insurance policy pays a predetermined lump sum amount upon the diagnosis of specified severe ailments?",
+      "options": [
+        "Mediclaim Policy",
+        "Personal Accident Policy",
+        "Critical Illness Policy",
+        "Hospital Cash Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "A Critical Illness policy pays a fixed lump sum (unlike mediclaim which pays actual bills) if the insured is diagnosed with major diseases like Cancer or Heart Attack."
+    },
+    {
+      "id": "ic38_general_mock_3_q7",
+      "text": "Can an individual act as an insurance agent for two different General Insurance companies simultaneously in India?",
+      "options": [
+        "Yes, without any restrictions",
+        "Yes, if they take permission from IRDAI",
+        "No, an agent can represent only one general insurance company",
+        "Yes, if the companies operate in different states"
+      ],
+      "correct_index": 2,
+      "explanation": "As per IRDAI rules, an agent can represent only one Life, one General, one Health, and one Monoline insurer at a time."
+    },
+    {
+      "id": "ic38_general_mock_3_q8",
+      "text": "Section 41 of the Insurance Act, 1938 prohibits which of the following practices?",
+      "options": [
+        "Underwriting",
+        "Rebating (offering part of the commission to the client)",
+        "Subrogation",
+        "Claim Settlement"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 41 strictly prohibits 'rebating', which is the act of offering any inducement or part of the commission to a customer to purchase a policy."
+    },
+    {
+      "id": "ic38_general_mock_3_q9",
+      "text": "What is the unethical practice of persuading a policyholder to cancel an existing policy to buy a new one just to earn a fresh commission?",
+      "options": [
+        "Selling",
+        "Prospecting",
+        "Churning",
+        "Underwriting"
+      ],
+      "correct_index": 2,
+      "explanation": "Churning is an unethical practice where agents encourage customers to replace old policies with new ones solely to generate new commission income."
+    },
+    {
+      "id": "ic38_general_mock_3_q10",
+      "text": "What is the minimum paid-up equity capital required to start a general insurance company in India?",
+      "options": [
+        "Rs. 10 Crores",
+        "Rs. 50 Crores",
+        "Rs. 100 Crores",
+        "Rs. 500 Crores"
+      ],
+      "correct_index": 2,
+      "explanation": "To register a new insurance company in India, a minimum paid-up equity capital of Rs. 100 Crores is required."
+    },
+    {
+      "id": "ic38_general_mock_3_q11",
+      "text": "In general insurance, the property that is saved from loss or damage is known as:",
+      "options": [
+        "Debris",
+        "Salvage",
+        "Wreck",
+        "Scrap"
+      ],
+      "correct_index": 1,
+      "explanation": "Salvage refers to the property or materials rescued from a fire or accident, which the insurer may take possession of after settling a total loss claim."
+    },
+    {
+      "id": "ic38_general_mock_3_q12",
+      "text": "What does a 'Floating Policy' in fire insurance cover?",
+      "options": [
+        "Ships and boats",
+        "Property undergoing construction",
+        "Goods stored at multiple different locations under a single sum insured",
+        "Buildings located in flood-prone areas"
+      ],
+      "correct_index": 2,
+      "explanation": "A floating policy is ideal for businesses with stocks fluctuating between different warehouses, covering all of them under a single sum insured."
+    },
+    {
+      "id": "ic38_general_mock_3_q13",
+      "text": "If an insurance company decides to cancel a general insurance policy mid-term, the premium is usually refunded on a:",
+      "options": [
+        "Short-period scale basis",
+        "Pro-rata basis",
+        "No refund is given",
+        "Full refund basis regardless of time passed"
+      ],
+      "correct_index": 1,
+      "explanation": "When an insurer cancels a policy (except for fraud), they must refund the premium for the remaining period on a proportional (pro-rata) basis."
+    },
+    {
+      "id": "ic38_general_mock_3_q14",
+      "text": "If the insured (customer) decides to cancel a general insurance policy mid-term, the premium is refunded on a:",
+      "options": [
+        "Pro-rata basis",
+        "Short-period scale basis",
+        "100% refund",
+        "No refund is allowed"
+      ],
+      "correct_index": 1,
+      "explanation": "When the customer cancels the policy, the insurer retains a higher portion of the premium according to a 'short-period' scale rather than a simple pro-rata calculation."
+    },
+    {
+      "id": "ic38_general_mock_3_q15",
+      "text": "In marine insurance, a voluntary sacrifice made or an extraordinary expense incurred to save the entire venture from a common peril is known as:",
+      "options": [
+        "Particular Average",
+        "General Average",
+        "Constructive Total Loss",
+        "Actual Total Loss"
+      ],
+      "correct_index": 1,
+      "explanation": "General Average is a principle where all parties involved in a sea venture share the loss resulting from a voluntary sacrifice (like jettisoning cargo) to save the ship."
+    },
+    {
+      "id": "ic38_general_mock_3_q16",
+      "text": "Which of the following covers the legal liability of an employer for occupational injuries or death of employees arising out of their employment?",
+      "options": [
+        "Fidelity Guarantee Insurance",
+        "Public Liability Insurance",
+        "Workmen's Compensation Insurance",
+        "Professional Indemnity Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Workmen's Compensation insurance (now Employees' Compensation) protects employers from the financial burden of legal liabilities towards injured employees."
+    },
+    {
+      "id": "ic38_general_mock_3_q17",
+      "text": "Loss of baggage, passport, and medical emergencies during an international trip are generally covered under:",
+      "options": [
+        "Marine Insurance",
+        "Travel Insurance",
+        "Public Liability Insurance",
+        "Personal Accident Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Travel insurance provides comprehensive protection against various risks faced during domestic or international travel."
+    },
+    {
+      "id": "ic38_general_mock_3_q18",
+      "text": "What does a 'Valued Policy' imply?",
+      "options": [
+        "A policy sold to high-net-worth individuals",
+        "A policy where the value of the subject matter is agreed upon at the inception of the contract",
+        "A policy that appreciates in value over time",
+        "A free policy given as a reward"
+      ],
+      "correct_index": 1,
+      "explanation": "In a valued policy, the sum insured is fixed as the agreed value of the item, and this amount is paid in case of total loss regardless of the actual market value at that time."
+    },
+    {
+      "id": "ic38_general_mock_3_q19",
+      "text": "When must the policyholder inform the insurance company in case of a change of address?",
+      "options": [
+        "At the time of policy renewal",
+        "Only if a claim occurs",
+        "Immediately",
+        "Address change does not need to be reported"
+      ],
+      "correct_index": 2,
+      "explanation": "Any change in material facts, including the communication address or location of risk, must be immediately reported to the insurer."
+    },
+    {
+      "id": "ic38_general_mock_3_q20",
+      "text": "Which of the following is an example of a physical hazard in fire insurance?",
+      "options": [
+        "Dishonesty of the insured",
+        "Carelessness of the employees",
+        "Storing highly flammable chemicals in a wooden building",
+        "A history of fraudulent claims"
+      ],
+      "correct_index": 2,
+      "explanation": "Physical hazards are tangible conditions related to the property itself (like construction material or proximity to fire hazards) that increase the risk of loss."
+    },
+    {
+      "id": "ic38_general_mock_3_q21",
+      "text": "What is 'Double Insurance'?",
+      "options": [
+        "Insuring a property for twice its actual value",
+        "Insuring the same subject matter with two or more insurers for the same peril",
+        "Paying double the premium",
+        "An insurance policy that lasts for two years"
+      ],
+      "correct_index": 1,
+      "explanation": "Double insurance occurs when the same risk is covered by multiple policies. In such cases, the insurers share the loss according to the principle of contribution."
+    },
+    {
+      "id": "ic38_general_mock_3_q22",
+      "text": "A major advantage of 'Group Health Insurance' over individual health insurance is:",
+      "options": [
+        "It is valid for life without renewal",
+        "Waiver of waiting periods for pre-existing diseases is possible",
+        "It covers cosmetic surgeries",
+        "It does not require the payment of a premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Group policies offered to employees often waive the standard waiting periods for pre-existing diseases (PED), providing immediate coverage."
+    },
+    {
+      "id": "ic38_general_mock_3_q23",
+      "text": "Which of the following defines 'Misrepresentation' in an insurance contract?",
+      "options": [
+        "Deliberately hiding a material fact to commit fraud",
+        "Making an innocent or unintentional false statement of a material fact",
+        "Cancelling the policy prematurely",
+        "Failing to pay the premium on time"
+      ],
+      "correct_index": 1,
+      "explanation": "Misrepresentation is an unintentional incorrect statement. If it was intentional with the intent to deceive, it would be termed as Fraud."
+    },
+    {
+      "id": "ic38_general_mock_3_q24",
+      "text": "Aviation insurance generally covers risks associated with:",
+      "options": [
+        "Spacecraft only",
+        "Aircraft hull, passenger liability, and third-party liability",
+        "Airport construction",
+        "Tickets purchased by passengers"
+      ],
+      "correct_index": 1,
+      "explanation": "Aviation insurance provides specialized cover for aircraft damage (hull) and legal liabilities towards passengers and third parties on the ground."
+    },
+    {
+      "id": "ic38_general_mock_3_q25",
+      "text": "Which Act makes it mandatory to hold third-party liability insurance for motor vehicles?",
+      "options": [
+        "The Insurance Act, 1938",
+        "The Consumer Protection Act, 2019",
+        "The Motor Vehicles Act, 1988",
+        "The IRDAI Act, 1999"
+      ],
+      "correct_index": 2,
+      "explanation": "The Motor Vehicles Act, 1988 mandates that no motor vehicle can be driven in a public place without a valid Third Party liability insurance policy."
+    },
+    {
+      "id": "ic38_general_mock_3_q26",
+      "text": "What is the typical geographical coverage of a standard Personal Accident Policy?",
+      "options": [
+        "Within the home state only",
+        "Within India only",
+        "Worldwide",
+        "Only within the city of residence"
+      ],
+      "correct_index": 2,
+      "explanation": "Standard Personal Accident policies usually provide 24x7 worldwide coverage against accidents."
+    },
+    {
+      "id": "ic38_general_mock_3_q27",
+      "text": "What does cattle insurance primarily cover?",
+      "options": [
+        "The cost of feeding the cattle",
+        "Loss of yield of milk",
+        "Death of cattle due to accident or disease",
+        "Theft of fodder"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle insurance protects rural farmers against the financial loss caused by the death of their livestock due to natural perils, accidents, or diseases."
+    },
+    {
+      "id": "ic38_general_mock_3_q28",
+      "text": "An insurance contract is generally considered to be a contract of adhesion. What does this mean?",
+      "options": [
+        "Both parties write the contract together",
+        "The insurer drafts the terms, and the insured must accept them as is (take it or leave it)",
+        "The agent drafts the contract",
+        "The contract is completely flexible and can be changed anytime by the insured"
+      ],
+      "correct_index": 1,
+      "explanation": "In a 'Contract of Adhesion', the stronger party (insurer) prepares the wording, and the weaker party (insured) simply 'adheres' to it. If there's ambiguity, the court usually rules in favor of the insured."
+    },
+    {
+      "id": "ic38_general_mock_3_q29",
+      "text": "The time limit to intimate an insurance company about a motor accident claim is:",
+      "options": [
+        "Within 1 year",
+        "Before the policy expires",
+        "As soon as possible / Immediately",
+        "Only after repairing the vehicle"
+      ],
+      "correct_index": 2,
+      "explanation": "In case of any accident or loss, the insurer must be notified immediately so they can arrange for an inspection by a surveyor."
+    },
+    {
+      "id": "ic38_general_mock_3_q30",
+      "text": "Who represents the customer's interests when acting as an intermediary?",
+      "options": [
+        "An Insurance Agent",
+        "An Insurance Broker",
+        "An Underwriter",
+        "An Actuary"
+      ],
+      "correct_index": 1,
+      "explanation": "An insurance broker is an independent intermediary who represents the customer to find the best deal from various insurance companies."
+    },
+    {
+      "id": "ic38_general_mock_3_q31",
+      "text": "What does a 'Concealment' refer to in insurance?",
+      "options": [
+        "Hiding the policy document",
+        "Intentional withholding of material facts by the proposer",
+        "Insuring stolen goods",
+        "Denying a claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Concealment is the deliberate suppression of a material fact that the insurer should have known to evaluate the risk correctly."
+    },
+    {
+      "id": "ic38_general_mock_3_q32",
+      "text": "In Fire Insurance, 'Spontaneous Combustion' means:",
+      "options": [
+        "Fire caused by a lightning strike",
+        "Fire started intentionally",
+        "Fire occurring due to natural self-heating of materials without an external ignition source",
+        "Fire spread from a neighboring building"
+      ],
+      "correct_index": 2,
+      "explanation": "Spontaneous combustion occurs when certain substances (like coal or oily rags) heat up naturally and catch fire on their own."
+    },
+    {
+      "id": "ic38_general_mock_3_q33",
+      "text": "The legal right of an insurer to take over the salvage after settling a total loss claim is derived from the principle of:",
+      "options": [
+        "Proximate Cause",
+        "Contribution",
+        "Subrogation",
+        "Insurable Interest"
+      ],
+      "correct_index": 2,
+      "explanation": "Under Subrogation, once the insurer pays for a total loss, they take over all rights to whatever remains of the property (salvage)."
+    },
+    {
+      "id": "ic38_general_mock_3_q34",
+      "text": "Under a standard Health Insurance policy, expenses incurred immediately before the patient is admitted to a hospital are called:",
+      "options": [
+        "Post-hospitalization expenses",
+        "Pre-hospitalization expenses",
+        "Daycare expenses",
+        "Out-Patient Department (OPD) expenses"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre-hospitalization expenses usually cover relevant diagnostic tests and consultations incurred 30-60 days prior to admission."
+    },
+    {
+      "id": "ic38_general_mock_3_q35",
+      "text": "In a Personal Accident policy, what does 'Capital Sum Insured' represent?",
+      "options": [
+        "The premium paid",
+        "The agent's commission",
+        "The maximum amount payable in the event of accidental death or permanent total disability",
+        "The hospital room rent limit"
+      ],
+      "correct_index": 2,
+      "explanation": "Capital Sum Insured (CSI) is the primary coverage amount on which disability benefits are calculated."
+    },
+    {
+      "id": "ic38_general_mock_3_q36",
+      "text": "Which of the following entities protects the policyholder in case of a grievance against the insurer that is not resolved?",
+      "options": [
+        "Tariff Advisory Committee",
+        "Insurance Ombudsman",
+        "Life Insurance Council",
+        "General Insurance Council"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman provides a quick and low-cost platform to resolve disputes between insurance companies and individual policyholders."
+    },
+    {
+      "id": "ic38_general_mock_3_q37",
+      "text": "Which of these is NOT a function of the IRDAI?",
+      "options": [
+        "Protecting policyholder interests",
+        "Regulating insurance companies",
+        "Fixing the stock market prices of insurance companies",
+        "Issuing licenses to insurance intermediaries"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI regulates the insurance business and operations, but it has no control over the stock market valuation or share prices of companies."
+    },
+    {
+      "id": "ic38_general_mock_3_q38",
+      "text": "An insurance premium calculation is heavily reliant on the:",
+      "options": [
+        "Law of Large Numbers and Probability",
+        "Stock market index",
+        "Exchange rate of foreign currency",
+        "Gold prices"
+      ],
+      "correct_index": 0,
+      "explanation": "Insurance is based on the 'Law of Large Numbers,' which helps predict the frequency of future losses across a large pool of risks."
+    },
+    {
+      "id": "ic38_general_mock_3_q39",
+      "text": "If a policy is void ab-initio, it means:",
+      "options": [
+        "It is valid for a short time",
+        "It is invalid and unenforceable from the very beginning",
+        "It is awaiting renewal",
+        "It has been assigned to someone else"
+      ],
+      "correct_index": 1,
+      "explanation": "Void ab-initio means the contract never had any legal validity (e.g., if it was based on fraud from the start)."
+    },
+    {
+      "id": "ic38_general_mock_3_q40",
+      "text": "Which branch of insurance is governed by the Marine Insurance Act, 1963?",
+      "options": [
+        "Fire Insurance",
+        "Motor Insurance",
+        "Marine Insurance",
+        "Health Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Marine insurance in India has its own specific legislation (The Marine Insurance Act, 1963) which defines the rules for sea and transit risks."
+    },
+    {
+      "id": "ic38_general_mock_3_q41",
+      "text": "What is 'Franchise' in an insurance policy?",
+      "options": [
+        "A branch of the insurance company",
+        "A threshold; if the claim amount exceeds this threshold, the entire claim is paid",
+        "A deductible that is always subtracted from every claim",
+        "The right to sell insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "A franchise is different from a deductible. In a deductible, the amount is always subtracted. In a franchise, if the loss is above the limit, the insurer pays 100% of the loss."
+    },
+    {
+      "id": "ic38_general_mock_3_q42",
+      "text": "Under a standard fire policy, damage due to volcanic eruption is:",
+      "options": [
+        "Covered unconditionally",
+        "Covered as a standard peril",
+        "Usually excluded unless specifically added as an add-on cover",
+        "Covered under third-party liability"
+      ],
+      "correct_index": 2,
+      "explanation": "Standard fire insurance covers specific perils like fire and lightning. Volcanic eruptions and other rare natural calamities may require separate add-on covers."
+    },
+    {
+      "id": "ic38_general_mock_3_q43",
+      "text": "In crop insurance, what is the 'Threshold Yield'?",
+      "options": [
+        "The highest yield ever recorded in the area",
+        "The minimum yield required to avoid making a claim",
+        "The historical average yield of a specific crop in a specific area used to determine loss",
+        "The yield expected by the government"
+      ],
+      "correct_index": 2,
+      "explanation": "Threshold yield is the guaranteed yield level. If the actual yield falls below this level, a claim is triggered for the farmers."
+    },
+    {
+      "id": "ic38_general_mock_3_q44",
+      "text": "In insurance, a warranty is:",
+      "options": [
+        "A guarantee that the product won't break",
+        "A strict condition that must be exactly complied with; otherwise, the insurer can void the contract",
+        "A promise to pay the premium",
+        "The policyholder's signature"
+      ],
+      "correct_index": 1,
+      "explanation": "A warranty is a fundamental condition of the policy. Breach of warranty can lead to the insurer cancelling the policy and rejecting claims."
+    },
+    {
+      "id": "ic38_general_mock_3_q45",
+      "text": "What is the definition of 'Grievance' as per IRDAI guidelines?",
+      "options": [
+        "A request for information",
+        "An expression of dissatisfaction made to an insurer regarding its products or services",
+        "A request for a quote",
+        "A claim application"
+      ],
+      "correct_index": 1,
+      "explanation": "A grievance is a formal complaint about a deficiency in service, unlike a simple query or request for information."
+    },
+    {
+      "id": "ic38_general_mock_3_q46",
+      "text": "In motor insurance, what does a 'Knock-for-Knock' agreement refer to?",
+      "options": [
+        "An agreement between drivers to fight physically",
+        "An agreement between insurers that each will bear the cost of damage to their own insured's vehicle, regardless of fault",
+        "A policy that covers collision with stationary objects",
+        "A penalty for reckless driving"
+      ],
+      "correct_index": 1,
+      "explanation": "Knock-for-knock agreements simplify claim settlements between companies by avoiding the long legal process of determining fault in road accidents."
+    },
+    {
+      "id": "ic38_general_mock_3_q47",
+      "text": "Which of the following can be insured under a 'Jeweler's Block Policy'?",
+      "options": [
+        "A residential building",
+        "Stocks of precious stones, gold, and jewelry in trade",
+        "The personal life of a jeweler",
+        "A fleet of commercial trucks"
+      ],
+      "correct_index": 1,
+      "explanation": "Jeweler's Block is a package policy specifically designed for the unique risks of jewelry retailers and wholesalers."
+    },
+    {
+      "id": "ic38_general_mock_3_q48",
+      "text": "The 'Condition of Average' applies when:",
+      "options": [
+        "The insured property is under-insured at the time of loss",
+        "The insured property is over-insured at the time of loss",
+        "The claim amount is average",
+        "Multiple policies are involved"
+      ],
+      "correct_index": 0,
+      "explanation": "The condition of average encourages full insurance by reducing the claim amount if the property is insured for less than its actual value."
+    },
+    {
+      "id": "ic38_general_mock_3_q49",
+      "text": "Which entity provides the 'Bima Bharosa' (formerly IGMS) platform?",
+      "options": [
+        "Life Insurance Corporation",
+        "General Insurance Corporation",
+        "IRDAI",
+        "Reserve Bank of India"
+      ],
+      "correct_index": 2,
+      "explanation": "Bima Bharosa is the online grievance redressal platform maintained by the regulator, IRDAI."
+    },
+    {
+      "id": "ic38_general_mock_3_q50",
+      "text": "For calculating the claim in motor insurance, the depreciation is applied to which parts of the vehicle?",
+      "options": [
+        "Glass parts only",
+        "Rubber, nylon, plastic, and battery parts",
+        "Engine block only",
+        "No depreciation is applied ever"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard policies apply 50% depreciation on plastic and rubber parts. Metal parts are depreciated based on the vehicle's age."
+    }
+  ]
+}
