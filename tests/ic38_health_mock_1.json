@@ -1,0 +1,607 @@
+{
+  "test_id": "ic38_health_mock_1",
+  "title": "Full Syllabus Mock Test 1 (Health)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following is a primary burden of risk?",
+      "options": [
+        "Actual loss incurred",
+        "Cost of risk management",
+        "Loss of peace of mind",
+        "Insurance premium paid"
+      ],
+      "answer": "Actual loss incurred",
+      "explanation": "Primary burden of risk consists of the actual losses that occur, such as the value of assets damaged or lost."
+    },
+    {
+      "id": "q2",
+      "question": "The mechanism of 'Pooling' in insurance works on which principle?",
+      "options": [
+        "Law of Large Numbers",
+        "Principle of Indemnity",
+        "Utmost Good Faith",
+        "Insurable Interest"
+      ],
+      "answer": "Law of Large Numbers",
+      "explanation": "Pooling works on the Law of Large Numbers, where the actual results of a large number of similar risks tend to approach the expected results."
+    },
+    {
+      "id": "q3",
+      "question": "In the SERVQUAL model, 'Empathy' refers to:",
+      "options": [
+        "Performing the service dependably",
+        "Willingness to help customers",
+        "Caring and individualized attention",
+        "Knowledge and courtesy of employees"
+      ],
+      "answer": "Caring and individualized attention",
+      "explanation": "Empathy represents the caring and individualized attention that the firm provides its customers."
+    },
+    {
+      "id": "q4",
+      "question": "As per the Consumer Protection Act, a district forum can entertain complaints up to what value?",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 50 Lakhs",
+        "Rs. 1 Crore"
+      ],
+      "answer": "Rs. 20 Lakhs",
+      "explanation": "As per the 1986 Act (which IC-38 textbooks often refer to), the District Forum limit is up to Rs. 20 Lakhs."
+    },
+    {
+      "id": "q5",
+      "question": "What is the maximum penalty for an agent found guilty of multilevel marketing?",
+      "options": [
+        "Rs. 1,000",
+        "Rs. 5,000",
+        "Rs. 10,000",
+        "Rs. 1 Lakh"
+      ],
+      "answer": "Rs. 10,000",
+      "explanation": "IRDAI regulations strictly prohibit multilevel marketing and agents can be penalized up to Rs. 10,000 for such activities."
+    },
+    {
+      "id": "q6",
+      "question": "Which principle ensures that an insured does not profit from a loss?",
+      "options": [
+        "Utmost Good Faith",
+        "Indemnity",
+        "Proximate Cause",
+        "Insurable Interest"
+      ],
+      "answer": "Indemnity",
+      "explanation": "The principle of Indemnity ensures that the insured is restored to the same financial position as before the loss, preventing any profit."
+    },
+    {
+      "id": "q7",
+      "question": "When must 'Insurable Interest' exist in a health insurance policy?",
+      "options": [
+        "Only at the time of taking the policy",
+        "Only at the time of claim",
+        "Both at the time of taking and at the time of claim",
+        "Not required in health insurance"
+      ],
+      "answer": "Both at the time of taking and at the time of claim",
+      "explanation": "In non-life and health insurance, insurable interest must exist both at the inception and at the time of loss."
+    },
+    {
+      "id": "q8",
+      "question": "A Third Party Administrator (TPA) is licensed by:",
+      "options": [
+        "Ministry of Health",
+        "IRDAI",
+        "Insurance Company",
+        "State Government"
+      ],
+      "answer": "IRDAI",
+      "explanation": "TPAs are independent entities licensed by IRDAI to provide claims processing and other health-related services."
+    },
+    {
+      "id": "q9",
+      "question": "Under the ESIS scheme, what is the current wage limit for employees to be covered?",
+      "options": [
+        "Rs. 15,000 per month",
+        "Rs. 21,000 per month",
+        "Rs. 25,000 per month",
+        "Rs. 10,000 per month"
+      ],
+      "answer": "Rs. 21,000 per month",
+      "explanation": "The current wage limit for coverage under the Employees State Insurance (ESI) scheme is Rs. 21,000 per month."
+    },
+    {
+      "id": "q10",
+      "question": "What does 'PED' stand for in health insurance underwriting?",
+      "options": [
+        "Premium Entry Date",
+        "Pre-existing Disease",
+        "Post Enrollment Disability",
+        "Personal Examination Data"
+      ],
+      "answer": "Pre-existing Disease",
+      "explanation": "PED stands for Pre-existing Disease, which is any condition or illness that existed before the policy was issued."
+    },
+    {
+      "id": "q11",
+      "question": "As per IRDAI guidelines, what is the standard waiting period for Pre-existing Diseases (PED)?",
+      "options": [
+        "12 months",
+        "24 months",
+        "48 months",
+        "60 months"
+      ],
+      "answer": "48 months",
+      "explanation": "The standard waiting period for PED in health insurance as per IRDAI regulations is a maximum of 48 months (4 years)."
+    },
+    {
+      "id": "q12",
+      "question": "A 'Cashless' claim facility is only available at:",
+      "options": [
+        "Any government hospital",
+        "Any private hospital",
+        "Network hospitals",
+        "Only hospitals in metropolitan cities"
+      ],
+      "answer": "Network hospitals",
+      "explanation": "Cashless facility is provided by insurers or TPAs only at hospitals with which they have a tie-up, known as network hospitals."
+    },
+    {
+      "id": "q13",
+      "question": "What is 'Co-payment' in a health insurance policy?",
+      "options": [
+        "Paying premium in installments",
+        "Sharing the cost of the claim between insured and insurer",
+        "Paying for multiple policies",
+        "Paying for family members' premium"
+      ],
+      "answer": "Sharing the cost of the claim between insured and insurer",
+      "explanation": "Co-payment is a cost-sharing requirement where the insured agrees to pay a fixed percentage of every admissible claim amount."
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following documents is most critical for a reimbursement claim?",
+      "options": [
+        "Policy Copy",
+        "Proposal Form",
+        "Discharge Summary",
+        "Premium Receipt"
+      ],
+      "answer": "Discharge Summary",
+      "explanation": "The Discharge Summary provides details of the treatment and is essential for assessing the validity of a reimbursement claim."
+    },
+    {
+      "id": "q15",
+      "question": "What is the role of an 'Ombudsman' in insurance?",
+      "options": [
+        "To sell insurance policies",
+        "To settle disputes between insurer and insured out of court",
+        "To underwrite complex risks",
+        "To invest insurance premiums"
+      ],
+      "answer": "To settle disputes between insurer and insured out of court",
+      "explanation": "The Insurance Ombudsman is an independent official appointed to resolve complaints from policyholders in a fast and cost-effective manner."
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following healthcare levels provides specialized care by specialists and consultants?",
+      "options": [
+        "Primary Healthcare",
+        "Secondary Healthcare",
+        "Tertiary Healthcare",
+        "Quaternary Healthcare"
+      ],
+      "answer": "Secondary Healthcare",
+      "explanation": "Secondary healthcare refers to specialized care provided by medical specialists (e.g., cardiologists, urologists) who do not have first contact with patients."
+    },
+    {
+      "id": "q17",
+      "question": "Which document contains the specific details of the risks covered and exclusions of an insurance policy?",
+      "options": [
+        "Prospectus",
+        "Proposal Form",
+        "Policy Schedule",
+        "Premium Receipt"
+      ],
+      "answer": "Policy Schedule",
+      "explanation": "The Policy Schedule (part of the policy document) contains specific details like the name of the insured, sum insured, period of cover, and specific conditions."
+    },
+    {
+      "id": "q18",
+      "question": "What is a 'Deductible' in health insurance?",
+      "options": [
+        "A discount given for no claims",
+        "A fixed amount the insured must pay before the insurer starts paying",
+        "The amount subtracted for age",
+        "The commission paid to the agent"
+      ],
+      "answer": "A fixed amount the insured must pay before the insurer starts paying",
+      "explanation": "A deductible is a specified dollar amount that an insured person must pay before the insurance company pays its share of the claim."
+    },
+    {
+      "id": "q19",
+      "question": "The 'Free-look period' in a health policy is usually for how many days?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "answer": "15 days",
+      "explanation": "In health insurance, a free-look period of 15 days is provided to the policyholder to review the terms and conditions after receiving the policy."
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following is NOT a type of benefit in health insurance?",
+      "options": [
+        "Indemnity",
+        "Fixed Benefit",
+        "Life Cover",
+        "Critical Illness"
+      ],
+      "answer": "Life Cover",
+      "explanation": "Life cover is a feature of life insurance, not health insurance. Health insurance focuses on indemnity or fixed benefits for medical expenses/illnesses."
+    },
+    {
+      "id": "q21",
+      "question": "In a 'Family Floater' policy, the sum insured is available for:",
+      "options": [
+        "Each family member separately",
+        "Only the proposer",
+        "Entire family collectively",
+        "Only the senior-most member"
+      ],
+      "answer": "Entire family collectively",
+      "explanation": "A family floater policy covers the entire family under a single sum insured which can be used by any or all members during the policy period."
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following illnesses is commonly excluded during the first 30 days of a new health policy?",
+      "options": [
+        "Accidental injuries",
+        "Heart attack",
+        "Common cold",
+        "All illnesses (except accidents)"
+      ],
+      "answer": "All illnesses (except accidents)",
+      "explanation": "Standard health policies have a 30-day waiting period from inception for all illnesses. Accidental injuries are usually covered from day one."
+    },
+    {
+      "id": "q23",
+      "question": "'Moral Hazard' in health insurance refers to:",
+      "options": [
+        "Risk of natural disasters",
+        "Intentional actions by insured to increase claim amount",
+        "Risk of aging",
+        "Risk of changing government policies"
+      ],
+      "answer": "Intentional actions by insured to increase claim amount",
+      "explanation": "Moral hazard is the risk that the insured might behave dishonestly or recklessly because they are covered by insurance (e.g., inflating a claim)."
+    },
+    {
+      "id": "q24",
+      "question": "What is 'IBNR' in the context of insurance claims?",
+      "options": [
+        "Incurred But Not Reported",
+        "Insured But Not Registered",
+        "Internal Bank Note Receipt",
+        "Immediate Benefit No Requirement"
+      ],
+      "answer": "Incurred But Not Reported",
+      "explanation": "IBNR stands for Incurred But Not Reported claims, which are losses that have occurred but have not yet been reported to the insurance company."
+    },
+    {
+      "id": "q25",
+      "question": "The 'Principle of Contribution' applies when:",
+      "options": [
+        "The insured pays premium in installments",
+        "The insured has multiple policies covering the same loss",
+        "The insurer contributes to charity",
+        "The agent shares commission with the insured"
+      ],
+      "answer": "The insured has multiple policies covering the same loss",
+      "explanation": "Contribution means if a person has multiple indemnity policies, the loss will be shared proportionately among all insurers."
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following is a primary objective of 'Underwriting'?",
+      "options": [
+        "To increase sales at any cost",
+        "To select and classify risks to ensure long-term stability",
+        "To pay all claims immediately",
+        "To avoid paying taxes"
+      ],
+      "answer": "To select and classify risks to ensure long-term stability",
+      "explanation": "Underwriting is the process of evaluating risks and deciding whether to accept them and at what price, ensuring the insurer remains solvent."
+    },
+    {
+      "id": "q27",
+      "question": "What is 'KYC' in insurance?",
+      "options": [
+        "Know Your Company",
+        "Know Your Customer",
+        "Keep Your Commission",
+        "Key Yield Calculation"
+      ],
+      "answer": "Know Your Customer",
+      "explanation": "KYC stands for Know Your Customer, a process to verify the identity of the customer as per anti-money laundering (AML) guidelines."
+    },
+    {
+      "id": "q28",
+      "question": "Which of the following is a 'promotive' healthcare activity?",
+      "options": [
+        "Surgery for heart disease",
+        "Vaccination program",
+        "Health awareness campaign for balanced diet",
+        "Hospitalization for fever"
+      ],
+      "answer": "Health awareness campaign for balanced diet",
+      "explanation": "Promotive healthcare focus on improving health through lifestyle, education, and nutrition awareness."
+    },
+    {
+      "id": "q29",
+      "question": "The 'Insurance Act, 1938' is the basic law governing:",
+      "options": [
+        "Only Life Insurance",
+        "Only General Insurance",
+        "Both Life and General Insurance in India",
+        "Only Government Insurance schemes"
+      ],
+      "answer": "Both Life and General Insurance in India",
+      "explanation": "The Insurance Act, 1938 is the primary legislation that regulates all insurance business in India."
+    },
+    {
+      "id": "q30",
+      "question": "What is the 'Sum Insured' in an indemnity-based health policy?",
+      "options": [
+        "The total value of the person's assets",
+        "The maximum amount the insurer will pay for a claim/year",
+        "The amount of premium paid",
+        "The age of the insured"
+      ],
+      "answer": "The maximum amount the insurer will pay for a claim/year",
+      "explanation": "Sum Insured is the limit of liability of the insurer for the claims made during the policy period."
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following is an 'internal' determinant of health?",
+      "options": [
+        "Air quality",
+        "Genetic makeup",
+        "Water supply",
+        "Employment status"
+      ],
+      "answer": "Genetic makeup",
+      "explanation": "Internal determinants are biological/genetic factors inherited from parents, unlike external factors like environment or lifestyle."
+    },
+    {
+      "id": "q32",
+      "question": "The 'Ombudsman' scheme was established by the Government of India through:",
+      "options": [
+        "Insurance Act, 1938",
+        "IRDAI Act, 1999",
+        "Redressal of Public Grievances Rules, 1998",
+        "Consumer Protection Act"
+      ],
+      "answer": "Redressal of Public Grievances Rules, 1998",
+      "explanation": "The Insurance Ombudsman was established by the Govt under the Redressal of Public Grievances Rules, 1998."
+    },
+    {
+      "id": "q33",
+      "question": "What happens if a material fact is not disclosed in the proposal form?",
+      "options": [
+        "The policy becomes invalid/voidable",
+        "The premium is increased automatically",
+        "The agent is penalized Rs. 1 Lakh",
+        "No impact on the policy"
+      ],
+      "answer": "The policy becomes invalid/voidable",
+      "explanation": "Non-disclosure of material facts is a breach of 'Utmost Good Faith' and gives the insurer the right to cancel the contract."
+    },
+    {
+      "id": "q34",
+      "question": "Which of the following is NOT covered in a standard Overseas Travel Insurance?",
+      "options": [
+        "Medical expenses for accident/illness abroad",
+        "Loss of passport",
+        "Trip cancellation",
+        "Normal pregnancy checkups"
+      ],
+      "answer": "Normal pregnancy checkups",
+      "explanation": "Standard travel insurance typically excludes normal pregnancy, childbirth, and pre-existing medical conditions unless specifically covered."
+    },
+    {
+      "id": "q35",
+      "question": "'Ayushman Bharat' (PM-JAY) provides coverage up to how much per family per year?",
+      "options": [
+        "Rs. 1 Lakh",
+        "Rs. 2 Lakhs",
+        "Rs. 5 Lakhs",
+        "Rs. 10 Lakhs"
+      ],
+      "answer": "Rs. 5 Lakhs",
+      "explanation": "Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides a health cover of Rs. 5 Lakhs per family per year for secondary and tertiary care hospitalization."
+    },
+    {
+      "id": "q36",
+      "question": "Which of the following is a type of 'Fixed Benefit' health policy?",
+      "options": [
+        "Mediclaim",
+        "Critical Illness Policy",
+        "Family Floater",
+        "Group Health Policy"
+      ],
+      "answer": "Critical Illness Policy",
+      "explanation": "Critical illness policies are fixed-benefit plans where a lump sum is paid on diagnosis of a specified illness, regardless of actual expenses."
+    },
+    {
+      "id": "q37",
+      "question": "What is the 'Grace Period' for health insurance policy renewals?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "answer": "30 days",
+      "explanation": "Standard health insurance policies allow a 30-day grace period from the expiry date for policy renewal to maintain continuity benefits."
+    },
+    {
+      "id": "q38",
+      "question": "Which of the following documents serves as the final proof of the insurance contract?",
+      "options": [
+        "Proposal Form",
+        "Cover Note",
+        "Policy Document",
+        "Premium Receipt"
+      ],
+      "answer": "Policy Document",
+      "explanation": "The Policy Document is the legal evidence of the insurance contract between the insurer and the policyholder."
+    },
+    {
+      "id": "q39",
+      "question": "'Continuity Benefit' in health insurance is related to:",
+      "options": [
+        "Continuous payment of commission to agent",
+        "Portability of waiting periods when switching insurers",
+        "Continuous treatment in the same hospital",
+        "Paying premium without any break"
+      ],
+      "answer": "Portability of waiting periods when switching insurers",
+      "explanation": "Continuity benefit ensures that the time spent in the previous policy is credited towards waiting periods when porting to a new insurer."
+    },
+    {
+      "id": "q40",
+      "question": "Who is the primary 'Stakeholder' in claims management?",
+      "options": [
+        "The Agent",
+        "The Insurer",
+        "The Insured (Customer)",
+        "The IRDAI"
+      ],
+      "answer": "The Insured (Customer)",
+      "explanation": "The customer is the most important stakeholder as the primary goal of insurance is to provide financial relief to the customer when a loss occurs."
+    },
+    {
+      "id": "q41",
+      "question": "In health insurance, 'Sub-limits' usually apply to:",
+      "options": [
+        "Agent commission",
+        "Room rent, doctor fees, or specific surgeries",
+        "The number of times a person can fall ill",
+        "The number of hospitals in the network"
+      ],
+      "answer": "Room rent, doctor fees, or specific surgeries",
+      "explanation": "Sub-limits are caps placed by insurers on specific expense categories (like 1% of Sum Insured for room rent)."
+    },
+    {
+      "id": "q42",
+      "question": "Which of the following is an example of 'Alternative Medicine' often covered in health policies?",
+      "options": [
+        "Allopathy",
+        "AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy)",
+        "Self-medication",
+        "Placebo treatment"
+      ],
+      "answer": "AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy)",
+      "explanation": "Many modern health policies cover AYUSH treatments provided they are taken in a government-recognized institution."
+    },
+    {
+      "id": "q43",
+      "question": "What is the role of 'Medical Underwriting'?",
+      "options": [
+        "To provide medical treatment to the customer",
+        "To assess the health risk of the proposer",
+        "To check the validity of hospital bills",
+        "To train hospital staff"
+      ],
+      "answer": "To assess the health risk of the proposer",
+      "explanation": "Medical underwriting evaluates the health history and current medical condition of the proposer to decide the risk level and premium."
+    },
+    {
+      "id": "q44",
+      "question": "A 'Standard Health Policy' (Arogya Sanjeevani) was introduced by IRDAI to:",
+      "options": [
+        "Increase insurer profits",
+        "Standardize health cover across all insurers for easier comparison",
+        "Replace all existing health policies",
+        "Provide free insurance to everyone"
+      ],
+      "answer": "Standardize health cover across all insurers for easier comparison",
+      "explanation": "Arogya Sanjeevani is a standard product that every insurer must offer, with identical terms to reduce customer confusion."
+    },
+    {
+      "id": "q45",
+      "question": "What is 'Proximate Cause' in insurance?",
+      "options": [
+        "The most distant cause of loss",
+        "The most direct and dominant cause of loss",
+        "Any cause that contributes to the loss",
+        "A cause that is excluded by the policy"
+      ],
+      "answer": "The most direct and dominant cause of loss",
+      "explanation": "Proximate cause is the primary cause that sets in motion a chain of events leading to a loss, without any intervention."
+    },
+    {
+      "id": "q46",
+      "question": "Which of the following is a 'prominent' exclusion in almost all health insurance policies?",
+      "options": [
+        "Fever",
+        "Accidents",
+        "War and nuclear perils",
+        "Surgery"
+      ],
+      "answer": "War and nuclear perils",
+      "explanation": "War, nuclear risks, and intentional self-injury are standard permanent exclusions in virtually all insurance contracts."
+    },
+    {
+      "id": "q47",
+      "question": "What is 'Hazard' in insurance terms?",
+      "options": [
+        "The actual loss",
+        "A condition that increases the likelihood or severity of a loss",
+        "The insurance company's liability",
+        "The premium amount"
+      ],
+      "answer": "A condition that increases the likelihood or severity of a loss",
+      "explanation": "Hazard is a condition (like smoking or working in a chemical factory) that makes the occurrence of a peril more likely."
+    },
+    {
+      "id": "q48",
+      "question": "In health insurance, 'Indemnity' means:",
+      "options": [
+        "Paying a fixed amount on death",
+        "Reimbursing the actual expenses incurred up to the sum insured",
+        "Paying double the premium amount",
+        "Giving a free medical checkup"
+      ],
+      "answer": "Reimbursing the actual expenses incurred up to the sum insured",
+      "explanation": "Indemnity ensures the insured is compensated for the actual financial loss suffered, no more and no less."
+    },
+    {
+      "id": "q49",
+      "question": "Which body regulates the 'TPAs' in the Indian insurance market?",
+      "options": [
+        "Medical Council of India",
+        "IRDAI",
+        "Finance Ministry",
+        "Consumer Forums"
+      ],
+      "answer": "IRDAI",
+      "explanation": "Third Party Administrators (TPAs) are regulated and licensed by IRDAI under specific TPA regulations."
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is NOT a 'Material Fact' for a health insurance proposal?",
+      "options": [
+        "Current medical conditions",
+        "Smoking/Drinking habits",
+        "Previous medical history",
+        "Educational qualification (usually)"
+      ],
+      "answer": "Educational qualification (usually)",
+      "explanation": "Material facts are those that would influence an underwriter's decision. Education usually doesn't affect health risk assessment."
+    }
+  ]
+}
