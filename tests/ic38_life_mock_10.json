@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_10",
+  "chapter_title": "IC-38 Life Mock Test 10",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt10_q1",
+      "text": "What does the Latin term 'Uberrima Fides' mean in the context of insurance contracts?",
+      "options": [
+        "Let the buyer beware",
+        "Utmost Good Faith",
+        "Insurable Interest",
+        "Cause of Loss"
+      ],
+      "correct_index": 1,
+      "explanation": "Uberrima Fides means Utmost Good Faith. It is a fundamental principle requiring both the insurer and the insured to transparently disclose all material facts before the contract is signed."
+    },
+    {
+      "id": "mt10_q2",
+      "text": "In the principal-agent relationship under insurance law, who is the 'Principal'?",
+      "options": [
+        "The Policyholder",
+        "The IRDAI",
+        "The Insurance Company",
+        "The Branch Manager"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Company is the Principal, and the agent is the authorized representative who acts on behalf of the company to solicit business."
+    },
+    {
+      "id": "mt10_q3",
+      "text": "What is the maximum time limit for an Insurance Ombudsman to pass an award after receiving all required documents?",
+      "options": [
+        "1 month",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "correct_index": 1,
+      "explanation": "The Insurance Ombudsman is mandated to resolve the dispute and pass a binding award within 3 months of receiving all necessary paperwork from the complainant."
+    },
+    {
+      "id": "mt10_q4",
+      "text": "According to IRDAI regulations, what is the minimum age requirement to become a licensed insurance agent?",
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "30 years"
+      ],
+      "correct_index": 0,
+      "explanation": "An individual must have completed 18 years of age to apply for an insurance agency license in India."
+    },
+    {
+      "id": "mt10_q5",
+      "text": "As per Section 45 of the Insurance Act (Indisputability Clause), after how many years can an insurer NOT question a life policy on any grounds?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "No policy of life insurance can be called into question on any ground whatsoever after the expiry of 3 years from the date of policy issuance or revival."
+    },
+    {
+      "id": "mt10_q6",
+      "text": "If a policyholder commits suicide within 12 months of policy inception, what does the nominee receive under standard policy terms?",
+      "options": [
+        "Full Sum Assured",
+        "100% of the premium paid",
+        "80% of the total premiums paid till the date of death",
+        "Nothing"
+      ],
+      "correct_index": 2,
+      "explanation": "The standard suicide clause dictates that if suicide occurs within the first 12 months, the nominee is refunded 80% of the premiums paid (excluding taxes)."
+    },
+    {
+      "id": "mt10_q7",
+      "text": "What is the 'Free Look Period' for an insurance policy bought through distance marketing (e.g., online or telemarketing)?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 2,
+      "explanation": "While the regular Free Look Period is 15 days, policies purchased via electronic mode or distance marketing enjoy an extended 30-day Free Look Period."
+    },
+    {
+      "id": "mt10_q8",
+      "text": "What is a unique tax benefit of Keyman Insurance for the employer?",
+      "options": [
+        "The claim amount is tax-free",
+        "The premium paid is treated as a deductible business expense",
+        "The employee gets tax exemption",
+        "No tax is levied on the policy ever"
+      ],
+      "correct_index": 1,
+      "explanation": "For the company buying Keyman Insurance, the premiums paid are treated as a legitimate business expense under Section 37(1) of the Income Tax Act, reducing their taxable profit."
+    },
+    {
+      "id": "mt10_q9",
+      "text": "Under which section of the Married Women's Property (MWP) Act is a trust created to protect the life insurance policy from creditors?",
+      "options": [
+        "Section 3",
+        "Section 5",
+        "Section 6",
+        "Section 10"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 6 of the MWP Act provides that a policy taken by a married man on his own life for the benefit of his wife/children becomes a trust and cannot be attached by his creditors."
+    },
+    {
+      "id": "mt10_q10",
+      "text": "Which of the following is an example of a 'Non-Standard Age Proof'?",
+      "options": [
+        "Passport",
+        "Birth Certificate from Municipality",
+        "Horoscope",
+        "School Leaving Certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "Horoscopes, self-declarations, and elder's declarations are non-standard proofs. Insurers may accept them but usually impose a restriction or extra premium."
+    },
+    {
+      "id": "mt10_q11",
+      "text": "What does a 'Survival Benefit' mean in a Money Back policy?",
+      "options": [
+        "The amount paid on death",
+        "Periodic lump sum payouts made to the surviving policyholder at pre-defined intervals during the policy term",
+        "Bonus paid at maturity",
+        "A medical expense reimbursement"
+      ],
+      "correct_index": 1,
+      "explanation": "Money Back policies provide regular liquidity through survival benefits (e.g., 20% of sum assured every 5 years) as long as the policyholder is alive."
+    },
+    {
+      "id": "mt10_q12",
+      "text": "In a Unit Linked Insurance Plan (ULIP), what does 'NAV' stand for?",
+      "options": [
+        "Net Annual Value",
+        "Net Asset Value",
+        "New Added Value",
+        "National Average Value"
+      ],
+      "correct_index": 1,
+      "explanation": "Net Asset Value (NAV) represents the price of a single unit of the chosen investment fund in a ULIP. It fluctuates daily based on market performance."
+    },
+    {
+      "id": "mt10_q13",
+      "text": "What is the standard 'Grace Period' for a policy with a half-yearly premium payment mode?",
+      "options": [
+        "10 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 2,
+      "explanation": "The grace period is 30 days for Yearly, Half-yearly, and Quarterly premium payment modes. For monthly modes, it is 15 days."
+    },
+    {
+      "id": "mt10_q14",
+      "text": "What is the legal implication of 'Absolute Assignment' of a life insurance policy?",
+      "options": [
+        "It adds a new nominee",
+        "It completely and permanently transfers all rights, title, and ownership to the assignee",
+        "It temporarily pledges the policy for a loan",
+        "It cancels the policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Absolute assignment is an irrevocable transfer of ownership. The assignee becomes the absolute owner and can even surrender the policy without asking the original owner."
+    },
+    {
+      "id": "mt10_q15",
+      "text": "Which concept allows a policyholder to continue their life cover at a reduced sum assured even if they stop paying premiums after a few years?",
+      "options": [
+        "Surrender Value",
+        "Paid-up Policy",
+        "Grace Period",
+        "Free Look Period"
+      ],
+      "correct_index": 1,
+      "explanation": "If a traditional policy has acquired a surrender value and the premium stops, it is automatically converted into a Paid-up policy, continuing the life cover at a proportionately reduced amount."
+    },
+    {
+      "id": "mt10_q16",
+      "text": "What is an 'Early Claim' in life insurance?",
+      "options": [
+        "A claim made before paying the first premium",
+        "A claim arising within 3 years of the policy inception or its revival",
+        "A maturity claim",
+        "A claim made by a minor"
+      ],
+      "correct_index": 1,
+      "explanation": "Claims occurring within 3 years are termed Early Claims. They are scrutinized heavily by insurers to rule out non-disclosure of facts or fraud at the time of proposal."
+    },
+    {
+      "id": "mt10_q17",
+      "text": "Under IRDAI's Micro-Insurance regulations, what is the maximum life insurance cover (Sum Assured) allowed?",
+      "options": [
+        "Rs. 50,000",
+        "Rs. 1 Lakh",
+        "Rs. 2 Lakhs",
+        "Rs. 5 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "Micro-insurance is designed for the low-income sector. To keep it simple and affordable, the maximum life cover allowed under a micro-insurance policy is capped at Rs. 2 Lakhs."
+    },
+    {
+      "id": "mt10_q18",
+      "text": "In a Group Insurance scheme, who receives the 'Master Policy'?",
+      "options": [
+        "The individual employee",
+        "The Employer or the head of the group",
+        "The Insurance Agent",
+        "The IRDAI"
+      ],
+      "correct_index": 1,
+      "explanation": "The employer/group administrator signs the contract and holds the Master Policy, while individual members receive a Certificate of Insurance."
+    },
+    {
+      "id": "mt10_q19",
+      "text": "What is the primary purpose of KYC (Know Your Customer) documents in insurance?",
+      "options": [
+        "To check the medical history",
+        "To prevent money laundering and establish the true identity and address of the customer",
+        "To verify educational qualifications",
+        "To calculate the agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "KYC is a mandatory Anti-Money Laundering (AML) measure to ensure that illegal funds are not funneled into the financial system through fake identities."
+    },
+    {
+      "id": "mt10_q20",
+      "text": "What are the three core elements used by actuaries to calculate life insurance premiums?",
+      "options": [
+        "Agent Commission, Office Rent, and Taxes",
+        "Mortality, Interest, and Expenses",
+        "Age, Weight, and Height",
+        "Sum Assured, Term, and Bonus"
+      ],
+      "correct_index": 1,
+      "explanation": "Premiums are calculated based on the expected Mortality rate, the Interest the company expects to earn by investing the premium, and the Expenses of running the business."
+    },
+    {
+      "id": "mt10_q21",
+      "text": "What is the primary goal of the Underwriting process?",
+      "options": [
+        "To reject maximum proposals",
+        "To fairly assess the risk profile of the applicant and charge an appropriate premium, preventing anti-selection",
+        "To delay the policy issuance",
+        "To maximize the company's stock value"
+      ],
+      "correct_index": 1,
+      "explanation": "Underwriting ensures equity. It evaluates whether an applicant is a standard or sub-standard risk, ensuring they pay a premium that accurately reflects their risk of claim."
+    },
+    {
+      "id": "mt10_q22",
+      "text": "Which of the following describes a 'Moral Hazard'?",
+      "options": [
+        "Working as a deep-sea diver",
+        "An applicant hiding a severe drinking problem and applying for a disproportionately high sum assured",
+        "Suffering from hypertension",
+        "Living in an earthquake-prone area"
+      ],
+      "correct_index": 1,
+      "explanation": "Moral hazard involves subjective risks related to the applicant's character, honesty, or intentions, such as hiding facts to defraud the insurer."
+    },
+    {
+      "id": "mt10_q23",
+      "text": "What is the 'Solvency Margin' required for insurance companies?",
+      "options": [
+        "The maximum profit they can make",
+        "The required excess of assets over liabilities (usually 150%) to ensure the company can pay all claims even in worst-case scenarios",
+        "The minimum number of agents they must hire",
+        "The maximum premium they can charge"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI mandates a 150% Solvency Ratio, meaning an insurer must have Rs. 150 in assets for every Rs. 100 in liabilities, guaranteeing financial stability."
+    },
+    {
+      "id": "mt10_q24",
+      "text": "What is 'Reinsurance'?",
+      "options": [
+        "Renewing a lapsed policy",
+        "The process where an insurance company transfers a portion of its assumed risk to another insurance company",
+        "Refunding the premium",
+        "Paying a claim twice"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinsurance is 'insurance for insurers.' It helps direct insurers manage huge risks by spreading the liability to global reinsurance companies."
+    },
+    {
+      "id": "mt10_q25",
+      "text": "In a pension plan, what is the 'Vesting Age'?",
+      "options": [
+        "The age when the policy is bought",
+        "The age when the accumulation phase ends and the regular pension (annuity) payouts begin",
+        "The age when the person dies",
+        "The agent's retirement age"
+      ],
+      "correct_index": 1,
+      "explanation": "The vesting date is the predetermined milestone in a deferred annuity plan when the invested corpus vests, and the insurer starts paying the regular pension."
+    },
+    {
+      "id": "mt10_q26",
+      "text": "Why do life insurance companies use the 'Level Premium' system?",
+      "options": [
+        "To ensure the premium increases every year",
+        "To average out the increasing cost of mortality over the term, so the customer pays the same fixed premium every year",
+        "To decrease the premium in old age",
+        "To link premiums to the stock market"
+      ],
+      "correct_index": 1,
+      "explanation": "The level premium system charges a bit more in the early years to build a reserve, which subsidizes the much higher mortality risk in the later years, keeping the premium constant."
+    },
+    {
+      "id": "mt10_q27",
+      "text": "What does 'Surrender Value' represent?",
+      "options": [
+        "The death benefit",
+        "The guaranteed cash amount a policyholder receives if they voluntarily terminate a savings-oriented policy before maturity",
+        "The penalty for fraud",
+        "The maturity bonus"
+      ],
+      "correct_index": 1,
+      "explanation": "If a customer exits a traditional policy early, the insurer pays back the accumulated savings portion of the premiums as the Surrender Value."
+    },
+    {
+      "id": "mt10_q28",
+      "text": "Under Section 80C of the Income Tax Act, what is the maximum total deduction allowed per financial year for investments, including life insurance premiums?",
+      "options": [
+        "Rs. 50,000",
+        "Rs. 1,00,000",
+        "Rs. 1,50,000",
+        "Rs. 2,00,000"
+      ],
+      "correct_index": 2,
+      "explanation": "Taxpayers can claim a maximum aggregate deduction of Rs. 1.5 Lakhs under Section 80C for life insurance premiums, PPF, ELSS, etc."
+    },
+    {
+      "id": "mt10_q29",
+      "text": "Under Section 10(10D) of the Income Tax Act, what is the condition for a maturity claim to be completely tax-free (for policies issued after April 2012)?",
+      "options": [
+        "The policy must be a term plan",
+        "The annual premium must not exceed 10% of the base Sum Assured",
+        "The policyholder must be a senior citizen",
+        "The policy must be a ULIP"
+      ],
+      "correct_index": 1,
+      "explanation": "To qualify for tax exemption under Section 10(10D), the premium paid in any year must not exceed 10% of the actual capital sum assured."
+    },
+    {
+      "id": "mt10_q30",
+      "text": "What is the primary function of the IGMS portal established by IRDAI?",
+      "options": [
+        "To calculate premiums online",
+        "To provide a central platform for policyholders to register and track insurance grievances against any company",
+        "To recruit new agents",
+        "To sell government bonds"
+      ],
+      "correct_index": 1,
+      "explanation": "The Integrated Grievance Management System (IGMS) ensures transparency and accountability by allowing customers to track the status of their complaints directly with the regulator."
+    },
+    {
+      "id": "mt10_q31",
+      "text": "Which document is considered the definitive evidence of the insurance contract?",
+      "options": [
+        "Proposal Form",
+        "Agent's Confidential Report",
+        "Policy Bond (Policy Document)",
+        "Renewal Receipt"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Bond is the final, legally binding contract that contains the schedule, standard terms, conditions, privileges, and exclusions of the insurance coverage."
+    },
+    {
+      "id": "mt10_q32",
+      "text": "What does the issuance of the First Premium Receipt (FPR) indicate?",
+      "options": [
+        "The proposal is rejected",
+        "The insurer has accepted the risk, and the insurance contract has officially commenced",
+        "The policy has matured",
+        "The agent's commission is paid"
+      ],
+      "correct_index": 1,
+      "explanation": "The FPR is the conclusive evidence that the premium has been accepted and the risk cover has actively begun."
+    },
+    {
+      "id": "mt10_q33",
+      "text": "Which principle defines that a person can only buy insurance on a life if they would suffer a financial loss upon that person's death?",
+      "options": [
+        "Principle of Contribution",
+        "Principle of Subrogation",
+        "Principle of Insurable Interest",
+        "Principle of Indemnity"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurable Interest ensures insurance isn't used for gambling. You can insure your spouse or yourself, but you cannot insure a stranger because you have no financial stake in their life."
+    },
+    {
+      "id": "mt10_q34",
+      "text": "Why does the 'Principle of Indemnity' NOT apply to Life Insurance?",
+      "options": [
+        "Because life insurance is cheap",
+        "Because human life cannot be accurately measured in exact financial terms, so a life policy pays a pre-agreed guaranteed amount",
+        "Because IRDAI forbids it",
+        "Because life policies have no surrender value"
+      ],
+      "correct_index": 1,
+      "explanation": "Indemnity means restoring the exact financial loss (like replacing a crashed car). You cannot 'replace' a life, so life insurance is a 'Benefit' contract, not an 'Indemnity' contract."
+    },
+    {
+      "id": "mt10_q35",
+      "text": "What is the unethical practice of 'Churning' or 'Twisting'?",
+      "options": [
+        "Mixing health and life insurance",
+        "An agent convincing a customer to surrender a good existing policy just to buy a new one, solely to generate fresh commission",
+        "Investing premium in stock markets",
+        "Changing the nominee frequently"
+      ],
+      "correct_index": 1,
+      "explanation": "Churning harms the customer because they lose the accumulated benefits of their old policy, while the agent illegally profits from a new first-year commission."
+    },
+    {
+      "id": "mt10_q36",
+      "text": "What is 'Need Analysis' in the insurance sales process?",
+      "options": [
+        "Analyzing the agent's need for commission",
+        "The ethical process of evaluating a prospect's financial situation, goals, and liabilities to recommend the most suitable product",
+        "Analyzing the company's profit",
+        "Analyzing market trends"
+      ],
+      "correct_index": 1,
+      "explanation": "Need analysis is the core of ethical selling. It ensures the customer buys a policy that fits their specific life stage (e.g., child education, retirement, pure protection)."
+    },
+    {
+      "id": "mt10_q37",
+      "text": "What is the primary role of a TPA (Third Party Administrator) in Health Insurance?",
+      "options": [
+        "To sell health policies",
+        "To act as an intermediary that processes health claims and manages cashless hospital networks for the insurer",
+        "To regulate hospitals",
+        "To collect health insurance premiums"
+      ],
+      "correct_index": 1,
+      "explanation": "TPAs handle the backend administration of health policies, issuing ID cards, approving cashless hospitalizations, and settling reimbursement claims."
+    },
+    {
+      "id": "mt10_q38",
+      "text": "What is a 'Waiting Period' for Pre-Existing Diseases (PED) in Health Insurance?",
+      "options": [
+        "The time taken to issue the policy",
+        "A specific duration (usually 2 to 4 years) during which medical expenses related to a disease the insured had before buying the policy are not covered",
+        "The time spent in the waiting room of a hospital",
+        "The grace period for premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Waiting periods protect insurers from anti-selection by ensuring people don't buy health insurance just before a planned surgery for an existing ailment."
+    },
+    {
+      "id": "mt10_q39",
+      "text": "What does a 'Co-payment' clause in a health insurance policy mean?",
+      "options": [
+        "The agent pays half the premium",
+        "The insured agrees to pay a fixed percentage of the admissible claim amount out of their own pocket, while the insurer pays the rest",
+        "The employer pays the premium",
+        "The government subsidizes the claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Co-payment is a cost-sharing method. If there's a 10% co-pay on a 1 Lakh bill, the insured pays 10k, and the insurer pays 90k. This reduces the premium cost."
+    },
+    {
+      "id": "mt10_q40",
+      "text": "What does an 'e-Insurance Account' (eIA) do?",
+      "options": [
+        "Allows trading in stock markets",
+        "Provides a secure electronic portfolio to hold and manage all life and non-life insurance policies digitally without physical paperwork",
+        "Calculates income tax",
+        "Sells insurance policies"
+      ],
+      "correct_index": 1,
+      "explanation": "Managed by Insurance Repositories, an eIA digitizes policies, making it easier for customers to track renewals, change addresses, and prevent the loss of physical bonds."
+    },
+    {
+      "id": "mt10_q41",
+      "text": "What is a 'Prospectus'?",
+      "options": [
+        "The agent's license",
+        "A formal document published by the insurer that outlines all the features, benefits, costs, and exclusions of an insurance product",
+        "The customer's ID proof",
+        "The medical report"
+      ],
+      "correct_index": 1,
+      "explanation": "A prospectus is essentially the official brochure of the policy. Insurers are legally required to provide it so customers understand exactly what they are buying."
+    },
+    {
+      "id": "mt10_q42",
+      "text": "What does 'Distance Marketing' refer to?",
+      "options": [
+        "Selling insurance in remote villages",
+        "Selling policies without face-to-face interaction, using telephone, internet, SMS, or email",
+        "Agents traveling abroad",
+        "Marketing through large hoardings"
+      ],
+      "correct_index": 1,
+      "explanation": "Distance marketing covers all non-physical sales channels. Because the customer can't see the agent, IRDAI gives a longer 30-day free look period for these policies."
+    },
+    {
+      "id": "mt10_q43",
+      "text": "What does an 'Ex Gratia' payment mean?",
+      "options": [
+        "A penalty for late payment",
+        "A voluntary payment made by the insurance company out of goodwill or compassion, even when the claim is not legally payable under the policy terms",
+        "A mandatory court order",
+        "A bonus for the agent"
+      ],
+      "correct_index": 1,
+      "explanation": "Ex Gratia translates to 'by favor'. It is usually a partial payment given on humanitarian grounds in border-line cases where the strict legal claim is rejected."
+    },
+    {
+      "id": "mt10_q44",
+      "text": "Which document acts as the final receipt confirming that the insurance company has settled the claim and is released from further liability?",
+      "options": [
+        "Proposal Form",
+        "First Premium Receipt",
+        "Discharge Voucher",
+        "Endorsement"
+      ],
+      "correct_index": 2,
+      "explanation": "The Discharge Voucher is a legal acknowledgment signed by the claimant stating that they have received the claim money in full and final settlement of the contract."
+    },
+    {
+      "id": "mt10_q45",
+      "text": "In a ULIP, what is 'Premium Redirection'?",
+      "options": [
+        "Refunding the premium to the customer",
+        "Changing the allocation of *future* premiums to different investment funds without moving the existing accumulated money",
+        "Paying the premium to a different company",
+        "Taking a loan from the fund"
+      ],
+      "correct_index": 1,
+      "explanation": "Premium redirection allows a policyholder to direct upcoming premium installments into a safer fund (like Debt), while keeping past investments in their current funds (like Equity)."
+    },
+    {
+      "id": "mt10_q46",
+      "text": "What happens to the policy if a policyholder dies during the 'Grace Period'?",
+      "options": [
+        "The claim is completely rejected",
+        "The insurer pays the full sum assured but deducts the unpaid due premium from the final claim amount",
+        "Only the premium is refunded",
+        "The agent pays the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "The policy remains fully in force during the grace period. The death claim is honored, but the pending premium is recovered from the payout."
+    },
+    {
+      "id": "mt10_q47",
+      "text": "What does a 'Critical Illness Rider' provide?",
+      "options": [
+        "Reimbursement of all hospital bills",
+        "A guaranteed lump sum payment immediately upon the diagnosis of a specified severe disease (like cancer or heart attack)",
+        "A lifetime pension",
+        "Accidental death cover"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike standard health indemnity policies, a CI rider pays out the full cover amount in one go upon diagnosis, helping the family deal with income loss and expensive treatments."
+    },
+    {
+      "id": "mt10_q48",
+      "text": "What is an 'Endorsement' in an insurance policy?",
+      "options": [
+        "A marketing advertisement",
+        "An official written alteration or addition attached to the policy document to record changes like address updates or a new nominee",
+        "The cancellation of a policy",
+        "A free gift"
+      ],
+      "correct_index": 1,
+      "explanation": "Any legal change to the standard printed policy bond (like a change of name after marriage) is validated by issuing an Endorsement."
+    },
+    {
+      "id": "mt10_q49",
+      "text": "Who bears the investment risk in a traditional 'Endowment Policy'?",
+      "options": [
+        "The Policyholder",
+        "The Insurance Company",
+        "The IRDAI",
+        "The Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "Because traditional endowment policies offer guaranteed benefits, the insurance company bears all the risk of investing the premiums in the market to ensure they meet those guarantees."
+    },
+    {
+      "id": "mt10_q50",
+      "text": "What is the primary characteristic of 'Pure Term Insurance'?",
+      "options": [
+        "High premium, low cover",
+        "Market-linked returns",
+        "Maximum life cover at the lowest premium, with no maturity or survival benefits",
+        "Provides lifelong pension"
+      ],
+      "correct_index": 2,
+      "explanation": "Term insurance is the purest form of life protection. It has no savings component, meaning 100% of the premium goes towards covering the risk of death, making it highly affordable."
+    }
+  ]
+}
