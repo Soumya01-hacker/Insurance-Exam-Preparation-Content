@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_08",
+  "chapter_title": "IC-38 Life Mock Test 8",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt08_q1",
+      "text": "What does 'Distance Marketing' of insurance refer to?",
+      "options": [
+        "Selling insurance in rural areas",
+        "Selling policies without face-to-face interaction, such as via telephone, internet, or email",
+        "Selling policies in another country",
+        "Agents traveling long distances to meet clients"
+      ],
+      "correct_index": 1,
+      "explanation": "Distance marketing involves selling insurance products over the phone, internet, or SMS, where the agent and the customer do not meet physically."
+    },
+    {
+      "id": "mt08_q2",
+      "text": "What is the 'Free Look Period' for life insurance policies purchased through Distance Marketing or Electronic mode?",
+      "options": [
+        "10 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 2,
+      "explanation": "While the standard Free Look Period is 15 days, IRDAI grants an extended 30-day Free Look Period for policies bought electronically or through distance marketing."
+    },
+    {
+      "id": "mt08_q3",
+      "text": "How is the 'Paid-up Value' of a traditional life insurance policy calculated?",
+      "options": [
+        "(Number of premiums paid / Total premiums payable) x Sum Assured",
+        "Total premiums paid + Bonus",
+        "Sum Assured - Premiums paid",
+        "Surrender Value x 2"
+      ],
+      "correct_index": 0,
+      "explanation": "The proportionate Paid-up Value is calculated by dividing the number of premiums actually paid by the total number of premiums payable, multiplied by the original Sum Assured."
+    },
+    {
+      "id": "mt08_q4",
+      "text": "Which of the following is considered a 'Valid Discharge' for an insurance company?",
+      "options": [
+        "Paying the claim money to the agent",
+        "Paying the claim money to the legally entitled person (Nominee/Assignee/Appointee) who signs a discharge voucher",
+        "Refunding the premium to the bank",
+        "Paying the money to the Ombudsman"
+      ],
+      "correct_index": 1,
+      "explanation": "A valid discharge means the insurer has successfully fulfilled its contractual obligation by paying the right amount to the legally authorized person, releasing the company from further liability."
+    },
+    {
+      "id": "mt08_q5",
+      "text": "If an insurance agent leaves one insurance company, can they immediately join another life insurance company?",
+      "options": [
+        "Yes, without any formalities",
+        "No, they must surrender their agency, get an NOC (No Objection Certificate), and then apply for a new appointment",
+        "Yes, they can work for both simultaneously",
+        "No, they are banned for 5 years"
+      ],
+      "correct_index": 1,
+      "explanation": "An agent can only represent one life insurance company at a time. To switch, they must resign, obtain an NOC, and follow the regulatory transfer process."
+    },
+    {
+      "id": "mt08_q6",
+      "text": "Which type of life insurance policy allows the policyholder to increase or decrease the premium and death benefit during the policy term?",
+      "options": [
+        "Traditional Endowment",
+        "Universal Life Insurance",
+        "Whole Life Insurance",
+        "Single Premium Term Plan"
+      ],
+      "correct_index": 1,
+      "explanation": "Universal Life Insurance (and sometimes specific ULIPs) offers flexibility, allowing the policyholder to adjust the premium amount and death benefit as their financial situation changes."
+    },
+    {
+      "id": "mt08_q7",
+      "text": "What does a 'Survival Benefit' in a Child Plan typically fund?",
+      "options": [
+        "The agent's retirement",
+        "The child's educational milestones like college admission",
+        "The parents' medical bills",
+        "Buying a new house"
+      ],
+      "correct_index": 1,
+      "explanation": "Child plans are structured to release periodic survival benefits (lump sums) exactly when the child reaches specific ages (e.g., 18, 21) to fund higher education."
+    },
+    {
+      "id": "mt08_q8",
+      "text": "In insurance, what does 'Utmost Good Faith' require from the insurer's side?",
+      "options": [
+        "To pay claims without asking questions",
+        "To disclose all policy terms, conditions, and charges transparently to the customer",
+        "To offer discounts to healthy customers",
+        "To hide the policy exclusions"
+      ],
+      "correct_index": 1,
+      "explanation": "Just as the proposer must disclose health facts, the insurer must also act in good faith by clearly explaining all rules, charges, and exclusions of the policy."
+    },
+    {
+      "id": "mt08_q9",
+      "text": "Which legal document transfers the ownership of a life insurance policy as a gift to a family member?",
+      "options": [
+        "Nomination form",
+        "Absolute Assignment deed executed out of natural love and affection",
+        "Conditional Assignment deed",
+        "Will"
+      ],
+      "correct_index": 1,
+      "explanation": "To gift a policy, an 'Absolute Assignment' is used. It transfers all rights to the relative completely, usually stated 'out of natural love and affection'."
+    },
+    {
+      "id": "mt08_q10",
+      "text": "What happens if a policyholder stops paying premiums on a ULIP before the 5-year lock-in period ends?",
+      "options": [
+        "The policy is cancelled and funds are lost",
+        "The fund value is immediately refunded",
+        "The fund value is moved to a 'Discontinued Policy Fund' and paid out only after the 5-year lock-in completes",
+        "The company pays the premium"
+      ],
+      "correct_index": 2,
+      "explanation": "If a ULIP is discontinued early, the money is parked in a Discontinued Policy Fund (earning a minimum guaranteed interest) and is accessible only after the 5-year lock-in period ends."
+    },
+    {
+      "id": "mt08_q11",
+      "text": "What does 'TDS' stand for in the context of taxable insurance payouts?",
+      "options": [
+        "Total Death Settlement",
+        "Tax Deducted at Source",
+        "Term Deposit Scheme",
+        "Temporary Disability Settlement"
+      ],
+      "correct_index": 1,
+      "explanation": "If a maturity claim does not qualify for Section 10(10D) exemption, the insurance company is required by law to deduct TDS (Tax Deducted at Source) before paying the customer."
+    },
+    {
+      "id": "mt08_q12",
+      "text": "Underwriting is primarily based on the principle of:",
+      "options": [
+        "Maximum profit",
+        "Equity (fairness) among policyholders",
+        "Providing free insurance",
+        "Rejecting maximum claims"
+      ],
+      "correct_index": 1,
+      "explanation": "Underwriting ensures equity. It ensures that a healthy 30-year-old doesn't pay the same premium as an unhealthy 50-year-old, keeping the system fair."
+    },
+    {
+      "id": "mt08_q13",
+      "text": "What is the consequence of 'Non-Disclosure' of a material fact by the policyholder?",
+      "options": [
+        "The insurer will increase the sum assured",
+        "The policy may be declared void, and a future claim can be repudiated",
+        "The agent will be promoted",
+        "The policyholder gets a refund"
+      ],
+      "correct_index": 1,
+      "explanation": "Hiding material facts (like a pre-existing disease) breaches the principle of Utmost Good Faith, giving the insurer the right to cancel the policy and reject claims."
+    },
+    {
+      "id": "mt08_q14",
+      "text": "In a 'Micro-Insurance' life policy, the maximum term of the policy is generally capped at:",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "Lifetime"
+      ],
+      "correct_index": 2,
+      "explanation": "As per IRDAI's Micro-Insurance regulations, to keep the products simple and short-to-medium term for the rural sector, the maximum policy term is generally 15 years."
+    },
+    {
+      "id": "mt08_q15",
+      "text": "When a life insurance policy is revived, what is the 'Period of Contestability' for the revived portion?",
+      "options": [
+        "It cannot be contested",
+        "It restarts, meaning the insurer has another 3-year window to contest the policy for fraud or misrepresentation",
+        "10 years",
+        "1 month"
+      ],
+      "correct_index": 1,
+      "explanation": "When a lapsed policy is revived by submitting a new declaration of health, the 3-year indisputability clock (Section 45) restarts from the date of revival."
+    },
+    {
+      "id": "mt08_q16",
+      "text": "Which document is generally NOT required for settling a Maturity Claim?",
+      "options": [
+        "Original Policy Bond",
+        "Discharge Voucher",
+        "Death Certificate",
+        "Bank Account Details (NEFT)"
+      ],
+      "correct_index": 2,
+      "explanation": "A maturity claim is paid when the policyholder is alive. Therefore, a death certificate is entirely irrelevant for a maturity settlement."
+    },
+    {
+      "id": "mt08_q17",
+      "text": "An agent discovers that a prospect has a dangerous hobby like car racing. What should the agent do?",
+      "options": [
+        "Tell the prospect to hide it in the form",
+        "Ignore it as it is not a daily job",
+        "Record it accurately in the Agent's Confidential Report (ACR) and proposal form",
+        "Refuse to sell the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "The agent is the primary underwriter. It is their ethical duty to accurately report any hazardous hobbies to the company so the risk can be properly assessed."
+    },
+    {
+      "id": "mt08_q18",
+      "text": "What does an 'Exclusion' clause do in an Accidental Death Benefit rider?",
+      "options": [
+        "Increases the payout",
+        "Lists specific situations (like self-inflicted injury or participation in riots) where the accidental benefit will NOT be paid",
+        "Cancels the base life policy",
+        "Waives the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Exclusions define the boundaries of coverage. Standard accidental riders exclude deaths caused by suicide, drug abuse, or involvement in criminal acts."
+    },
+    {
+      "id": "mt08_q19",
+      "text": "What is the primary role of a 'Reinsurer'?",
+      "options": [
+        "To insure vehicles",
+        "To provide insurance to direct insurance companies to help them absorb huge potential losses",
+        "To investigate small claims",
+        "To train agents"
+      ],
+      "correct_index": 1,
+      "explanation": "A reinsurer assumes a portion of the risk from the primary insurance company, ensuring the primary company doesn't go bankrupt in case of massive or multiple claims."
+    },
+    {
+      "id": "mt08_q20",
+      "text": "Which authority issues the PAN (Permanent Account Number) card, which is a key KYC document?",
+      "options": [
+        "IRDAI",
+        "Income Tax Department",
+        "RBI",
+        "Election Commission"
+      ],
+      "correct_index": 1,
+      "explanation": "The PAN card is a unique 10-character alphanumeric identifier issued by the Income Tax Department of India."
+    },
+    {
+      "id": "mt08_q21",
+      "text": "What is 'Adverse Selection' commonly a result of?",
+      "options": [
+        "Asymmetric Information (the buyer knows more about their bad health than the seller)",
+        "Low agent commission",
+        "High inflation",
+        "Too many branches of the insurer"
+      ],
+      "correct_index": 0,
+      "explanation": "Adverse selection happens because of asymmetric information\u2014when a prospect conceals critical health data that the insurer doesn't know about."
+    },
+    {
+      "id": "mt08_q22",
+      "text": "What happens if the age of the policyholder was overstated (they are actually younger than declared) at the time of proposal?",
+      "options": [
+        "The policy is cancelled",
+        "The insurer will refund the excess premium collected without interest",
+        "The insurer charges a penalty",
+        "The sum assured is halved"
+      ],
+      "correct_index": 1,
+      "explanation": "If age was overstated, the insured paid a higher premium than necessary. The insurer will adjust the records and refund the excess premium paid."
+    },
+    {
+      "id": "mt08_q23",
+      "text": "Under Section 39, can a policyholder nominate a trust or an institution instead of a person?",
+      "options": [
+        "No, only individuals can be nominated",
+        "Yes, a recognized trust or institution can be named as a nominee",
+        "Only a bank can be nominated",
+        "Only the government can be nominated"
+      ],
+      "correct_index": 1,
+      "explanation": "Yes, Section 39 allows for the nomination of individuals as well as registered trusts or institutions to receive the policy proceeds."
+    },
+    {
+      "id": "mt08_q24",
+      "text": "Which type of assignment is usually executed when a policy is pledged as collateral security for a bank loan?",
+      "options": [
+        "Absolute Assignment",
+        "Conditional Assignment",
+        "Irrevocable Assignment",
+        "Temporary Nomination"
+      ],
+      "correct_index": 1,
+      "explanation": "Conditional Assignment transfers rights to the bank to secure the loan. Once the loan is fully repaid, the condition is met, and rights revert back to the policyholder."
+    },
+    {
+      "id": "mt08_q25",
+      "text": "Which type of life insurance is strictly meant for wealth creation and market-linked returns?",
+      "options": [
+        "Term Insurance",
+        "Endowment Plan",
+        "Unit Linked Insurance Plan (ULIP)",
+        "Annuity Plan"
+      ],
+      "correct_index": 2,
+      "explanation": "ULIPs are specifically designed for customers looking for market-linked wealth creation along with life insurance protection."
+    },
+    {
+      "id": "mt08_q26",
+      "text": "What is an 'Annuity for life with a Return of Purchase Price'?",
+      "options": [
+        "The annuitant gets a pension for life, and after death, the initial invested amount is refunded to the nominee",
+        "The annuitant gets back their money after 1 year",
+        "A pension that stops after 10 years",
+        "A term plan that returns the premium"
+      ],
+      "correct_index": 0,
+      "explanation": "This is a popular pension option where the annuitant enjoys lifelong income, and upon their demise, the principal amount (purchase price) is given to their legal heirs."
+    },
+    {
+      "id": "mt08_q27",
+      "text": "If a claim is submitted to the Insurance Ombudsman, within how much time must the Ombudsman pass an award?",
+      "options": [
+        "1 month",
+        "3 months from the date of receipt of all requirements from the complainant",
+        "6 months",
+        "1 year"
+      ],
+      "correct_index": 1,
+      "explanation": "The Insurance Ombudsman is mandated to resolve the dispute and pass an award within 3 months after all the necessary documents are filed by the complainant."
+    },
+    {
+      "id": "mt08_q28",
+      "text": "What does a 'Level Premium' system ensure for the policyholder?",
+      "options": [
+        "The premium increases by 5% every year",
+        "The premium remains exactly the same every year for the entire policy term",
+        "The premium decreases as the person gets older",
+        "The premium fluctuates with the stock market"
+      ],
+      "correct_index": 1,
+      "explanation": "In a level premium system, the insurer averages out the increasing mortality risk over the term, allowing the policyholder to pay a constant, predictable premium every year."
+    },
+    {
+      "id": "mt08_q29",
+      "text": "A group insurance policy is usually issued to an employer. What is the document given to the individual employees called?",
+      "options": [
+        "Master Policy",
+        "Certificate of Insurance",
+        "Proposal Form",
+        "Endorsement"
+      ],
+      "correct_index": 1,
+      "explanation": "The employer holds the 'Master Policy', while each covered employee is issued a 'Certificate of Insurance' as proof of their coverage under the group scheme."
+    },
+    {
+      "id": "mt08_q30",
+      "text": "Which phase of money laundering involves moving illicit funds around the financial system to hide their origin?",
+      "options": [
+        "Placement",
+        "Layering",
+        "Integration",
+        "Structuring"
+      ],
+      "correct_index": 1,
+      "explanation": "Layering is the complex process of creating multiple financial transactions (moving money between accounts or buying/canceling insurance) to obscure the source of the dirty money."
+    },
+    {
+      "id": "mt08_q31",
+      "text": "In insurance, what does 'Solvency Ratio' measure?",
+      "options": [
+        "The number of agents a company has",
+        "The ability of an insurance company to meet its long-term financial obligations (claims) to policyholders",
+        "The amount of tax the company pays",
+        "The marketing budget"
+      ],
+      "correct_index": 1,
+      "explanation": "The solvency ratio indicates financial health. IRDAI requires companies to maintain a minimum solvency ratio of 150% to ensure they can pay out all claims."
+    },
+    {
+      "id": "mt08_q32",
+      "text": "Which document signifies the end of the insurance contract and releases the insurer from further liabilities after a claim is paid?",
+      "options": [
+        "Policy Bond",
+        "First Premium Receipt",
+        "Discharge Voucher",
+        "Endorsement Certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "A Discharge Voucher (or Discharge Receipt) is signed by the claimant acknowledging that they have received the claim money and the contract is fully settled."
+    },
+    {
+      "id": "mt08_q33",
+      "text": "Who bears the risk of lower-than-expected mortality (people living longer) in an Annuity product?",
+      "options": [
+        "The Annuitant",
+        "The Insurance Company",
+        "The Government",
+        "The Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "In an annuity, the insurer promises to pay as long as the person lives. If annuitants live longer than statistically expected, the insurance company bears the financial loss."
+    },
+    {
+      "id": "mt08_q34",
+      "text": "What does 'Foreclosure' of a life insurance policy mean?",
+      "options": [
+        "The policyholder voluntarily cancels the policy",
+        "The insurer terminates the policy because the outstanding loan and interest exceed the policy's surrender value",
+        "The policy matures",
+        "A death claim is paid"
+      ],
+      "correct_index": 1,
+      "explanation": "When a policyholder takes a loan and defaults on interest, and the total debt grows larger than the cash value of the policy, the insurer forecloses (closes) it to recover the debt."
+    },
+    {
+      "id": "mt08_q35",
+      "text": "What is the primary role of an 'Actuary' in a life insurance company?",
+      "options": [
+        "To sell policies in the field",
+        "To handle customer grievances",
+        "To use mathematics and statistics to calculate mortality rates, price products, and ensure financial stability",
+        "To design marketing posters"
+      ],
+      "correct_index": 2,
+      "explanation": "Actuaries are highly specialized professionals who evaluate financial risks, calculate premium rates, and determine the reserves needed to pay future claims."
+    },
+    {
+      "id": "mt08_q36",
+      "text": "Under Section 10(10D) of the Income Tax Act, any payout from a life insurance policy is tax-free, EXCEPT for:",
+      "options": [
+        "Death claims",
+        "Maturity of an Endowment plan",
+        "Payouts from a Keyman Insurance policy",
+        "Survival benefits"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 10(10D) exempts standard life policies. However, payouts from a Keyman Insurance policy are treated as business income and are fully taxable."
+    },
+    {
+      "id": "mt08_q37",
+      "text": "Which type of traditional life policy provides a lump sum benefit upon the diagnosis of specific severe diseases?",
+      "options": [
+        "Accidental Death Rider",
+        "Critical Illness Policy / Rider",
+        "Term Policy",
+        "Annuity"
+      ],
+      "correct_index": 1,
+      "explanation": "A Critical Illness policy or rider pays a guaranteed lump sum immediately upon the confirmed diagnosis of a specified severe illness (like cancer or heart attack)."
+    },
+    {
+      "id": "mt08_q38",
+      "text": "When is an 'Age Admission' strictly necessary?",
+      "options": [
+        "Before issuing any policy",
+        "Only for health insurance",
+        "It must be done before the settlement of any claim, if not done at the proposal stage",
+        "When the policyholder turns 60"
+      ],
+      "correct_index": 2,
+      "explanation": "While it's best to admit age at the start, an insurance company will not pay a maturity or death claim until standard proof of age is submitted and the age is formally 'admitted'."
+    },
+    {
+      "id": "mt08_q39",
+      "text": "In the event of an unnatural death (e.g., accident or murder), which documents are mandatory for a claim?",
+      "options": [
+        "Only the death certificate",
+        "Only a doctor's letter",
+        "FIR, Police Inquest Report, and Post-Mortem Report",
+        "A letter from the village head"
+      ],
+      "correct_index": 2,
+      "explanation": "For unnatural deaths, police and medical investigations are legally required. Insurers mandate the FIR and Post-Mortem reports to confirm the exact cause and rule out foul play or exclusions."
+    },
+    {
+      "id": "mt08_q40",
+      "text": "What does a 'Participating' policy mean?",
+      "options": [
+        "The policyholder gets a free gift",
+        "The policyholder participates in the surplus profits of the insurance company through bonuses",
+        "The policyholder must participate in company meetings",
+        "The agent shares the commission"
+      ],
+      "correct_index": 1,
+      "explanation": "Participating (or With-Profits) policies are eligible to receive periodic bonuses declared from the insurer's valuation surplus."
+    },
+    {
+      "id": "mt08_q41",
+      "text": "If an agent provides false or misleading information to a customer to make a sale, it is termed as:",
+      "options": [
+        "Need Analysis",
+        "Mis-selling",
+        "Underwriting",
+        "Rebating"
+      ],
+      "correct_index": 1,
+      "explanation": "Mis-selling involves unethical practices like hiding facts, making false promises, or selling a product that does not fit the customer's financial needs."
+    },
+    {
+      "id": "mt08_q42",
+      "text": "What happens if a policy is surrendered in the very first year?",
+      "options": [
+        "Full premium is refunded",
+        "Nothing is payable as the policy has not acquired any surrender value",
+        "50% of the premium is paid",
+        "The agent's commission is paid to the customer"
+      ],
+      "correct_index": 1,
+      "explanation": "Traditional life policies typically require continuous premium payment for at least 2 or 3 years to acquire a cash surrender value. Quitting in the first year results in a total loss of the premium paid."
+    },
+    {
+      "id": "mt08_q43",
+      "text": "What is the primary function of the 'Integrated Grievance Management System' (IGMS)?",
+      "options": [
+        "To track agent commissions",
+        "To provide a central online repository and tracking mechanism for policyholder grievances across the industry",
+        "To calculate premium rates",
+        "To issue licenses"
+      ],
+      "correct_index": 1,
+      "explanation": "IGMS is an IRDAI portal that allows customers to register complaints online and track their resolution status transparently."
+    },
+    {
+      "id": "mt08_q44",
+      "text": "What is a 'Lien' in life insurance?",
+      "options": [
+        "A bonus payout",
+        "A clause that restricts or reduces the claim payout if death occurs within a specific initial period due to certain sub-standard risks",
+        "A tax deduction",
+        "A free rider"
+      ],
+      "correct_index": 1,
+      "explanation": "A lien is a restrictive underwriting condition often placed on sub-standard lives (e.g., people with specific diseases), reducing the death benefit for the first few years."
+    },
+    {
+      "id": "mt08_q45",
+      "text": "Can a minor buy a life insurance policy in their own name?",
+      "options": [
+        "Yes, independently",
+        "No, a minor cannot enter into a valid contract; a major (proposer) must buy it on the minor's life",
+        "Yes, if they have a bank account",
+        "Only if they are older than 15"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the Indian Contract Act, a minor is incompetent to contract. Hence, a parent or guardian acts as the proposer to buy the policy on the life of the minor."
+    },
+    {
+      "id": "mt08_q46",
+      "text": "What does 'Mortgage Redemption' policy do?",
+      "options": [
+        "Provides health insurance for homeowners",
+        "Is a decreasing term insurance that pays off an outstanding home loan if the borrower dies",
+        "Invests in real estate",
+        "Pays the monthly electricity bills"
+      ],
+      "correct_index": 1,
+      "explanation": "It is a specialized decreasing term plan where the sum assured goes down over the years, matching the reducing balance of a housing loan."
+    },
+    {
+      "id": "mt08_q47",
+      "text": "What is 'Adverse Selection' primarily caused by?",
+      "options": [
+        "The insurer charging high premiums",
+        "Information asymmetry, where a sick person hides their health condition to get a standard policy",
+        "Agents selling too many policies",
+        "The stock market crashing"
+      ],
+      "correct_index": 1,
+      "explanation": "Adverse selection happens when individuals who know they have a high risk of claiming intentionally seek out insurance without revealing their true risk profile."
+    },
+    {
+      "id": "mt08_q48",
+      "text": "According to the MWP Act, if a policyholder appoints his wife and children as beneficiaries, what happens to the policy proceeds if he goes bankrupt?",
+      "options": [
+        "The proceeds are seized by the bank",
+        "The proceeds go to the government",
+        "The proceeds are protected as a trust and cannot be attached by his creditors",
+        "The proceeds are split between creditors and the family"
+      ],
+      "correct_index": 2,
+      "explanation": "The core purpose of the Married Women's Property Act is to create an irrevocable trust, completely safeguarding the policy money from the husband's business debts or creditors."
+    },
+    {
+      "id": "mt08_q49",
+      "text": "What does 'Rebating' mean in the insurance business?",
+      "options": [
+        "Giving a legal discount on premium",
+        "An agent unethically sharing a portion of their commission with the customer to secure a sale",
+        "Paying premium in installments",
+        "Returning the policy in the free look period"
+      ],
+      "correct_index": 1,
+      "explanation": "Rebating is an illegal inducement. Section 41 of the Insurance Act strictly prohibits agents from offering their commission as a bribe to customers."
+    },
+    {
+      "id": "mt08_q50",
+      "text": "Which document is generally issued to provide temporary insurance coverage while the formal policy document is being prepared?",
+      "options": [
+        "Prospectus",
+        "Cover Note (more common in general insurance) or First Premium Receipt",
+        "Claim Form",
+        "Endorsement"
+      ],
+      "correct_index": 1,
+      "explanation": "While 'Cover Notes' are primarily used in motor/general insurance, the First Premium Receipt acts as the equivalent temporary proof of risk acceptance in life insurance until the policy bond arrives."
+    }
+  ]
+}
