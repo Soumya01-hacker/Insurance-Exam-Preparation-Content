@@ -1,7 +1,7 @@
 [
   {
-    "questionId": "mock_test_02_q1",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q1",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Who conceptualized the 'Human Life Value' (HLV) concept in insurance?",
     "optionA": "Prof. S.S. Huebner",
@@ -15,8 +15,8 @@
     "order": 1
   },
   {
-    "questionId": "mock_test_02_q2",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q2",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which of the following documents is accepted as both standard proof of age and proof of address?",
     "optionA": "PAN Card",
@@ -30,8 +30,8 @@
     "order": 2
   },
   {
-    "questionId": "mock_test_02_q3",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q3",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the time limit for a policyholder to approach the Insurance Ombudsman after the rejection of a complaint by the insurer?",
     "optionA": "Within 3 months",
@@ -45,8 +45,8 @@
     "order": 3
   },
   {
-    "questionId": "mock_test_02_q4",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q4",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the fee required to file a complaint with the Insurance Ombudsman?",
     "optionA": "Rs. 100",
@@ -60,8 +60,8 @@
     "order": 4
   },
   {
-    "questionId": "mock_test_02_q5",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q5",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What does IGMS stand for in the context of IRDAI?",
     "optionA": "Insurance General Management System",
@@ -75,8 +75,8 @@
     "order": 5
   },
   {
-    "questionId": "mock_test_02_q6",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q6",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What does the 'Principle of Proximate Cause' mean?",
     "optionA": "The most distant cause of loss",
@@ -90,8 +90,8 @@
     "order": 6
   },
   {
-    "questionId": "mock_test_02_q7",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q7",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "In insurance, what is considered a 'Non-Standard' proof of age?",
     "optionA": "School Leaving Certificate",
@@ -105,8 +105,8 @@
     "order": 7
   },
   {
-    "questionId": "mock_test_02_q8",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q8",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "If an insurer delays the payment of a death claim, what penalty are they liable to pay?",
     "optionA": "A flat fine of Rs. 10,000",
@@ -120,8 +120,8 @@
     "order": 8
   },
   {
-    "questionId": "mock_test_02_q9",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q9",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What happens if the policyholder dies during the 'Grace Period' before paying the due premium?",
     "optionA": "The claim is rejected completely",
@@ -135,8 +135,8 @@
     "order": 9
   },
   {
-    "questionId": "mock_test_02_q10",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q10",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the primary purpose of 'Paid-up Value' in traditional life insurance?",
     "optionA": "To increase the sum assured",
@@ -150,8 +150,8 @@
     "order": 10
   },
   {
-    "questionId": "mock_test_02_q11",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q11",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which of the following policies does NOT acquire a Surrender Value?",
     "optionA": "Endowment Policy",
@@ -165,8 +165,8 @@
     "order": 11
   },
   {
-    "questionId": "mock_test_02_q12",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q12",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the unethical practice of inducing a policyholder to lapse a policy to buy a new one from a different company called?",
     "optionA": "Churning or Twisting",
@@ -180,8 +180,8 @@
     "order": 12
   },
   {
-    "questionId": "mock_test_02_q13",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q13",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which type of assignment comes with conditions that, if fulfilled, revert the policy ownership back to the original policyholder?",
     "optionA": "Absolute Assignment",
@@ -195,8 +195,8 @@
     "order": 13
   },
   {
-    "questionId": "mock_test_02_q14",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q14",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the maximum sum assured allowed under a 'Micro-Insurance' life policy?",
     "optionA": "Rs. 50,000",
@@ -210,8 +210,8 @@
     "order": 14
   },
   {
-    "questionId": "mock_test_02_q15",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q15",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What does Section 45 of the Insurance Act, 1938 deal with?",
     "optionA": "Prohibition of Rebates",
@@ -225,8 +225,8 @@
     "order": 15
   },
   {
-    "questionId": "mock_test_02_q16",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q16",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "A Family Floater Health Insurance policy covers:",
     "optionA": "Only the earning member",
@@ -240,8 +240,8 @@
     "order": 16
   },
   {
-    "questionId": "mock_test_02_q17",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q17",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "The Principle of Contribution applies strictly to which type of insurance?",
     "optionA": "Life Insurance",
@@ -255,8 +255,8 @@
     "order": 17
   },
   {
-    "questionId": "mock_test_02_q18",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q18",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which document is considered the Primary Underwriter's report?",
     "optionA": "Medical Examiner's Report",
@@ -270,8 +270,8 @@
     "order": 18
   },
   {
-    "questionId": "mock_test_02_q19",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q19",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "In Anti-Money Laundering (AML) terminology, what is 'Placement'?",
     "optionA": "Buying an insurance policy",
@@ -285,8 +285,8 @@
     "order": 19
   },
   {
-    "questionId": "mock_test_02_q20",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q20",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What action does an insurer take when dealing with a 'Sub-Standard Life'?",
     "optionA": "Reject the proposal immediately",
@@ -300,8 +300,8 @@
     "order": 20
   },
   {
-    "questionId": "mock_test_02_q21",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q21",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Who appoints an 'Appointee' in a life insurance policy?",
     "optionA": "The Nominee",
@@ -315,8 +315,8 @@
     "order": 21
   },
   {
-    "questionId": "mock_test_02_q22",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q22",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which of the following payouts are tax-free under Section 10(10D) of the Income Tax Act?",
     "optionA": "Agent Commission",
@@ -330,8 +330,8 @@
     "order": 22
   },
   {
-    "questionId": "mock_test_02_q23",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q23",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What does a 'Deductible' mean in Health Insurance?",
     "optionA": "Amount deducted from the agent's commission",
@@ -345,8 +345,8 @@
     "order": 23
   },
   {
-    "questionId": "mock_test_02_q24",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q24",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which of these is a classic example of a 'Day Care Procedure' in health insurance?",
     "optionA": "Cataract Surgery",
@@ -360,8 +360,8 @@
     "order": 24
   },
   {
-    "questionId": "mock_test_02_q25",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q25",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is unique about a 'Critical Illness' policy?",
     "optionA": "It pays hospital bills directly to the hospital",
@@ -375,8 +375,8 @@
     "order": 25
   },
   {
-    "questionId": "mock_test_02_q26",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q26",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What does an 'Exclusion' in an insurance policy mean?",
     "optionA": "A special bonus added to the policy",
@@ -390,8 +390,8 @@
     "order": 26
   },
   {
-    "questionId": "mock_test_02_q27",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q27",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "If a policy is assigned under Absolute Assignment, what happens to the existing nomination?",
     "optionA": "It remains unchanged",
@@ -405,8 +405,8 @@
     "order": 27
   },
   {
-    "questionId": "mock_test_02_q28",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q28",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is 'Bancassurance'?",
     "optionA": "Insuring a bank against robbery",
@@ -420,8 +420,8 @@
     "order": 28
   },
   {
-    "questionId": "mock_test_02_q29",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q29",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "In a Participating Life Insurance policy, what benefit does the policyholder receive?",
     "optionA": "Shares in the insurance company",
@@ -435,8 +435,8 @@
     "order": 29
   },
   {
-    "questionId": "mock_test_02_q30",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q30",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What type of life insurance is best suited for securing a housing loan?",
     "optionA": "Whole Life Policy",
@@ -450,8 +450,8 @@
     "order": 30
   },
   {
-    "questionId": "mock_test_02_q31",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q31",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Who bears the risk in a Non-Linked, Non-Participating Life Insurance Policy?",
     "optionA": "The Policyholder",
@@ -465,8 +465,8 @@
     "order": 31
   },
   {
-    "questionId": "mock_test_02_q32",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q32",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the 'Vesting Age' in a Pension or Retirement Plan?",
     "optionA": "The age when the person buys the policy",
@@ -480,8 +480,8 @@
     "order": 32
   },
   {
-    "questionId": "mock_test_02_q33",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q33",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What happens if a policyholder misstates their age, and the real age is higher than declared?",
     "optionA": "The policy is cancelled immediately",
@@ -495,8 +495,8 @@
     "order": 33
   },
   {
-    "questionId": "mock_test_02_q34",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q34",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which IRDAI guideline regulates the behavior of insurance agents?",
     "optionA": "Anti-Money Laundering Code",
@@ -510,8 +510,8 @@
     "order": 34
   },
   {
-    "questionId": "mock_test_02_q35",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q35",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is a 'Deferred Annuity'?",
     "optionA": "Pension that starts immediately after a single premium payment",
@@ -525,8 +525,8 @@
     "order": 35
   },
   {
-    "questionId": "mock_test_02_q36",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q36",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Who receives the claim money if the policyholder of an MWP Act policy dies?",
     "optionA": "The policyholder's creditors",
@@ -540,8 +540,8 @@
     "order": 36
   },
   {
-    "questionId": "mock_test_02_q37",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q37",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is the primary objective of KYC (Know Your Customer) guidelines in insurance?",
     "optionA": "To increase sales",
@@ -555,8 +555,8 @@
     "order": 37
   },
   {
-    "questionId": "mock_test_02_q38",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q38",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What constitutes a 'Lien' in a life insurance policy?",
     "optionA": "A permanent increase in premium",
@@ -570,8 +570,8 @@
     "order": 38
   },
   {
-    "questionId": "mock_test_02_q39",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q39",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which document signals the completion of the insurance contract?",
     "optionA": "Proposal Form",
@@ -585,8 +585,8 @@
     "order": 39
   },
   {
-    "questionId": "mock_test_02_q40",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q40",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "If the sum assured is Rs. 10 Lakhs, and the policy has a 10% co-payment clause, how much will the insurance company pay for an approved claim of Rs. 1 Lakh?",
     "optionA": "Rs. 10,000",
@@ -600,8 +600,8 @@
     "order": 40
   },
   {
-    "questionId": "mock_test_02_q41",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q41",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which concept prevents an individual from insuring a stranger's life?",
     "optionA": "Indemnity",
@@ -615,8 +615,8 @@
     "order": 41
   },
   {
-    "questionId": "mock_test_02_q42",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q42",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What is an 'Endorsement' on an insurance policy?",
     "optionA": "A marketing advertisement",
@@ -630,8 +630,8 @@
     "order": 42
   },
   {
-    "questionId": "mock_test_02_q43",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q43",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What does a 'Foreclosure' of a life insurance policy mean?",
     "optionA": "Closing the policy due to maturity",
@@ -645,8 +645,8 @@
     "order": 43
   },
   {
-    "questionId": "mock_test_02_q44",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q44",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "In a Unit Linked Insurance Plan (ULIP), the value of the investment is calculated by multiplying the number of units by:",
     "optionA": "The Sum Assured",
@@ -660,8 +660,8 @@
     "order": 44
   },
   {
-    "questionId": "mock_test_02_q45",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q45",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which type of life insurance policy is mandatory to be issued in an electronic form (e-Insurance Account)?",
     "optionA": "Micro Insurance",
@@ -675,8 +675,8 @@
     "order": 45
   },
   {
-    "questionId": "mock_test_02_q46",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q46",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "A life insurance claim where the cause of death is an earthquake is:",
     "optionA": "Always rejected as 'Act of God'",
@@ -690,8 +690,8 @@
     "order": 46
   },
   {
-    "questionId": "mock_test_02_q47",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q47",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Who among the following cannot be an Insurance Agent?",
     "optionA": "A college graduate",
@@ -705,8 +705,8 @@
     "order": 47
   },
   {
-    "questionId": "mock_test_02_q48",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q48",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "What happens to a life insurance policy if the premium is not paid within the grace period?",
     "optionA": "It becomes a Paid-up policy automatically in the first year",
@@ -720,8 +720,8 @@
     "order": 48
   },
   {
-    "questionId": "mock_test_02_q49",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q49",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "Which body resolves consumer disputes specifically regarding deficiency in services up to Rs. 50 Lakhs?",
     "optionA": "National Consumer Disputes Redressal Commission",
@@ -735,8 +735,8 @@
     "order": 49
   },
   {
-    "questionId": "mock_test_02_q50",
-    "testId": "mock_test_02",
+    "questionId": "ic38_life_mock_02_q50",
+    "testId": "ic38_life_mock_02",
     "examId": "ic38",
     "questionText": "The primary objective of 'Underwriting' is to:",
     "optionA": "Maximize the agent's commission",

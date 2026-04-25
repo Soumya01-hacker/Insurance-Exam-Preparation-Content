@@ -1,7 +1,7 @@
 [
   {
-    "questionId": "py_2023_set_01_q1",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q1",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is the primary mechanism of insurance?",
     "optionA": "Avoiding risk",
@@ -15,8 +15,8 @@
     "order": 1
   },
   {
-    "questionId": "py_2023_set_01_q2",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q2",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "The principle of 'Uberrima Fides' refers to:",
     "optionA": "Insurable Interest",
@@ -30,8 +30,8 @@
     "order": 2
   },
   {
-    "questionId": "py_2023_set_01_q3",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q3",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "When must 'Insurable Interest' exist in life insurance?",
     "optionA": "At the time of taking the policy",
@@ -45,8 +45,8 @@
     "order": 3
   },
   {
-    "questionId": "py_2023_set_01_q4",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q4",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which of the following is considered a standard proof of age?",
     "optionA": "Horoscope",
@@ -60,8 +60,8 @@
     "order": 4
   },
   {
-    "questionId": "py_2023_set_01_q5",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q5",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What does 'FPR' stand for in insurance documentation?",
     "optionA": "First Policy Record",
@@ -75,8 +75,8 @@
     "order": 5
   },
   {
-    "questionId": "py_2023_set_01_q6",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q6",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Who acts as the primary regulatory body for insurance in India?",
     "optionA": "RBI",
@@ -90,8 +90,8 @@
     "order": 6
   },
   {
-    "questionId": "py_2023_set_01_q7",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q7",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is the maximum limit for an award passed by an Insurance Ombudsman?",
     "optionA": "Rs. 10 Lakhs",
@@ -105,8 +105,8 @@
     "order": 7
   },
   {
-    "questionId": "py_2023_set_01_q8",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q8",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "A life insurance policy becomes an 'Early Claim' if death occurs within how many years of policy inception?",
     "optionA": "1 year",
@@ -120,8 +120,8 @@
     "order": 8
   },
   {
-    "questionId": "py_2023_set_01_q9",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q9",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which section of the Insurance Act, 1938 deals with Nomination?",
     "optionA": "Section 38",
@@ -135,8 +135,8 @@
     "order": 9
   },
   {
-    "questionId": "py_2023_set_01_q10",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q10",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which section of the Insurance Act, 1938 prohibits rebating?",
     "optionA": "Section 38",
@@ -150,8 +150,8 @@
     "order": 10
   },
   {
-    "questionId": "py_2023_set_01_q11",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q11",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What does a 'Term Insurance' policy primarily offer?",
     "optionA": "High investment returns",
@@ -165,8 +165,8 @@
     "order": 11
   },
   {
-    "questionId": "py_2023_set_01_q12",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q12",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which policy provides a combination of protection and investment by linking to market funds?",
     "optionA": "Endowment Policy",
@@ -180,8 +180,8 @@
     "order": 12
   },
   {
-    "questionId": "py_2023_set_01_q13",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q13",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is 'Surrender Value' in a life insurance policy?",
     "optionA": "Amount paid on death",
@@ -195,8 +195,8 @@
     "order": 13
   },
   {
-    "questionId": "py_2023_set_01_q14",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q14",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "In the context of MWP Act, who has the right to the policy claim?",
     "optionA": "Creditors of the policyholder",
@@ -210,8 +210,8 @@
     "order": 14
   },
   {
-    "questionId": "py_2023_set_01_q15",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q15",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which of the following is NOT a material fact required to be disclosed in life insurance?",
     "optionA": "Pre-existing illnesses",
@@ -225,8 +225,8 @@
     "order": 15
   },
   {
-    "questionId": "py_2023_set_01_q16",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q16",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is the primary document used to assess the risk of a prospective policyholder?",
     "optionA": "Claim form",
@@ -240,8 +240,8 @@
     "order": 16
   },
   {
-    "questionId": "py_2023_set_01_q17",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q17",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which document is essential to process a death claim?",
     "optionA": "Birth certificate",
@@ -255,8 +255,8 @@
     "order": 17
   },
   {
-    "questionId": "py_2023_set_01_q18",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q18",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is 'Moral Hazard' in insurance?",
     "optionA": "Risk of physical injury",
@@ -270,8 +270,8 @@
     "order": 18
   },
   {
-    "questionId": "py_2023_set_01_q19",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q19",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is an 'Annuity'?",
     "optionA": "Lump sum payment on death",
@@ -285,8 +285,8 @@
     "order": 19
   },
   {
-    "questionId": "py_2023_set_01_q20",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q20",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Under which assignment type does the policy ownership completely transfer to the assignee?",
     "optionA": "Conditional Assignment",
@@ -300,8 +300,8 @@
     "order": 20
   },
   {
-    "questionId": "py_2023_set_01_q21",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q21",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What role does a 'TPA' play in health insurance?",
     "optionA": "Sells insurance policies",
@@ -315,8 +315,8 @@
     "order": 21
   },
   {
-    "questionId": "py_2023_set_01_q22",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q22",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "A 30-day 'Grace Period' is applicable for which premium payment frequencies?",
     "optionA": "Monthly only",
@@ -330,8 +330,8 @@
     "order": 22
   },
   {
-    "questionId": "py_2023_set_01_q23",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q23",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "If a policyholder commits suicide within 1 year of policy inception, what is payable?",
     "optionA": "Full sum assured",
@@ -345,8 +345,8 @@
     "order": 23
   },
   {
-    "questionId": "py_2023_set_01_q24",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q24",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is 'Pre-hospitalization' cover?",
     "optionA": "Expenses incurred after discharge",
@@ -360,8 +360,8 @@
     "order": 24
   },
   {
-    "questionId": "py_2023_set_01_q25",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q25",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What does a 'Rider' do to a base life insurance policy?",
     "optionA": "Decreases the premium",
@@ -375,8 +375,8 @@
     "order": 25
   },
   {
-    "questionId": "py_2023_set_01_q26",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q26",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Who bears the investment risk in a ULIP?",
     "optionA": "The Insurance Company",
@@ -390,8 +390,8 @@
     "order": 26
   },
   {
-    "questionId": "py_2023_set_01_q27",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q27",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which concept ensures a policyholder cannot make a profit from a health insurance claim?",
     "optionA": "Subrogation",
@@ -405,8 +405,8 @@
     "order": 27
   },
   {
-    "questionId": "py_2023_set_01_q28",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q28",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What happens when an insurance policy becomes 'Lapsed'?",
     "optionA": "Premium increases",
@@ -420,8 +420,8 @@
     "order": 28
   },
   {
-    "questionId": "py_2023_set_01_q29",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q29",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Keyman Insurance is bought by:",
     "optionA": "A father for his son",
@@ -435,8 +435,8 @@
     "order": 29
   },
   {
-    "questionId": "py_2023_set_01_q30",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q30",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "In Health Insurance, what is 'PED'?",
     "optionA": "Post-Emergency Department",
@@ -450,8 +450,8 @@
     "order": 30
   },
   {
-    "questionId": "py_2023_set_01_q31",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q31",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What does 'Domiciliary Hospitalization' mean?",
     "optionA": "Treatment abroad",
@@ -465,8 +465,8 @@
     "order": 31
   },
   {
-    "questionId": "py_2023_set_01_q32",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q32",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "According to IGMS (Integrated Grievance Management System), within how many days should an insurer resolve a complaint?",
     "optionA": "7 days",
@@ -480,8 +480,8 @@
     "order": 32
   },
   {
-    "questionId": "py_2023_set_01_q33",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q33",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which type of life insurance guarantees the highest death benefit for the lowest premium?",
     "optionA": "Money Back Policy",
@@ -495,8 +495,8 @@
     "order": 33
   },
   {
-    "questionId": "py_2023_set_01_q34",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q34",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is 'Subrogation'?",
     "optionA": "Dividing the premium",
@@ -510,8 +510,8 @@
     "order": 34
   },
   {
-    "questionId": "py_2023_set_01_q35",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q35",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Who acts as the 'Principal' in an insurance agency relationship?",
     "optionA": "The Insurance Agent",
@@ -525,8 +525,8 @@
     "order": 35
   },
   {
-    "questionId": "py_2023_set_01_q36",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q36",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "A minor can be a nominee in a life insurance policy, provided:",
     "optionA": "The premium is paid by the minor",
@@ -540,8 +540,8 @@
     "order": 36
   },
   {
-    "questionId": "py_2023_set_01_q37",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q37",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Under Medical Underwriting, who is a 'Standard Life'?",
     "optionA": "A person with average health and normal life expectancy",
@@ -555,8 +555,8 @@
     "order": 37
   },
   {
-    "questionId": "py_2023_set_01_q38",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q38",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What does a 'Co-payment' clause in health insurance mean?",
     "optionA": "Two people pay the premium",
@@ -570,8 +570,8 @@
     "order": 38
   },
   {
-    "questionId": "py_2023_set_01_q39",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q39",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which document outlines the exact terms and conditions of an insurance contract?",
     "optionA": "Proposal Form",
@@ -585,8 +585,8 @@
     "order": 39
   },
   {
-    "questionId": "py_2023_set_01_q40",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q40",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "When is an 'Age Admission' typically done by the insurance company?",
     "optionA": "At the time of maturity only",
@@ -600,8 +600,8 @@
     "order": 40
   },
   {
-    "questionId": "py_2023_set_01_q41",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q41",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is the waiting period generally applied to Maternity Benefits in health insurance?",
     "optionA": "0 months",
@@ -615,8 +615,8 @@
     "order": 41
   },
   {
-    "questionId": "py_2023_set_01_q42",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q42",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which of the following describes a 'Level Premium'?",
     "optionA": "Premium increases every year",
@@ -630,8 +630,8 @@
     "order": 42
   },
   {
-    "questionId": "py_2023_set_01_q43",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q43",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What does the 'Free Look Period' allow the policyholder to do?",
     "optionA": "Take a free loan",
@@ -645,8 +645,8 @@
     "order": 43
   },
   {
-    "questionId": "py_2023_set_01_q44",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q44",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "An agent's license is typically valid for how many years before it requires renewal?",
     "optionA": "1 year",
@@ -660,8 +660,8 @@
     "order": 44
   },
   {
-    "questionId": "py_2023_set_01_q45",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q45",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "In Health Insurance, what does 'Network Hospital' mean?",
     "optionA": "Hospitals with free Wi-Fi",
@@ -675,8 +675,8 @@
     "order": 45
   },
   {
-    "questionId": "py_2023_set_01_q46",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q46",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is the primary function of an Underwriter?",
     "optionA": "To sell policies to customers",
@@ -690,8 +690,8 @@
     "order": 46
   },
   {
-    "questionId": "py_2023_set_01_q47",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q47",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "Which of the following falls under 'Physical Hazard'?",
     "optionA": "Intention to commit fraud",
@@ -705,8 +705,8 @@
     "order": 47
   },
   {
-    "questionId": "py_2023_set_01_q48",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q48",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "If a nominee dies before the life assured, what happens to the nomination?",
     "optionA": "The policy is cancelled",
@@ -720,8 +720,8 @@
     "order": 48
   },
   {
-    "questionId": "py_2023_set_01_q49",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q49",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "A 'Money Back Policy' is a variation of which traditional policy?",
     "optionA": "Term Insurance",
@@ -735,8 +735,8 @@
     "order": 49
   },
   {
-    "questionId": "py_2023_set_01_q50",
-    "testId": "py_2023_set_01",
+    "questionId": "ic38_life_mock_01_q50",
+    "testId": "ic38_life_mock_01",
     "examId": "ic38",
     "questionText": "What is the minimum age to apply for an insurance agent license?",
     "optionA": "18 years",
