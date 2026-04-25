@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_general_mock_5",
+  "chapter_title": "IC-38 General: Full Syllabus Mock Test 5",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "ic38_general_mock_5_q1",
+      "text": "In which year was the Insurance Regulatory and Development Authority of India (IRDAI) constituted?",
+      "options": [
+        "1956",
+        "1999",
+        "1938",
+        "1972"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI was constituted by an Act of Parliament in 1999 to regulate, promote, and ensure orderly growth of the insurance and re-insurance business in India."
+    },
+    {
+      "id": "ic38_general_mock_5_q2",
+      "text": "The principle of Indemnity is NOT applicable to which of the following policies?",
+      "options": [
+        "Fire Insurance",
+        "Marine Insurance",
+        "Life and Personal Accident Insurance",
+        "Motor Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Human life cannot be valued strictly in terms of money to provide exact compensation (indemnity). Therefore, Life and Personal Accident policies are benefit policies that pay a fixed sum, not indemnity policies."
+    },
+    {
+      "id": "ic38_general_mock_5_q3",
+      "text": "If an insurance company rejects a claim, the insured can approach the Insurance Ombudsman. What is the fee for filing this complaint?",
+      "options": [
+        "Rs. 500",
+        "1% of the claim amount",
+        "No fee is charged",
+        "Rs. 1000"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Ombudsman mechanism is an out-of-court dispute resolution system that is completely free of charge for the policyholders."
+    },
+    {
+      "id": "ic38_general_mock_5_q4",
+      "text": "What is the maximum time limit for the Insurance Ombudsman to pass an award after receiving all requirements from the complainant and the insurer?",
+      "options": [
+        "1 month",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman is required to pass an award within 3 months of the receipt of all requirements from the complainant."
+    },
+    {
+      "id": "ic38_general_mock_5_q5",
+      "text": "In Health Insurance, what is the meaning of a 'Copayment' clause?",
+      "options": [
+        "The insurer pays the premium for the insured",
+        "Two people share the same policy",
+        "The insured agrees to bear a specified percentage of the admissible claim amount",
+        "The hospital shares the cost with the insurer"
+      ],
+      "correct_index": 2,
+      "explanation": "A copayment is a cost-sharing requirement where the policyholder must pay a fixed percentage of every approved medical bill out of their own pocket."
+    },
+    {
+      "id": "ic38_general_mock_5_q6",
+      "text": "Under a Standard Fire and Special Perils Policy, which of the following perils is automatically covered?",
+      "options": [
+        "War and nuclear risks",
+        "Spontaneous combustion",
+        "Lightning",
+        "Theft after a fire"
+      ],
+      "correct_index": 2,
+      "explanation": "Lightning is explicitly covered under the basic Standard Fire and Special Perils policy, whereas war, theft after fire, and spontaneous combustion are generally excluded unless added via endorsement."
+    },
+    {
+      "id": "ic38_general_mock_5_q7",
+      "text": "In Marine Insurance, when must 'Insurable Interest' exist?",
+      "options": [
+        "Only at the time of taking the policy",
+        "Only at the time of the loss",
+        "Both at inception and at the time of loss",
+        "It is not required"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike fire insurance, in marine cargo insurance, the insured may buy the goods while they are already in transit. Hence, insurable interest must exist only at the time of the loss."
+    },
+    {
+      "id": "ic38_general_mock_5_q8",
+      "text": "Which document is considered the 'basis of the contract' in insurance?",
+      "options": [
+        "Cover Note",
+        "Policy Document",
+        "Proposal Form",
+        "Claim Form"
+      ],
+      "correct_index": 2,
+      "explanation": "The proposal form contains all the material facts disclosed by the customer. The insurance company assesses the risk and issues the policy based entirely on this form, making it the foundation of the contract."
+    },
+    {
+      "id": "ic38_general_mock_5_q9",
+      "text": "A 'Valued Policy' is an exception to which principle of insurance?",
+      "options": [
+        "Utmost Good Faith",
+        "Indemnity",
+        "Proximate Cause",
+        "Subrogation"
+      ],
+      "correct_index": 1,
+      "explanation": "Normally, indemnity pays the exact actual loss. In a Valued Policy (common in marine or art insurance), an agreed fixed value is paid regardless of the actual depreciated market value at the time of loss, violating strict indemnity."
+    },
+    {
+      "id": "ic38_general_mock_5_q10",
+      "text": "The term 'Subrogation' refers to:",
+      "options": [
+        "Transfer of rights and remedies of the insured to the insurer after a claim is settled",
+        "Sharing of losses among multiple insurers",
+        "Cancelling a policy mid-term",
+        "Paying the premium in installments"
+      ],
+      "correct_index": 0,
+      "explanation": "Once an insurer pays for a loss caused by a third party, subrogation allows the insurer to step into the shoes of the insured and sue that third party to recover the money paid."
+    },
+    {
+      "id": "ic38_general_mock_5_q11",
+      "text": "Which branch of general insurance usually handles 'Hull Insurance'?",
+      "options": [
+        "Motor Insurance",
+        "Marine Insurance",
+        "Aviation Insurance",
+        "Both B and C"
+      ],
+      "correct_index": 3,
+      "explanation": "The term 'Hull' refers to the main body of a vessel. It is used in both Marine Insurance (for ships/boats) and Aviation Insurance (for airplanes)."
+    },
+    {
+      "id": "ic38_general_mock_5_q12",
+      "text": "What is the primary function of a Loss Assessor or Surveyor?",
+      "options": [
+        "To sell new policies",
+        "To independently inspect, assess, and estimate the quantum of loss for claim settlement",
+        "To invest the company's funds",
+        "To audit the insurance company's accounts"
+      ],
+      "correct_index": 1,
+      "explanation": "Surveyors are independent professionals hired by insurance companies to visit the site of an accident or loss, investigate the cause, and calculate the exact financial extent of the damage."
+    },
+    {
+      "id": "ic38_general_mock_5_q13",
+      "text": "Under the Consumer Protection Act, a complaint regarding a claim dispute of up to Rs. 1 Crore can be filed at:",
+      "options": [
+        "District Consumer Disputes Redressal Commission",
+        "State Consumer Disputes Redressal Commission",
+        "National Consumer Disputes Redressal Commission",
+        "Supreme Court"
+      ],
+      "correct_index": 0,
+      "explanation": "As per the revised Consumer Protection Act 2019 limits, the District Commission entertains complaints where the value of goods/services paid as consideration does not exceed Rs. 1 Crore."
+    },
+    {
+      "id": "ic38_general_mock_5_q14",
+      "text": "In Motor Insurance, the 'No Claim Bonus' (NCB) belongs to:",
+      "options": [
+        "The vehicle",
+        "The insured (policyholder)",
+        "The insurance agent",
+        "The RTO"
+      ],
+      "correct_index": 1,
+      "explanation": "NCB is a reward for safe driving. If a policyholder sells their car and buys a new one, they can transfer the NCB to the new car. It belongs to the person, not the vehicle."
+    },
+    {
+      "id": "ic38_general_mock_5_q15",
+      "text": "Which of the following is considered a 'Material Fact' in Health Insurance?",
+      "options": [
+        "The color of the proposer's car",
+        "The proposer's favorite food",
+        "The proposer's history of diabetes",
+        "The proposer's religion"
+      ],
+      "correct_index": 2,
+      "explanation": "A material fact is any information that would influence the insurer's decision to accept the risk or set the premium. Medical history like diabetes is critical for health underwriting."
+    },
+    {
+      "id": "ic38_general_mock_5_q16",
+      "text": "What is 'Churning' in the insurance business?",
+      "options": [
+        "Mixing different policy features",
+        "An unethical practice where an agent persuades a client to surrender an old policy to buy a new one just to earn fresh commission",
+        "Processing claims quickly",
+        "Transferring risks to a reinsurer"
+      ],
+      "correct_index": 1,
+      "explanation": "Churning is a highly unethical sales practice. It harms the customer because they lose the accumulated benefits of the old policy and pay upfront costs for the new one, benefiting only the agent."
+    },
+    {
+      "id": "ic38_general_mock_5_q17",
+      "text": "What does an 'Endorsement' do in an insurance policy?",
+      "options": [
+        "It renews the policy",
+        "It alters, modifies, or adds conditions to the original policy document",
+        "It is a receipt for premium paid",
+        "It cancels the policy permanently"
+      ],
+      "correct_index": 1,
+      "explanation": "An endorsement is a written document attached to an insurance policy that amends the policy's coverage, terms, or details (like changing an address or adding an accessory cover)."
+    },
+    {
+      "id": "ic38_general_mock_5_q18",
+      "text": "In liability insurance, what is a 'Third Party'?",
+      "options": [
+        "The Insurance Company",
+        "The Insured Person",
+        "Any person who suffers an injury or loss and claims damages against the insured",
+        "The Insurance Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "The First Party is the insured, the Second Party is the insurer. Anyone else who is injured or whose property is damaged by the insured is the Third Party."
+    },
+    {
+      "id": "ic38_general_mock_5_q19",
+      "text": "For a factory, what type of policy covers the financial loss of gross profit resulting from an interruption of business after a fire?",
+      "options": [
+        "Standard Fire Policy",
+        "Public Liability Policy",
+        "Consequential Loss (Fire) Policy / Business Interruption Policy",
+        "Fidelity Guarantee Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "While a standard fire policy covers physical damage to the factory, a Consequential Loss policy covers the loss of profit and fixed expenses that continue while the business is shut down for repairs."
+    },
+    {
+      "id": "ic38_general_mock_5_q20",
+      "text": "Under the Motor Vehicles Act, compensation for 'Hit and Run' cases involving death is provided from:",
+      "options": [
+        "The victim's own life insurance",
+        "The Solatium Fund",
+        "The Prime Minister's Relief Fund",
+        "The RTO"
+      ],
+      "correct_index": 1,
+      "explanation": "The Solatium Fund is a specific fund created under the MV Act, managed by the general insurance industry, to compensate victims or their families in hit-and-run accidents where the vehicle cannot be identified."
+    },
+    {
+      "id": "ic38_general_mock_5_q21",
+      "text": "The time limit to file a complaint before the Insurance Ombudsman is:",
+      "options": [
+        "Within 30 days of the claim event",
+        "Within 1 year of the rejection of the claim representation by the insurer",
+        "Within 3 years of policy inception",
+        "Any time during the policy period"
+      ],
+      "correct_index": 1,
+      "explanation": "A customer must first complain to the insurer's grievance cell. If rejected or ignored for 30 days, they have a strict window of exactly 1 year from that date of rejection to approach the Ombudsman."
+    },
+    {
+      "id": "ic38_general_mock_5_q22",
+      "text": "What is 'Reinsurance'?",
+      "options": [
+        "When a customer buys two policies",
+        "When an insurance company buys insurance from another insurance company to protect itself from massive losses",
+        "Renewing a lapsed policy",
+        "Insuring a previously damaged car"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinsurance is 'insurance for insurers'. It allows a direct insurer to share large risks (like covering an entire airport or city against floods) with global reinsurers so a major disaster doesn't bankrupt them."
+    },
+    {
+      "id": "ic38_general_mock_5_q23",
+      "text": "A Personal Accident policy usually excludes death or disability arising from:",
+      "options": [
+        "Road accidents",
+        "Train derailments",
+        "Intentional self-injury or suicide",
+        "Drowning"
+      ],
+      "correct_index": 2,
+      "explanation": "Personal accident covers accidental, external, and visible events. Intentional self-injury, suicide, or accidents occurring while under the influence of drugs/alcohol are standard exclusions."
+    },
+    {
+      "id": "ic38_general_mock_5_q24",
+      "text": "The condition of 'Average' is applied in fire insurance claims when there is:",
+      "options": [
+        "Under-insurance",
+        "Over-insurance",
+        "Double insurance",
+        "Reinsurance"
+      ],
+      "correct_index": 0,
+      "explanation": "If property worth Rs 100 is insured for only Rs 50 (under-insurance), the insured is paying less premium. Under the 'Average' clause, any partial loss will also be paid in the same proportion (e.g., 50% of the loss)."
+    },
+    {
+      "id": "ic38_general_mock_5_q25",
+      "text": "In Health Insurance, what is a 'Waiting Period'?",
+      "options": [
+        "The time a patient waits in the hospital lobby",
+        "The time taken by TPA to approve cashless",
+        "A specified period from the policy start date during which certain diseases or treatments are not covered",
+        "The grace period for renewal"
+      ],
+      "correct_index": 2,
+      "explanation": "Waiting periods protect insurers from people who buy insurance only because they already know they need immediate surgery. Common waiting periods include 30 days for illnesses and 12-48 months for pre-existing conditions."
+    },
+    {
+      "id": "ic38_general_mock_5_q26",
+      "text": "Which of the following documents is the conclusive proof that an insurance contract has been concluded and premium has been received?",
+      "options": [
+        "The Premium Receipt / Section 64VB compliance",
+        "The Proposal Form",
+        "The Claim Form",
+        "The Agent's visiting card"
+      ],
+      "correct_index": 0,
+      "explanation": "Under Section 64VB of the Insurance Act, no risk can be assumed by an insurer unless the premium is received in advance. The premium receipt confirms this condition is met."
+    },
+    {
+      "id": "ic38_general_mock_5_q27",
+      "text": "Fidelity Guarantee Insurance provides cover to an employer against:",
+      "options": [
+        "Fire in the factory",
+        "Direct financial loss due to acts of fraud or dishonesty by an employee",
+        "Employees dying in accidents",
+        "Failure of machinery"
+      ],
+      "correct_index": 1,
+      "explanation": "Fidelity refers to loyalty. This policy protects businesses (like banks or retail stores) if their own employees steal money or goods from them."
+    },
+    {
+      "id": "ic38_general_mock_5_q28",
+      "text": "Who represents the buyer (client) and can offer policies from multiple insurance companies?",
+      "options": [
+        "Tied Insurance Agent",
+        "Insurance Broker",
+        "Surveyor",
+        "Underwriter"
+      ],
+      "correct_index": 1,
+      "explanation": "An agent strictly represents the insurance company. A broker is an independent professional who represents the client, studies the market, and procures the best policy from any insurer."
+    },
+    {
+      "id": "ic38_general_mock_5_q29",
+      "text": "In marine cargo insurance, throwing cargo overboard to lighten a ship in distress and save the remaining property is called:",
+      "options": [
+        "Barratry",
+        "Jettison",
+        "Pilferage",
+        "Salvage"
+      ],
+      "correct_index": 1,
+      "explanation": "Jettison is a maritime term specifically meaning the intentional throwing of cargo, equipment, or stores overboard to save the vessel from sinking."
+    },
+    {
+      "id": "ic38_general_mock_5_q30",
+      "text": "What is the maximum penalty for rebating (passing part of the commission to the customer) under Section 41 of the Insurance Act?",
+      "options": [
+        "Warning",
+        "Rs. 10,000 fine",
+        "Rs. 10 Lakh fine",
+        "Life imprisonment"
+      ],
+      "correct_index": 2,
+      "explanation": "Rebating is strictly illegal. As per the amended Insurance Act, any person found guilty of offering or accepting a rebate can be fined up to Rs. 10 Lakhs."
+    },
+    {
+      "id": "ic38_general_mock_5_q31",
+      "text": "A hospital that does NOT have an agreement with the insurance company for cashless settlement is known as a:",
+      "options": [
+        "Network Hospital",
+        "Non-Network Hospital",
+        "Government Hospital",
+        "Day Care Center"
+      ],
+      "correct_index": 1,
+      "explanation": "If a patient goes to a Non-Network Hospital, they usually have to pay the bills themselves first and then submit the documents to the insurer for reimbursement."
+    },
+    {
+      "id": "ic38_general_mock_5_q32",
+      "text": "What is the principle of 'Causa Proxima' used to determine?",
+      "options": [
+        "The premium amount",
+        "Whether the cause of the loss is a peril covered by the policy",
+        "The value of the salvage",
+        "The agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "When there are multiple causes for a loss, the insurer uses the principle of Proximate Cause to find the primary, most effective cause. If that specific cause is insured, the claim is paid."
+    },
+    {
+      "id": "ic38_general_mock_5_q33",
+      "text": "The term 'IDV' in motor insurance stands for 'Insured's Declared Value'. It is treated as the 'Sum Insured' and represents the:",
+      "options": [
+        "Current market value of the vehicle based on manufacturer's listed price minus age depreciation",
+        "Original purchase price of the vehicle",
+        "Price of a brand new vehicle of the same model",
+        "Scrap value of the vehicle"
+      ],
+      "correct_index": 0,
+      "explanation": "IDV is the maximum amount the insurer will pay in case of total loss or theft. It is calculated by taking the current showroom price of that vehicle model and applying standard depreciation based on its age."
+    },
+    {
+      "id": "ic38_general_mock_5_q34",
+      "text": "A 'Deductible' or 'Excess' in a policy means:",
+      "options": [
+        "The extra premium paid for an add-on",
+        "The initial fixed amount of every claim that the policyholder must bear themselves",
+        "The discount given for no claims",
+        "The amount paid to the surveyor"
+      ],
+      "correct_index": 1,
+      "explanation": "Deductibles are used to eliminate small, minor claims and make the insured more careful. For example, in motor OD claims, there is a compulsory deductible of Rs 1000 or Rs 2000 depending on cubic capacity."
+    },
+    {
+      "id": "ic38_general_mock_5_q35",
+      "text": "Which of the following is considered a 'Moral Hazard'?",
+      "options": [
+        "A house built near a river",
+        "Storing fireworks in a shop",
+        "An insured intentionally exaggerating the extent of a loss to get a bigger claim",
+        "Driving in heavy rain"
+      ],
+      "correct_index": 2,
+      "explanation": "Physical hazards relate to the physical state of the property. Moral hazards relate to the character, dishonesty, or fraudulent intentions of the insured person."
+    },
+    {
+      "id": "ic38_general_mock_5_q36",
+      "text": "Workers Compensation Insurance premium is calculated primarily based on the employer's:",
+      "options": [
+        "Annual turnover / profit",
+        "Estimated total wage roll (payroll) and the nature of work",
+        "Square footage of the factory",
+        "Age of the factory building"
+      ],
+      "correct_index": 1,
+      "explanation": "The risk of workplace injury depends directly on how many workers there are, how much they are paid (which determines the compensation amount), and how dangerous their job is."
+    },
+    {
+      "id": "ic38_general_mock_5_q37",
+      "text": "If a policy is deemed 'Void Ab Initio', it means:",
+      "options": [
+        "It is valid but expiring soon",
+        "It is invalid and has no legal effect from the very beginning",
+        "It is transferred to another person",
+        "It requires a higher premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Ab initio is Latin for 'from the beginning'. If it is proven that a policy was obtained through absolute fraud or without insurable interest, it is treated as if it never existed."
+    },
+    {
+      "id": "ic38_general_mock_5_q38",
+      "text": "In crop insurance, the 'Pradhan Mantri Fasal Bima Yojana' (PMFBY) covers yield losses due to:",
+      "options": [
+        "Theft of the harvested crop from the farmer's house",
+        "Non-preventable risks like natural fire, drought, flood, and pests",
+        "Fluctuation in market prices",
+        "Farmer's ill health"
+      ],
+      "correct_index": 1,
+      "explanation": "PMFBY is designed to protect farmers against natural, unavoidable perils that destroy the standing crop, not against post-harvest market risks or theft."
+    },
+    {
+      "id": "ic38_general_mock_5_q39",
+      "text": "A 'Cover Note' is basically a:",
+      "options": [
+        "Final policy document",
+        "Temporary certificate of insurance issued by the insurer/agent before the final policy is printed",
+        "Rejection letter",
+        "Marketing brochure"
+      ],
+      "correct_index": 1,
+      "explanation": "Often used in motor insurance, a cover note proves that insurance has been arranged immediately so the vehicle can be registered and driven, pending the issuance of the formal computerized policy document."
+    },
+    {
+      "id": "ic38_general_mock_5_q40",
+      "text": "Which of these is an example of an 'Intangible' product?",
+      "options": [
+        "A car",
+        "A television",
+        "A health insurance policy",
+        "A laptop"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance is a promise to pay in the future upon a specific event. You cannot touch or feel it like a physical good, making it an intangible service."
+    },
+    {
+      "id": "ic38_general_mock_5_q41",
+      "text": "The time limit allowed for a 'Free Look Period' in eligible policies is generally:",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 1,
+      "explanation": "The free look period allows the policyholder 15 days from the receipt of the policy document to review the terms. If they disagree, they can return the policy for a refund (subject to minor deductions)."
+    },
+    {
+      "id": "ic38_general_mock_5_q42",
+      "text": "A professional who applies mathematical and statistical methods to assess risk and calculate insurance premiums is an:",
+      "options": [
+        "Underwriter",
+        "Actuary",
+        "Investigator",
+        "Broker"
+      ],
+      "correct_index": 1,
+      "explanation": "Actuaries use advanced mathematics, probability, and statistics to ensure the insurance company charges enough premium to pay future claims while remaining financially stable."
+    },
+    {
+      "id": "ic38_general_mock_5_q43",
+      "text": "What is the primary role of an 'Underwriter'?",
+      "options": [
+        "To sell the policy to the customer",
+        "To decide whether to accept or reject a risk, and at what premium and conditions",
+        "To handle legal disputes in court",
+        "To pay the final claim amount"
+      ],
+      "correct_index": 1,
+      "explanation": "Underwriters evaluate the proposal form and survey reports. They are the gatekeepers who protect the insurance company from accepting bad risks."
+    },
+    {
+      "id": "ic38_general_mock_5_q44",
+      "text": "Which entity manages the 'Bima Bharosa' (formerly IGMS) portal?",
+      "options": [
+        "Insurance Ombudsman",
+        "General Insurance Council",
+        "IRDAI",
+        "Ministry of Finance"
+      ],
+      "correct_index": 2,
+      "explanation": "Bima Bharosa is the central, online grievance redressal monitoring system created and maintained by the regulator, IRDAI."
+    },
+    {
+      "id": "ic38_general_mock_5_q45",
+      "text": "For a claim to fall under 'Constructive Total Loss' (CTL) in motor insurance, the cost of repair and retrieval must exceed what percentage of the IDV?",
+      "options": [
+        "50%",
+        "75%",
+        "90%",
+        "100%"
+      ],
+      "correct_index": 1,
+      "explanation": "If a vehicle is badly damaged and the garage estimates that repairing it will cost more than 75% of the vehicle's Insured Declared Value, the insurer will declare it a Constructive Total Loss and pay the full IDV instead of repairing it."
+    },
+    {
+      "id": "ic38_general_mock_5_q46",
+      "text": "Professional Indemnity insurance is critical for:",
+      "options": [
+        "Factory laborers",
+        "Software programmers",
+        "Doctors, Chartered Accountants, and Architects",
+        "Retail shop owners"
+      ],
+      "correct_index": 2,
+      "explanation": "These professionals provide expert advice or services. If they make an error or are negligent (like a surgical mistake), they can be sued for massive amounts. This policy covers their legal defense and compensation costs."
+    },
+    {
+      "id": "ic38_general_mock_5_q47",
+      "text": "What happens if there is 'Double Insurance' and a loss occurs?",
+      "options": [
+        "Both insurers pay the full claim amount, so the insured gets double",
+        "The insured gets nothing because double insurance is illegal",
+        "The insurers will share the loss proportionately, adhering to the principle of Contribution",
+        "The older policy pays the full claim, the newer policy pays nothing"
+      ],
+      "correct_index": 2,
+      "explanation": "The principle of Contribution prevents the insured from making a profit. If you have two policies covering the same house, they will split the claim amount based on their respective sum insured ratios."
+    },
+    {
+      "id": "ic38_general_mock_5_q48",
+      "text": "In a Burglary policy, for a claim to be valid, there must usually be evidence of:",
+      "options": [
+        "The door being left unlocked",
+        "Forcible and violent entry into or exit from the premises",
+        "Employee carelessness",
+        "A riot occurring simultaneously"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard burglary insurance does not cover simple theft (where someone just walks in and takes something). It specifically requires evidence of breaking in or breaking out using force/violence."
+    },
+    {
+      "id": "ic38_general_mock_5_q49",
+      "text": "Micro-insurance policies are aimed at providing coverage to:",
+      "options": [
+        "Microscopic scientific equipment",
+        "Large corporations",
+        "Economically vulnerable sections and low-income groups of society",
+        "Expatriates living abroad"
+      ],
+      "correct_index": 2,
+      "explanation": "Micro-insurance products have very low premiums and low sum insureds, designed specifically to promote insurance penetration among the rural and urban poor."
+    },
+    {
+      "id": "ic38_general_mock_5_q50",
+      "text": "Which of the following is NOT a duty of an insurance agent?",
+      "options": [
+        "Helping the customer fill the proposal form correctly",
+        "Explaining the policy terms, conditions, and exclusions",
+        "Assisting the customer in case of a claim",
+        "Approving the claim and issuing the settlement cheque directly"
+      ],
+      "correct_index": 3,
+      "explanation": "Agents are intermediaries who sell and service policies. They do not have the authority to underwrite risks, approve claims, or issue cheques; those are the functions of the insurance company's internal staff."
+    }
+  ]
+}
