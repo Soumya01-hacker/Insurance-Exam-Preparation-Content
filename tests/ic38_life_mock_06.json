@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_06",
+  "chapter_title": "IC-38 Life Mock Test 6",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt06_q1",
+      "text": "What does a 'Decreasing Term Assurance' policy primarily cover?",
+      "options": [
+        "Retirement planning",
+        "Child's education",
+        "Outstanding loan or mortgage amount",
+        "Health expenses"
+      ],
+      "correct_index": 2,
+      "explanation": "Decreasing term insurance is typically tied to a loan (like a home loan). The sum assured decreases every year, matching the outstanding loan balance."
+    },
+    {
+      "id": "mt06_q2",
+      "text": "Under which section of the Income Tax Act are the death benefits of a life insurance policy completely tax-free?",
+      "options": [
+        "Section 80C",
+        "Section 80D",
+        "Section 10(10D)",
+        "Section 80CCC"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 10(10D) of the Income Tax Act ensures that the maturity and death claims received from a standard life insurance policy are exempt from tax."
+    },
+    {
+      "id": "mt06_q3",
+      "text": "Which document is issued when the original policy bond is lost or destroyed?",
+      "options": [
+        "Renewal Premium Receipt",
+        "Duplicate Policy",
+        "Cover Note",
+        "Endorsement Certificate"
+      ],
+      "correct_index": 1,
+      "explanation": "If the original policy document is lost, the insurer issues a Duplicate Policy after obtaining an indemnity bond and required fees from the policyholder."
+    },
+    {
+      "id": "mt06_q4",
+      "text": "What is the primary feature of an 'Annuity Certain'?",
+      "options": [
+        "It pays out only upon death",
+        "It pays a regular income for a fixed number of years, regardless of whether the annuitant lives or dies",
+        "It pays a lump sum after 10 years",
+        "It only pays during hospitalization"
+      ],
+      "correct_index": 1,
+      "explanation": "In an Annuity Certain, the pension amount is guaranteed to be paid for a specific period (e.g., 5, 10, or 15 years), even if the annuitant passes away during this period."
+    },
+    {
+      "id": "mt06_q5",
+      "text": "Who acts as the 'First Underwriter' in the life insurance business?",
+      "options": [
+        "The Medical Examiner",
+        "The Insurance Agent",
+        "The Branch Manager",
+        "The IRDAI Chairman"
+      ],
+      "correct_index": 1,
+      "explanation": "The agent is the primary and first underwriter because they personally meet the prospect, observe their lifestyle, and submit the Agent's Confidential Report (ACR)."
+    },
+    {
+      "id": "mt06_q6",
+      "text": "As per the Consumer Protection Act, what is the pecuniary jurisdiction of a State Consumer Disputes Redressal Commission?",
+      "options": [
+        "Up to Rs. 10 Lakhs",
+        "Up to Rs. 50 Lakhs",
+        "Between Rs. 50 Lakhs and Rs. 2 Crores",
+        "Above Rs. 10 Crores"
+      ],
+      "correct_index": 2,
+      "explanation": "According to updated Consumer Protection rules, the State Commission handles complaints where the value of goods/services exceeds Rs. 50 Lakhs but does not exceed Rs. 2 Crores."
+    },
+    {
+      "id": "mt06_q7",
+      "text": "In a Life Insurance contract, who is the 'Assignor'?",
+      "options": [
+        "The Insurance Company",
+        "The Nominee",
+        "The person who transfers the rights of the policy to another party",
+        "The person who receives the rights of the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "The Assignor is the original policyholder who executes the assignment deed to transfer their ownership rights to another entity (the Assignee)."
+    },
+    {
+      "id": "mt06_q8",
+      "text": "If a claim is repudiated (rejected) by the insurance company, what must the company provide to the claimant?",
+      "options": [
+        "A refund of the last premium",
+        "The agent's phone number",
+        "A written letter clearly stating the specific reasons for repudiation",
+        "A substitute policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance companies must raise all requirements or queries regarding a claim at one go and within 30 days of receiving the claim notice."
+    },
+    {
+      "id": "mt06_q9",
+      "text": "What does an 'Alteration' mean in policy servicing?",
+      "options": [
+        "Cancelling the policy",
+        "Making changes to the policy terms, like mode of premium or sum assured, after it has been issued",
+        "Transferring the policy to another company",
+        "Taking a loan against the policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Alterations refer to authorized modifications requested by the policyholder, such as changing the premium payment frequency from yearly to monthly."
+    },
+    {
+      "id": "mt06_q10",
+      "text": "What is the primary condition for an 'Insurable Interest' to be valid in life insurance?",
+      "options": [
+        "The proposer must be blood-related to the insured",
+        "The proposer must suffer a financial loss upon the death of the insured",
+        "The proposer must be older than the insured",
+        "The proposer and insured must live in the same house"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurable interest exists when the proposer derives a financial benefit from the continued life of the insured and would suffer a financial loss upon their death."
+    },
+    {
+      "id": "mt06_q11",
+      "text": "Which type of life insurance policy is usually taken by a company to cover the risk of losing a crucial employee?",
+      "options": [
+        "Group Gratuity Scheme",
+        "Keyman Insurance",
+        "Employer-Employee Scheme",
+        "Partnership Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman Insurance protects a business from the financial shock and loss of profits that would occur if a vital, key employee dies."
+    },
+    {
+      "id": "mt06_q12",
+      "text": "What is the full form of 'FPR'?",
+      "options": [
+        "Final Policy Report",
+        "First Premium Receipt",
+        "Fixed Premium Return",
+        "Free Policy Review"
+      ],
+      "correct_index": 1,
+      "explanation": "First Premium Receipt (FPR) is the official receipt issued when the first premium is paid and the underwriter accepts the risk. It confirms the contract has started."
+    },
+    {
+      "id": "mt06_q13",
+      "text": "Which document is considered a 'Non-Standard' proof of age?",
+      "options": [
+        "Passport",
+        "PAN Card",
+        "Driving License",
+        "Elder's Declaration"
+      ],
+      "correct_index": 3,
+      "explanation": "A declaration by an elder or a self-declaration is considered non-standard. Passports, PAN cards, and driving licenses are official, standard proofs."
+    },
+    {
+      "id": "mt06_q14",
+      "text": "A life insurance policy where the premium is paid only once at the beginning of the contract is called:",
+      "options": [
+        "Regular Premium Policy",
+        "Single Premium Policy",
+        "Limited Pay Policy",
+        "Level Premium Policy"
+      ],
+      "correct_index": 1,
+      "explanation": "In a Single Premium policy, the entire premium for the policy term is paid upfront in one lump sum."
+    },
+    {
+      "id": "mt06_q15",
+      "text": "According to IRDAI guidelines, what is the maximum time a customer has to cancel a policy under the 'Free Look Period'?",
+      "options": [
+        "7 days from the date of proposal",
+        "15 days from the date of receipt of the policy document",
+        "30 days from the date of policy issuance",
+        "45 days from the date of agent meeting"
+      ],
+      "correct_index": 1,
+      "explanation": "The 15-day Free Look Period officially begins on the exact date the policyholder receives the physical or electronic policy document."
+    },
+    {
+      "id": "mt06_q16",
+      "text": "What is the primary role of the 'Insurance Ombudsman'?",
+      "options": [
+        "To audit insurance companies",
+        "To provide a quick, informal, and cost-free mechanism for resolving customer grievances",
+        "To issue licenses to agents",
+        "To set premium rates"
+      ],
+      "correct_index": 1,
+      "explanation": "The Ombudsman acts as an alternate dispute resolution body to quickly settle policyholder complaints regarding claims or services without court fees."
+    },
+    {
+      "id": "mt06_q17",
+      "text": "Which of the following falls under the category of 'Financial Underwriting'?",
+      "options": [
+        "Checking the BMI of the applicant",
+        "Assessing whether the applicant's income justifies the requested Sum Assured",
+        "Evaluating a urine test report",
+        "Checking the family history of heart disease"
+      ],
+      "correct_index": 1,
+      "explanation": "Financial underwriting ensures the requested life cover is proportionate to the applicant's earning capacity, preventing over-insurance and moral hazard."
+    },
+    {
+      "id": "mt06_q18",
+      "text": "If a person buys a life insurance policy and commits suicide within 6 months, what does the nominee generally receive?",
+      "options": [
+        "The full Sum Assured",
+        "Nothing, the policy is void",
+        "80% of the premiums paid till the date of death",
+        "Double the Sum Assured"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the standard suicide clause, if suicide happens within 12 months of inception, the nominee is refunded 80% of the total premiums paid."
+    },
+    {
+      "id": "mt06_q19",
+      "text": "What does the 'Principle of Indemnity' ensure?",
+      "options": [
+        "The insured gets back all premiums at maturity",
+        "The insured cannot make a profit from an insurance claim",
+        "The insured can claim from multiple life insurance companies",
+        "The agent receives full commission"
+      ],
+      "correct_index": 1,
+      "explanation": "Indemnity applies to general/health insurance. It ensures compensation matches the exact financial loss, preventing the insured from profiting from a disaster."
+    },
+    {
+      "id": "mt06_q20",
+      "text": "In the context of AML (Anti-Money Laundering), what does 'KYC' stand for?",
+      "options": [
+        "Keep Your Cash",
+        "Know Your Customer",
+        "Knowledge of Yield Calculation",
+        "Key Yearly Commission"
+      ],
+      "correct_index": 1,
+      "explanation": "Know Your Customer (KYC) is the mandatory process of verifying the identity and address of the applicant to prevent financial fraud and money laundering."
+    },
+    {
+      "id": "mt06_q21",
+      "text": "Which life insurance plan provides regular periodic payouts during the policy term and a lump sum at maturity?",
+      "options": [
+        "Whole Life Plan",
+        "Term Plan",
+        "Money Back Plan",
+        "Pure Endowment Plan"
+      ],
+      "correct_index": 2,
+      "explanation": "Money Back policies provide periodic 'survival benefits' (e.g., 20% of sum assured every 5 years) while keeping the life cover intact until maturity."
+    },
+    {
+      "id": "mt06_q22",
+      "text": "What does a 'Unit Linked Insurance Plan' (ULIP) combine?",
+      "options": [
+        "Health insurance and car insurance",
+        "Life insurance protection and market-linked investment",
+        "Term insurance and a fixed deposit",
+        "Pension and health cover"
+      ],
+      "correct_index": 1,
+      "explanation": "ULIPs offer a dual benefit: a portion of the premium goes towards providing life cover, while the rest is invested in market funds chosen by the customer."
+    },
+    {
+      "id": "mt06_q23",
+      "text": "What is 'Churning' in the insurance industry?",
+      "options": [
+        "An underwriter assessing high-risk cases",
+        "An agent unethically advising a client to replace an existing policy with a new one solely to earn a fresh commission",
+        "The process of calculating bonuses",
+        "Transferring funds in a ULIP"
+      ],
+      "correct_index": 1,
+      "explanation": "Churning (or Twisting) is an unethical sales practice that harms the customer, as they lose the benefits and acquired value of their old policy."
+    },
+    {
+      "id": "mt06_q24",
+      "text": "Who regulates the operations of Insurance Brokers in India?",
+      "options": [
+        "SEBI",
+        "RBI",
+        "IRDAI",
+        "Ministry of Corporate Affairs"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) is the sole regulatory body for all insurance intermediaries, including agents and brokers."
+    },
+    {
+      "id": "mt06_q25",
+      "text": "What is an 'Early Claim' in life insurance?",
+      "options": [
+        "A claim filed within the first month",
+        "A claim where death occurs within 3 years from the date of policy inception or revival",
+        "A claim filed before paying the first premium",
+        "A maturity claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Any death claim that arises within 3 years of risk commencement or revival is categorized as an Early Claim and is subject to intense investigation for fraud."
+    },
+    {
+      "id": "mt06_q26",
+      "text": "Under Section 39 of the Insurance Act, a nomination can be made in favor of:",
+      "options": [
+        "Only blood relatives",
+        "Only the spouse",
+        "Any individual, but naming a minor requires an appointee",
+        "Only a registered trust"
+      ],
+      "correct_index": 2,
+      "explanation": "A policyholder can nominate anyone. However, if the nominee is a minor, an adult appointee must be designated to receive the money on the minor's behalf."
+    },
+    {
+      "id": "mt06_q27",
+      "text": "What happens to an existing nomination when a policy is assigned absolutely to a bank?",
+      "options": [
+        "The nomination remains active",
+        "The nomination is suspended",
+        "The nomination is automatically cancelled",
+        "The nominee shares the money with the bank"
+      ],
+      "correct_index": 2,
+      "explanation": "An absolute assignment transfers full ownership rights. Under law, executing an absolute assignment automatically cancels any prior nomination."
+    },
+    {
+      "id": "mt06_q28",
+      "text": "Which type of risk cannot be insured?",
+      "options": [
+        "Pure Risk",
+        "Financial Risk",
+        "Speculative Risk",
+        "Mortality Risk"
+      ],
+      "correct_index": 2,
+      "explanation": "Speculative risks (like gambling or investing in shares) where there is a chance of making a profit cannot be insured. Insurance only covers Pure Risks (chance of loss only)."
+    },
+    {
+      "id": "mt06_q29",
+      "text": "What is the 'Sum Assured' in a life insurance policy?",
+      "options": [
+        "The total premium paid",
+        "The guaranteed amount payable by the insurer on the occurrence of the insured event",
+        "The market value of the policy",
+        "The agent's target"
+      ],
+      "correct_index": 1,
+      "explanation": "The Sum Assured is the fundamental guaranteed amount stated in the policy contract that forms the basis of the death or maturity payout."
+    },
+    {
+      "id": "mt06_q30",
+      "text": "What is a 'Rider'?",
+      "options": [
+        "A free gift with the policy",
+        "An add-on benefit attached to the base policy for an additional premium",
+        "The person who delivers the policy",
+        "A penalty for late payment"
+      ],
+      "correct_index": 1,
+      "explanation": "Riders are customizable add-ons (like Accidental Death or Critical Illness cover) that enhance the base policy's protection at a nominal extra cost."
+    },
+    {
+      "id": "mt06_q31",
+      "text": "In Health Insurance, what does 'TPA' stand for?",
+      "options": [
+        "Total Premium Amount",
+        "Third Party Administrator",
+        "Temporary Policy Agreement",
+        "Tax Payment Authority"
+      ],
+      "correct_index": 1,
+      "explanation": "A Third Party Administrator (TPA) is a specialized agency licensed by IRDAI to process health insurance claims and manage cashless hospital networks."
+    },
+    {
+      "id": "mt06_q32",
+      "text": "A policyholder stops paying premiums after 4 years on a 20-year endowment policy. What happens to the policy?",
+      "options": [
+        "It is cancelled without any value",
+        "It becomes a 'Paid-up' policy with a reduced Sum Assured",
+        "The insurer pays the remaining premiums",
+        "The agent's license is suspended"
+      ],
+      "correct_index": 1,
+      "explanation": "Traditional policies acquire a surrender value after 2-3 years. If premiums stop after that, the policy doesn't lapse completely but continues as a 'Paid-up' policy with reduced benefits."
+    },
+    {
+      "id": "mt06_q33",
+      "text": "What does the 'Principle of Subrogation' imply?",
+      "options": [
+        "Transferring the policy to a minor",
+        "The insurer stepping into the shoes of the insured to recover the loss from a guilty third party after paying the claim",
+        "Paying a claim twice",
+        "Refusing to pay a claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation allows the insurance company to sue the party responsible for the damage to recover the money they paid out to their insured."
+    },
+    {
+      "id": "mt06_q34",
+      "text": "Which document legally confirms the changes made in a policy contract?",
+      "options": [
+        "A new proposal form",
+        "An Endorsement",
+        "A cover note",
+        "An indemnity bond"
+      ],
+      "correct_index": 1,
+      "explanation": "An endorsement is a written note or stamp attached to the policy document that legally validates any change, like a change in address or nominee."
+    },
+    {
+      "id": "mt06_q35",
+      "text": "If an applicant has a hazardous occupation (like mining), what action will the underwriter most likely take?",
+      "options": [
+        "Accept at standard rates",
+        "Accept with an Extra Premium",
+        "Always reject the proposal",
+        "Ask the agent to decide"
+      ],
+      "correct_index": 1,
+      "explanation": "Occupational hazards increase the risk of death. The underwriter will classify this as a sub-standard risk and charge an extra premium to cover the increased liability."
+    },
+    {
+      "id": "mt06_q36",
+      "text": "Which of the following describes 'Adverse Selection'?",
+      "options": [
+        "The insurer selecting bad agents",
+        "Individuals with a higher probability of loss actively seeking insurance at standard rates",
+        "The customer choosing a bad policy",
+        "The market performing poorly"
+      ],
+      "correct_index": 1,
+      "explanation": "Adverse (or Anti) selection occurs when sick or high-risk people try to buy insurance without disclosing their true condition, unfairly increasing the insurer's risk."
+    },
+    {
+      "id": "mt06_q37",
+      "text": "Under the Married Women's Property (MWP) Act, who can a married man name as beneficiaries?",
+      "options": [
+        "His parents",
+        "His business partners",
+        "His wife alone, children alone, or both jointly",
+        "Anyone he chooses"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 6 of the MWP Act restricts beneficiaries exclusively to the policyholder's wife and/or children, protecting the policy amount from creditors."
+    },
+    {
+      "id": "mt06_q38",
+      "text": "What does a 'Reversionary Bonus' mean?",
+      "options": [
+        "A bonus paid immediately in cash",
+        "A bonus declared annually and added to the policy account, payable at maturity or death",
+        "A bonus for the agent",
+        "A refund of premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Reversionary bonuses are declared by participating policies. They are not paid out immediately but accumulate ('vest') and are paid along with the final claim."
+    },
+    {
+      "id": "mt06_q39",
+      "text": "What is the primary purpose of 'Underwriting'?",
+      "options": [
+        "To maximize company profits",
+        "To fairly assess and price the risk, preventing anti-selection",
+        "To reject as many proposals as possible",
+        "To recruit new agents"
+      ],
+      "correct_index": 1,
+      "explanation": "The core function of an underwriter is to evaluate the risk profile of an applicant to ensure they are charged a premium that accurately reflects their risk level."
+    },
+    {
+      "id": "mt06_q40",
+      "text": "Which of the following is NOT a 'Material Fact'?",
+      "options": [
+        "Applicant is a heavy smoker",
+        "Applicant has diabetes",
+        "Applicant's favorite food is pizza",
+        "Applicant works as a deep-sea diver"
+      ],
+      "correct_index": 2,
+      "explanation": "Material facts are details that directly affect mortality risk. Dietary preferences (unless tied to a medical condition) are generally not material facts."
+    },
+    {
+      "id": "mt06_q41",
+      "text": "According to Section 45 of the Insurance Act, after how many years from issuance can an insurer NOT question a life insurance policy on any grounds?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "The amended Section 45 (Indisputability Clause) strictly states that no life insurance policy can be called into question on any grounds after 3 years from the date of issuance."
+    },
+    {
+      "id": "mt06_q42",
+      "text": "What does 'Ex Gratia' payment refer to?",
+      "options": [
+        "A mandatory court-ordered payment",
+        "A voluntary payment made by the insurer out of goodwill, even when there is no strict legal liability",
+        "A penalty for late premium",
+        "Agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "Ex Gratia means 'by favor'. The insurer pays a portion or all of a claim on humanitarian grounds, even if the claim is technically excluded under policy terms."
+    },
+    {
+      "id": "mt06_q43",
+      "text": "What happens when a life insurance policy 'Matures'?",
+      "options": [
+        "The policyholder dies",
+        "The term of the contract ends, and the surviving policyholder receives the agreed payout",
+        "The policy is cancelled due to non-payment",
+        "The agent's license expires"
+      ],
+      "correct_index": 1,
+      "explanation": "Maturity occurs when an endowment or savings policy successfully reaches the end of its stipulated term, and the insurer pays the maturity benefit to the living policyholder."
+    },
+    {
+      "id": "mt06_q44",
+      "text": "Which body formulated the Code of Conduct that every insurance agent must follow?",
+      "options": [
+        "The respective Insurance Company",
+        "IRDAI",
+        "Ministry of Finance",
+        "Life Insurance Council"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI strictly prescribes the Code of Conduct, which outlines the ethical and professional standards required of every licensed insurance agent."
+    },
+    {
+      "id": "mt06_q45",
+      "text": "What is the primary function of a 'Medical Examiner' in the underwriting process?",
+      "options": [
+        "To provide medical treatment to the applicant",
+        "To assess the applicant's health and provide a factual medical report to the underwriter",
+        "To sell health insurance policies",
+        "To approve the claim"
+      ],
+      "correct_index": 1,
+      "explanation": "The medical examiner acts as the eyes of the underwriter, conducting tests and reporting the physical health status of the applicant."
+    },
+    {
+      "id": "mt06_q46",
+      "text": "If a nominee dies before the life assured, what is the status of the nomination?",
+      "options": [
+        "It transfers to the nominee's heirs",
+        "It becomes void, and the policyholder can appoint a new nominee",
+        "The policy is cancelled",
+        "The money goes to the government"
+      ],
+      "correct_index": 1,
+      "explanation": "Nomination is valid only if the nominee survives the policyholder. If the nominee predeceases, the nomination fails, and the right reverts to the policyholder."
+    },
+    {
+      "id": "mt06_q47",
+      "text": "What does a 'Grace Period' in insurance prevent?",
+      "options": [
+        "Immediate lapse of the policy if a premium is paid slightly late",
+        "The agent from leaving the company",
+        "The insurer from changing the premium",
+        "The policyholder from changing the nominee"
+      ],
+      "correct_index": 0,
+      "explanation": "The grace period provides an extra window (15 or 30 days) after the due date to pay the premium without losing life cover or policy benefits."
+    },
+    {
+      "id": "mt06_q48",
+      "text": "In Unit Linked Insurance Plans (ULIPs), the investment risk is borne by:",
+      "options": [
+        "The Insurance Company",
+        "The IRDAI",
+        "The Policyholder",
+        "The Fund Manager"
+      ],
+      "correct_index": 2,
+      "explanation": "Unlike traditional plans, ULIPs link returns to market performance. Since the policyholder chooses the funds (Equity/Debt), they bear the entire investment risk."
+    },
+    {
+      "id": "mt06_q49",
+      "text": "Which concept calculates the exact economic value of a person to their family based on future earnings?",
+      "options": [
+        "Morbidity Value",
+        "Human Life Value (HLV)",
+        "Surrender Value",
+        "Paid-up Value"
+      ],
+      "correct_index": 1,
+      "explanation": "Human Life Value is the fundamental concept developed by Prof. S.S. Huebner used to objectively determine how much life insurance cover a person actually needs."
+    },
+    {
+      "id": "mt06_q50",
+      "text": "What is 'Rebating' as defined under Section 41 of the Insurance Act?",
+      "options": [
+        "Paying a lower premium due to good health",
+        "An agent offering a part of their commission to the customer as an inducement to buy a policy",
+        "A bonus declared by the insurer",
+        "Cancelling a policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Rebating is an illegal and punishable act where an agent bribes or induces a prospect by sharing their first-year commission."
+    }
+  ]
+}
