@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_health_mock_2",
+  "chapter_title": "Full Syllabus Mock Test 2 (Health)",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What does 'Utmost Good Faith' mean in an insurance contract?",
+      "options": [
+        "Only the agent should tell the truth",
+        "Both the Insurer and the Insured must disclose all material facts",
+        "Only the customer should hide their illness",
+        "The insurance company should focus on earning profit"
+      ],
+      "answer": "Both the Insurer and the Insured must disclose all material facts",
+      "explanation": "Both parties are required to disclose all facts with complete honesty."
+    },
+    {
+      "id": "q2",
+      "text": "When is 'Insurable Interest' required for taking Health Insurance?",
+      "options": [
+        "Only at the time of claim",
+        "At the time of taking the policy",
+        "At the time of policy renewal",
+        "Never"
+      ],
+      "answer": "At the time of taking the policy",
+      "explanation": "Insurable interest must exist at the commencement of the policy."
+    },
+    {
+      "id": "q3",
+      "text": "Health insurance works on which principle that compensates for the actual loss?",
+      "options": [
+        "Principle of Subrogation",
+        "Principle of Indemnity",
+        "Principle of Contribution",
+        "Principle of Profit"
+      ],
+      "answer": "Principle of Indemnity",
+      "explanation": "Indemnity means financial compensation for the actual loss incurred, not for making a profit."
+    },
+    {
+      "id": "q4",
+      "text": "Within how many days can a policyholder cancel a policy if they are dissatisfied with the terms (Free Look Period)?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "answer": "15 days",
+      "explanation": "A policy can be cancelled within 15 days of receiving the policy documents."
+    },
+    {
+      "id": "q5",
+      "text": "How much extra time (Grace Period) is given to pay the renewal premium for a health policy?",
+      "options": [
+        "10 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": "30 days",
+      "explanation": "A grace period of 30 days is provided for renewal to maintain continuity benefits."
+    },
+    {
+      "id": "q6",
+      "text": "What is the primary function of a TPA (Third Party Administrator)?",
+      "options": [
+        "Selling insurance policies",
+        "Providing loans to the insurance company",
+        "Processing claims and cashless hospitalization",
+        "Fixing the premium rates"
+      ],
+      "answer": "Processing claims and cashless hospitalization",
+      "explanation": "TPAs handle claims between the insurer and the hospital."
+    },
+    {
+      "id": "q7",
+      "text": "What is the maximum limit for filing a complaint with the Insurance Ombudsman?",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 30 Lakhs",
+        "Rs. 50 Lakhs"
+      ],
+      "answer": "Rs. 30 Lakhs",
+      "explanation": "The Ombudsman can hear disputes involving amounts up to 30 lakh rupees."
+    },
+    {
+      "id": "q8",
+      "text": "What are the fees for filing a complaint with the Insurance Ombudsman?",
+      "options": [
+        "Rs. 500",
+        "Rs. 1000",
+        "1% of the claim amount",
+        "No fees (Nil)"
+      ],
+      "answer": "No fees (Nil)",
+      "explanation": "The Ombudsman process is free of cost for the convenience of the customer."
+    },
+    {
+      "id": "q9",
+      "text": "What is the standard maximum waiting period for Pre-Existing Diseases (PED)?",
+      "options": [
+        "12 months",
+        "24 months",
+        "36 months",
+        "48 months"
+      ],
+      "answer": "48 months",
+      "explanation": "According to standard IRDAI guidelines, the maximum waiting period for PED is 48 months (4 years)."
+    },
+    {
+      "id": "q10",
+      "text": "What is it called when a patient receives treatment at home because they cannot be moved to a hospital?",
+      "options": [
+        "Day Care Procedure",
+        "Domiciliary Hospitalization",
+        "OPD Treatment",
+        "Ayush Treatment"
+      ],
+      "answer": "Domiciliary Hospitalization",
+      "explanation": "Treatment taken at home under specific conditions is called Domiciliary Hospitalization."
+    },
+    {
+      "id": "q11",
+      "text": "How much time is required for hospitalization in a Day Care Procedure?",
+      "options": [
+        "More than 24 hours",
+        "At least 48 hours",
+        "Less than 24 hours",
+        "No hospitalization required at all"
+      ],
+      "answer": "Less than 24 hours",
+      "explanation": "Due to advanced technology, certain surgeries take less than 24 hours, classified as Day Care."
+    },
+    {
+      "id": "q12",
+      "text": "What does Co-payment (Co-pay) mean?",
+      "options": [
+        "Insurer will pay double the claim",
+        "The policyholder must pay a fixed percentage of the claim amount themselves",
+        "Two people pay the premium together",
+        "Getting a bonus for not making a claim"
+      ],
+      "answer": "The policyholder must pay a fixed percentage of the claim amount themselves",
+      "explanation": "In Co-pay, the customer pays a specified percentage of every claim."
+    },
+    {
+      "id": "q13",
+      "text": "What is a policy called where the entire family shares a single Sum Insured?",
+      "options": [
+        "Individual Health Policy",
+        "Family Floater Policy",
+        "Group Health Policy",
+        "Critical Illness Policy"
+      ],
+      "answer": "Family Floater Policy",
+      "explanation": "In a family floater, there is a total limit that can be used by any family member."
+    },
+    {
+      "id": "q14",
+      "text": "What kind of benefit does a Critical Illness Policy provide?",
+      "options": [
+        "Equal to the hospital bill (Indemnity)",
+        "A lump sum amount upon diagnosis of the illness",
+        "Only medicine expenses",
+        "Only OPD treatment"
+      ],
+      "answer": "A lump sum amount upon diagnosis of the illness",
+      "explanation": "The full sum insured is paid as a lump sum upon the diagnosis of critical illnesses like Cancer or Heart Attack."
+    },
+    {
+      "id": "q15",
+      "text": "What is the full form of 'PTD' in a Personal Accident (PA) policy?",
+      "options": [
+        "Partial Temporary Disability",
+        "Permanent Total Disability",
+        "Pre Treatment Diagnosis",
+        "Personal Term Document"
+      ],
+      "answer": "Permanent Total Disability",
+      "explanation": "It refers to a condition where a person becomes 100% disabled for life (e.g., losing both eyes)."
+    },
+    {
+      "id": "q16",
+      "text": "Who usually purchases Group Health Insurance?",
+      "options": [
+        "An individual for themselves",
+        "An Employer for their employees",
+        "A hospital for its patients",
+        "Only government officials"
+      ],
+      "answer": "An Employer for their employees",
+      "explanation": "A group policy is a master policy taken by an employer for their staff."
+    },
+    {
+      "id": "q17",
+      "text": "How many days before renewal must a Portability request be submitted?",
+      "options": [
+        "15 days before",
+        "30 days before",
+        "45 days before",
+        "60 days before"
+      ],
+      "answer": "45 days before",
+      "explanation": "A notice of at least 45 days is required to switch insurance companies (Portability)."
+    },
+    {
+      "id": "q18",
+      "text": "What reward does the insurer provide next year if the policyholder does not make a claim?",
+      "options": [
+        "Cashback",
+        "Cumulative Bonus (No Claim Bonus)",
+        "Only a free checkup",
+        "Waiving off the premium"
+      ],
+      "answer": "Cumulative Bonus (No Claim Bonus)",
+      "explanation": "Renewing a policy without a claim increases the Sum Insured, known as a Cumulative Bonus."
+    },
+    {
+      "id": "q19",
+      "text": "Under which section of the Income Tax Act is health insurance premium eligible for tax deduction?",
+      "options": [
+        "Section 80C",
+        "Section 80D",
+        "Section 80G",
+        "Section 10(10D)"
+      ],
+      "answer": "Section 80D",
+      "explanation": "Tax benefits for health insurance come under Section 80D."
+    },
+    {
+      "id": "q20",
+      "text": "What happens if the hospital room rent limit is exceeded during an insurance claim?",
+      "options": [
+        "The entire claim will be rejected",
+        "Proportionate Deduction will apply, reducing other bill components proportionately",
+        "The hospital must reduce the bill",
+        "The insurer will pay the balance next year"
+      ],
+      "answer": "Proportionate Deduction will apply, reducing other bill components proportionately",
+      "explanation": "Exceeding the room rent limit triggers a proportionate deduction, where other charges are reduced in the same ratio."
+    },
+    {
+      "id": "q21",
+      "text": "Which of the following is an example of a Moral Hazard?",
+      "options": [
+        "Having high blood pressure",
+        "Working in a dangerous factory",
+        "Giving false information for a policy or making a fraudulent claim",
+        "Being of old age"
+      ],
+      "answer": "Giving false information for a policy or making a fraudulent claim",
+      "explanation": "Moral hazard relates to the character/intent of the person, such as fraud or lying."
+    },
+    {
+      "id": "q22",
+      "text": "What is the purpose of 'Underwriting' in Health Insurance?",
+      "options": [
+        "Collecting premium",
+        "Rejecting claims",
+        "To assess the risk and decide whether to issue the policy",
+        "Building a friendship with the customer"
+      ],
+      "answer": "To assess the risk and decide whether to issue the policy",
+      "explanation": "An underwriter evaluates the risk to determine the premium and policy terms."
+    },
+    {
+      "id": "q23",
+      "text": "Who issues the license for an insurance agent?",
+      "options": [
+        "TPA",
+        "IRDAI",
+        "State Government",
+        "Ombudsman"
+      ],
+      "answer": "IRDAI",
+      "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) issues all licenses and creates regulations."
+    },
+    {
+      "id": "q24",
+      "text": "What is typically 'Excluded' (not covered) in a health insurance policy?",
+      "options": [
+        "Injury from an accident",
+        "Malaria or Dengue",
+        "Cosmetic surgery",
+        "Heart attack"
+      ],
+      "answer": "Cosmetic surgery",
+      "explanation": "Cosmetic surgeries, suicide attempts, and accidents due to alcohol are common exclusions."
+    },
+    {
+      "id": "q25",
+      "text": "What must a patient show at the hospital for a cashless claim?",
+      "options": [
+        "Ration Card",
+        "Only Voter ID card",
+        "Health ID Card / E-card issued by the TPA",
+        "Property papers"
+      ],
+      "answer": "Health ID Card / E-card issued by the TPA",
+      "explanation": "Cashless facilities are availed at network hospitals by showing the Health ID card."
+    },
+    {
+      "id": "q26",
+      "text": "What right does the principle of Subrogation give to the insurance company?",
+      "options": [
+        "Right to cancel the policy",
+        "Right to recover money from the third party (who caused the loss)",
+        "Right to increase the premium",
+        "Right to pay half the claim"
+      ],
+      "answer": "Right to recover money from the third party (who caused the loss)",
+      "explanation": "After paying the claim, the insurer can recover the amount from the guilty third party."
+    },
+    {
+      "id": "q27",
+      "text": "If a 25-year-old person takes a policy, in which category is their risk placed?",
+      "options": [
+        "Standard Risk",
+        "Sub-standard Risk",
+        "Declined Risk",
+        "Hazardous Risk"
+      ],
+      "answer": "Standard Risk",
+      "explanation": "Healthy and young individuals are considered Standard Risk."
+    },
+    {
+      "id": "q28",
+      "text": "Within what time should claim intimation (information) be given to the insurer after hospitalization?",
+      "options": [
+        "Within 24 hours",
+        "Within 7 days",
+        "Within 15 days",
+        "After discharge"
+      ],
+      "answer": "Within 24 hours",
+      "explanation": "It is necessary to inform the insurance company/TPA within 24 hours of hospitalization."
+    },
+    {
+      "id": "q29",
+      "text": "Senior Citizen Health Insurance policies are usually for people of what age?",
+      "options": [
+        "45+ years",
+        "50+ years",
+        "60+ years",
+        "75+ years"
+      ],
+      "answer": "60+ years",
+      "explanation": "People aged 60 and above are considered senior citizens."
+    },
+    {
+      "id": "q30",
+      "text": "Who is required to fill out the proposal form?",
+      "options": [
+        "Only the agent",
+        "The Insurance Company",
+        "The person taking the insurance (Proposer)",
+        "The Doctor"
+      ],
+      "answer": "The person taking the insurance (Proposer)",
+      "explanation": "The proposer must provide all their details and fill the proposal form."
+    },
+    {
+      "id": "q31",
+      "text": "What does 'Rider' (Add-on) mean?",
+      "options": [
+        "The person taking the policy",
+        "Extra cover added to the base policy by paying extra premium",
+        "The envelope of the policy document",
+        "The agent's commission"
+      ],
+      "answer": "Extra cover added to the base policy by paying extra premium",
+      "explanation": "A rider is an additional benefit added to the main policy for an extra cost (e.g., Maternity rider)."
+    },
+    {
+      "id": "q32",
+      "text": "What is the full form of OPD?",
+      "options": [
+        "Over Patient Duty",
+        "Out Patient Department",
+        "Operation Patient Department",
+        "Out Premium Deduction"
+      ],
+      "answer": "Out Patient Department",
+      "explanation": "It is when a patient is not admitted but leaves after consulting the doctor."
+    },
+    {
+      "id": "q33",
+      "text": "If a health policy has both 'Deductible' and 'Copay', which is applied first during claim calculation?",
+      "options": [
+        "Both together",
+        "Copay first, then Deductible",
+        "Deductible first, then Copay on the remaining amount",
+        "Whatever the insurer decides"
+      ],
+      "answer": "Deductible first, then Copay on the remaining amount",
+      "explanation": "First, the fixed deductible is subtracted; then, the co-pay percentage is applied to the remaining bill."
+    },
+    {
+      "id": "q34",
+      "text": "Which of the following is NOT included in AYUSH treatment?",
+      "options": [
+        "Ayurveda",
+        "Allopathy",
+        "Unani",
+        "Homeopathy"
+      ],
+      "answer": "Allopathy",
+      "explanation": "AYUSH stands for Ayurveda, Yoga/Naturopathy, Unani, Siddha, and Homeopathy. Allopathy is not part of it."
+    },
+    {
+      "id": "q35",
+      "text": "When must a Material Fact be disclosed?",
+      "options": [
+        "Only at the time of claim",
+        "While filling the proposal form before taking the policy",
+        "When the policy expires",
+        "When the insurer sends a notice"
+      ],
+      "answer": "While filling the proposal form before taking the policy",
+      "explanation": "According to the principle of utmost good faith, everything must be disclosed at the beginning."
+    },
+    {
+      "id": "q36",
+      "text": "What is the time limit for the insurer to settle or reject a claim after receiving all necessary documents?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "answer": "30 days",
+      "explanation": "The insurer must settle or reject the claim within 30 days of the last document submission."
+    },
+    {
+      "id": "q37",
+      "text": "What can be the maximum sum insured in a Micro Insurance health policy?",
+      "options": [
+        "Rs. 1,00,000",
+        "Rs. 2,00,000",
+        "Rs. 5,00,000",
+        "Rs. 10,00,000"
+      ],
+      "answer": "Rs. 2,00,000",
+      "explanation": "Micro-insurance, designed for the poorer sections, usually has a limit between Rs. 50,000 and 2,00,000."
+    },
+    {
+      "id": "q38",
+      "text": "Under the Grievance Redressal Mechanism, within how many days must an insurer provide a resolution after receiving a complaint?",
+      "options": [
+        "7 days",
+        "15 days",
+        "21 days",
+        "30 days"
+      ],
+      "answer": "15 days",
+      "explanation": "It is mandatory to resolve a customer's complaint within 15 days of receiving it."
+    },
+    {
+      "id": "q39",
+      "text": "On what basis is an Insurance Agent's commission calculated?",
+      "options": [
+        "Sum Insured",
+        "Claim Amount",
+        "Premium Collected",
+        "Hospital Bill"
+      ],
+      "answer": "Premium Collected",
+      "explanation": "Agents receive a commission based on a percentage of the premium paid by the customer."
+    },
+    {
+      "id": "q40",
+      "text": "Which document is essential for KYC (Know Your Customer)?",
+      "options": [
+        "Class 10th mark sheet",
+        "PAN Card / Aadhaar Card",
+        "Medical Report",
+        "Hospital Bill"
+      ],
+      "answer": "PAN Card / Aadhaar Card",
+      "explanation": "PAN/Aadhaar are required for identity and address verification as per AML guidelines."
+    },
+    {
+      "id": "q41",
+      "text": "What are subsequent changes made to the policy terms and conditions called?",
+      "options": [
+        "Proposal",
+        "Endorsement",
+        "Claim form",
+        "Prospectus"
+      ],
+      "answer": "Endorsement",
+      "explanation": "Modifications in a policy (like name or address change) are called Endorsements."
+    },
+    {
+      "id": "q42",
+      "text": "What is the typical waiting period for Maternity Benefit in health insurance?",
+      "options": [
+        "No waiting period",
+        "3 to 6 months",
+        "9 to 36/48 months",
+        "10 years"
+      ],
+      "answer": "9 to 36/48 months",
+      "explanation": "Most policies have a waiting period ranging from 9 months to 3-4 years for maternity coverage."
+    },
+    {
+      "id": "q43",
+      "text": "What is an example of a Physical Hazard?",
+      "options": [
+        "Telling a lie",
+        "Being overweight or Smoking",
+        "Not paying the premium",
+        "Losing claim documents"
+      ],
+      "answer": "Being overweight or Smoking",
+      "explanation": "Physical hazard relates to physical conditions or habits that increase the risk of a claim."
+    },
+    {
+      "id": "q44",
+      "text": "What does it mean if a cashless claim is rejected?",
+      "options": [
+        "The policy is cancelled",
+        "The patient cannot receive treatment",
+        "Cashless is denied, but a reimbursement claim can be filed after discharge",
+        "The patient could go to jail"
+      ],
+      "answer": "Cashless is denied, but a reimbursement claim can be filed after discharge",
+      "explanation": "Rejection of cashless doesn't mean rejection of the claim; it often means the customer pays first and then claims a refund."
+    },
+    {
+      "id": "q45",
+      "text": "Which form does the hospital fill for cashless approval?",
+      "options": [
+        "Pre-Authorization form",
+        "KYC form",
+        "Proposal form",
+        "Feedback form"
+      ],
+      "answer": "Pre-Authorization form",
+      "explanation": "The hospital's TPA desk sends a Pre-Authorization form to the insurer for approval."
+    },
+    {
+      "id": "q46",
+      "text": "In which year was the first Health Insurance Policy (Mediclaim) launched in India?",
+      "options": [
+        "1956",
+        "1986",
+        "1999",
+        "2005"
+      ],
+      "answer": "1986",
+      "explanation": "The Mediclaim policy was first launched in 1986."
+    },
+    {
+      "id": "q47",
+      "text": "What is the validity period of an Agent's license?",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "Lifetime"
+      ],
+      "answer": "3 years",
+      "explanation": "An IRDAI license is valid for 3 years, after which it must be renewed."
+    },
+    {
+      "id": "q48",
+      "text": "What right does an insurer have if a policyholder intentionally commits fraud?",
+      "options": [
+        "Pay the claim and give a warning",
+        "Declare the policy void and forfeit the premium",
+        "It is mandatory to call the police",
+        "Give the person more money"
+      ],
+      "answer": "Declare the policy void and forfeit the premium",
+      "explanation": "If fraud is proven, the contract is cancelled and the premium paid is not refunded."
+    },
+    {
+      "id": "q49",
+      "text": "What is a Network Hospital?",
+      "options": [
+        "One that provides free treatment",
+        "One that has a tie-up with the insurer/TPA for cashless facilities",
+        "A government hospital",
+        "A hospital in another country"
+      ],
+      "answer": "One that has a tie-up with the insurer/TPA for cashless facilities",
+      "explanation": "Network hospitals are those where the TPA has a tie-up to provide cashless services."
+    },
+    {
+      "id": "q50",
+      "text": "Which entity regulates health insurance companies in India?",
+      "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+      ],
+      "answer": "IRDAI",
+      "explanation": "IRDAI is the regulatory body for all insurance companies in India."
+    }
+  ]
+}
