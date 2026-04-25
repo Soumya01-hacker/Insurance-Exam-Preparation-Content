@@ -1,11 +1,11 @@
 {
-  "test_id": "ic38_health_mock_1",
-  "title": "Full Syllabus Mock Test 1 (Health)",
-  "total_questions": 50,
+  "chapter_id": "ic38_health_mock_1",
+  "chapter_title": "Full Syllabus Mock Test 1 (Health)",
+  "pass_marks": 18,
   "questions": [
     {
       "id": "q1",
-      "question": "Which of the following is a primary burden of risk?",
+      "text": "Which of the following is a primary burden of risk?",
       "options": [
         "Actual loss incurred",
         "Cost of risk management",
@@ -17,7 +17,7 @@
     },
     {
       "id": "q2",
-      "question": "The mechanism of 'Pooling' in insurance works on which principle?",
+      "text": "The mechanism of 'Pooling' in insurance works on which principle?",
       "options": [
         "Law of Large Numbers",
         "Principle of Indemnity",
@@ -29,7 +29,7 @@
     },
     {
       "id": "q3",
-      "question": "In the SERVQUAL model, 'Empathy' refers to:",
+      "text": "In the SERVQUAL model, 'Empathy' refers to:",
       "options": [
         "Performing the service dependably",
         "Willingness to help customers",
@@ -41,7 +41,7 @@
     },
     {
       "id": "q4",
-      "question": "As per the Consumer Protection Act, a district forum can entertain complaints up to what value?",
+      "text": "As per the Consumer Protection Act, a district forum can entertain complaints up to what value?",
       "options": [
         "Rs. 10 Lakhs",
         "Rs. 20 Lakhs",
@@ -53,7 +53,7 @@
     },
     {
       "id": "q5",
-      "question": "What is the maximum penalty for an agent found guilty of multilevel marketing?",
+      "text": "What is the maximum penalty for an agent found guilty of multilevel marketing?",
       "options": [
         "Rs. 1,000",
         "Rs. 5,000",
@@ -65,7 +65,7 @@
     },
     {
       "id": "q6",
-      "question": "Which principle ensures that an insured does not profit from a loss?",
+      "text": "Which principle ensures that an insured does not profit from a loss?",
       "options": [
         "Utmost Good Faith",
         "Indemnity",
@@ -77,7 +77,7 @@
     },
     {
       "id": "q7",
-      "question": "When must 'Insurable Interest' exist in a health insurance policy?",
+      "text": "When must 'Insurable Interest' exist in a health insurance policy?",
       "options": [
         "Only at the time of taking the policy",
         "Only at the time of claim",
@@ -89,7 +89,7 @@
     },
     {
       "id": "q8",
-      "question": "A Third Party Administrator (TPA) is licensed by:",
+      "text": "A Third Party Administrator (TPA) is licensed by:",
       "options": [
         "Ministry of Health",
         "IRDAI",
@@ -101,7 +101,7 @@
     },
     {
       "id": "q9",
-      "question": "Under the ESIS scheme, what is the current wage limit for employees to be covered?",
+      "text": "Under the ESIS scheme, what is the current wage limit for employees to be covered?",
       "options": [
         "Rs. 15,000 per month",
         "Rs. 21,000 per month",
@@ -113,7 +113,7 @@
     },
     {
       "id": "q10",
-      "question": "What does 'PED' stand for in health insurance underwriting?",
+      "text": "What does 'PED' stand for in health insurance underwriting?",
       "options": [
         "Premium Entry Date",
         "Pre-existing Disease",
@@ -125,7 +125,7 @@
     },
     {
       "id": "q11",
-      "question": "As per IRDAI guidelines, what is the standard waiting period for Pre-existing Diseases (PED)?",
+      "text": "As per IRDAI guidelines, what is the standard waiting period for Pre-existing Diseases (PED)?",
       "options": [
         "12 months",
         "24 months",
@@ -137,7 +137,7 @@
     },
     {
       "id": "q12",
-      "question": "A 'Cashless' claim facility is only available at:",
+      "text": "A 'Cashless' claim facility is only available at:",
       "options": [
         "Any government hospital",
         "Any private hospital",
@@ -149,7 +149,7 @@
     },
     {
       "id": "q13",
-      "question": "What is 'Co-payment' in a health insurance policy?",
+      "text": "What is 'Co-payment' in a health insurance policy?",
       "options": [
         "Paying premium in installments",
         "Sharing the cost of the claim between insured and insurer",
@@ -161,7 +161,7 @@
     },
     {
       "id": "q14",
-      "question": "Which of the following documents is most critical for a reimbursement claim?",
+      "text": "Which of the following documents is most critical for a reimbursement claim?",
       "options": [
         "Policy Copy",
         "Proposal Form",
@@ -173,7 +173,7 @@
     },
     {
       "id": "q15",
-      "question": "What is the role of an 'Ombudsman' in insurance?",
+      "text": "What is the role of an 'Ombudsman' in insurance?",
       "options": [
         "To sell insurance policies",
         "To settle disputes between insurer and insured out of court",
@@ -185,7 +185,7 @@
     },
     {
       "id": "q16",
-      "question": "Which of the following healthcare levels provides specialized care by specialists and consultants?",
+      "text": "Which of the following healthcare levels provides specialized care by specialists and consultants?",
       "options": [
         "Primary Healthcare",
         "Secondary Healthcare",
@@ -197,7 +197,7 @@
     },
     {
       "id": "q17",
-      "question": "Which document contains the specific details of the risks covered and exclusions of an insurance policy?",
+      "text": "Which document contains the specific details of the risks covered and exclusions of an insurance policy?",
       "options": [
         "Prospectus",
         "Proposal Form",
@@ -209,7 +209,7 @@
     },
     {
       "id": "q18",
-      "question": "What is a 'Deductible' in health insurance?",
+      "text": "What is a 'Deductible' in health insurance?",
       "options": [
         "A discount given for no claims",
         "A fixed amount the insured must pay before the insurer starts paying",
@@ -221,7 +221,7 @@
     },
     {
       "id": "q19",
-      "question": "The 'Free-look period' in a health policy is usually for how many days?",
+      "text": "The 'Free-look period' in a health policy is usually for how many days?",
       "options": [
         "7 days",
         "15 days",
@@ -233,7 +233,7 @@
     },
     {
       "id": "q20",
-      "question": "Which of the following is NOT a type of benefit in health insurance?",
+      "text": "Which of the following is NOT a type of benefit in health insurance?",
       "options": [
         "Indemnity",
         "Fixed Benefit",
@@ -245,7 +245,7 @@
     },
     {
       "id": "q21",
-      "question": "In a 'Family Floater' policy, the sum insured is available for:",
+      "text": "In a 'Family Floater' policy, the sum insured is available for:",
       "options": [
         "Each family member separately",
         "Only the proposer",
@@ -257,7 +257,7 @@
     },
     {
       "id": "q22",
-      "question": "Which of the following illnesses is commonly excluded during the first 30 days of a new health policy?",
+      "text": "Which of the following illnesses is commonly excluded during the first 30 days of a new health policy?",
       "options": [
         "Accidental injuries",
         "Heart attack",
@@ -269,7 +269,7 @@
     },
     {
       "id": "q23",
-      "question": "'Moral Hazard' in health insurance refers to:",
+      "text": "'Moral Hazard' in health insurance refers to:",
       "options": [
         "Risk of natural disasters",
         "Intentional actions by insured to increase claim amount",
@@ -281,7 +281,7 @@
     },
     {
       "id": "q24",
-      "question": "What is 'IBNR' in the context of insurance claims?",
+      "text": "What is 'IBNR' in the context of insurance claims?",
       "options": [
         "Incurred But Not Reported",
         "Insured But Not Registered",
@@ -293,7 +293,7 @@
     },
     {
       "id": "q25",
-      "question": "The 'Principle of Contribution' applies when:",
+      "text": "The 'Principle of Contribution' applies when:",
       "options": [
         "The insured pays premium in installments",
         "The insured has multiple policies covering the same loss",
@@ -305,7 +305,7 @@
     },
     {
       "id": "q26",
-      "question": "Which of the following is a primary objective of 'Underwriting'?",
+      "text": "Which of the following is a primary objective of 'Underwriting'?",
       "options": [
         "To increase sales at any cost",
         "To select and classify risks to ensure long-term stability",
@@ -317,7 +317,7 @@
     },
     {
       "id": "q27",
-      "question": "What is 'KYC' in insurance?",
+      "text": "What is 'KYC' in insurance?",
       "options": [
         "Know Your Company",
         "Know Your Customer",
@@ -329,7 +329,7 @@
     },
     {
       "id": "q28",
-      "question": "Which of the following is a 'promotive' healthcare activity?",
+      "text": "Which of the following is a 'promotive' healthcare activity?",
       "options": [
         "Surgery for heart disease",
         "Vaccination program",
@@ -341,7 +341,7 @@
     },
     {
       "id": "q29",
-      "question": "The 'Insurance Act, 1938' is the basic law governing:",
+      "text": "The 'Insurance Act, 1938' is the basic law governing:",
       "options": [
         "Only Life Insurance",
         "Only General Insurance",
@@ -353,7 +353,7 @@
     },
     {
       "id": "q30",
-      "question": "What is the 'Sum Insured' in an indemnity-based health policy?",
+      "text": "What is the 'Sum Insured' in an indemnity-based health policy?",
       "options": [
         "The total value of the person's assets",
         "The maximum amount the insurer will pay for a claim/year",
@@ -365,7 +365,7 @@
     },
     {
       "id": "q31",
-      "question": "Which of the following is an 'internal' determinant of health?",
+      "text": "Which of the following is an 'internal' determinant of health?",
       "options": [
         "Air quality",
         "Genetic makeup",
@@ -377,7 +377,7 @@
     },
     {
       "id": "q32",
-      "question": "The 'Ombudsman' scheme was established by the Government of India through:",
+      "text": "The 'Ombudsman' scheme was established by the Government of India through:",
       "options": [
         "Insurance Act, 1938",
         "IRDAI Act, 1999",
@@ -389,7 +389,7 @@
     },
     {
       "id": "q33",
-      "question": "What happens if a material fact is not disclosed in the proposal form?",
+      "text": "What happens if a material fact is not disclosed in the proposal form?",
       "options": [
         "The policy becomes invalid/voidable",
         "The premium is increased automatically",
@@ -401,7 +401,7 @@
     },
     {
       "id": "q34",
-      "question": "Which of the following is NOT covered in a standard Overseas Travel Insurance?",
+      "text": "Which of the following is NOT covered in a standard Overseas Travel Insurance?",
       "options": [
         "Medical expenses for accident/illness abroad",
         "Loss of passport",
@@ -413,7 +413,7 @@
     },
     {
       "id": "q35",
-      "question": "'Ayushman Bharat' (PM-JAY) provides coverage up to how much per family per year?",
+      "text": "'Ayushman Bharat' (PM-JAY) provides coverage up to how much per family per year?",
       "options": [
         "Rs. 1 Lakh",
         "Rs. 2 Lakhs",
@@ -425,7 +425,7 @@
     },
     {
       "id": "q36",
-      "question": "Which of the following is a type of 'Fixed Benefit' health policy?",
+      "text": "Which of the following is a type of 'Fixed Benefit' health policy?",
       "options": [
         "Mediclaim",
         "Critical Illness Policy",
@@ -437,7 +437,7 @@
     },
     {
       "id": "q37",
-      "question": "What is the 'Grace Period' for health insurance policy renewals?",
+      "text": "What is the 'Grace Period' for health insurance policy renewals?",
       "options": [
         "15 days",
         "30 days",
@@ -449,7 +449,7 @@
     },
     {
       "id": "q38",
-      "question": "Which of the following documents serves as the final proof of the insurance contract?",
+      "text": "Which of the following documents serves as the final proof of the insurance contract?",
       "options": [
         "Proposal Form",
         "Cover Note",
@@ -461,7 +461,7 @@
     },
     {
       "id": "q39",
-      "question": "'Continuity Benefit' in health insurance is related to:",
+      "text": "'Continuity Benefit' in health insurance is related to:",
       "options": [
         "Continuous payment of commission to agent",
         "Portability of waiting periods when switching insurers",
@@ -473,7 +473,7 @@
     },
     {
       "id": "q40",
-      "question": "Who is the primary 'Stakeholder' in claims management?",
+      "text": "Who is the primary 'Stakeholder' in claims management?",
       "options": [
         "The Agent",
         "The Insurer",
@@ -485,7 +485,7 @@
     },
     {
       "id": "q41",
-      "question": "In health insurance, 'Sub-limits' usually apply to:",
+      "text": "In health insurance, 'Sub-limits' usually apply to:",
       "options": [
         "Agent commission",
         "Room rent, doctor fees, or specific surgeries",
@@ -497,7 +497,7 @@
     },
     {
       "id": "q42",
-      "question": "Which of the following is an example of 'Alternative Medicine' often covered in health policies?",
+      "text": "Which of the following is an example of 'Alternative Medicine' often covered in health policies?",
       "options": [
         "Allopathy",
         "AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy)",
@@ -509,7 +509,7 @@
     },
     {
       "id": "q43",
-      "question": "What is the role of 'Medical Underwriting'?",
+      "text": "What is the role of 'Medical Underwriting'?",
       "options": [
         "To provide medical treatment to the customer",
         "To assess the health risk of the proposer",
@@ -521,7 +521,7 @@
     },
     {
       "id": "q44",
-      "question": "A 'Standard Health Policy' (Arogya Sanjeevani) was introduced by IRDAI to:",
+      "text": "A 'Standard Health Policy' (Arogya Sanjeevani) was introduced by IRDAI to:",
       "options": [
         "Increase insurer profits",
         "Standardize health cover across all insurers for easier comparison",
@@ -533,7 +533,7 @@
     },
     {
       "id": "q45",
-      "question": "What is 'Proximate Cause' in insurance?",
+      "text": "What is 'Proximate Cause' in insurance?",
       "options": [
         "The most distant cause of loss",
         "The most direct and dominant cause of loss",
@@ -545,7 +545,7 @@
     },
     {
       "id": "q46",
-      "question": "Which of the following is a 'prominent' exclusion in almost all health insurance policies?",
+      "text": "Which of the following is a 'prominent' exclusion in almost all health insurance policies?",
       "options": [
         "Fever",
         "Accidents",
@@ -557,7 +557,7 @@
     },
     {
       "id": "q47",
-      "question": "What is 'Hazard' in insurance terms?",
+      "text": "What is 'Hazard' in insurance terms?",
       "options": [
         "The actual loss",
         "A condition that increases the likelihood or severity of a loss",
@@ -569,7 +569,7 @@
     },
     {
       "id": "q48",
-      "question": "In health insurance, 'Indemnity' means:",
+      "text": "In health insurance, 'Indemnity' means:",
       "options": [
         "Paying a fixed amount on death",
         "Reimbursing the actual expenses incurred up to the sum insured",
@@ -581,7 +581,7 @@
     },
     {
       "id": "q49",
-      "question": "Which body regulates the 'TPAs' in the Indian insurance market?",
+      "text": "Which body regulates the 'TPAs' in the Indian insurance market?",
       "options": [
         "Medical Council of India",
         "IRDAI",
@@ -593,7 +593,7 @@
     },
     {
       "id": "q50",
-      "question": "Which of the following is NOT a 'Material Fact' for a health insurance proposal?",
+      "text": "Which of the following is NOT a 'Material Fact' for a health insurance proposal?",
       "options": [
         "Current medical conditions",
         "Smoking/Drinking habits",
