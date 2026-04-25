@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_general_mock_4",
+  "chapter_title": "IC-38 General: Full Syllabus Mock Test 4",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "ic38_general_mock_4_q1",
+      "text": "Which principle states that an insured must take all reasonable steps to prevent or minimize loss to the insured property?",
+      "options": [
+        "Principle of Subrogation",
+        "Duty of Disclosure",
+        "Principle of Loss Minimization",
+        "Principle of Contribution"
+      ],
+      "correct_index": 2,
+      "explanation": "The Principle of Loss Minimization requires the insured to behave as if the property was not insured and take steps to reduce the extent of damage during an event."
+    },
+    {
+      "id": "ic38_general_mock_4_q2",
+      "text": "An 'Ex-Gratia' payment in insurance refers to:",
+      "options": [
+        "A penalty paid by the insurer for delayed settlement",
+        "A claim payment made as a matter of grace or favor, where no strict legal liability exists under the policy",
+        "An advance payment given before the survey is complete",
+        "The commission paid to the agent"
+      ],
+      "correct_index": 1,
+      "explanation": "Ex-gratia payments are made by insurers on compassionate grounds or to maintain goodwill, even when the claim is technically not covered by the policy terms."
+    },
+    {
+      "id": "ic38_general_mock_4_q3",
+      "text": "In the insurance industry, what does 'IBNR' stand for?",
+      "options": [
+        "Incurred But Not Reported",
+        "Insured By National Regulator",
+        "Insurance Board of National Resources",
+        "International Bureau of New Risks"
+      ],
+      "correct_index": 0,
+      "explanation": "IBNR (Incurred But Not Reported) refers to reserves set aside for claims that have happened but haven't been officially reported to the insurance company yet."
+    },
+    {
+      "id": "ic38_general_mock_4_q4",
+      "text": "The decision of the Insurance Ombudsman is binding on:",
+      "options": [
+        "Both the insurer and the insured",
+        "Only the insured",
+        "Only the insurance company",
+        "The Third Party Administrator (TPA)"
+      ],
+      "correct_index": 2,
+      "explanation": "An Ombudsman's award is binding on the insurance company if the insured accepts it. The insured, however, retains the right to approach the court if they are unhappy with the award."
+    },
+    {
+      "id": "ic38_general_mock_4_q5",
+      "text": "What is the maximum period for which a 'Cover Note' is normally valid in motor insurance before a regular policy must be issued?",
+      "options": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "correct_index": 2,
+      "explanation": "A Cover Note is a temporary insurance document valid for 60 days. The insurer must issue the final policy document before this period expires."
+    },
+    {
+      "id": "ic38_general_mock_4_q6",
+      "text": "In motor insurance, 'Hit and Run' motor accidents are those where:",
+      "options": [
+        "The driver of the vehicle is drunk",
+        "The identity of the vehicle causing the accident cannot be ascertained",
+        "The vehicle runs into a static object",
+        "The insured is hit by a train"
+      ],
+      "correct_index": 1,
+      "explanation": "Hit and run cases are specifically defined as accidents where the offending vehicle escapes and cannot be identified by the victims or authorities."
+    },
+    {
+      "id": "ic38_general_mock_4_q7",
+      "text": "Which of the following covers both 'Own Damage' to the vehicle and 'Third Party' liability?",
+      "options": [
+        "Act Only Policy",
+        "Liability Only Policy",
+        "Comprehensive Motor Policy",
+        "Personal Accident Cover"
+      ],
+      "correct_index": 2,
+      "explanation": "A Comprehensive (or Package) policy provides the widest cover, including damage to the insured's own vehicle and legal liability towards third parties."
+    },
+    {
+      "id": "ic38_general_mock_4_q8",
+      "text": "Who determines the premium rates for 'Third Party Liability' insurance in motor vehicles in India?",
+      "options": [
+        "The Insurance Company",
+        "The Motor Vehicles Department",
+        "IRDAI",
+        "The Insurance Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "While 'Own Damage' rates are deregulated, the 'Third Party' liability premiums are fixed annually by the regulator, IRDAI."
+    },
+    {
+      "id": "ic38_general_mock_4_q9",
+      "text": "In health insurance, what does 'Portability' allow a policyholder to do?",
+      "options": [
+        "Carry the physical policy document while travelling",
+        "Transfer their health insurance policy from one insurance company to another without losing accumulated benefits like waiting periods",
+        "Convert a health insurance policy into a life insurance policy",
+        "Pay premiums using a mobile phone"
+      ],
+      "correct_index": 1,
+      "explanation": "Portability allows customers to switch insurers while carrying forward their 'credit' for waiting periods related to pre-existing diseases."
+    },
+    {
+      "id": "ic38_general_mock_4_q10",
+      "text": "Directors and Officers (D&O) Liability Insurance is primarily bought by:",
+      "options": [
+        "Individual homeowners",
+        "Companies to protect their board of directors and senior executives against legal claims",
+        "Hospitals to protect surgeons",
+        "Schools for their principals"
+      ],
+      "correct_index": 1,
+      "explanation": "D&O insurance covers the personal liability of corporate directors and officers for 'wrongful acts' committed while managing a company."
+    },
+    {
+      "id": "ic38_general_mock_4_q11",
+      "text": "In Marine Insurance, the term 'Hull' refers to:",
+      "options": [
+        "The cargo being carried",
+        "The passengers on board",
+        "The physical body or structure of the ship/vessel",
+        "The port where the ship docks"
+      ],
+      "correct_index": 2,
+      "explanation": "In marine insurance, 'Hull' refers to the ship's structure, machinery, and equipment, as opposed to 'Cargo' which refers to the goods being carried."
+    },
+    {
+      "id": "ic38_general_mock_4_q12",
+      "text": "What does a Standard Fire and Special Perils policy generally EXCLUDE?",
+      "options": [
+        "Lightning strikes",
+        "Riot and strike damage",
+        "Theft during or after the occurrence of a fire",
+        "Damage by aircraft"
+      ],
+      "correct_index": 2,
+      "explanation": "Standard Fire policies cover fire and allied perils but specifically exclude theft. Theft can be covered separately under a Burglary insurance policy."
+    },
+    {
+      "id": "ic38_general_mock_4_q13",
+      "text": "What is the primary role of an 'Investigator' in the claims process?",
+      "options": [
+        "To estimate the repair cost of a vehicle",
+        "To sell new policies to the claimant",
+        "To probe into doubtful, suspicious, or fraudulent claims",
+        "To pay the claim amount from their own pocket"
+      ],
+      "correct_index": 2,
+      "explanation": "While surveyors assess the loss, investigators are hired when the insurer suspects fraud or misrepresentation in the claim."
+    },
+    {
+      "id": "ic38_general_mock_4_q14",
+      "text": "A document providing a schedule of reinsured risks sent by the primary insurer to the reinsurer is called a:",
+      "options": [
+        "Prospectus",
+        "Bordereau",
+        "Endorsement",
+        "Cover Note"
+      ],
+      "correct_index": 1,
+      "explanation": "A Bordereau is a periodic report sent by the ceding company (insurer) to the reinsurer detailing the risks covered under a reinsurance treaty."
+    },
+    {
+      "id": "ic38_general_mock_4_q15",
+      "text": "Which policy is designed to cover the loss of cash while it is kept in a locked safe at the business premises?",
+      "options": [
+        "Money in Transit Policy",
+        "Fidelity Guarantee Policy",
+        "Cash in Safe Policy",
+        "Public Liability Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Cash in Safe policy protects against the loss of money due to burglary or housebreaking while the money is kept in a locked safe or strongroom."
+    },
+    {
+      "id": "ic38_general_mock_4_q16",
+      "text": "As per standard motor insurance guidelines, what is the rate of depreciation applied to rubber, nylon, and plastic parts for claims?",
+      "options": [
+        "0%",
+        "10%",
+        "50%",
+        "100%"
+      ],
+      "correct_index": 2,
+      "explanation": "Under standard motor policies, plastic, rubber, and nylon parts are subject to a fixed 50% depreciation regardless of the vehicle's age."
+    },
+    {
+      "id": "ic38_general_mock_4_q17",
+      "text": "Who pays the commission to an insurance agent?",
+      "options": [
+        "The Policyholder",
+        "The Insurance Regulatory and Development Authority of India (IRDAI)",
+        "The Insurance Company",
+        "The Government of India"
+      ],
+      "correct_index": 2,
+      "explanation": "Agents are intermediaries appointed by the insurance company, and their commission is paid by the insurer out of the premium collected."
+    },
+    {
+      "id": "ic38_general_mock_4_q18",
+      "text": "Under a Reinstatement Value Policy in fire insurance, the claim is settled based on:",
+      "options": [
+        "The market value of the property after deducting depreciation",
+        "The cost of replacing or reinstating the damaged property with a new one of the same kind, without deducting depreciation",
+        "The original purchase price of the property regardless of inflation",
+        "A random value chosen by the surveyor"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike standard policies that pay 'Market Value' (less depreciation), a Reinstatement policy pays the cost of buying a brand new replacement."
+    },
+    {
+      "id": "ic38_general_mock_4_q19",
+      "text": "Which of the following is considered a 'Rural Insurance' product?",
+      "options": [
+        "Aviation Insurance",
+        "Directors and Officers Liability",
+        "Agricultural Pumpset Insurance",
+        "Cyber Liability Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Agricultural pumpset insurance is a specific rural insurance product designed to protect the livelihoods of farmers."
+    },
+    {
+      "id": "ic38_general_mock_4_q20",
+      "text": "When a customer wants to lodge a grievance against an insurance company, what is the mandatory first step?",
+      "options": [
+        "File a case in the Supreme Court",
+        "Approach the Insurance Ombudsman directly",
+        "Lodge the complaint with the Grievance Redressal Cell of the respective insurance company",
+        "Complain to the local police station"
+      ],
+      "correct_index": 2,
+      "explanation": "The Ombudsman will only accept a complaint if the policyholder has first tried to resolve it with the insurer's internal grievance cell and was unsatisfied."
+    },
+    {
+      "id": "ic38_general_mock_4_q21",
+      "text": "In Aviation Insurance, 'Loss of License' coverage is primarily purchased by:",
+      "options": [
+        "Airlines for their aircraft",
+        "Passengers for lost tickets",
+        "Pilots, to protect against income loss if their medical certificate/license is revoked",
+        "Airport authorities"
+      ],
+      "correct_index": 2,
+      "explanation": "Pilots require a medical certificate to fly. If they lose it due to injury or illness, this policy provides a lump sum or monthly benefit to cover their loss of income."
+    },
+    {
+      "id": "ic38_general_mock_4_q22",
+      "text": "Which insurance is required to protect professionals against claims of negligence or breach of duty made by their clients?",
+      "options": [
+        "Product Liability Insurance",
+        "Public Liability Insurance",
+        "Professional Indemnity Insurance",
+        "Employer's Liability Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Professional Indemnity covers legal costs and damages for professionals like doctors, lawyers, and architects if they are sued for errors or negligence."
+    },
+    {
+      "id": "ic38_general_mock_4_q23",
+      "text": "If a policyholder sells their car, what happens to the Third Party insurance policy?",
+      "options": [
+        "It gets cancelled automatically",
+        "It must be transferred to the new owner within 14 days of the transfer of ownership",
+        "It remains in the name of the old owner for the lifetime of the car",
+        "It is transferred to the RTO"
+      ],
+      "correct_index": 1,
+      "explanation": "Third-party insurance is deemed to be transferred along with the vehicle. The new owner must notify the insurer within 14 days to update the records."
+    },
+    {
+      "id": "ic38_general_mock_4_q24",
+      "text": "Which of the following best describes 'Catastrophe Reinsurance'?",
+      "options": [
+        "Insurance against everyday minor accidents",
+        "Reinsurance designed to protect the insurer against massive losses from a single major event like an earthquake or cyclone",
+        "Reinsurance for life insurance policies only",
+        "Insurance for pet animals"
+      ],
+      "correct_index": 1,
+      "explanation": "Catastrophe reinsurance (CAT cover) protects insurance companies from going bankrupt if a major natural disaster causes thousands of claims at once."
+    },
+    {
+      "id": "ic38_general_mock_4_q25",
+      "text": "Maternity benefits in health insurance policies are usually:",
+      "options": [
+        "Covered from day one without restrictions",
+        "Strictly prohibited by IRDAI",
+        "Covered only as an add-on or specific feature, often subject to a waiting period of 9 months to 4 years",
+        "Available only to senior citizens"
+      ],
+      "correct_index": 2,
+      "explanation": "Maternity is treated as a 'planned' event by insurers, so they apply waiting periods to prevent people from buying insurance only when they are already pregnant."
+    },
+    {
+      "id": "ic38_general_mock_4_q26",
+      "text": "What is the maximum period to report a claim to the insurer after an incident has occurred in property insurance?",
+      "options": [
+        "There is no time limit",
+        "Within 5 years",
+        "Immediately or as soon as reasonably possible, strictly within the days specified in the policy conditions",
+        "Only at the time of renewal"
+      ],
+      "correct_index": 2,
+      "explanation": "Delay in reporting can lead to loss of evidence and might result in the insurer rejecting the claim on the grounds of late intimation."
+    },
+    {
+      "id": "ic38_general_mock_4_q27",
+      "text": "Which element forms the basis of the insurance contract and contains all material facts declared by the customer?",
+      "options": [
+        "The Premium Receipt",
+        "The Claim Form",
+        "The Proposal Form",
+        "The Agent's License"
+      ],
+      "correct_index": 2,
+      "explanation": "The Proposal Form is the legal foundation of the contract. Any false information here can make the entire policy void."
+    },
+    {
+      "id": "ic38_general_mock_4_q28",
+      "text": "Who creates and manages the 'Hit and Run' compensation fund in India?",
+      "options": [
+        "Life Insurance Corporation of India",
+        "State Bank of India",
+        "The Solatium Fund, managed by New India Assurance on behalf of the general insurance industry",
+        "The local traffic police"
+      ],
+      "correct_index": 2,
+      "explanation": "The Solatium Fund provides a fixed amount of compensation to victims of hit-and-run accidents where the vehicle cannot be identified."
+    },
+    {
+      "id": "ic38_general_mock_4_q29",
+      "text": "In marine insurance, a 'Voyage Policy' covers the risk for:",
+      "options": [
+        "A fixed period of time, usually 12 months",
+        "A specific transit from a starting port to a destination port, regardless of the time taken",
+        "The entire lifespan of the ship",
+        "Only the loading and unloading process"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike 'Time Policies' that cover a duration, 'Voyage Policies' cover the journey from point A to point B."
+    },
+    {
+      "id": "ic38_general_mock_4_q30",
+      "text": "Under what condition can an insurance contract be voided on the grounds of fraud?",
+      "options": [
+        "If the premium is paid a day late",
+        "If the insured intentionally conceals or misrepresents a material fact to deceive the insurer",
+        "If the insured makes a typo in their address",
+        "If the agent changes companies"
+      ],
+      "correct_index": 1,
+      "explanation": "Fraud involves 'intent to deceive'. If the insurer can prove the insured lied on purpose, they can cancel the policy and keep the premium."
+    },
+    {
+      "id": "ic38_general_mock_4_q31",
+      "text": "A claim where the insured abandons the damaged property to the insurer and claims for a total loss because the cost of repair exceeds the value of the property is called:",
+      "options": [
+        "Partial Loss",
+        "Constructive Total Loss (CTL)",
+        "General Average",
+        "Salvage Loss"
+      ],
+      "correct_index": 1,
+      "explanation": "CTL occurs when it makes no financial sense to repair the property as the repair cost is close to or more than the value of the property."
+    },
+    {
+      "id": "ic38_general_mock_4_q32",
+      "text": "If an individual is caught driving without a valid driving license and meets with an accident, their 'Own Damage' motor claim will be:",
+      "options": [
+        "Paid in full with a bonus",
+        "Paid at 50%",
+        "Repudiated (rejected) by the insurer",
+        "Paid by the government"
+      ],
+      "correct_index": 2,
+      "explanation": "Having a valid license is a fundamental condition of motor insurance. Driving without one is a breach of law and policy terms."
+    },
+    {
+      "id": "ic38_general_mock_4_q33",
+      "text": "A shopkeeper's insurance policy is an example of a:",
+      "options": [
+        "Life insurance policy",
+        "Package or Umbrella policy that combines various covers (fire, burglary, liability) into one",
+        "Marine hull policy",
+        "Reinsurance contract"
+      ],
+      "correct_index": 1,
+      "explanation": "Shopkeeper policies are 'convenience' products that bundle multiple types of protection into a single document."
+    },
+    {
+      "id": "ic38_general_mock_4_q34",
+      "text": "An insurance agent is expected to follow a code of conduct. Which of the following violates this code?",
+      "options": [
+        "Explaining all policy exclusions clearly",
+        "Keeping the client's medical information confidential",
+        "Inducing a client to buy a policy by offering a share of the commission (rebating)",
+        "Assisting the client with claim documentation"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 41 of the Insurance Act prohibits 'Rebating', which is offering money or gifts to a client to convince them to buy a policy."
+    },
+    {
+      "id": "ic38_general_mock_4_q35",
+      "text": "In health insurance, Day Care procedures are those treatments that:",
+      "options": [
+        "Are performed on children during the daytime",
+        "Require technological advancements meaning the patient requires less than 24 hours of hospitalization",
+        "Are purely for cosmetic purposes",
+        "Require outpatient department (OPD) consultation only"
+      ],
+      "correct_index": 1,
+      "explanation": "Procedures like Cataract surgery or Dialysis once required long stays, but now can be done in hours. They are covered as 'Day Care' even without the 24-hour stay."
+    },
+    {
+      "id": "ic38_general_mock_4_q36",
+      "text": "What happens if a proposer answers a question on the proposal form with a dash (-) or leaves it blank?",
+      "options": [
+        "It means the answer is 'No'",
+        "It means the answer is 'Yes'",
+        "The insurer should return the form to get a specific answer as blanks can lead to ambiguity and disputes",
+        "The policy is issued with a discount"
+      ],
+      "correct_index": 2,
+      "explanation": "In insurance, silence is not necessarily consent or a 'No'. Blanks must be filled to ensure the contract is clear and leaves no room for doubt."
+    },
+    {
+      "id": "ic38_general_mock_4_q37",
+      "text": "Which of the following items is usually excluded under a standard household burglary policy?",
+      "options": [
+        "Furniture",
+        "Electronic appliances",
+        "Cash, currency notes, and unset precious stones unless specifically declared",
+        "Clothing"
+      ],
+      "correct_index": 2,
+      "explanation": "High-value items like cash and jewelry usually have sub-limits or require special declaration to ensure they are properly accounted for."
+    },
+    {
+      "id": "ic38_general_mock_4_q38",
+      "text": "A 'Valuation Clause' in an insurance policy indicates:",
+      "options": [
+        "The value of the agent's commission",
+        "The agreed value of the subject matter, binding on both parties in the event of a total loss",
+        "The rating of the insurance company",
+        "The value of the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "This is common in Marine or Antique insurance where it's hard to find the 'Market Value' at the time of loss, so a value is agreed upon at the start."
+    },
+    {
+      "id": "ic38_general_mock_4_q39",
+      "text": "If a vehicle is stolen, what is the immediate action required by the insured to process the claim?",
+      "options": [
+        "Buy a new car",
+        "File an FIR with the police and intimate the insurance company",
+        "Wait for 30 days to see if the police find it before telling the insurer",
+        "Surrender the driving license"
+      ],
+      "correct_index": 1,
+      "explanation": "Theft is a criminal act, so a police FIR is mandatory. Promptly telling the insurer allows them to coordinate with authorities."
+    },
+    {
+      "id": "ic38_general_mock_4_q40",
+      "text": "For calculating the value of an older property in a standard fire claim (non-reinstatement basis), the surveyor will apply:",
+      "options": [
+        "Appreciation",
+        "Depreciation based on age and wear & tear",
+        "Compound interest",
+        "Stock market rates"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard indemnity policies only pay for the 'current value' of the item, which naturally decreases as it gets older and more used."
+    },
+    {
+      "id": "ic38_general_mock_4_q41",
+      "text": "Product Liability Insurance is vital for:",
+      "options": [
+        "Consumers buying products",
+        "Manufacturers and sellers to cover legal liability arising from defective products causing injury or damage",
+        "IT consultants",
+        "Insurance agents"
+      ],
+      "correct_index": 1,
+      "explanation": "If a faulty appliance causes a fire or contaminated food causes illness, the manufacturer uses this policy to pay legal damages to the victims."
+    },
+    {
+      "id": "ic38_general_mock_4_q42",
+      "text": "What is the purpose of the 'Grace Period' in insurance?",
+      "options": [
+        "To allow the insured to cancel the policy without penalty",
+        "To provide extra time after the due date to pay the renewal premium without losing continuity benefits",
+        "To allow the agent extra time to submit the proposal form",
+        "To give the insurer extra time to pay a claim"
+      ],
+      "correct_index": 1,
+      "explanation": "The grace period prevents a policy from lapsing immediately if the owner forgot the due date by a few days."
+    },
+    {
+      "id": "ic38_general_mock_4_q43",
+      "text": "Which of the following acts as the 'Appellate Authority' against an award passed by the Insurance Ombudsman?",
+      "options": [
+        "Consumer Forum",
+        "IRDAI",
+        "High Court",
+        "There is no appeal against the Ombudsman's award for the insurer; it is binding on them"
+      ],
+      "correct_index": 3,
+      "explanation": "The Ombudsman system is designed to favor the consumer. Insurers must follow the award; they cannot drag the customer to a higher court to challenge it."
+    },
+    {
+      "id": "ic38_general_mock_4_q44",
+      "text": "In health insurance, what does 'Room Rent Capping' mean?",
+      "options": [
+        "The hospital must provide a room with a ceiling fan",
+        "A restriction on the maximum amount the insurer will pay per day for the hospital room",
+        "The insured must pay rent for the hospital room directly",
+        "The hospital cannot admit more than capped number of patients"
+      ],
+      "correct_index": 1,
+      "explanation": "If your policy has a 1% room rent cap and you choose a luxury suite, you will have to pay the extra cost and often a proportionate share of all other bills."
+    },
+    {
+      "id": "ic38_general_mock_4_q45",
+      "text": "Under the Workmen's Compensation Act, compensation is payable by the employer if the injury is caused by:",
+      "options": [
+        "An accident arising out of and in the course of employment",
+        "The employee fighting outside working hours",
+        "The employee intentionally harming themselves",
+        "The employee commuting to a weekend vacation"
+      ],
+      "correct_index": 0,
+      "explanation": "The key phrase is 'in the course of employment'. The employer is only liable for work-related accidents."
+    },
+    {
+      "id": "ic38_general_mock_4_q46",
+      "text": "Which risk is NOT covered under the 'Act Only' (Third Party) motor insurance policy?",
+      "options": [
+        "Death of a pedestrian hit by the insured vehicle",
+        "Damage to a third party's property by the insured vehicle",
+        "Theft of the insured vehicle",
+        "Injury to a passenger in a third-party vehicle"
+      ],
+      "correct_index": 2,
+      "explanation": "Act Only policies strictly cover your legal liability to others. Damage or theft of YOUR car is only covered in a 'Comprehensive' policy."
+    },
+    {
+      "id": "ic38_general_mock_4_q47",
+      "text": "Who holds the license in a Corporate Agency model of insurance distribution?",
+      "options": [
+        "The individual employees",
+        "The corporate entity itself (like a bank or a firm)",
+        "The insurance company",
+        "The IRDAI chairman"
+      ],
+      "correct_index": 1,
+      "explanation": "A bank acts as a 'Corporate Agent'. While they use individuals (Specified Persons) to sell, the legal license is held by the bank."
+    },
+    {
+      "id": "ic38_general_mock_4_q48",
+      "text": "What is the primary motive behind the concept of 'Coinsurance' in a large industrial risk?",
+      "options": [
+        "To confuse the customer with multiple policies",
+        "To share a very large risk among multiple insurance companies so that no single insurer bears the entire burden",
+        "To ensure the agent gets multiple commissions",
+        "To avoid paying claims"
+      ],
+      "correct_index": 1,
+      "explanation": "For multi-billion dollar factories, one company might take 40%, another 30%, etc. This prevents a single catastrophe from wiping out one insurer's capital."
+    },
+    {
+      "id": "ic38_general_mock_4_q49",
+      "text": "Which document serves as the final, legal, and formal contract between the insurer and the insured?",
+      "options": [
+        "The Proposal Form",
+        "The Premium Cheque",
+        "The Policy Document",
+        "The Brochure"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Document contains the detailed 'terms and conditions' which are legally binding on both the customer and the company."
+    },
+    {
+      "id": "ic38_general_mock_4_q50",
+      "text": "In a Personal Accident policy, coverage for 'Temporary Total Disablement' (TTD) provides:",
+      "options": [
+        "A single lump sum amount equal to 100% of the sum insured",
+        "A weekly financial benefit for a specified period while the insured is completely unable to work due to the accident",
+        "Reimbursement of all medical bills for life",
+        "Replacement of the damaged vehicle"
+      ],
+      "correct_index": 1,
+      "explanation": "If a person breaks their leg and can't go to work for 4 weeks, TTD provides weekly income replacement to help them during the recovery period."
+    }
+  ]
+}

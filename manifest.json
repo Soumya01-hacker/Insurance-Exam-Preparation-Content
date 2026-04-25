@@ -712,6 +712,13 @@
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_general_mock_3.json"
+        },
+        {
+          "id": "ic38_general_mock_4",
+          "title": "IC-38 General: Full Syllabus Mock Test 4",
+          "questions": 50,
+          "time": 60,
+          "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/ic38_general_mock_4.json"
         }
       ],
       "sections": [
