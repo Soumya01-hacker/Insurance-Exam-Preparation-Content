@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_05",
+  "chapter_title": "IC-38 Life Mock Test 5",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt05_q1",
+      "text": "What is the primary role of an 'Appraiser' in the context of insurance?",
+      "options": [
+        "To sell policies to high-net-worth individuals",
+        "To determine the value of a property or life risk during underwriting",
+        "To investigate fraud after a claim",
+        "To manage the insurance company's marketing team"
+      ],
+      "correct_index": 1,
+      "explanation": "An appraiser evaluates the value or risk level of the subject matter being insured to help the underwriter set the correct premium."
+    },
+    {
+      "id": "mt05_q2",
+      "text": "Under the IRDAI (Protection of Policyholders' Interests) Regulations, what is the maximum time allowed to respond to a claim query?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance companies must raise all requirements or queries regarding a claim at one go and within 30 days of receiving the claim notice."
+    },
+    {
+      "id": "mt05_q3",
+      "text": "Which of the following is a 'Non-Medical' factor that influences life insurance underwriting?",
+      "options": [
+        "Blood pressure level",
+        "Occupation and hobbies",
+        "Family history of diabetes",
+        "Body Mass Index (BMI)"
+      ],
+      "correct_index": 1,
+      "explanation": "Non-medical underwriting factors include occupation (e.g., pilot, miner) and hazardous hobbies (e.g., mountaineering) that increase the risk of death."
+    },
+    {
+      "id": "mt05_q4",
+      "text": "What does the term 'Orphan Policy' refer to in insurance?",
+      "options": [
+        "A policy taken for a child without parents",
+        "A policy where the original agent is no longer active or in service",
+        "A policy that has no nominee",
+        "A policy that has been lapsed for more than 10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "An orphan policy is one where the agent who sold the policy has left the company or is no longer available to provide service to the policyholder."
+    },
+    {
+      "id": "mt05_q5",
+      "text": "If a policy is issued with a 'Lien', what happens if a death claim occurs during the lien period?",
+      "options": [
+        "The full sum assured is paid",
+        "The claim is rejected",
+        "Only a part of the sum assured or the premiums paid are returned",
+        "The claim is paid with a 50% penalty"
+      ],
+      "correct_index": 2,
+      "explanation": "A lien is a restriction. If death occurs during this period, the insurer pays only a reduced benefit, often to protect against anti-selection in high-risk cases."
+    },
+    {
+      "id": "mt05_q6",
+      "text": "What is 'Equitable Premium' in life insurance?",
+      "options": [
+        "The same premium for everyone",
+        "A premium that is fair and based on the specific risk level of the individual",
+        "A premium set by the government",
+        "The lowest premium available in the market"
+      ],
+      "correct_index": 1,
+      "explanation": "Equity in insurance means that people with similar risks should pay similar premiums, ensuring fairness among all policyholders."
+    },
+    {
+      "id": "mt05_q7",
+      "text": "Under Section 38 of the Insurance Act, an assignment of a policy can be challenged by the insurer on which grounds?",
+      "options": [
+        "The premium is too low",
+        "The assignee is not a relative",
+        "If the insurer believes the assignment is for the purpose of trading in insurance or is not in the interest of the policyholder",
+        "Assignments cannot be challenged"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurers can refuse to record an assignment if they suspect it's for speculative trading or against the policyholder's or public interest."
+    },
+    {
+      "id": "mt05_q8",
+      "text": "Which type of claim is triggered when a policyholder reaches the end of the policy term while alive?",
+      "options": [
+        "Death Claim",
+        "Maturity Claim",
+        "Survival Benefit",
+        "Annuity Claim"
+      ],
+      "correct_index": 1,
+      "explanation": "A maturity claim is the final payout made when the policy term completes and the insured is still surviving."
+    },
+    {
+      "id": "mt05_q9",
+      "text": "What is the primary document that forms the basis of the insurance contract?",
+      "options": [
+        "The Medical Report",
+        "The Proposal Form",
+        "The Agent's Identity Card",
+        "The Policy Bond"
+      ],
+      "correct_index": 1,
+      "explanation": "The Proposal Form is the legal offer made by the customer. All information in it forms the foundation of the contract under 'Utmost Good Faith'."
+    },
+    {
+      "id": "mt05_q10",
+      "text": "What is 'Numerical Rating' in underwriting?",
+      "options": [
+        "The policy number",
+        "A method where points are assigned to various risk factors to determine the total risk score",
+        "The age of the customer",
+        "The agent's rank in the company"
+      ],
+      "correct_index": 1,
+      "explanation": "Numerical rating is a scientific method where underwriters add or subtract points based on health, occupation, and habits to calculate the final premium."
+    },
+    {
+      "id": "mt05_q11",
+      "text": "Which of the following is NOT a 'Material Fact' in a life insurance proposal?",
+      "options": [
+        "Previous heart surgery",
+        "Daily consumption of alcohol",
+        "The city of birth",
+        "A dangerous job like deep-sea diving"
+      ],
+      "correct_index": 2,
+      "explanation": "Material facts are those that influence the risk assessment. The city of birth usually doesn't affect mortality risk, whereas health and job do."
+    },
+    {
+      "id": "mt05_q12",
+      "text": "What happens if an 'Appointee' dies before the policyholder and the nominee is still a minor?",
+      "options": [
+        "The policy is cancelled",
+        "The policyholder must appoint a new appointee",
+        "The agent becomes the appointee",
+        "The court decides the next appointee"
+      ],
+      "correct_index": 1,
+      "explanation": "If the appointee dies, the policyholder must immediately designate a new one to ensure the minor nominee's interests are protected."
+    },
+    {
+      "id": "mt05_q13",
+      "text": "What is the 'Sum at Risk' for an insurance company?",
+      "options": [
+        "The total premium paid by the customer",
+        "The difference between the Sum Assured and the accumulated reserve (or fund value)",
+        "The agent's commission",
+        "The total company assets"
+      ],
+      "correct_index": 1,
+      "explanation": "Sum at Risk is the actual financial liability of the insurer if death occurs, after accounting for the money already saved by the policyholder in the policy."
+    },
+    {
+      "id": "mt05_q14",
+      "text": "Which of the following is an ethical duty of an insurance agent?",
+      "options": [
+        "To maximize commission at any cost",
+        "To explain all policy exclusions and conditions clearly to the prospect",
+        "To hide the client's smoking habit to get lower premiums",
+        "To share commission with the customer"
+      ],
+      "correct_index": 1,
+      "explanation": "Ethical behavior involves full transparency, ensuring the customer understands what is NOT covered just as much as what IS covered."
+    },
+    {
+      "id": "mt05_q15",
+      "text": "In a ULIP, who decides the 'Asset Allocation' (where the money is invested)?",
+      "options": [
+        "The IRDAI",
+        "The Insurance Company",
+        "The Policyholder",
+        "The Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "In a Unit Linked Insurance Plan, the policyholder has the freedom to choose and switch between different funds (equity, debt, balanced)."
+    },
+    {
+      "id": "mt05_q16",
+      "text": "What is 'Reinstatement' in life insurance?",
+      "options": [
+        "Paying a maturity claim",
+        "Reviving a lapsed policy by paying overdue premiums and meeting health requirements",
+        "Changing the nominee",
+        "Cancelling the policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinstatement (Revival) allows a policyholder to bring a lapsed policy back to life within a specific period after the grace period ends."
+    },
+    {
+      "id": "mt05_q17",
+      "text": "Which rider provides for the payment of a lump sum if the insured becomes totally and permanently unable to work?",
+      "options": [
+        "Accidental Death Rider",
+        "Critical Illness Rider",
+        "Permanent Disability Benefit Rider",
+        "Waiver of Premium Rider"
+      ],
+      "correct_index": 2,
+      "explanation": "This rider triggers a payout if the insured suffers a disability that permanently prevents them from earning an income."
+    },
+    {
+      "id": "mt05_q18",
+      "text": "What does Section 41 of the Insurance Act 1938 specifically prohibit?",
+      "options": [
+        "Claim investigation",
+        "Rebating (sharing commission with customers)",
+        "Nomination of minors",
+        "Assignment of policies to banks"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 41 makes it illegal to offer any rebate or part of the commission to a prospect as an inducement to buy insurance."
+    },
+    {
+      "id": "mt05_q19",
+      "text": "What is 'Moral Hazard' in financial underwriting?",
+      "options": [
+        "The risk of a person being overweight",
+        "The risk when the requested insurance cover is much higher than the person's actual income",
+        "The risk of an earthquake",
+        "The risk of a job loss"
+      ],
+      "correct_index": 1,
+      "explanation": "If someone asks for a sum assured that is out of proportion to their earnings, it raises a 'Moral Hazard' as there might be a motive for fraud."
+    },
+    {
+      "id": "mt05_q20",
+      "text": "Which of the following describes 'Group Insurance' underwriting?",
+      "options": [
+        "Each individual in the group is medically examined",
+        "The group as a whole is assessed based on age and occupation, often with limited medicals",
+        "Only the group leader is insured",
+        "It is same as individual underwriting"
+      ],
+      "correct_index": 1,
+      "explanation": "Group underwriting focuses on the characteristics of the group (e.g., all employees of a software firm) rather than checking every single person individually."
+    },
+    {
+      "id": "mt05_q21",
+      "text": "What is the 'Bonus' in a participating life insurance policy?",
+      "options": [
+        "A gift from the agent",
+        "A share in the surplus profits of the insurer distributed to the policyholder",
+        "A tax refund",
+        "A discount on the first premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Bonuses are the extra amounts added to a 'With-Profit' policy from the company's valuation surplus."
+    },
+    {
+      "id": "mt05_q22",
+      "text": "Under the MWP Act, can the husband (policyholder) ever change the beneficiaries named in the policy?",
+      "options": [
+        "Yes, anytime",
+        "No, once created, the trust is irrevocable and beneficiaries cannot be changed",
+        "Yes, if the agent agrees",
+        "Yes, if he pays a fee"
+      ],
+      "correct_index": 1,
+      "explanation": "A policy under the Married Women's Property Act creates a trust. It is irrevocable, meaning the policyholder loses control over the policy for the benefit of the wife/children."
+    },
+    {
+      "id": "mt05_q23",
+      "text": "What is the 'Policy Bond'?",
+      "options": [
+        "A form to be filled for claims",
+        "The legal document that serves as evidence of the contract and contains all terms",
+        "A receipt for the premium",
+        "A marketing brochure"
+      ],
+      "correct_index": 1,
+      "explanation": "The Policy Bond (or Document) is the actual contract that contains the schedule, benefits, and conditions of the insurance."
+    },
+    {
+      "id": "mt05_q24",
+      "text": "What happens if a policyholder dies after the policy has lapsed but within the grace period?",
+      "options": [
+        "The claim is rejected",
+        "The full sum assured is paid after deducting the unpaid premium",
+        "Only the premiums paid are returned",
+        "80% of the claim is paid"
+      ],
+      "correct_index": 1,
+      "explanation": "The policy is still considered active during the grace period. The insurer will pay the death claim but will deduct the pending premium amount."
+    },
+    {
+      "id": "mt05_q25",
+      "text": "Who is the 'Nominee' in a life insurance policy?",
+      "options": [
+        "The person who pays the premium",
+        "The person authorized to receive the claim amount in case of the policyholder's death",
+        "The agent who sold the policy",
+        "The person who signs the proposal form"
+      ],
+      "correct_index": 1,
+      "explanation": "A nominee is a person designated to receive the benefits but does not necessarily own the money (they act as a receiver for legal heirs unless specified)."
+    },
+    {
+      "id": "mt05_q26",
+      "text": "What is 'Term Insurance with Return of Premium' (TROP)?",
+      "options": [
+        "A plan that only pays on death",
+        "A term plan that refunds all total premiums paid if the insured survives the term",
+        "A plan that pays double on death",
+        "A health insurance plan"
+      ],
+      "correct_index": 1,
+      "explanation": "TROP is a variant of term insurance that provides life cover and returns the paid premiums if the person survives till maturity."
+    },
+    {
+      "id": "mt05_q27",
+      "text": "In insurance, what is a 'Hazardous Occupation'?",
+      "options": [
+        "Working in an office",
+        "Teaching in a school",
+        "Working in a chemical factory or underground mining",
+        "Being a retired person"
+      ],
+      "correct_index": 2,
+      "explanation": "Jobs that involve a higher risk of accidents or health issues (like mining or high-voltage electricity) are considered hazardous for underwriting."
+    },
+    {
+      "id": "mt05_q28",
+      "text": "What does 'Conflict of Interest' for an agent mean?",
+      "options": [
+        "Selling two policies to the same person",
+        "Recommending a product that gives more commission to the agent but is not suitable for the customer",
+        "Changing the office location",
+        "Working for two different companies at the same time"
+      ],
+      "correct_index": 1,
+      "explanation": "Conflict of interest occurs when an agent's personal gain (commission) clashes with their duty to the customer."
+    },
+    {
+      "id": "mt05_q29",
+      "text": "What is the 'Survival Period' in a Critical Illness rider?",
+      "options": [
+        "The time the policy has been active",
+        "The number of days (usually 15-30) the insured must live after being diagnosed with the illness to get the payout",
+        "The grace period",
+        "The term of the policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Most critical illness riders require the insured to survive for a specific period (e.g., 30 days) post-diagnosis to receive the lump sum."
+    },
+    {
+      "id": "mt05_q30",
+      "text": "Which document is needed to prove the death was accidental for an Accidental Death Benefit claim?",
+      "options": [
+        "Medical report only",
+        "First Information Report (FIR) and Post-Mortem Report",
+        "Agent's letter",
+        "Voter ID card"
+      ],
+      "correct_index": 1,
+      "explanation": "Legal documents like the FIR and Post-Mortem report are mandatory to verify that the death was indeed caused by an external, violent, and visible accident."
+    },
+    {
+      "id": "mt05_q31",
+      "text": "What is 'Presumption of Death' after 7 years called under law?",
+      "options": [
+        "Early Claim",
+        "Legal Death",
+        "Presumptive Death (Civil Death)",
+        "Void Claim"
+      ],
+      "correct_index": 2,
+      "explanation": "If someone is missing for 7 years without any news, they are legally presumed dead, allowing the nominee to file a claim."
+    },
+    {
+      "id": "mt05_q32",
+      "text": "What is the 'Lock-in Period' in a ULIP?",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "10 years"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI mandates a 5-year lock-in period for all Unit Linked Insurance Plans, during which no partial or full withdrawals are allowed."
+    },
+    {
+      "id": "mt05_q33",
+      "text": "What is 'Adverse Selection'?",
+      "options": [
+        "The insurer selecting healthy lives",
+        "High-risk individuals being more likely to apply for insurance than healthy ones",
+        "The customer selecting a wrong policy",
+        "The agent selecting a wrong customer"
+      ],
+      "correct_index": 1,
+      "explanation": "Adverse selection is when people with higher-than-average risks try to get insurance at standard rates without disclosing their risk."
+    },
+    {
+      "id": "mt05_q34",
+      "text": "Which concept allows an insurer to share the risk with another insurance company?",
+      "options": [
+        "Subrogation",
+        "Indemnity",
+        "Reinsurance",
+        "Co-payment"
+      ],
+      "correct_index": 2,
+      "explanation": "Reinsurance is when the primary insurer transfers a portion of the risk to a secondary 'Reinsurer' to manage large liability exposures."
+    },
+    {
+      "id": "mt05_q35",
+      "text": "What is a 'Level Term' insurance policy?",
+      "options": [
+        "The premium stays the same but the sum assured increases",
+        "The sum assured stays constant throughout the policy term",
+        "The premium decreases every year",
+        "The policy has no maturity benefit"
+      ],
+      "correct_index": 1,
+      "explanation": "In a level term plan, the sum assured (death benefit) remains the same from the start of the policy till the end."
+    },
+    {
+      "id": "mt05_q36",
+      "text": "What is 'Surrender Value'?",
+      "options": [
+        "The amount paid if the insured dies",
+        "The amount paid on maturity",
+        "The cash amount the insurer pays if the policyholder terminates the policy before it matures",
+        "A penalty for late payment"
+      ],
+      "correct_index": 2,
+      "explanation": "Surrender value is the 'savings' part of a traditional policy that the customer gets back if they decide to quit the policy early."
+    },
+    {
+      "id": "mt05_q37",
+      "text": "What is an 'Endowment' policy?",
+      "options": [
+        "Pure protection only",
+        "A combination of life insurance cover and a savings plan",
+        "A plan only for old people",
+        "A health insurance plan"
+      ],
+      "correct_index": 1,
+      "explanation": "Endowment plans pay the sum assured either on death during the term OR on survival until the end of the term."
+    },
+    {
+      "id": "mt05_q38",
+      "text": "Which IRDAI system allows customers to track the status of their complaints online?",
+      "options": [
+        "RBI Portal",
+        "Bima Sugam",
+        "IGMS (Integrated Grievance Management System)",
+        "SEBI Scores"
+      ],
+      "correct_index": 2,
+      "explanation": "IGMS is the central portal by IRDAI where all grievances can be registered and tracked transparently."
+    },
+    {
+      "id": "mt05_q39",
+      "text": "What is 'Standard Age Proof'?",
+      "options": [
+        "Horoscope",
+        "Voter ID card",
+        "School Leaving Certificate or Birth Certificate",
+        "Self-declaration"
+      ],
+      "correct_index": 2,
+      "explanation": "Documents issued by official authorities like the Municipality or School Boards are considered standard age proofs."
+    },
+    {
+      "id": "mt05_q40",
+      "text": "Who is the 'Proposer'?",
+      "options": [
+        "The person who sold the policy",
+        "The person who applies for the insurance policy",
+        "The nominee",
+        "The medical doctor"
+      ],
+      "correct_index": 1,
+      "explanation": "The proposer is the individual who fills the proposal form. They can be the life assured or someone with an insurable interest in the life assured."
+    },
+    {
+      "id": "mt05_q41",
+      "text": "What is 'Grace Period' for monthly premium payments?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 1,
+      "explanation": "For monthly mode policies, the grace period is 15 days. For other modes (Quarterly/Half-yearly/Yearly), it is 30 days."
+    },
+    {
+      "id": "mt05_q42",
+      "text": "Under Section 39, a nominee is basically a:",
+      "options": [
+        "Owner of the policy money",
+        "Trustee or Receiver of the money for legal heirs",
+        "Assignee",
+        "The person who pays the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "A nominee is a receiver. Unless they are a 'Beneficial Nominee' (like spouse/children in some contexts), they must distribute the money to all legal heirs."
+    },
+    {
+      "id": "mt05_q43",
+      "text": "What is the 'Premium' in an insurance contract?",
+      "options": [
+        "The benefit given by the company",
+        "The consideration paid by the policyholder for the risk cover",
+        "A bonus",
+        "A penalty"
+      ],
+      "correct_index": 1,
+      "explanation": "Premium is the price the customer pays to the insurance company in exchange for the promise of financial protection."
+    },
+    {
+      "id": "mt05_q44",
+      "text": "What is a 'Whole Life' policy?",
+      "options": [
+        "A policy that lasts for 10 years",
+        "A policy that provides life cover until the person dies (often defined as up to age 100)",
+        "A policy with no death benefit",
+        "A policy only for kids"
+      ],
+      "correct_index": 1,
+      "explanation": "Whole life insurance provides lifetime protection. The maturity happens usually at age 100 if the person survives."
+    },
+    {
+      "id": "mt05_q45",
+      "text": "What is 'Keyman Insurance' used for?",
+      "options": [
+        "To protect the family of the agent",
+        "To protect a business from financial loss due to the death of a key employee",
+        "To insure a house key",
+        "To provide insurance to the locksmith"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman insurance is taken by a company on the life of an employee whose skills are vital to the business's success."
+    },
+    {
+      "id": "mt05_q46",
+      "text": "What is 'Lapse' in insurance?",
+      "options": [
+        "A type of bonus",
+        "Termination of the policy due to non-payment of premiums within the grace period",
+        "A medical test",
+        "A discount"
+      ],
+      "correct_index": 1,
+      "explanation": "When a policy lapses, the risk cover stops and the policyholder loses the benefits unless the policy has acquired a paid-up value."
+    },
+    {
+      "id": "mt05_q47",
+      "text": "Which authority can pass an award that is binding on the insurance company?",
+      "options": [
+        "The Agent",
+        "The Insurance Ombudsman",
+        "The Hospital",
+        "The Bank Manager"
+      ],
+      "correct_index": 1,
+      "explanation": "If a customer accepts the Ombudsman's decision, the insurance company is legally bound to comply with the award within 30 days."
+    },
+    {
+      "id": "mt05_q48",
+      "text": "What is the 'Inception Date'?",
+      "options": [
+        "The date the person dies",
+        "The date the insurance cover officially begins",
+        "The date of the agent's birthday",
+        "The date the proposal was rejected"
+      ],
+      "correct_index": 1,
+      "explanation": "Inception date is the exact date from which the insurance risk is accepted and the coverage starts."
+    },
+    {
+      "id": "mt05_q49",
+      "text": "What is 'AML' in insurance?",
+      "options": [
+        "Annual Maintenance Levy",
+        "Anti-Money Laundering",
+        "Agent Management Law",
+        "All Mortality Levels"
+      ],
+      "correct_index": 1,
+      "explanation": "AML refers to the laws and regulations that prevent people from hiding the origin of illegally obtained money through insurance products."
+    },
+    {
+      "id": "mt05_q50",
+      "text": "What is 'Indemnity'?",
+      "options": [
+        "A death benefit in life insurance",
+        "The principle of providing compensation for the actual loss suffered (common in general/health insurance)",
+        "A type of bonus",
+        "A tax deduction"
+      ],
+      "correct_index": 1,
+      "explanation": "Indemnity ensures you are not making a profit from a loss; you are just being put back in the same financial state as before the loss."
+    }
+  ]
+}
