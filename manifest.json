@@ -1,5 +1,5 @@
 {
-  "version": "7.4.0",
+  "version": "7.4.1",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -18,6 +18,14 @@
           "questions": 50,
           "time": 60,
           "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/py_2023_set_01.json",
+          "is_prev_year": true
+        },
+        {
+          "id": "mock_test_02",
+          "title": "Mock Test 2",
+          "questions": 50,
+          "time": 60,
+          "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/mock_test_02.json",
           "is_prev_year": true
         }
       ],
