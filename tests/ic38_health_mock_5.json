@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_health_mock_5",
+  "chapter_title": "Full Syllabus Mock Test 5 (Health)",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the primary difference between a 'Peril' and a 'Hazard'?",
+      "options": [
+        "They are the exact same thing",
+        "A peril is the cause of loss, while a hazard is a condition that increases the chance of loss",
+        "A peril is a person, a hazard is a thing",
+        "Insurance companies cover hazards, not perils"
+      ],
+      "correct_index": 1,
+      "explanation": "For example, fire is a peril (cause of loss), and storing petrol in the house is a hazard (increases the chance of fire)."
+    },
+    {
+      "id": "q2",
+      "text": "What does 'Risk Transfer' mean in the context of insurance?",
+      "options": [
+        "Ignoring the risk completely",
+        "Transferring the physical danger to someone else",
+        "Shifting the financial burden of a loss to an insurance company by paying a premium",
+        "Preventing the accident from happening"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance is a mechanism of Risk Transfer, where the individual pays a small premium to transfer the large financial risk to the insurer."
+    },
+    {
+      "id": "q3",
+      "text": "An individual acting as an agent for ONE Life Insurer, ONE General Insurer, and ONE Standalone Health Insurer is known as what?",
+      "options": [
+        "Broker",
+        "Composite Agent",
+        "Corporate Agent",
+        "Bancassurance Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "A Composite Agent is an individual who holds a license to act as an agent for a life insurer, a general insurer, and a health insurer."
+    },
+    {
+      "id": "q4",
+      "text": "According to the Code of Conduct, an insurance agent MUST do which of the following at the first meeting with a prospect?",
+      "options": [
+        "Offer a discount on the premium",
+        "Identify themselves and show their valid identity card issued by the insurer",
+        "Collect a blank cheque",
+        "Demand the medical reports"
+      ],
+      "correct_index": 1,
+      "explanation": "The IRDAI Code of Conduct mandates that every agent must disclose their identity and show their ID card to the prospect on the first visit."
+    },
+    {
+      "id": "q5",
+      "text": "What is the maximum limit for tax deduction under Section 80D specifically for 'Preventive Health Check-ups'?",
+      "options": [
+        "Rs. 1,000",
+        "Rs. 2,000",
+        "Rs. 5,000",
+        "Rs. 10,000"
+      ],
+      "correct_index": 2,
+      "explanation": "Within the overall limit of Section 80D, a maximum of Rs. 5,000 can be claimed as a deduction for preventive health check-up expenses for the family."
+    },
+    {
+      "id": "q6",
+      "text": "What does 'Adverse Selection' (Anti-selection) mean in health insurance?",
+      "options": [
+        "The insurer selecting bad agents",
+        "The tendency of persons with a higher-than-average probability of loss to seek insurance",
+        "Customers rejecting the policy during the free-look period",
+        "Selecting the wrong hospital for treatment"
+      ],
+      "correct_index": 1,
+      "explanation": "Adverse selection occurs when sick people or those prone to high risks are the ones most eager to buy health insurance."
+    },
+    {
+      "id": "q7",
+      "text": "To be classified as a 'Hospital' for claim purposes in a town with a population of MORE than 10,00,000, it must have at least how many inpatient beds?",
+      "options": [
+        "10 beds",
+        "15 beds",
+        "20 beds",
+        "50 beds"
+      ],
+      "correct_index": 1,
+      "explanation": "As per standard definitions, a facility must have a minimum of 15 inpatient beds in towns with a population over 10 lakhs to be recognized as a hospital."
+    },
+    {
+      "id": "q8",
+      "text": "In smaller towns (population less than 10,00,000), a hospital must have at least how many inpatient beds?",
+      "options": [
+        "5 beds",
+        "10 beds",
+        "15 beds",
+        "20 beds"
+      ],
+      "correct_index": 1,
+      "explanation": "In smaller towns, the minimum requirement for inpatient beds is reduced to 10 beds."
+    },
+    {
+      "id": "q9",
+      "text": "What is the mandatory Co-payment percentage in the standard IRDAI-mandated 'Arogya Sanjeevani Policy'?",
+      "options": [
+        "0%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "correct_index": 1,
+      "explanation": "Arogya Sanjeevani is a standard health product that carries a fixed, mandatory co-payment of 5% on all claims across all age groups."
+    },
+    {
+      "id": "q10",
+      "text": "Which document is officially intended to invite the public to purchase an insurance policy?",
+      "options": [
+        "The Policy Schedule",
+        "The Claim Form",
+        "The Prospectus",
+        "The Discharge Summary"
+      ],
+      "correct_index": 2,
+      "explanation": "A Prospectus is a document issued by the insurer that outlines the product features, terms, and conditions to invite prospects to buy it."
+    },
+    {
+      "id": "q11",
+      "text": "If a customer wants to file a complaint in the State Consumer Disputes Redressal Commission, what must be the value of the goods/services paid?",
+      "options": [
+        "Up to Rs. 50 Lakhs",
+        "Exceeds Rs. 50 Lakhs but does not exceed Rs. 2 Crores",
+        "Exceeds Rs. 2 Crores",
+        "Any amount"
+      ],
+      "correct_index": 1,
+      "explanation": "As per the revised 2021 Consumer Protection Act rules, District is up to 50 Lakhs, State is 50 Lakhs to 2 Crores, and National is above 2 Crores."
+    },
+    {
+      "id": "q12",
+      "text": "Are lawyers allowed to represent the customer or the insurer in an Insurance Ombudsman hearing?",
+      "options": [
+        "Yes, it is mandatory",
+        "Only the insurer can bring a lawyer",
+        "No, legal representation is not allowed",
+        "Only if the claim is above Rs. 10 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "To keep the process simple, informal, and inexpensive, no advocates or legal representation are allowed in front of the Insurance Ombudsman."
+    },
+    {
+      "id": "q13",
+      "text": "What is the time limit for a policyholder to approach the Insurance Ombudsman after the insurer rejects their complaint?",
+      "options": [
+        "Within 30 days",
+        "Within 6 months",
+        "Within 1 year",
+        "Within 3 years"
+      ],
+      "correct_index": 2,
+      "explanation": "A complaint must be filed with the Ombudsman within 1 year from the date the insurer rejected the representation or sent their final reply."
+    },
+    {
+      "id": "q14",
+      "text": "What does a 'Sub-limit' in a health insurance policy mean?",
+      "options": [
+        "The minimum premium to be paid",
+        "A pre-defined cap on the amount payable for specific treatments or diseases, regardless of the total Sum Insured",
+        "The time limit to file a claim",
+        "The limit of the agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "A sub-limit restricts the payout for certain procedures (like Cataract limited to Rs. 40,000), even if the total policy limit is much higher."
+    },
+    {
+      "id": "q15",
+      "text": "If a policyholder is hospitalized exactly during the 30-day 'Grace Period' before paying the renewal premium, is the claim payable?",
+      "options": [
+        "Yes, fully payable",
+        "No, the policy coverage is suspended during the grace period until the premium is paid",
+        "Payable with a 50% penalty",
+        "Payable only for accidents"
+      ],
+      "correct_index": 1,
+      "explanation": "The grace period maintains the continuity of waiting periods, but coverage is not active. The insurer is not liable for any event occurring before the premium is received."
+    },
+    {
+      "id": "q16",
+      "text": "Dental treatment is generally excluded in standard health policies. Under what condition is it typically covered?",
+      "options": [
+        "If the teeth are naturally decaying",
+        "If it is an extraction due to a cavity",
+        "If it is necessitated due to an accident requiring hospitalization",
+        "If the dentist is a family member"
+      ],
+      "correct_index": 2,
+      "explanation": "Standard health insurance only covers dental treatments if they result from an accidental injury that requires inpatient hospitalization."
+    },
+    {
+      "id": "q17",
+      "text": "In health insurance, what is the meaning of 'Any One Illness'?",
+      "options": [
+        "Only the very first illness in life",
+        "Continuous period of illness, including relapse within 45 days of discharge",
+        "Having only one disease at a time",
+        "Illness lasting for only one day"
+      ],
+      "correct_index": 1,
+      "explanation": "If a patient is discharged and readmitted for the exact same illness within 45 days, it is considered a continuation of 'Any One Illness' for claim calculation."
+    },
+    {
+      "id": "q18",
+      "text": "What must a customer do FIRST before taking a grievance to the IGMS (Bima Bharosa) portal?",
+      "options": [
+        "File a police complaint",
+        "Approach the Insurance Ombudsman",
+        "Register a formal complaint with the Grievance Redressal Officer (GRO) of the insurance company",
+        "Post on social media"
+      ],
+      "correct_index": 2,
+      "explanation": "Customers must first try to resolve the issue with the insurer's internal GRO. If unsatisfied or no response is received in 15 days, they can use IGMS."
+    },
+    {
+      "id": "q19",
+      "text": "What is 'Non-Medical Underwriting'?",
+      "options": [
+        "Underwriting done by engineers",
+        "Accepting a proposal based solely on the proposal form declaration, without a medical examination",
+        "Rejecting a medical claim",
+        "Treating a patient without medicine"
+      ],
+      "correct_index": 1,
+      "explanation": "For young individuals or low sum insureds, insurers often accept the risk based purely on the good faith declarations in the form, without blood tests."
+    },
+    {
+      "id": "q20",
+      "text": "What does 'Contributory' mean in a Group Health Insurance scheme?",
+      "options": [
+        "The government contributes to the policy",
+        "The employees pay a portion or the entirety of the premium",
+        "The TPA contributes to the hospital bill",
+        "Only the employer pays the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "In a contributory group policy, the premium cost is shared between the employer and the employee, or borne fully by the employee through salary deductions."
+    },
+    {
+      "id": "q21",
+      "text": "Who typically distributes 'Micro-Insurance' products?",
+      "options": [
+        "Corporate Brokers",
+        "Non-Governmental Organizations (NGOs), Self-Help Groups (SHGs), and Micro-Insurance Agents",
+        "Only Government Banks",
+        "Only Online Portals"
+      ],
+      "correct_index": 1,
+      "explanation": "To reach the rural and low-income sectors, IRDAI allows NGOs, SHGs, and specialized micro-insurance agents to distribute these small-ticket policies."
+    },
+    {
+      "id": "q22",
+      "text": "Can a Third Party Administrator (TPA) sell insurance policies?",
+      "options": [
+        "Yes, if they get permission from the hospital",
+        "Yes, they can sell life insurance",
+        "No, TPAs are strictly administrative service providers and cannot sell insurance or solicit business",
+        "Yes, but only online"
+      ],
+      "correct_index": 2,
+      "explanation": "A TPA's license only allows them to process claims and manage health services on behalf of the insurer; they are barred from selling policies."
+    },
+    {
+      "id": "q23",
+      "text": "What is 'Tele-underwriting'?",
+      "options": [
+        "Selling policies on television",
+        "A process where a trained medical professional interviews the proposer over the phone to gather health information",
+        "Doctor diagnosing a patient via video call",
+        "Underwriting done by the telecom department"
+      ],
+      "correct_index": 1,
+      "explanation": "Tele-underwriting involves calling the customer to clarify details in the proposal form or gather more medical history before issuing the policy."
+    },
+    {
+      "id": "q24",
+      "text": "In the case of a claim, the treating Medical Practitioner should NOT be whom?",
+      "options": [
+        "A specialist",
+        "An allopathic doctor",
+        "The patient himself or a close family member",
+        "A registered doctor"
+      ],
+      "correct_index": 2,
+      "explanation": "To prevent conflict of interest and fraud, policy conditions explicitly state that the medical practitioner cannot be the insured person or their close relative."
+    },
+    {
+      "id": "q25",
+      "text": "If a person has two health insurance policies from different companies and makes a claim, which principle applies?",
+      "options": [
+        "Principle of Subrogation",
+        "Principle of Contribution",
+        "Principle of Proximate Cause",
+        "Principle of Insurable Interest"
+      ],
+      "correct_index": 1,
+      "explanation": "The Contribution clause states that if there are multiple policies, all insurers will share the claim proportionately based on their sum insured."
+    },
+    {
+      "id": "q26",
+      "text": "When an insurer suspects a claim might be fraudulent or exaggerated, what process do they initiate?",
+      "options": [
+        "Immediate Payment",
+        "Field Investigation by a Loss Assessor",
+        "Renewal of policy",
+        "Endorsement"
+      ],
+      "correct_index": 1,
+      "explanation": "Claims with discrepancies or high suspicion are marked for investigation, where a field agent verifies the hospital, patient, and doctor records."
+    },
+    {
+      "id": "q27",
+      "text": "According to the principle of Utmost Good Faith, what is 'Concealment'?",
+      "options": [
+        "Deliberately hiding material facts relevant to the risk",
+        "Hiding the policy document from family",
+        "Keeping the premium cash in a safe",
+        "Wearing a mask to the medical test"
+      ],
+      "correct_index": 0,
+      "explanation": "Concealment is the intentional failure of the applicant to disclose material facts (like a pre-existing illness), which gives the insurer the right to void the policy."
+    },
+    {
+      "id": "q28",
+      "text": "What is the primary difference between a 'Representation' and a 'Warranty' in an insurance contract?",
+      "options": [
+        "They are the same",
+        "A warranty is a strict condition that must be literally true; a representation is a statement believed to be true to the best of knowledge",
+        "Warranties only apply to cars, not health",
+        "Representations are made by agents, warranties by customers"
+      ],
+      "correct_index": 1,
+      "explanation": "A warranty is a strict contractual guarantee (e.g., 'I will install a fire alarm'). A breach of warranty voids the contract automatically."
+    },
+    {
+      "id": "q29",
+      "text": "Which of the following is required for a Newborn Baby to be covered under a family floater health policy?",
+      "options": [
+        "The baby is covered automatically from day 1 for free",
+        "The baby is covered only after reaching 18 years of age",
+        "An endorsement must be passed, an extra premium paid, and the baby is usually covered from Day 91",
+        "A separate individual policy must be bought"
+      ],
+      "correct_index": 2,
+      "explanation": "Most standard policies require the baby to be 90 days old to be added to the family floater via an endorsement and extra premium."
+    },
+    {
+      "id": "q30",
+      "text": "For how long has IRDAI mandated 'Lifelong Renewability' for health insurance policies?",
+      "options": [
+        "Up to age 60",
+        "Up to age 65",
+        "Up to age 80",
+        "For the lifetime of the insured"
+      ],
+      "correct_index": 3,
+      "explanation": "IRDAI rules mandate that once a health insurance policy is issued, the insurer must offer the option to renew it for life, preventing them from dropping old, sick patients."
+    },
+    {
+      "id": "q31",
+      "text": "Who bears the investment risk in a traditional health insurance policy?",
+      "options": [
+        "The Policyholder",
+        "The Insurance Company",
+        "The Government",
+        "The TPA"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike ULIPs in life insurance where the customer takes the market risk, in traditional health and general insurance, the insurer bears all investment risks."
+    },
+    {
+      "id": "q32",
+      "text": "What is 'Caveat Emptor'?",
+      "options": [
+        "Seller beware",
+        "Buyer beware",
+        "Agent beware",
+        "Utmost good faith"
+      ],
+      "correct_index": 1,
+      "explanation": "Caveat Emptor means 'Let the buyer beware'. However, insurance contracts are an EXCEPTION to this rule; they follow Utmost Good Faith instead."
+    },
+    {
+      "id": "q33",
+      "text": "The time limit to reply to a query raised by the insurer/TPA for processing a cashless claim is usually very short. Why?",
+      "options": [
+        "To quickly reject the claim",
+        "To ensure the patient doesn't have to wait for treatment or discharge",
+        "Because the TPA closes early",
+        "To increase the hospital bill"
+      ],
+      "correct_index": 1,
+      "explanation": "Cashless queries must be answered immediately by the hospital so the patient's treatment isn't delayed and they aren't stuck at the hospital during discharge."
+    },
+    {
+      "id": "q34",
+      "text": "What happens if a customer buys a Critical Illness policy, is diagnosed with cancer 10 days later, and claims the amount?",
+      "options": [
+        "Claim is paid fully",
+        "Claim is rejected due to the initial 90-day waiting period",
+        "Claim is paid 50%",
+        "Policy is automatically upgraded"
+      ],
+      "correct_index": 1,
+      "explanation": "Critical illness policies almost universally have a 90-day initial waiting period. Any diagnosis within this period is not covered."
+    },
+    {
+      "id": "q35",
+      "text": "Which of the following is considered 'Primary Care'?",
+      "options": [
+        "Heart transplant surgery",
+        "Consulting a general physician for a common cold",
+        "Admission to an ICU",
+        "Chemotherapy sessions"
+      ],
+      "correct_index": 1,
+      "explanation": "Primary care is the first point of contact for a patient, usually a local clinic or general practitioner for minor ailments."
+    },
+    {
+      "id": "q36",
+      "text": "If an insurance agent's license is cancelled due to fraud, can they apply for a new license?",
+      "options": [
+        "Yes, immediately",
+        "Yes, after 1 year",
+        "No, they are permanently disqualified",
+        "Yes, but only in another state"
+      ],
+      "correct_index": 2,
+      "explanation": "Any person found guilty of fraud, misappropriation, or criminal breach of trust is permanently disqualified from acting as an insurance agent."
+    },
+    {
+      "id": "q37",
+      "text": "A customer fills out a proposal form, signs it, and gives a cheque. At what exact moment does the risk commence?",
+      "options": [
+        "The moment the cheque is signed",
+        "The moment the agent deposits the cheque",
+        "When the insurer accepts the proposal and issues the First Premium Receipt (FPR) / Policy",
+        "The next calendar month"
+      ],
+      "correct_index": 2,
+      "explanation": "Risk does not commence until the underwriter formally accepts the proposal and the premium is realized, indicated by the issuance of the FPR."
+    },
+    {
+      "id": "q38",
+      "text": "In the Numerical Rating Method of underwriting, what do 'Positive Points' indicate?",
+      "options": [
+        "Good health",
+        "Adverse or negative factors (e.g., obesity) which add to the risk",
+        "A discount on premium",
+        "The commission of the agent"
+      ],
+      "correct_index": 1,
+      "explanation": "In this system, standard risk is 100. Adverse factors (like high BP) get positive points (+25), making the score higher and the premium costlier."
+    },
+    {
+      "id": "q39",
+      "text": "What does 'Sum Insured' represent in an indemnity-based health insurance policy?",
+      "options": [
+        "The total value of the hospital building",
+        "The maximum amount an insurer is liable to pay in a policy year",
+        "The monthly salary of the insured",
+        "The number of hospitals in the network"
+      ],
+      "correct_index": 1,
+      "explanation": "Sum Insured is the maximum limit of liability for the insurance company for all claims made during the policy period."
+    },
+    {
+      "id": "q40",
+      "text": "Which of these is a valid 'Age Proof' but falls under 'Non-Standard Age Proof'?",
+      "options": [
+        "Passport",
+        "10th Board Certificate",
+        "Horoscope (Kundali) or Village Panchayat Certificate",
+        "Aadhaar Card"
+      ],
+      "correct_index": 2,
+      "explanation": "Non-standard age proofs are less reliable. If submitted, the insurer might restrict the sum insured or charge a higher premium."
+    },
+    {
+      "id": "q41",
+      "text": "Under the Consumer Protection Act, who is considered a 'Consumer' in insurance?",
+      "options": [
+        "The Insurance Agent",
+        "The Policyholder / Insured who pays the premium",
+        "The Third Party Administrator",
+        "The Insurance Company"
+      ],
+      "correct_index": 1,
+      "explanation": "A consumer is a person who buys goods or hires any service for a consideration (premium). The policyholder is the consumer."
+    },
+    {
+      "id": "q42",
+      "text": "If an agent wants to surrender their license and quit, to whom should they submit the license?",
+      "options": [
+        "The Police",
+        "The Designated Official of the Insurance Company they work for",
+        "The Policyholders",
+        "The TPA"
+      ],
+      "correct_index": 1,
+      "explanation": "The agent must surrender the physical license to the designated officer of the insurer who appointed them."
+    },
+    {
+      "id": "q43",
+      "text": "A group health policy is issued to an employer. If an employee leaves the job, what happens to their health cover?",
+      "options": [
+        "It continues for life",
+        "It ceases (stops) immediately upon termination of employment",
+        "They get a refund of the entire group premium",
+        "The new employer automatically pays for it"
+      ],
+      "correct_index": 1,
+      "explanation": "Group cover is tied to the group membership. When the employee resigns, the cover stops, though they have the right to port it to an individual retail policy."
+    },
+    {
+      "id": "q44",
+      "text": "Which of the following treatments is generally covered under 'Day Care Procedures'?",
+      "options": [
+        "Heart Bypass Surgery",
+        "Kidney Transplant",
+        "Cataract Surgery or Chemotherapy",
+        "Bed rest for viral fever"
+      ],
+      "correct_index": 2,
+      "explanation": "Cataract surgeries and chemotherapy take less than 24 hours due to technological advances, qualifying them as Day Care procedures."
+    },
+    {
+      "id": "q45",
+      "text": "What is the primary objective of 'Rural and Social Sector Obligations' mandated by IRDAI?",
+      "options": [
+        "To force agents to live in villages",
+        "To ensure that insurance companies do not ignore the poorer, rural sections of society in favor of profitable urban areas",
+        "To build hospitals in rural areas",
+        "To collect higher taxes"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI sets quotas for insurers to sell a certain percentage of policies to rural and social sectors to ensure financial inclusion for all."
+    },
+    {
+      "id": "q46",
+      "text": "What is an 'Indemnity Bond' in the context of losing a policy document?",
+      "options": [
+        "A bond that pays interest",
+        "A legal guarantee signed by the customer protecting the insurer against future disputes or fraud if a duplicate policy is issued",
+        "A bond to buy new insurance",
+        "A receipt of premium"
+      ],
+      "correct_index": 1,
+      "explanation": "If the original document is lost, the insurer asks for an indemnity bond before issuing a duplicate to ensure the customer won't misuse the lost document later."
+    },
+    {
+      "id": "q47",
+      "text": "What does a 'Level Premium' mean?",
+      "options": [
+        "The premium changes every month",
+        "The premium remains constant/same throughout the entire duration of the policy",
+        "The premium is paid only once",
+        "The premium is linked to the stock market"
+      ],
+      "correct_index": 1,
+      "explanation": "In level premium systems, the cost is averaged out so the customer pays the exact same amount every year, avoiding sudden spikes in old age."
+    },
+    {
+      "id": "q48",
+      "text": "If a person intentionally sets their own warehouse on fire to claim insurance, this is an example of what?",
+      "options": [
+        "Physical Hazard",
+        "Moral Hazard",
+        "Morale Hazard",
+        "Act of God"
+      ],
+      "correct_index": 1,
+      "explanation": "Intentional, dishonest acts aimed at defrauding the insurance company represent a severe Moral Hazard."
+    },
+    {
+      "id": "q49",
+      "text": "Which of the following is an example of an 'Out-Patient Department' (OPD) expense?",
+      "options": [
+        "Staying in the ICU for 3 days",
+        "A 15-minute consultation with a doctor for a headache and buying prescribed cough syrup",
+        "Undergoing Hernia surgery",
+        "Getting a knee replacement"
+      ],
+      "correct_index": 1,
+      "explanation": "OPD refers to treatments where the patient simply visits the clinic/doctor, gets a prescription or minor dressing, and leaves without being admitted."
+    },
+    {
+      "id": "q50",
+      "text": "Who defines what constitutes a 'Pre-Existing Disease' (PED)?",
+      "options": [
+        "The Hospital",
+        "The Insurance Agent",
+        "IRDAI (to ensure standard definitions across all companies)",
+        "The Policyholder"
+      ],
+      "correct_index": 2,
+      "explanation": "To prevent disputes and ensure fairness, IRDAI has standardized definitions for common health insurance terms, including PED, across the entire industry."
+    }
+  ]
+}
