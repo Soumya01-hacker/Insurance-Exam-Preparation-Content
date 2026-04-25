@@ -1,752 +1,607 @@
-[
-  {
-    "questionId": "ic38_life_mock_01_q1",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is the primary mechanism of insurance?",
-    "optionA": "Avoiding risk",
-    "optionB": "Sharing of risk",
-    "optionC": "Increasing risk",
-    "optionD": "Ignoring risk",
-    "correctOption": "B",
-    "explanation": "Insurance is a mechanism where the financial risk of a few is shared among many who face similar risks.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 1
-  },
-  {
-    "questionId": "ic38_life_mock_01_q2",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "The principle of 'Uberrima Fides' refers to:",
-    "optionA": "Insurable Interest",
-    "optionB": "Proximate Cause",
-    "optionC": "Utmost Good Faith",
-    "optionD": "Indemnity",
-    "correctOption": "C",
-    "explanation": "Uberrima Fides means 'Utmost Good Faith', which requires both the insurer and the insured to disclose all material facts transparently.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 2
-  },
-  {
-    "questionId": "ic38_life_mock_01_q3",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "When must 'Insurable Interest' exist in life insurance?",
-    "optionA": "At the time of taking the policy",
-    "optionB": "At the time of claim",
-    "optionC": "Both at inception and claim",
-    "optionD": "It is not required",
-    "correctOption": "A",
-    "explanation": "In life insurance, insurable interest must exist at the time of taking the policy (inception), unlike marine or fire insurance.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 3
-  },
-  {
-    "questionId": "ic38_life_mock_01_q4",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which of the following is considered a standard proof of age?",
-    "optionA": "Horoscope",
-    "optionB": "Village Panchayat Certificate",
-    "optionC": "Passport",
-    "optionD": "Self-declaration",
-    "correctOption": "C",
-    "explanation": "Passport, School Leaving Certificate, and Birth Certificate are considered standard valid proofs of age.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 4
-  },
-  {
-    "questionId": "ic38_life_mock_01_q5",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What does 'FPR' stand for in insurance documentation?",
-    "optionA": "First Policy Record",
-    "optionB": "First Premium Receipt",
-    "optionC": "Final Premium Receipt",
-    "optionD": "Final Policy Record",
-    "correctOption": "B",
-    "explanation": "FPR stands for First Premium Receipt. It is the evidence that the policy contract has officially begun.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 5
-  },
-  {
-    "questionId": "ic38_life_mock_01_q6",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Who acts as the primary regulatory body for insurance in India?",
-    "optionA": "RBI",
-    "optionB": "SEBI",
-    "optionC": "IRDAI",
-    "optionD": "PFRDA",
-    "correctOption": "C",
-    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) regulates all insurance activities in India.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 6
-  },
-  {
-    "questionId": "ic38_life_mock_01_q7",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is the maximum limit for an award passed by an Insurance Ombudsman?",
-    "optionA": "Rs. 10 Lakhs",
-    "optionB": "Rs. 20 Lakhs",
-    "optionC": "Rs. 30 Lakhs",
-    "optionD": "Rs. 50 Lakhs",
-    "correctOption": "C",
-    "explanation": "An Insurance Ombudsman can pass an award up to a maximum limit of Rs. 30 Lakhs.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 7
-  },
-  {
-    "questionId": "ic38_life_mock_01_q8",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "A life insurance policy becomes an 'Early Claim' if death occurs within how many years of policy inception?",
-    "optionA": "1 year",
-    "optionB": "2 years",
-    "optionC": "3 years",
-    "optionD": "5 years",
-    "correctOption": "C",
-    "explanation": "A claim that arises within 3 years from the date of policy issuance or revival is termed an Early Claim and undergoes strict investigation.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 8
-  },
-  {
-    "questionId": "ic38_life_mock_01_q9",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which section of the Insurance Act, 1938 deals with Nomination?",
-    "optionA": "Section 38",
-    "optionB": "Section 39",
-    "optionC": "Section 41",
-    "optionD": "Section 45",
-    "correctOption": "B",
-    "explanation": "Section 39 of the Insurance Act deals with the process of nominating a person to receive the death benefit.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 9
-  },
-  {
-    "questionId": "ic38_life_mock_01_q10",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which section of the Insurance Act, 1938 prohibits rebating?",
-    "optionA": "Section 38",
-    "optionB": "Section 39",
-    "optionC": "Section 41",
-    "optionD": "Section 45",
-    "correctOption": "C",
-    "explanation": "Section 41 strictly prohibits agents from offering a part of their commission (rebate) to customers to induce them to buy a policy.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 10
-  },
-  {
-    "questionId": "ic38_life_mock_01_q11",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What does a 'Term Insurance' policy primarily offer?",
-    "optionA": "High investment returns",
-    "optionB": "Pure death cover without maturity benefit",
-    "optionC": "Lifetime pension",
-    "optionD": "Health coverage",
-    "correctOption": "B",
-    "explanation": "Term insurance is a pure protection plan that pays out only if the insured dies during the policy term. There is usually no maturity benefit.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 11
-  },
-  {
-    "questionId": "ic38_life_mock_01_q12",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which policy provides a combination of protection and investment by linking to market funds?",
-    "optionA": "Endowment Policy",
-    "optionB": "Term Policy",
-    "optionC": "ULIP",
-    "optionD": "Whole Life Policy",
-    "correctOption": "C",
-    "explanation": "Unit Linked Insurance Plans (ULIPs) offer life cover along with market-linked investment opportunities.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 12
-  },
-  {
-    "questionId": "ic38_life_mock_01_q13",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is 'Surrender Value' in a life insurance policy?",
-    "optionA": "Amount paid on death",
-    "optionB": "Amount paid on maturity",
-    "optionC": "Amount paid if policy is terminated prematurely",
-    "optionD": "Penalty for late premium",
-    "correctOption": "C",
-    "explanation": "Surrender Value is the cash amount offered by the insurance company to the policyholder if they decide to terminate the policy before maturity.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 13
-  },
-  {
-    "questionId": "ic38_life_mock_01_q14",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "In the context of MWP Act, who has the right to the policy claim?",
-    "optionA": "Creditors of the policyholder",
-    "optionB": "Trustees for the benefit of wife/children",
-    "optionC": "The policyholder himself",
-    "optionD": "The agent",
-    "correctOption": "B",
-    "explanation": "Under the Married Women's Property (MWP) Act, the policy amount is treated as a trust for the wife and/or children, and creditors cannot claim it.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 14
-  },
-  {
-    "questionId": "ic38_life_mock_01_q15",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which of the following is NOT a material fact required to be disclosed in life insurance?",
-    "optionA": "Pre-existing illnesses",
-    "optionB": "Occupation details",
-    "optionC": "Favorite movie genre",
-    "optionD": "Previous rejected insurance applications",
-    "correctOption": "C",
-    "explanation": "Favorite movie genre does not affect mortality risk and therefore is not a material fact.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 15
-  },
-  {
-    "questionId": "ic38_life_mock_01_q16",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is the primary document used to assess the risk of a prospective policyholder?",
-    "optionA": "Claim form",
-    "optionB": "Proposal form",
-    "optionC": "Discharge voucher",
-    "optionD": "Policy bond",
-    "correctOption": "B",
-    "explanation": "The Proposal Form is the foundational document where the applicant provides all material facts for underwriting.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 16
-  },
-  {
-    "questionId": "ic38_life_mock_01_q17",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which document is essential to process a death claim?",
-    "optionA": "Birth certificate",
-    "optionB": "Death certificate",
-    "optionC": "Marriage certificate",
-    "optionD": "Educational certificate",
-    "correctOption": "B",
-    "explanation": "The official Death Certificate issued by the local municipal authority is mandatory to process any death claim.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 17
-  },
-  {
-    "questionId": "ic38_life_mock_01_q18",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is 'Moral Hazard' in insurance?",
-    "optionA": "Risk of physical injury",
-    "optionB": "Dishonesty or character defects of the insured",
-    "optionC": "Hazardous occupation",
-    "optionD": "Unhealthy lifestyle like smoking",
-    "correctOption": "B",
-    "explanation": "Moral hazard refers to risks related to the character, integrity, or intentions of the proposer, such as intent to commit fraud.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 18
-  },
-  {
-    "questionId": "ic38_life_mock_01_q19",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is an 'Annuity'?",
-    "optionA": "Lump sum payment on death",
-    "optionB": "Regular income paid for life or a specific period",
-    "optionC": "A type of health insurance",
-    "optionD": "A penalty fee",
-    "correctOption": "B",
-    "explanation": "An annuity is a financial product designed to pay out a steady, regular stream of income, typically used for retirement planning.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 19
-  },
-  {
-    "questionId": "ic38_life_mock_01_q20",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Under which assignment type does the policy ownership completely transfer to the assignee?",
-    "optionA": "Conditional Assignment",
-    "optionB": "Absolute Assignment",
-    "optionC": "Temporary Assignment",
-    "optionD": "Partial Assignment",
-    "correctOption": "B",
-    "explanation": "In Absolute Assignment, all rights, title, and interest in the policy are permanently transferred to the assignee.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 20
-  },
-  {
-    "questionId": "ic38_life_mock_01_q21",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What role does a 'TPA' play in health insurance?",
-    "optionA": "Sells insurance policies",
-    "optionB": "Regulates insurance companies",
-    "optionC": "Processes health insurance claims and cashless facilities",
-    "optionD": "Invests premium money",
-    "correctOption": "C",
-    "explanation": "Third Party Administrators (TPAs) are intermediaries appointed to process health claims and manage cashless hospitalizations.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 21
-  },
-  {
-    "questionId": "ic38_life_mock_01_q22",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "A 30-day 'Grace Period' is applicable for which premium payment frequencies?",
-    "optionA": "Monthly only",
-    "optionB": "Quarterly, Half-yearly, and Yearly",
-    "optionC": "Single premium",
-    "optionD": "Daily premium",
-    "correctOption": "B",
-    "explanation": "A grace period of 30 days is given for non-monthly payment modes (Quarterly, Half-yearly, Yearly). Monthly mode gets 15 days.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 22
-  },
-  {
-    "questionId": "ic38_life_mock_01_q23",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "If a policyholder commits suicide within 1 year of policy inception, what is payable?",
-    "optionA": "Full sum assured",
-    "optionB": "Nothing is paid",
-    "optionC": "80% of premiums paid",
-    "optionD": "Double the sum assured",
-    "correctOption": "C",
-    "explanation": "Usually, if the insured commits suicide within 12 months, the nominee receives 80% of the premiums paid, provided the policy is active.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 23
-  },
-  {
-    "questionId": "ic38_life_mock_01_q24",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is 'Pre-hospitalization' cover?",
-    "optionA": "Expenses incurred after discharge",
-    "optionB": "Medical expenses incurred prior to being admitted to the hospital",
-    "optionC": "Cost of ambulance only",
-    "optionD": "Routine checkup cost without illness",
-    "correctOption": "B",
-    "explanation": "It covers relevant medical expenses like diagnostic tests and consultations that occur just before the patient is formally hospitalized.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 24
-  },
-  {
-    "questionId": "ic38_life_mock_01_q25",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What does a 'Rider' do to a base life insurance policy?",
-    "optionA": "Decreases the premium",
-    "optionB": "Adds extra coverage or benefits at an additional cost",
-    "optionC": "Cancels the policy",
-    "optionD": "Transfers ownership",
-    "correctOption": "B",
-    "explanation": "A rider is an add-on provision to a basic insurance policy that provides additional benefits, like Critical Illness or Accidental Death cover.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 25
-  },
-  {
-    "questionId": "ic38_life_mock_01_q26",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Who bears the investment risk in a ULIP?",
-    "optionA": "The Insurance Company",
-    "optionB": "IRDAI",
-    "optionC": "The Policyholder",
-    "optionD": "The Agent",
-    "correctOption": "C",
-    "explanation": "In Unit Linked Insurance Plans (ULIPs), the investment risk is borne entirely by the policyholder as funds are market-linked.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 26
-  },
-  {
-    "questionId": "ic38_life_mock_01_q27",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which concept ensures a policyholder cannot make a profit from a health insurance claim?",
-    "optionA": "Subrogation",
-    "optionB": "Indemnity",
-    "optionC": "Contribution",
-    "optionD": "Proximate Cause",
-    "correctOption": "B",
-    "explanation": "The Principle of Indemnity ensures the insured is restored to the same financial position as before the loss, preventing them from profiting.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 27
-  },
-  {
-    "questionId": "ic38_life_mock_01_q28",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What happens when an insurance policy becomes 'Lapsed'?",
-    "optionA": "Premium increases",
-    "optionB": "Benefits cease due to non-payment of premium",
-    "optionC": "Policy matures",
-    "optionD": "Claim is automatically paid",
-    "correctOption": "B",
-    "explanation": "A policy lapses when the policyholder fails to pay the premium even after the grace period, resulting in a loss of coverage.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 28
-  },
-  {
-    "questionId": "ic38_life_mock_01_q29",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Keyman Insurance is bought by:",
-    "optionA": "A father for his son",
-    "optionB": "An employer for a key employee",
-    "optionC": "A husband for his wife",
-    "optionD": "A bank for a customer",
-    "correctOption": "B",
-    "explanation": "Keyman Insurance is taken by a business entity on the life of an important employee whose loss would cause financial strain to the business.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 29
-  },
-  {
-    "questionId": "ic38_life_mock_01_q30",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "In Health Insurance, what is 'PED'?",
-    "optionA": "Post-Emergency Department",
-    "optionB": "Pre-Existing Disease",
-    "optionC": "Premium Evaluation Document",
-    "optionD": "Policy Endorsement Date",
-    "correctOption": "B",
-    "explanation": "Pre-Existing Disease (PED) refers to any medical condition that the insured had prior to buying the health insurance policy.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 30
-  },
-  {
-    "questionId": "ic38_life_mock_01_q31",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What does 'Domiciliary Hospitalization' mean?",
-    "optionA": "Treatment abroad",
-    "optionB": "Treatment taken at home due to unavailability of hospital beds or patient's severe condition",
-    "optionC": "Treatment in a free government hospital",
-    "optionD": "Cosmetic surgery",
-    "correctOption": "B",
-    "explanation": "It refers to medical treatment for a period exceeding 3 days which would normally require hospital admission but is taken at home.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 31
-  },
-  {
-    "questionId": "ic38_life_mock_01_q32",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "According to IGMS (Integrated Grievance Management System), within how many days should an insurer resolve a complaint?",
-    "optionA": "7 days",
-    "optionB": "15 days",
-    "optionC": "30 days",
-    "optionD": "60 days",
-    "correctOption": "B",
-    "explanation": "As per IRDAI guidelines, insurance companies are mandated to resolve customer grievances within 15 days.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 32
-  },
-  {
-    "questionId": "ic38_life_mock_01_q33",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which type of life insurance guarantees the highest death benefit for the lowest premium?",
-    "optionA": "Money Back Policy",
-    "optionB": "Whole Life Policy",
-    "optionC": "Endowment Policy",
-    "optionD": "Term Insurance",
-    "correctOption": "D",
-    "explanation": "Term Insurance offers maximum coverage at the lowest premium because it has no savings or investment component.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 33
-  },
-  {
-    "questionId": "ic38_life_mock_01_q34",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is 'Subrogation'?",
-    "optionA": "Dividing the premium",
-    "optionB": "Transferring rights of recovery to the insurer after a claim is paid",
-    "optionC": "Canceling a policy",
-    "optionD": "Nominating a minor",
-    "correctOption": "B",
-    "explanation": "Subrogation allows the insurer to step into the shoes of the insured to claim damages from a third party who caused the loss, after settling the claim.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 34
-  },
-  {
-    "questionId": "ic38_life_mock_01_q35",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Who acts as the 'Principal' in an insurance agency relationship?",
-    "optionA": "The Insurance Agent",
-    "optionB": "The Insurance Company",
-    "optionC": "The Customer",
-    "optionD": "IRDAI",
-    "correctOption": "B",
-    "explanation": "In an agency contract, the Insurance Company is the Principal, and the Agent acts on behalf of the Principal.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 35
-  },
-  {
-    "questionId": "ic38_life_mock_01_q36",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "A minor can be a nominee in a life insurance policy, provided:",
-    "optionA": "The premium is paid by the minor",
-    "optionB": "An appointee is designated",
-    "optionC": "The minor has a PAN card",
-    "optionD": "Minors cannot be nominees",
-    "correctOption": "B",
-    "explanation": "If the nominee is a minor, the policyholder must designate an appointee to receive the claim money on the minor's behalf.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 36
-  },
-  {
-    "questionId": "ic38_life_mock_01_q37",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Under Medical Underwriting, who is a 'Standard Life'?",
-    "optionA": "A person with average health and normal life expectancy",
-    "optionB": "A person with high health risks",
-    "optionC": "A terminal patient",
-    "optionD": "A professional athlete",
-    "correctOption": "A",
-    "explanation": "A Standard Life represents a proposed insured whose health, lifestyle, and occupation pose a normal, average risk to the insurer.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 37
-  },
-  {
-    "questionId": "ic38_life_mock_01_q38",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What does a 'Co-payment' clause in health insurance mean?",
-    "optionA": "Two people pay the premium",
-    "optionB": "Insured pays a fixed percentage of the claim amount",
-    "optionC": "Company pays double the claim",
-    "optionD": "Government subsidizes the premium",
-    "correctOption": "B",
-    "explanation": "Co-payment is a cost-sharing requirement where the insured agrees to bear a specified percentage of the admissible claim amount.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 38
-  },
-  {
-    "questionId": "ic38_life_mock_01_q39",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which document outlines the exact terms and conditions of an insurance contract?",
-    "optionA": "Proposal Form",
-    "optionB": "Agent's Brochure",
-    "optionC": "Policy Document",
-    "optionD": "Premium Receipt",
-    "correctOption": "C",
-    "explanation": "The Policy Document is the legally binding contract that contains all specific terms, conditions, privileges, and exclusions.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 39
-  },
-  {
-    "questionId": "ic38_life_mock_01_q40",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "When is an 'Age Admission' typically done by the insurance company?",
-    "optionA": "At the time of maturity only",
-    "optionB": "Before or at the time of policy issuance, or at claim settlement",
-    "optionC": "Every year during renewal",
-    "optionD": "Only if the agent requests it",
-    "correctOption": "B",
-    "explanation": "Admitting age (verifying proof of age) is ideally done at the proposal stage, but must be strictly admitted before a claim is paid.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 40
-  },
-  {
-    "questionId": "ic38_life_mock_01_q41",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is the waiting period generally applied to Maternity Benefits in health insurance?",
-    "optionA": "0 months",
-    "optionB": "9 months to 48 months",
-    "optionC": "10 years",
-    "optionD": "Life long",
-    "correctOption": "B",
-    "explanation": "Most health insurance policies have a waiting period ranging from 9 months to 4 years before maternity expenses are covered.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 41
-  },
-  {
-    "questionId": "ic38_life_mock_01_q42",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which of the following describes a 'Level Premium'?",
-    "optionA": "Premium increases every year",
-    "optionB": "Premium decreases as you age",
-    "optionC": "Premium remains constant throughout the policy term",
-    "optionD": "Premium depends on stock market",
-    "correctOption": "C",
-    "explanation": "Under the Level Premium system, the policyholder pays the exact same premium amount every year for the entire duration of the policy.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 42
-  },
-  {
-    "questionId": "ic38_life_mock_01_q43",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What does the 'Free Look Period' allow the policyholder to do?",
-    "optionA": "Take a free loan",
-    "optionB": "Review and cancel the policy if dissatisfied",
-    "optionC": "Skip premium payment for a year",
-    "optionD": "Change the life assured",
-    "correctOption": "B",
-    "explanation": "It gives the policyholder 15 days to review the policy terms and return it for a refund if they do not agree with the conditions.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 43
-  },
-  {
-    "questionId": "ic38_life_mock_01_q44",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "An agent's license is typically valid for how many years before it requires renewal?",
-    "optionA": "1 year",
-    "optionB": "3 years",
-    "optionC": "5 years",
-    "optionD": "10 years",
-    "correctOption": "B",
-    "explanation": "An insurance agent's license issued by IRDAI is valid for 3 years and must be renewed periodically.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 44
-  },
-  {
-    "questionId": "ic38_life_mock_01_q45",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "In Health Insurance, what does 'Network Hospital' mean?",
-    "optionA": "Hospitals with free Wi-Fi",
-    "optionB": "Hospitals that only treat government employees",
-    "optionC": "Hospitals tied up with the TPA/Insurer for cashless treatment",
-    "optionD": "Only multi-specialty hospitals",
-    "correctOption": "C",
-    "explanation": "Network hospitals have agreements with the insurance company or TPA to provide cashless medical services to the insured.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 45
-  },
-  {
-    "questionId": "ic38_life_mock_01_q46",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is the primary function of an Underwriter?",
-    "optionA": "To sell policies to customers",
-    "optionB": "To assess risk and decide the premium/acceptance",
-    "optionC": "To invest company profits",
-    "optionD": "To print policy documents",
-    "correctOption": "B",
-    "explanation": "An underwriter evaluates the risk profile of the applicant and determines whether to accept the risk and at what premium rate.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 46
-  },
-  {
-    "questionId": "ic38_life_mock_01_q47",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "Which of the following falls under 'Physical Hazard'?",
-    "optionA": "Intention to commit fraud",
-    "optionB": "Overweight or hazardous occupation",
-    "optionC": "Hiding medical history",
-    "optionD": "Falsifying age",
-    "correctOption": "B",
-    "explanation": "Physical hazards are tangible conditions, like a dangerous job or poor physical health, that increase the likelihood of a claim.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 47
-  },
-  {
-    "questionId": "ic38_life_mock_01_q48",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "If a nominee dies before the life assured, what happens to the nomination?",
-    "optionA": "The policy is cancelled",
-    "optionB": "The nomination becomes void and the policyholder must make a new nomination",
-    "optionC": "The nominee's legal heirs get the money",
-    "optionD": "The agent becomes the nominee",
-    "correctOption": "B",
-    "explanation": "If the nominee predeceases the life assured, the nomination is cancelled, and the life assured can nominate a new person.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 48
-  },
-  {
-    "questionId": "ic38_life_mock_01_q49",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "A 'Money Back Policy' is a variation of which traditional policy?",
-    "optionA": "Term Insurance",
-    "optionB": "Endowment Policy",
-    "optionC": "ULIP",
-    "optionD": "Whole Life Policy",
-    "correctOption": "B",
-    "explanation": "A money-back policy is essentially an endowment policy that provides periodic 'survival benefits' during the policy term.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 49
-  },
-  {
-    "questionId": "ic38_life_mock_01_q50",
-    "testId": "ic38_life_mock_01",
-    "examId": "ic38",
-    "questionText": "What is the minimum age to apply for an insurance agent license?",
-    "optionA": "18 years",
-    "optionB": "21 years",
-    "optionC": "25 years",
-    "optionD": "30 years",
-    "correctOption": "A",
-    "explanation": "To become a certified insurance agent in India, the applicant must have completed 18 years of age.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 50
-  }
-]
+{
+  "chapter_id": "ic38_life_mock_01",
+  "chapter_title": "IC-38 Life Mock Test 1",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "ic38_life_mock_01_q1",
+      "text": "What is the primary mechanism of insurance?",
+      "options": [
+        "Avoiding risk",
+        "Sharing of risk",
+        "Increasing risk",
+        "Ignoring risk"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance is a mechanism where the financial risk of a few is shared among many who face similar risks."
+    },
+    {
+      "id": "ic38_life_mock_01_q2",
+      "text": "The principle of 'Uberrima Fides' refers to:",
+      "options": [
+        "Insurable Interest",
+        "Proximate Cause",
+        "Utmost Good Faith",
+        "Indemnity"
+      ],
+      "correct_index": 2,
+      "explanation": "Uberrima Fides means 'Utmost Good Faith', which requires both the insurer and the insured to disclose all material facts transparently."
+    },
+    {
+      "id": "ic38_life_mock_01_q3",
+      "text": "When must 'Insurable Interest' exist in life insurance?",
+      "options": [
+        "At the time of taking the policy",
+        "At the time of claim",
+        "Both at inception and claim",
+        "It is not required"
+      ],
+      "correct_index": 0,
+      "explanation": "In life insurance, insurable interest must exist at the time of taking the policy (inception), unlike marine or fire insurance."
+    },
+    {
+      "id": "ic38_life_mock_01_q4",
+      "text": "Which of the following is considered a standard proof of age?",
+      "options": [
+        "Horoscope",
+        "Village Panchayat Certificate",
+        "Passport",
+        "Self-declaration"
+      ],
+      "correct_index": 2,
+      "explanation": "Passport, School Leaving Certificate, and Birth Certificate are considered standard valid proofs of age."
+    },
+    {
+      "id": "ic38_life_mock_01_q5",
+      "text": "What does 'FPR' stand for in insurance documentation?",
+      "options": [
+        "First Policy Record",
+        "First Premium Receipt",
+        "Final Premium Receipt",
+        "Final Policy Record"
+      ],
+      "correct_index": 1,
+      "explanation": "FPR stands for First Premium Receipt. It is the evidence that the policy contract has officially begun."
+    },
+    {
+      "id": "ic38_life_mock_01_q6",
+      "text": "Who acts as the primary regulatory body for insurance in India?",
+      "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) regulates all insurance activities in India."
+    },
+    {
+      "id": "ic38_life_mock_01_q7",
+      "text": "What is the maximum limit for an award passed by an Insurance Ombudsman?",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 30 Lakhs",
+        "Rs. 50 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "An Insurance Ombudsman can pass an award up to a maximum limit of Rs. 30 Lakhs."
+    },
+    {
+      "id": "ic38_life_mock_01_q8",
+      "text": "A life insurance policy becomes an 'Early Claim' if death occurs within how many years of policy inception?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "A claim that arises within 3 years from the date of policy issuance or revival is termed an Early Claim and undergoes strict investigation."
+    },
+    {
+      "id": "ic38_life_mock_01_q9",
+      "text": "Which section of the Insurance Act, 1938 deals with Nomination?",
+      "options": [
+        "Section 38",
+        "Section 39",
+        "Section 41",
+        "Section 45"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 39 of the Insurance Act deals with the process of nominating a person to receive the death benefit."
+    },
+    {
+      "id": "ic38_life_mock_01_q10",
+      "text": "Which section of the Insurance Act, 1938 prohibits rebating?",
+      "options": [
+        "Section 38",
+        "Section 39",
+        "Section 41",
+        "Section 45"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 41 strictly prohibits agents from offering a part of their commission (rebate) to customers to induce them to buy a policy."
+    },
+    {
+      "id": "ic38_life_mock_01_q11",
+      "text": "What does a 'Term Insurance' policy primarily offer?",
+      "options": [
+        "High investment returns",
+        "Pure death cover without maturity benefit",
+        "Lifetime pension",
+        "Health coverage"
+      ],
+      "correct_index": 1,
+      "explanation": "Term insurance is a pure protection plan that pays out only if the insured dies during the policy term. There is usually no maturity benefit."
+    },
+    {
+      "id": "ic38_life_mock_01_q12",
+      "text": "Which policy provides a combination of protection and investment by linking to market funds?",
+      "options": [
+        "Endowment Policy",
+        "Term Policy",
+        "ULIP",
+        "Whole Life Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Unit Linked Insurance Plans (ULIPs) offer life cover along with market-linked investment opportunities."
+    },
+    {
+      "id": "ic38_life_mock_01_q13",
+      "text": "What is 'Surrender Value' in a life insurance policy?",
+      "options": [
+        "Amount paid on death",
+        "Amount paid on maturity",
+        "Amount paid if policy is terminated prematurely",
+        "Penalty for late premium"
+      ],
+      "correct_index": 2,
+      "explanation": "Surrender Value is the cash amount offered by the insurance company to the policyholder if they decide to terminate the policy before maturity."
+    },
+    {
+      "id": "ic38_life_mock_01_q14",
+      "text": "In the context of MWP Act, who has the right to the policy claim?",
+      "options": [
+        "Creditors of the policyholder",
+        "Trustees for the benefit of wife/children",
+        "The policyholder himself",
+        "The agent"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the Married Women's Property (MWP) Act, the policy amount is treated as a trust for the wife and/or children, and creditors cannot claim it."
+    },
+    {
+      "id": "ic38_life_mock_01_q15",
+      "text": "Which of the following is NOT a material fact required to be disclosed in life insurance?",
+      "options": [
+        "Pre-existing illnesses",
+        "Occupation details",
+        "Favorite movie genre",
+        "Previous rejected insurance applications"
+      ],
+      "correct_index": 2,
+      "explanation": "Favorite movie genre does not affect mortality risk and therefore is not a material fact."
+    },
+    {
+      "id": "ic38_life_mock_01_q16",
+      "text": "What is the primary document used to assess the risk of a prospective policyholder?",
+      "options": [
+        "Claim form",
+        "Proposal form",
+        "Discharge voucher",
+        "Policy bond"
+      ],
+      "correct_index": 1,
+      "explanation": "The Proposal Form is the foundational document where the applicant provides all material facts for underwriting."
+    },
+    {
+      "id": "ic38_life_mock_01_q17",
+      "text": "Which document is essential to process a death claim?",
+      "options": [
+        "Birth certificate",
+        "Death certificate",
+        "Marriage certificate",
+        "Educational certificate"
+      ],
+      "correct_index": 1,
+      "explanation": "The official Death Certificate issued by the local municipal authority is mandatory to process any death claim."
+    },
+    {
+      "id": "ic38_life_mock_01_q18",
+      "text": "What is 'Moral Hazard' in insurance?",
+      "options": [
+        "Risk of physical injury",
+        "Dishonesty or character defects of the insured",
+        "Hazardous occupation",
+        "Unhealthy lifestyle like smoking"
+      ],
+      "correct_index": 1,
+      "explanation": "Moral hazard refers to risks related to the character, integrity, or intentions of the proposer, such as intent to commit fraud."
+    },
+    {
+      "id": "ic38_life_mock_01_q19",
+      "text": "What is an 'Annuity'?",
+      "options": [
+        "Lump sum payment on death",
+        "Regular income paid for life or a specific period",
+        "A type of health insurance",
+        "A penalty fee"
+      ],
+      "correct_index": 1,
+      "explanation": "An annuity is a financial product designed to pay out a steady, regular stream of income, typically used for retirement planning."
+    },
+    {
+      "id": "ic38_life_mock_01_q20",
+      "text": "Under which assignment type does the policy ownership completely transfer to the assignee?",
+      "options": [
+        "Conditional Assignment",
+        "Absolute Assignment",
+        "Temporary Assignment",
+        "Partial Assignment"
+      ],
+      "correct_index": 1,
+      "explanation": "In Absolute Assignment, all rights, title, and interest in the policy are permanently transferred to the assignee."
+    },
+    {
+      "id": "ic38_life_mock_01_q21",
+      "text": "What role does a 'TPA' play in health insurance?",
+      "options": [
+        "Sells insurance policies",
+        "Regulates insurance companies",
+        "Processes health insurance claims and cashless facilities",
+        "Invests premium money"
+      ],
+      "correct_index": 2,
+      "explanation": "Third Party Administrators (TPAs) are intermediaries appointed to process health claims and manage cashless hospitalizations."
+    },
+    {
+      "id": "ic38_life_mock_01_q22",
+      "text": "A 30-day 'Grace Period' is applicable for which premium payment frequencies?",
+      "options": [
+        "Monthly only",
+        "Quarterly, Half-yearly, and Yearly",
+        "Single premium",
+        "Daily premium"
+      ],
+      "correct_index": 1,
+      "explanation": "A grace period of 30 days is given for non-monthly payment modes (Quarterly, Half-yearly, Yearly). Monthly mode gets 15 days."
+    },
+    {
+      "id": "ic38_life_mock_01_q23",
+      "text": "If a policyholder commits suicide within 1 year of policy inception, what is payable?",
+      "options": [
+        "Full sum assured",
+        "Nothing is paid",
+        "80% of premiums paid",
+        "Double the sum assured"
+      ],
+      "correct_index": 2,
+      "explanation": "Usually, if the insured commits suicide within 12 months, the nominee receives 80% of the premiums paid, provided the policy is active."
+    },
+    {
+      "id": "ic38_life_mock_01_q24",
+      "text": "What is 'Pre-hospitalization' cover?",
+      "options": [
+        "Expenses incurred after discharge",
+        "Medical expenses incurred prior to being admitted to the hospital",
+        "Cost of ambulance only",
+        "Routine checkup cost without illness"
+      ],
+      "correct_index": 1,
+      "explanation": "It covers relevant medical expenses like diagnostic tests and consultations that occur just before the patient is formally hospitalized."
+    },
+    {
+      "id": "ic38_life_mock_01_q25",
+      "text": "What does a 'Rider' do to a base life insurance policy?",
+      "options": [
+        "Decreases the premium",
+        "Adds extra coverage or benefits at an additional cost",
+        "Cancels the policy",
+        "Transfers ownership"
+      ],
+      "correct_index": 1,
+      "explanation": "A rider is an add-on provision to a basic insurance policy that provides additional benefits, like Critical Illness or Accidental Death cover."
+    },
+    {
+      "id": "ic38_life_mock_01_q26",
+      "text": "Who bears the investment risk in a ULIP?",
+      "options": [
+        "The Insurance Company",
+        "IRDAI",
+        "The Policyholder",
+        "The Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "In Unit Linked Insurance Plans (ULIPs), the investment risk is borne entirely by the policyholder as funds are market-linked."
+    },
+    {
+      "id": "ic38_life_mock_01_q27",
+      "text": "Which concept ensures a policyholder cannot make a profit from a health insurance claim?",
+      "options": [
+        "Subrogation",
+        "Indemnity",
+        "Contribution",
+        "Proximate Cause"
+      ],
+      "correct_index": 1,
+      "explanation": "The Principle of Indemnity ensures the insured is restored to the same financial position as before the loss, preventing them from profiting."
+    },
+    {
+      "id": "ic38_life_mock_01_q28",
+      "text": "What happens when an insurance policy becomes 'Lapsed'?",
+      "options": [
+        "Premium increases",
+        "Benefits cease due to non-payment of premium",
+        "Policy matures",
+        "Claim is automatically paid"
+      ],
+      "correct_index": 1,
+      "explanation": "A policy lapses when the policyholder fails to pay the premium even after the grace period, resulting in a loss of coverage."
+    },
+    {
+      "id": "ic38_life_mock_01_q29",
+      "text": "Keyman Insurance is bought by:",
+      "options": [
+        "A father for his son",
+        "An employer for a key employee",
+        "A husband for his wife",
+        "A bank for a customer"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman Insurance is taken by a business entity on the life of an important employee whose loss would cause financial strain to the business."
+    },
+    {
+      "id": "ic38_life_mock_01_q30",
+      "text": "In Health Insurance, what is 'PED'?",
+      "options": [
+        "Post-Emergency Department",
+        "Pre-Existing Disease",
+        "Premium Evaluation Document",
+        "Policy Endorsement Date"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre-Existing Disease (PED) refers to any medical condition that the insured had prior to buying the health insurance policy."
+    },
+    {
+      "id": "ic38_life_mock_01_q31",
+      "text": "What does 'Domiciliary Hospitalization' mean?",
+      "options": [
+        "Treatment abroad",
+        "Treatment taken at home due to unavailability of hospital beds or patient's severe condition",
+        "Treatment in a free government hospital",
+        "Cosmetic surgery"
+      ],
+      "correct_index": 1,
+      "explanation": "It refers to medical treatment for a period exceeding 3 days which would normally require hospital admission but is taken at home."
+    },
+    {
+      "id": "ic38_life_mock_01_q32",
+      "text": "According to IGMS (Integrated Grievance Management System), within how many days should an insurer resolve a complaint?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI guidelines, insurance companies are mandated to resolve customer grievances within 15 days."
+    },
+    {
+      "id": "ic38_life_mock_01_q33",
+      "text": "Which type of life insurance guarantees the highest death benefit for the lowest premium?",
+      "options": [
+        "Money Back Policy",
+        "Whole Life Policy",
+        "Endowment Policy",
+        "Term Insurance"
+      ],
+      "correct_index": 3,
+      "explanation": "Term Insurance offers maximum coverage at the lowest premium because it has no savings or investment component."
+    },
+    {
+      "id": "ic38_life_mock_01_q34",
+      "text": "What is 'Subrogation'?",
+      "options": [
+        "Dividing the premium",
+        "Transferring rights of recovery to the insurer after a claim is paid",
+        "Canceling a policy",
+        "Nominating a minor"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation allows the insurer to step into the shoes of the insured to claim damages from a third party who caused the loss, after settling the claim."
+    },
+    {
+      "id": "ic38_life_mock_01_q35",
+      "text": "Who acts as the 'Principal' in an insurance agency relationship?",
+      "options": [
+        "The Insurance Agent",
+        "The Insurance Company",
+        "The Customer",
+        "IRDAI"
+      ],
+      "correct_index": 1,
+      "explanation": "In an agency contract, the Insurance Company is the Principal, and the Agent acts on behalf of the Principal."
+    },
+    {
+      "id": "ic38_life_mock_01_q36",
+      "text": "A minor can be a nominee in a life insurance policy, provided:",
+      "options": [
+        "The premium is paid by the minor",
+        "An appointee is designated",
+        "The minor has a PAN card",
+        "Minors cannot be nominees"
+      ],
+      "correct_index": 1,
+      "explanation": "If the nominee is a minor, the policyholder must designate an appointee to receive the claim money on the minor's behalf."
+    },
+    {
+      "id": "ic38_life_mock_01_q37",
+      "text": "Under Medical Underwriting, who is a 'Standard Life'?",
+      "options": [
+        "A person with average health and normal life expectancy",
+        "A person with high health risks",
+        "A terminal patient",
+        "A professional athlete"
+      ],
+      "correct_index": 0,
+      "explanation": "A Standard Life represents a proposed insured whose health, lifestyle, and occupation pose a normal, average risk to the insurer."
+    },
+    {
+      "id": "ic38_life_mock_01_q38",
+      "text": "What does a 'Co-payment' clause in health insurance mean?",
+      "options": [
+        "Two people pay the premium",
+        "Insured pays a fixed percentage of the claim amount",
+        "Company pays double the claim",
+        "Government subsidizes the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Co-payment is a cost-sharing requirement where the insured agrees to bear a specified percentage of the admissible claim amount."
+    },
+    {
+      "id": "ic38_life_mock_01_q39",
+      "text": "Which document outlines the exact terms and conditions of an insurance contract?",
+      "options": [
+        "Proposal Form",
+        "Agent's Brochure",
+        "Policy Document",
+        "Premium Receipt"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Document is the legally binding contract that contains all specific terms, conditions, privileges, and exclusions."
+    },
+    {
+      "id": "ic38_life_mock_01_q40",
+      "text": "When is an 'Age Admission' typically done by the insurance company?",
+      "options": [
+        "At the time of maturity only",
+        "Before or at the time of policy issuance, or at claim settlement",
+        "Every year during renewal",
+        "Only if the agent requests it"
+      ],
+      "correct_index": 1,
+      "explanation": "Admitting age (verifying proof of age) is ideally done at the proposal stage, but must be strictly admitted before a claim is paid."
+    },
+    {
+      "id": "ic38_life_mock_01_q41",
+      "text": "What is the waiting period generally applied to Maternity Benefits in health insurance?",
+      "options": [
+        "0 months",
+        "9 months to 48 months",
+        "10 years",
+        "Life long"
+      ],
+      "correct_index": 1,
+      "explanation": "Most health insurance policies have a waiting period ranging from 9 months to 4 years before maternity expenses are covered."
+    },
+    {
+      "id": "ic38_life_mock_01_q42",
+      "text": "Which of the following describes a 'Level Premium'?",
+      "options": [
+        "Premium increases every year",
+        "Premium decreases as you age",
+        "Premium remains constant throughout the policy term",
+        "Premium depends on stock market"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the Level Premium system, the policyholder pays the exact same premium amount every year for the entire duration of the policy."
+    },
+    {
+      "id": "ic38_life_mock_01_q43",
+      "text": "What does the 'Free Look Period' allow the policyholder to do?",
+      "options": [
+        "Take a free loan",
+        "Review and cancel the policy if dissatisfied",
+        "Skip premium payment for a year",
+        "Change the life assured"
+      ],
+      "correct_index": 1,
+      "explanation": "It gives the policyholder 15 days to review the policy terms and return it for a refund if they do not agree with the conditions."
+    },
+    {
+      "id": "ic38_life_mock_01_q44",
+      "text": "An agent's license is typically valid for how many years before it requires renewal?",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "An insurance agent's license issued by IRDAI is valid for 3 years and must be renewed periodically."
+    },
+    {
+      "id": "ic38_life_mock_01_q45",
+      "text": "In Health Insurance, what does 'Network Hospital' mean?",
+      "options": [
+        "Hospitals with free Wi-Fi",
+        "Hospitals that only treat government employees",
+        "Hospitals tied up with the TPA/Insurer for cashless treatment",
+        "Only multi-specialty hospitals"
+      ],
+      "correct_index": 2,
+      "explanation": "Network hospitals have agreements with the insurance company or TPA to provide cashless medical services to the insured."
+    },
+    {
+      "id": "ic38_life_mock_01_q46",
+      "text": "What is the primary function of an Underwriter?",
+      "options": [
+        "To sell policies to customers",
+        "To assess risk and decide the premium/acceptance",
+        "To invest company profits",
+        "To print policy documents"
+      ],
+      "correct_index": 1,
+      "explanation": "An underwriter evaluates the risk profile of the applicant and determines whether to accept the risk and at what premium rate."
+    },
+    {
+      "id": "ic38_life_mock_01_q47",
+      "text": "Which of the following falls under 'Physical Hazard'?",
+      "options": [
+        "Intention to commit fraud",
+        "Overweight or hazardous occupation",
+        "Hiding medical history",
+        "Falsifying age"
+      ],
+      "correct_index": 1,
+      "explanation": "Physical hazards are tangible conditions, like a dangerous job or poor physical health, that increase the likelihood of a claim."
+    },
+    {
+      "id": "ic38_life_mock_01_q48",
+      "text": "If a nominee dies before the life assured, what happens to the nomination?",
+      "options": [
+        "The policy is cancelled",
+        "The nomination becomes void and the policyholder must make a new nomination",
+        "The nominee's legal heirs get the money",
+        "The agent becomes the nominee"
+      ],
+      "correct_index": 1,
+      "explanation": "If the nominee predeceases the life assured, the nomination is cancelled, and the life assured can nominate a new person."
+    },
+    {
+      "id": "ic38_life_mock_01_q49",
+      "text": "A 'Money Back Policy' is a variation of which traditional policy?",
+      "options": [
+        "Term Insurance",
+        "Endowment Policy",
+        "ULIP",
+        "Whole Life Policy"
+      ],
+      "correct_index": 1,
+      "explanation": "A money-back policy is essentially an endowment policy that provides periodic 'survival benefits' during the policy term."
+    },
+    {
+      "id": "ic38_life_mock_01_q50",
+      "text": "What is the minimum age to apply for an insurance agent license?",
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "30 years"
+      ],
+      "correct_index": 0,
+      "explanation": "To become a certified insurance agent in India, the applicant must have completed 18 years of age."
+    }
+  ]
+}

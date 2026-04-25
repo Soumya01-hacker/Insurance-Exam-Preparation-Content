@@ -1,752 +1,607 @@
-[
-  {
-    "questionId": "ic38_life_mock_02_q1",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Who conceptualized the 'Human Life Value' (HLV) concept in insurance?",
-    "optionA": "Prof. S.S. Huebner",
-    "optionB": "Adam Smith",
-    "optionC": "Karl Marx",
-    "optionD": "John Maynard Keynes",
-    "correctOption": "A",
-    "explanation": "Prof. S.S. Huebner introduced the concept of Human Life Value, which calculates the economic value of a human life to determine the required insurance cover.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 1
-  },
-  {
-    "questionId": "ic38_life_mock_02_q2",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which of the following documents is accepted as both standard proof of age and proof of address?",
-    "optionA": "PAN Card",
-    "optionB": "Passport",
-    "optionC": "Bank Passbook",
-    "optionD": "Ration Card",
-    "correctOption": "B",
-    "explanation": "A Passport contains both the date of birth and the residential address, making it a valid standard proof for both age and address.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 2
-  },
-  {
-    "questionId": "ic38_life_mock_02_q3",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the time limit for a policyholder to approach the Insurance Ombudsman after the rejection of a complaint by the insurer?",
-    "optionA": "Within 3 months",
-    "optionB": "Within 6 months",
-    "optionC": "Within 1 year",
-    "optionD": "Within 3 years",
-    "correctOption": "C",
-    "explanation": "A policyholder must approach the Insurance Ombudsman within 1 year from the date of rejection of their complaint by the insurance company.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 3
-  },
-  {
-    "questionId": "ic38_life_mock_02_q4",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the fee required to file a complaint with the Insurance Ombudsman?",
-    "optionA": "Rs. 100",
-    "optionB": "Rs. 500",
-    "optionC": "1% of the claim amount",
-    "optionD": "No fee is required",
-    "correctOption": "D",
-    "explanation": "Filing a complaint with the Insurance Ombudsman is entirely free of cost for the policyholder.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 4
-  },
-  {
-    "questionId": "ic38_life_mock_02_q5",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What does IGMS stand for in the context of IRDAI?",
-    "optionA": "Insurance General Management System",
-    "optionB": "Integrated Grievance Management System",
-    "optionC": "Internal Grievance Mechanism System",
-    "optionD": "International Guidelines for Management Standards",
-    "correctOption": "B",
-    "explanation": "IGMS stands for Integrated Grievance Management System, a portal set up by IRDAI to register and track insurance grievances.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 5
-  },
-  {
-    "questionId": "ic38_life_mock_02_q6",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What does the 'Principle of Proximate Cause' mean?",
-    "optionA": "The most distant cause of loss",
-    "optionB": "The active and efficient cause that sets in motion a chain of events leading to a loss",
-    "optionC": "A deliberate cause of loss",
-    "optionD": "An unknown cause of loss",
-    "correctOption": "B",
-    "explanation": "Proximate cause (Causa Proxima) is the dominant, most effective, and immediate cause that leads to a loss, without any intervention of a new, independent force.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 6
-  },
-  {
-    "questionId": "ic38_life_mock_02_q7",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "In insurance, what is considered a 'Non-Standard' proof of age?",
-    "optionA": "School Leaving Certificate",
-    "optionB": "Baptism Certificate",
-    "optionC": "Horoscope",
-    "optionD": "Birth Certificate issued by Municipality",
-    "correctOption": "C",
-    "explanation": "Documents like horoscopes, self-declarations, or elder's declarations are non-standard proofs of age and usually require an extra premium or restricted sum assured.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 7
-  },
-  {
-    "questionId": "ic38_life_mock_02_q8",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "If an insurer delays the payment of a death claim, what penalty are they liable to pay?",
-    "optionA": "A flat fine of Rs. 10,000",
-    "optionB": "Interest at a rate 2% above the prevailing bank rate",
-    "optionC": "Double the sum assured",
-    "optionD": "No penalty is applied",
-    "correctOption": "B",
-    "explanation": "IRDAI mandates that if a claim payment is delayed beyond the stipulated time, the insurer must pay penal interest at 2% above the current bank rate.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 8
-  },
-  {
-    "questionId": "ic38_life_mock_02_q9",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What happens if the policyholder dies during the 'Grace Period' before paying the due premium?",
-    "optionA": "The claim is rejected completely",
-    "optionB": "Only the premiums paid are refunded",
-    "optionC": "The claim is paid after deducting the unpaid premium",
-    "optionD": "The grace period is extended by 30 days",
-    "correctOption": "C",
-    "explanation": "If death occurs during the grace period, the policy is considered active. The insurer will settle the death claim but deduct the outstanding due premium from the final payout.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 9
-  },
-  {
-    "questionId": "ic38_life_mock_02_q10",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the primary purpose of 'Paid-up Value' in traditional life insurance?",
-    "optionA": "To increase the sum assured",
-    "optionB": "To provide a reduced insurance cover if the policyholder stops paying premiums after a certain period",
-    "optionC": "To cancel the policy immediately",
-    "optionD": "To pay the agent's commission",
-    "correctOption": "B",
-    "explanation": "If premiums stop after a specified period (usually 2-3 years), the policy acquires a Paid-up Value, offering a proportionately reduced life cover instead of lapsing entirely.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 10
-  },
-  {
-    "questionId": "ic38_life_mock_02_q11",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which of the following policies does NOT acquire a Surrender Value?",
-    "optionA": "Endowment Policy",
-    "optionB": "Whole Life Policy",
-    "optionC": "Term Insurance Policy",
-    "optionD": "Money Back Policy",
-    "correctOption": "C",
-    "explanation": "Pure Term Insurance policies do not have an investment component, so they do not acquire any Surrender Value or Paid-up Value.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 11
-  },
-  {
-    "questionId": "ic38_life_mock_02_q12",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the unethical practice of inducing a policyholder to lapse a policy to buy a new one from a different company called?",
-    "optionA": "Churning or Twisting",
-    "optionB": "Rebating",
-    "optionC": "Subrogation",
-    "optionD": "Underwriting",
-    "correctOption": "A",
-    "explanation": "Twisting is a deceptive practice where an agent convinces a client to cancel an existing policy to buy a new one, primarily to earn a fresh first-year commission.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 12
-  },
-  {
-    "questionId": "ic38_life_mock_02_q13",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which type of assignment comes with conditions that, if fulfilled, revert the policy ownership back to the original policyholder?",
-    "optionA": "Absolute Assignment",
-    "optionB": "Conditional Assignment",
-    "optionC": "Permanent Assignment",
-    "optionD": "Irrevocable Assignment",
-    "correctOption": "B",
-    "explanation": "Conditional Assignment transfers rights temporarily. If the condition is met (e.g., loan repayment) or the assignee dies, ownership reverts to the assignor.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 13
-  },
-  {
-    "questionId": "ic38_life_mock_02_q14",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the maximum sum assured allowed under a 'Micro-Insurance' life policy?",
-    "optionA": "Rs. 50,000",
-    "optionB": "Rs. 1,00,000",
-    "optionC": "Rs. 2,00,000",
-    "optionD": "Rs. 5,00,000",
-    "correctOption": "C",
-    "explanation": "As per IRDAI guidelines, micro-insurance products are designed for low-income groups, and the maximum sum assured limit is capped at Rs. 2,00,000.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 14
-  },
-  {
-    "questionId": "ic38_life_mock_02_q15",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What does Section 45 of the Insurance Act, 1938 deal with?",
-    "optionA": "Prohibition of Rebates",
-    "optionB": "Nomination rules",
-    "optionC": "Indisputability clause (No policy can be called into question after 3 years)",
-    "optionD": "Licensing of agents",
-    "correctOption": "C",
-    "explanation": "Section 45 states that an insurer cannot reject a claim or call the policy into question on grounds of misstatement or suppression of facts after 3 years of policy issuance.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 15
-  },
-  {
-    "questionId": "ic38_life_mock_02_q16",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "A Family Floater Health Insurance policy covers:",
-    "optionA": "Only the earning member",
-    "optionB": "The entire family under a single shared Sum Insured",
-    "optionC": "Different specific sums for each family member",
-    "optionD": "Only critical illnesses for the family",
-    "correctOption": "B",
-    "explanation": "A Family Floater plan covers the entire family under an umbrella cover. Any family member can utilize the shared sum insured during the policy year.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 16
-  },
-  {
-    "questionId": "ic38_life_mock_02_q17",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "The Principle of Contribution applies strictly to which type of insurance?",
-    "optionA": "Life Insurance",
-    "optionB": "Personal Accident Insurance",
-    "optionC": "Indemnity Insurance (like Health or Property)",
-    "optionD": "Unit Linked Insurance",
-    "correctOption": "C",
-    "explanation": "Contribution applies to indemnity policies. If a person has multiple health/property policies, insurers share the loss proportionally. It does not apply to life insurance.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 17
-  },
-  {
-    "questionId": "ic38_life_mock_02_q18",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which document is considered the Primary Underwriter's report?",
-    "optionA": "Medical Examiner's Report",
-    "optionB": "Agent's Confidential Report (ACR)",
-    "optionC": "First Premium Receipt",
-    "optionD": "Discharge Voucher",
-    "correctOption": "B",
-    "explanation": "The agent is the primary underwriter who interacts directly with the prospect. Their observations about the prospect's lifestyle and health are recorded in the ACR.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 18
-  },
-  {
-    "questionId": "ic38_life_mock_02_q19",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "In Anti-Money Laundering (AML) terminology, what is 'Placement'?",
-    "optionA": "Buying an insurance policy",
-    "optionB": "The initial introduction of illegal cash into the financial system",
-    "optionC": "Making a death claim",
-    "optionD": "Distributing the money to heirs",
-    "correctOption": "B",
-    "explanation": "Placement is the first stage of money laundering, where illicit cash is deposited or introduced into the legitimate financial system.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 19
-  },
-  {
-    "questionId": "ic38_life_mock_02_q20",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What action does an insurer take when dealing with a 'Sub-Standard Life'?",
-    "optionA": "Reject the proposal immediately",
-    "optionB": "Accept the proposal at standard rates",
-    "optionC": "Accept the proposal by charging an extra premium or imposing a lien",
-    "optionD": "Refer the proposal to the government",
-    "correctOption": "C",
-    "explanation": "Sub-standard lives pose a higher risk. Insurers may accept them by charging an extra premium or applying a lien (reduced coverage for a specific period).",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 20
-  },
-  {
-    "questionId": "ic38_life_mock_02_q21",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Who appoints an 'Appointee' in a life insurance policy?",
-    "optionA": "The Nominee",
-    "optionB": "The Insurer",
-    "optionC": "The Policyholder",
-    "optionD": "The Agent",
-    "correctOption": "C",
-    "explanation": "If the nominee is a minor, the policyholder must designate an adult 'appointee' to receive the claim money on the minor's behalf.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 21
-  },
-  {
-    "questionId": "ic38_life_mock_02_q22",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which of the following payouts are tax-free under Section 10(10D) of the Income Tax Act?",
-    "optionA": "Agent Commission",
-    "optionB": "Maturity and Death Claims of eligible life insurance policies",
-    "optionC": "Surrender value of a policy surrendered in the first year",
-    "optionD": "Annuity payouts",
-    "correctOption": "B",
-    "explanation": "Section 10(10D) exempts the maturity and death benefit amounts of a life insurance policy from income tax, subject to certain premium-to-sum-assured ratios.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 22
-  },
-  {
-    "questionId": "ic38_life_mock_02_q23",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What does a 'Deductible' mean in Health Insurance?",
-    "optionA": "Amount deducted from the agent's commission",
-    "optionB": "A fixed amount the insured must bear before the insurance company pays a claim",
-    "optionC": "A tax deduction",
-    "optionD": "Discount on the premium",
-    "correctOption": "B",
-    "explanation": "A deductible is an out-of-pocket expense the insured must pay for a medical claim before the health insurance coverage kicks in.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 23
-  },
-  {
-    "questionId": "ic38_life_mock_02_q24",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which of these is a classic example of a 'Day Care Procedure' in health insurance?",
-    "optionA": "Cataract Surgery",
-    "optionB": "Open Heart Surgery",
-    "optionC": "Treatment for common cold",
-    "optionD": "Routine blood test",
-    "correctOption": "A",
-    "explanation": "Day care procedures like Cataract or Dialysis require less than 24 hours of hospitalization due to advanced medical technology, but are still covered by health insurance.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 24
-  },
-  {
-    "questionId": "ic38_life_mock_02_q25",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is unique about a 'Critical Illness' policy?",
-    "optionA": "It pays hospital bills directly to the hospital",
-    "optionB": "It provides a lump sum benefit upon the diagnosis of a specified severe illness",
-    "optionC": "It only covers accidents",
-    "optionD": "It has no waiting period",
-    "correctOption": "B",
-    "explanation": "Unlike standard health indemnity policies, a Critical Illness policy pays out the entire sum assured as a lump sum immediately upon the diagnosis of a covered illness.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 25
-  },
-  {
-    "questionId": "ic38_life_mock_02_q26",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What does an 'Exclusion' in an insurance policy mean?",
-    "optionA": "A special bonus added to the policy",
-    "optionB": "Specific conditions or situations that are not covered by the policy",
-    "optionC": "A person who cannot buy insurance",
-    "optionD": "The cancellation of a policy",
-    "correctOption": "B",
-    "explanation": "Exclusions are specific risks, conditions, or events detailed in the policy contract for which the insurer will not provide coverage or pay a claim.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 26
-  },
-  {
-    "questionId": "ic38_life_mock_02_q27",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "If a policy is assigned under Absolute Assignment, what happens to the existing nomination?",
-    "optionA": "It remains unchanged",
-    "optionB": "It is automatically cancelled",
-    "optionC": "The nominee gets half the share",
-    "optionD": "The assignee must approve the nominee",
-    "correctOption": "B",
-    "explanation": "When an absolute assignment is executed, it transfers full ownership to the assignee, automatically canceling any prior nomination on the policy.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 27
-  },
-  {
-    "questionId": "ic38_life_mock_02_q28",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is 'Bancassurance'?",
-    "optionA": "Insuring a bank against robbery",
-    "optionB": "A bank offering its own insurance policies without an insurance tie-up",
-    "optionC": "The selling of insurance products through a bank's distribution channels",
-    "optionD": "An insurance policy for bank employees only",
-    "correctOption": "C",
-    "explanation": "Bancassurance is an arrangement where an insurance company partners with a bank to sell insurance products to the bank's customer base.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 28
-  },
-  {
-    "questionId": "ic38_life_mock_02_q29",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "In a Participating Life Insurance policy, what benefit does the policyholder receive?",
-    "optionA": "Shares in the insurance company",
-    "optionB": "A share in the surplus profits of the insurance company in the form of bonuses",
-    "optionC": "Voting rights in the company's board meetings",
-    "optionD": "Fixed market-linked returns",
-    "correctOption": "B",
-    "explanation": "Participating (or 'With Profits') policies allow the policyholder to participate in the profits of the insurer, receiving periodic bonuses.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 29
-  },
-  {
-    "questionId": "ic38_life_mock_02_q30",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What type of life insurance is best suited for securing a housing loan?",
-    "optionA": "Whole Life Policy",
-    "optionB": "Money Back Policy",
-    "optionC": "Decreasing Term Insurance (Mortgage Redemption)",
-    "optionD": "Annuity Plan",
-    "correctOption": "C",
-    "explanation": "A Mortgage Redemption Policy is a decreasing term plan where the sum assured reduces over time, matching the outstanding balance of a housing loan.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 30
-  },
-  {
-    "questionId": "ic38_life_mock_02_q31",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Who bears the risk in a Non-Linked, Non-Participating Life Insurance Policy?",
-    "optionA": "The Policyholder",
-    "optionB": "The Insurance Company",
-    "optionC": "IRDAI",
-    "optionD": "The Agent",
-    "correctOption": "B",
-    "explanation": "In traditional non-participating policies, the benefits are guaranteed upfront. The insurance company bears the risk of generating the returns to fulfill these guarantees.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 31
-  },
-  {
-    "questionId": "ic38_life_mock_02_q32",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the 'Vesting Age' in a Pension or Retirement Plan?",
-    "optionA": "The age when the person buys the policy",
-    "optionB": "The age when the agent's commission stops",
-    "optionC": "The age at which the policyholder starts receiving the regular pension (annuity)",
-    "optionD": "The age when the policy is surrendered",
-    "correctOption": "C",
-    "explanation": "Vesting Age is the specific age chosen by the policyholder when the accumulation phase ends and the annuity (pension payout) phase begins.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 32
-  },
-  {
-    "questionId": "ic38_life_mock_02_q33",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What happens if a policyholder misstates their age, and the real age is higher than declared?",
-    "optionA": "The policy is cancelled immediately",
-    "optionB": "The insurer will increase the sum assured",
-    "optionC": "The insurer will adjust (reduce) the sum assured based on the premium actually paid for the correct age",
-    "optionD": "The agent is penalized",
-    "correctOption": "C",
-    "explanation": "If a higher actual age is discovered, the standard practice is to proportionally reduce the sum assured to what the paid premium would have bought at the correct age.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 33
-  },
-  {
-    "questionId": "ic38_life_mock_02_q34",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which IRDAI guideline regulates the behavior of insurance agents?",
-    "optionA": "Anti-Money Laundering Code",
-    "optionB": "Code of Conduct",
-    "optionC": "Ombudsman Rules",
-    "optionD": "MWP Act",
-    "correctOption": "B",
-    "explanation": "IRDAI issues a strict Code of Conduct that defines the ethical standards, duties, and professional behavior expected from an insurance agent.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 34
-  },
-  {
-    "questionId": "ic38_life_mock_02_q35",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is a 'Deferred Annuity'?",
-    "optionA": "Pension that starts immediately after a single premium payment",
-    "optionB": "Pension that is postponed to start at a future predetermined date",
-    "optionC": "A pension paid to the nominee after death",
-    "optionD": "A cancelled pension",
-    "correctOption": "B",
-    "explanation": "In a Deferred Annuity, the policyholder accumulates funds over a term, and the regular pension payouts begin only after a specified future date (vesting date).",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 35
-  },
-  {
-    "questionId": "ic38_life_mock_02_q36",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Who receives the claim money if the policyholder of an MWP Act policy dies?",
-    "optionA": "The policyholder's creditors",
-    "optionB": "The official Trustees appointed for the wife and/or children",
-    "optionC": "The agent",
-    "optionD": "The parents of the policyholder",
-    "correctOption": "B",
-    "explanation": "Under the MWP Act, the policy proceeds bypass creditors and the policyholder's estate, going directly to the appointed Trustees for the benefit of the wife and children.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 36
-  },
-  {
-    "questionId": "ic38_life_mock_02_q37",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is the primary objective of KYC (Know Your Customer) guidelines in insurance?",
-    "optionA": "To increase sales",
-    "optionB": "To prevent identity theft, fraud, and money laundering",
-    "optionC": "To reduce premium rates",
-    "optionD": "To collect data for marketing",
-    "correctOption": "B",
-    "explanation": "KYC procedures ensure the insurer confirms the true identity and address of the customer to prevent financial crimes like money laundering and fraud.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 37
-  },
-  {
-    "questionId": "ic38_life_mock_02_q38",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What constitutes a 'Lien' in a life insurance policy?",
-    "optionA": "A permanent increase in premium",
-    "optionB": "A restriction on the sum assured payable if death occurs within a specific initial period",
-    "optionC": "A bonus declared by the company",
-    "optionD": "A tax deduction",
-    "correctOption": "B",
-    "explanation": "A lien is often placed on sub-standard lives or minors, meaning if death occurs within the lien period, only a reduced sum assured or premium refund is paid.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 38
-  },
-  {
-    "questionId": "ic38_life_mock_02_q39",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which document signals the completion of the insurance contract?",
-    "optionA": "Proposal Form",
-    "optionB": "First Premium Receipt (FPR)",
-    "optionC": "Medical Report",
-    "optionD": "Renewal Premium Receipt",
-    "correctOption": "B",
-    "explanation": "The issuance of the First Premium Receipt (FPR) confirms that the insurer has accepted the risk and the contract has officially commenced.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 39
-  },
-  {
-    "questionId": "ic38_life_mock_02_q40",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "If the sum assured is Rs. 10 Lakhs, and the policy has a 10% co-payment clause, how much will the insurance company pay for an approved claim of Rs. 1 Lakh?",
-    "optionA": "Rs. 10,000",
-    "optionB": "Rs. 90,000",
-    "optionC": "Rs. 1,00,000",
-    "optionD": "Rs. 10 Lakhs",
-    "correctOption": "B",
-    "explanation": "With a 10% co-payment, the insured pays 10% (Rs. 10,000) and the insurance company pays the remaining 90% (Rs. 90,000) of the Rs. 1 Lakh claim.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 40
-  },
-  {
-    "questionId": "ic38_life_mock_02_q41",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which concept prevents an individual from insuring a stranger's life?",
-    "optionA": "Indemnity",
-    "optionB": "Utmost Good Faith",
-    "optionC": "Insurable Interest",
-    "optionD": "Subrogation",
-    "correctOption": "C",
-    "explanation": "Insurable Interest dictates that a person can only insure a life if they would suffer a financial loss upon that person's death. You cannot insure a stranger.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 41
-  },
-  {
-    "questionId": "ic38_life_mock_02_q42",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What is an 'Endorsement' on an insurance policy?",
-    "optionA": "A marketing advertisement",
-    "optionB": "A written alteration or addition to the terms of the policy",
-    "optionC": "The cancellation stamp",
-    "optionD": "The agent's signature",
-    "correctOption": "B",
-    "explanation": "An endorsement is a formal written amendment attached to the policy document that alters, adds, or removes specific coverage terms.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 42
-  },
-  {
-    "questionId": "ic38_life_mock_02_q43",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What does a 'Foreclosure' of a life insurance policy mean?",
-    "optionA": "Closing the policy due to maturity",
-    "optionB": "Termination of the policy by the insurer because the outstanding loan and interest exceed the surrender value",
-    "optionC": "Surrendering the policy voluntarily",
-    "optionD": "Paying all premiums in advance",
-    "correctOption": "B",
-    "explanation": "If a policyholder takes a loan against the policy and fails to pay interest, and the total debt exceeds the policy's surrender value, the insurer will foreclose (terminate) it.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 43
-  },
-  {
-    "questionId": "ic38_life_mock_02_q44",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "In a Unit Linked Insurance Plan (ULIP), the value of the investment is calculated by multiplying the number of units by:",
-    "optionA": "The Sum Assured",
-    "optionB": "The Premium Amount",
-    "optionC": "The Net Asset Value (NAV)",
-    "optionD": "The Mortality Charge",
-    "correctOption": "C",
-    "explanation": "In a ULIP, the fund value is determined by the number of units allocated to the policyholder multiplied by the current Net Asset Value (NAV) of the chosen fund.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 44
-  },
-  {
-    "questionId": "ic38_life_mock_02_q45",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which type of life insurance policy is mandatory to be issued in an electronic form (e-Insurance Account)?",
-    "optionA": "Micro Insurance",
-    "optionB": "Policies with a sum assured above a certain threshold set by IRDAI",
-    "optionC": "Term policies only",
-    "optionD": "No policy is mandatory for electronic issuance",
-    "correctOption": "B",
-    "explanation": "IRDAI mandates that policies exceeding a specific sum assured or premium threshold must be issued electronically through an e-Insurance Account (eIA) for safety and convenience.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 45
-  },
-  {
-    "questionId": "ic38_life_mock_02_q46",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "A life insurance claim where the cause of death is an earthquake is:",
-    "optionA": "Always rejected as 'Act of God'",
-    "optionB": "Paid without any deduction",
-    "optionC": "Paid only if a specific rider was attached",
-    "optionD": "Referred to the government",
-    "correctOption": "B",
-    "explanation": "Unlike property insurance, basic life insurance covers death due to natural calamities (Acts of God) like earthquakes and tsunamis without requiring special riders.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 46
-  },
-  {
-    "questionId": "ic38_life_mock_02_q47",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Who among the following cannot be an Insurance Agent?",
-    "optionA": "A college graduate",
-    "optionB": "A housewife",
-    "optionC": "A person of unsound mind",
-    "optionD": "A retired bank employee",
-    "correctOption": "C",
-    "explanation": "Under the Insurance Act, a person of unsound mind, a minor, or a person convicted of a criminal offense involving fraud cannot be granted an agent's license.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 47
-  },
-  {
-    "questionId": "ic38_life_mock_02_q48",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "What happens to a life insurance policy if the premium is not paid within the grace period?",
-    "optionA": "It becomes a Paid-up policy automatically in the first year",
-    "optionB": "The policy Lapses and life cover ceases",
-    "optionC": "The insurer pays the premium on behalf of the customer",
-    "optionD": "The policy is permanently cancelled and cannot be revived",
-    "correctOption": "B",
-    "explanation": "If the premium is not received by the end of the grace period, the policy lapses, meaning the risk cover stops. However, it can usually be revived within a specified period.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 48
-  },
-  {
-    "questionId": "ic38_life_mock_02_q49",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "Which body resolves consumer disputes specifically regarding deficiency in services up to Rs. 50 Lakhs?",
-    "optionA": "National Consumer Disputes Redressal Commission",
-    "optionB": "State Consumer Disputes Redressal Commission",
-    "optionC": "District Consumer Disputes Redressal Commission",
-    "optionD": "Supreme Court",
-    "correctOption": "C",
-    "explanation": "Under the updated Consumer Protection Act, the District Commission entertains complaints where the value of goods or services paid as consideration does not exceed Rs. 50 Lakhs (note: limits undergo revisions, but District is the first tier).",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 49
-  },
-  {
-    "questionId": "ic38_life_mock_02_q50",
-    "testId": "ic38_life_mock_02",
-    "examId": "ic38",
-    "questionText": "The primary objective of 'Underwriting' is to:",
-    "optionA": "Maximize the agent's commission",
-    "optionB": "Prevent anti-selection and ensure equitable premium charging",
-    "optionC": "Ensure all applicants get insurance",
-    "optionD": "Reduce the company's tax liability",
-    "correctOption": "B",
-    "explanation": "Underwriting ensures fairness. It prevents 'anti-selection' (unhealthy people flocking to buy insurance) and categorizes risks properly so that each person pays a fair premium.",
-    "difficulty": "medium",
-    "topicTag": "Mock Test",
-    "order": 50
-  }
-]
+{
+  "chapter_id": "ic38_life_mock_02",
+  "chapter_title": "IC-38 Life Mock Test 2",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "ic38_life_mock_02_q1",
+      "text": "Who conceptualized the 'Human Life Value' (HLV) concept in insurance?",
+      "options": [
+        "Prof. S.S. Huebner",
+        "Adam Smith",
+        "Karl Marx",
+        "John Maynard Keynes"
+      ],
+      "correct_index": 0,
+      "explanation": "Prof. S.S. Huebner introduced the concept of Human Life Value, which calculates the economic value of a human life to determine the required insurance cover."
+    },
+    {
+      "id": "ic38_life_mock_02_q2",
+      "text": "Which of the following documents is accepted as both standard proof of age and proof of address?",
+      "options": [
+        "PAN Card",
+        "Passport",
+        "Bank Passbook",
+        "Ration Card"
+      ],
+      "correct_index": 1,
+      "explanation": "A Passport contains both the date of birth and the residential address, making it a valid standard proof for both age and address."
+    },
+    {
+      "id": "ic38_life_mock_02_q3",
+      "text": "What is the time limit for a policyholder to approach the Insurance Ombudsman after the rejection of a complaint by the insurer?",
+      "options": [
+        "Within 3 months",
+        "Within 6 months",
+        "Within 1 year",
+        "Within 3 years"
+      ],
+      "correct_index": 2,
+      "explanation": "A policyholder must approach the Insurance Ombudsman within 1 year from the date of rejection of their complaint by the insurance company."
+    },
+    {
+      "id": "ic38_life_mock_02_q4",
+      "text": "What is the fee required to file a complaint with the Insurance Ombudsman?",
+      "options": [
+        "Rs. 100",
+        "Rs. 500",
+        "1% of the claim amount",
+        "No fee is required"
+      ],
+      "correct_index": 3,
+      "explanation": "Filing a complaint with the Insurance Ombudsman is entirely free of cost for the policyholder."
+    },
+    {
+      "id": "ic38_life_mock_02_q5",
+      "text": "What does IGMS stand for in the context of IRDAI?",
+      "options": [
+        "Insurance General Management System",
+        "Integrated Grievance Management System",
+        "Internal Grievance Mechanism System",
+        "International Guidelines for Management Standards"
+      ],
+      "correct_index": 1,
+      "explanation": "IGMS stands for Integrated Grievance Management System, a portal set up by IRDAI to register and track insurance grievances."
+    },
+    {
+      "id": "ic38_life_mock_02_q6",
+      "text": "What does the 'Principle of Proximate Cause' mean?",
+      "options": [
+        "The most distant cause of loss",
+        "The active and efficient cause that sets in motion a chain of events leading to a loss",
+        "A deliberate cause of loss",
+        "An unknown cause of loss"
+      ],
+      "correct_index": 1,
+      "explanation": "Proximate cause (Causa Proxima) is the dominant, most effective, and immediate cause that leads to a loss, without any intervention of a new, independent force."
+    },
+    {
+      "id": "ic38_life_mock_02_q7",
+      "text": "In insurance, what is considered a 'Non-Standard' proof of age?",
+      "options": [
+        "School Leaving Certificate",
+        "Baptism Certificate",
+        "Horoscope",
+        "Birth Certificate issued by Municipality"
+      ],
+      "correct_index": 2,
+      "explanation": "Documents like horoscopes, self-declarations, or elder's declarations are non-standard proofs of age and usually require an extra premium or restricted sum assured."
+    },
+    {
+      "id": "ic38_life_mock_02_q8",
+      "text": "If an insurer delays the payment of a death claim, what penalty are they liable to pay?",
+      "options": [
+        "A flat fine of Rs. 10,000",
+        "Interest at a rate 2% above the prevailing bank rate",
+        "Double the sum assured",
+        "No penalty is applied"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI mandates that if a claim payment is delayed beyond the stipulated time, the insurer must pay penal interest at 2% above the current bank rate."
+    },
+    {
+      "id": "ic38_life_mock_02_q9",
+      "text": "What happens if the policyholder dies during the 'Grace Period' before paying the due premium?",
+      "options": [
+        "The claim is rejected completely",
+        "Only the premiums paid are refunded",
+        "The claim is paid after deducting the unpaid premium",
+        "The grace period is extended by 30 days"
+      ],
+      "correct_index": 2,
+      "explanation": "If death occurs during the grace period, the policy is considered active. The insurer will settle the death claim but deduct the outstanding due premium from the final payout."
+    },
+    {
+      "id": "ic38_life_mock_02_q10",
+      "text": "What is the primary purpose of 'Paid-up Value' in traditional life insurance?",
+      "options": [
+        "To increase the sum assured",
+        "To provide a reduced insurance cover if the policyholder stops paying premiums after a certain period",
+        "To cancel the policy immediately",
+        "To pay the agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "If premiums stop after a specified period (usually 2-3 years), the policy acquires a Paid-up Value, offering a proportionately reduced life cover instead of lapsing entirely."
+    },
+    {
+      "id": "ic38_life_mock_02_q11",
+      "text": "Which of the following policies does NOT acquire a Surrender Value?",
+      "options": [
+        "Endowment Policy",
+        "Whole Life Policy",
+        "Term Insurance Policy",
+        "Money Back Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Pure Term Insurance policies do not have an investment component, so they do not acquire any Surrender Value or Paid-up Value."
+    },
+    {
+      "id": "ic38_life_mock_02_q12",
+      "text": "What is the unethical practice of inducing a policyholder to lapse a policy to buy a new one from a different company called?",
+      "options": [
+        "Churning or Twisting",
+        "Rebating",
+        "Subrogation",
+        "Underwriting"
+      ],
+      "correct_index": 0,
+      "explanation": "Twisting is a deceptive practice where an agent convinces a client to cancel an existing policy to buy a new one, primarily to earn a fresh first-year commission."
+    },
+    {
+      "id": "ic38_life_mock_02_q13",
+      "text": "Which type of assignment comes with conditions that, if fulfilled, revert the policy ownership back to the original policyholder?",
+      "options": [
+        "Absolute Assignment",
+        "Conditional Assignment",
+        "Permanent Assignment",
+        "Irrevocable Assignment"
+      ],
+      "correct_index": 1,
+      "explanation": "Conditional Assignment transfers rights temporarily. If the condition is met (e.g., loan repayment) or the assignee dies, ownership reverts to the assignor."
+    },
+    {
+      "id": "ic38_life_mock_02_q14",
+      "text": "What is the maximum sum assured allowed under a 'Micro-Insurance' life policy?",
+      "options": [
+        "Rs. 50,000",
+        "Rs. 1,00,000",
+        "Rs. 2,00,000",
+        "Rs. 5,00,000"
+      ],
+      "correct_index": 2,
+      "explanation": "As per IRDAI guidelines, micro-insurance products are designed for low-income groups, and the maximum sum assured limit is capped at Rs. 2,00,000."
+    },
+    {
+      "id": "ic38_life_mock_02_q15",
+      "text": "What does Section 45 of the Insurance Act, 1938 deal with?",
+      "options": [
+        "Prohibition of Rebates",
+        "Nomination rules",
+        "Indisputability clause (No policy can be called into question after 3 years)",
+        "Licensing of agents"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 45 states that an insurer cannot reject a claim or call the policy into question on grounds of misstatement or suppression of facts after 3 years of policy issuance."
+    },
+    {
+      "id": "ic38_life_mock_02_q16",
+      "text": "A Family Floater Health Insurance policy covers:",
+      "options": [
+        "Only the earning member",
+        "The entire family under a single shared Sum Insured",
+        "Different specific sums for each family member",
+        "Only critical illnesses for the family"
+      ],
+      "correct_index": 1,
+      "explanation": "A Family Floater plan covers the entire family under an umbrella cover. Any family member can utilize the shared sum insured during the policy year."
+    },
+    {
+      "id": "ic38_life_mock_02_q17",
+      "text": "The Principle of Contribution applies strictly to which type of insurance?",
+      "options": [
+        "Life Insurance",
+        "Personal Accident Insurance",
+        "Indemnity Insurance (like Health or Property)",
+        "Unit Linked Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Contribution applies to indemnity policies. If a person has multiple health/property policies, insurers share the loss proportionally. It does not apply to life insurance."
+    },
+    {
+      "id": "ic38_life_mock_02_q18",
+      "text": "Which document is considered the Primary Underwriter's report?",
+      "options": [
+        "Medical Examiner's Report",
+        "Agent's Confidential Report (ACR)",
+        "First Premium Receipt",
+        "Discharge Voucher"
+      ],
+      "correct_index": 1,
+      "explanation": "The agent is the primary underwriter who interacts directly with the prospect. Their observations about the prospect's lifestyle and health are recorded in the ACR."
+    },
+    {
+      "id": "ic38_life_mock_02_q19",
+      "text": "In Anti-Money Laundering (AML) terminology, what is 'Placement'?",
+      "options": [
+        "Buying an insurance policy",
+        "The initial introduction of illegal cash into the financial system",
+        "Making a death claim",
+        "Distributing the money to heirs"
+      ],
+      "correct_index": 1,
+      "explanation": "Placement is the first stage of money laundering, where illicit cash is deposited or introduced into the legitimate financial system."
+    },
+    {
+      "id": "ic38_life_mock_02_q20",
+      "text": "What action does an insurer take when dealing with a 'Sub-Standard Life'?",
+      "options": [
+        "Reject the proposal immediately",
+        "Accept the proposal at standard rates",
+        "Accept the proposal by charging an extra premium or imposing a lien",
+        "Refer the proposal to the government"
+      ],
+      "correct_index": 2,
+      "explanation": "Sub-standard lives pose a higher risk. Insurers may accept them by charging an extra premium or applying a lien (reduced coverage for a specific period)."
+    },
+    {
+      "id": "ic38_life_mock_02_q21",
+      "text": "Who appoints an 'Appointee' in a life insurance policy?",
+      "options": [
+        "The Nominee",
+        "The Insurer",
+        "The Policyholder",
+        "The Agent"
+      ],
+      "correct_index": 2,
+      "explanation": "If the nominee is a minor, the policyholder must designate an adult 'appointee' to receive the claim money on the minor's behalf."
+    },
+    {
+      "id": "ic38_life_mock_02_q22",
+      "text": "Which of the following payouts are tax-free under Section 10(10D) of the Income Tax Act?",
+      "options": [
+        "Agent Commission",
+        "Maturity and Death Claims of eligible life insurance policies",
+        "Surrender value of a policy surrendered in the first year",
+        "Annuity payouts"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 10(10D) exempts the maturity and death benefit amounts of a life insurance policy from income tax, subject to certain premium-to-sum-assured ratios."
+    },
+    {
+      "id": "ic38_life_mock_02_q23",
+      "text": "What does a 'Deductible' mean in Health Insurance?",
+      "options": [
+        "Amount deducted from the agent's commission",
+        "A fixed amount the insured must bear before the insurance company pays a claim",
+        "A tax deduction",
+        "Discount on the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "A deductible is an out-of-pocket expense the insured must pay for a medical claim before the health insurance coverage kicks in."
+    },
+    {
+      "id": "ic38_life_mock_02_q24",
+      "text": "Which of these is a classic example of a 'Day Care Procedure' in health insurance?",
+      "options": [
+        "Cataract Surgery",
+        "Open Heart Surgery",
+        "Treatment for common cold",
+        "Routine blood test"
+      ],
+      "correct_index": 0,
+      "explanation": "Day care procedures like Cataract or Dialysis require less than 24 hours of hospitalization due to advanced medical technology, but are still covered by health insurance."
+    },
+    {
+      "id": "ic38_life_mock_02_q25",
+      "text": "What is unique about a 'Critical Illness' policy?",
+      "options": [
+        "It pays hospital bills directly to the hospital",
+        "It provides a lump sum benefit upon the diagnosis of a specified severe illness",
+        "It only covers accidents",
+        "It has no waiting period"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike standard health indemnity policies, a Critical Illness policy pays out the entire sum assured as a lump sum immediately upon the diagnosis of a covered illness."
+    },
+    {
+      "id": "ic38_life_mock_02_q26",
+      "text": "What does an 'Exclusion' in an insurance policy mean?",
+      "options": [
+        "A special bonus added to the policy",
+        "Specific conditions or situations that are not covered by the policy",
+        "A person who cannot buy insurance",
+        "The cancellation of a policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Exclusions are specific risks, conditions, or events detailed in the policy contract for which the insurer will not provide coverage or pay a claim."
+    },
+    {
+      "id": "ic38_life_mock_02_q27",
+      "text": "If a policy is assigned under Absolute Assignment, what happens to the existing nomination?",
+      "options": [
+        "It remains unchanged",
+        "It is automatically cancelled",
+        "The nominee gets half the share",
+        "The assignee must approve the nominee"
+      ],
+      "correct_index": 1,
+      "explanation": "When an absolute assignment is executed, it transfers full ownership to the assignee, automatically canceling any prior nomination on the policy."
+    },
+    {
+      "id": "ic38_life_mock_02_q28",
+      "text": "What is 'Bancassurance'?",
+      "options": [
+        "Insuring a bank against robbery",
+        "A bank offering its own insurance policies without an insurance tie-up",
+        "The selling of insurance products through a bank's distribution channels",
+        "An insurance policy for bank employees only"
+      ],
+      "correct_index": 2,
+      "explanation": "Bancassurance is an arrangement where an insurance company partners with a bank to sell insurance products to the bank's customer base."
+    },
+    {
+      "id": "ic38_life_mock_02_q29",
+      "text": "In a Participating Life Insurance policy, what benefit does the policyholder receive?",
+      "options": [
+        "Shares in the insurance company",
+        "A share in the surplus profits of the insurance company in the form of bonuses",
+        "Voting rights in the company's board meetings",
+        "Fixed market-linked returns"
+      ],
+      "correct_index": 1,
+      "explanation": "Participating (or 'With Profits') policies allow the policyholder to participate in the profits of the insurer, receiving periodic bonuses."
+    },
+    {
+      "id": "ic38_life_mock_02_q30",
+      "text": "What type of life insurance is best suited for securing a housing loan?",
+      "options": [
+        "Whole Life Policy",
+        "Money Back Policy",
+        "Decreasing Term Insurance (Mortgage Redemption)",
+        "Annuity Plan"
+      ],
+      "correct_index": 2,
+      "explanation": "A Mortgage Redemption Policy is a decreasing term plan where the sum assured reduces over time, matching the outstanding balance of a housing loan."
+    },
+    {
+      "id": "ic38_life_mock_02_q31",
+      "text": "Who bears the risk in a Non-Linked, Non-Participating Life Insurance Policy?",
+      "options": [
+        "The Policyholder",
+        "The Insurance Company",
+        "IRDAI",
+        "The Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "In traditional non-participating policies, the benefits are guaranteed upfront. The insurance company bears the risk of generating the returns to fulfill these guarantees."
+    },
+    {
+      "id": "ic38_life_mock_02_q32",
+      "text": "What is the 'Vesting Age' in a Pension or Retirement Plan?",
+      "options": [
+        "The age when the person buys the policy",
+        "The age when the agent's commission stops",
+        "The age at which the policyholder starts receiving the regular pension (annuity)",
+        "The age when the policy is surrendered"
+      ],
+      "correct_index": 2,
+      "explanation": "Vesting Age is the specific age chosen by the policyholder when the accumulation phase ends and the annuity (pension payout) phase begins."
+    },
+    {
+      "id": "ic38_life_mock_02_q33",
+      "text": "What happens if a policyholder misstates their age, and the real age is higher than declared?",
+      "options": [
+        "The policy is cancelled immediately",
+        "The insurer will increase the sum assured",
+        "The insurer will adjust (reduce) the sum assured based on the premium actually paid for the correct age",
+        "The agent is penalized"
+      ],
+      "correct_index": 2,
+      "explanation": "If a higher actual age is discovered, the standard practice is to proportionally reduce the sum assured to what the paid premium would have bought at the correct age."
+    },
+    {
+      "id": "ic38_life_mock_02_q34",
+      "text": "Which IRDAI guideline regulates the behavior of insurance agents?",
+      "options": [
+        "Anti-Money Laundering Code",
+        "Code of Conduct",
+        "Ombudsman Rules",
+        "MWP Act"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI issues a strict Code of Conduct that defines the ethical standards, duties, and professional behavior expected from an insurance agent."
+    },
+    {
+      "id": "ic38_life_mock_02_q35",
+      "text": "What is a 'Deferred Annuity'?",
+      "options": [
+        "Pension that starts immediately after a single premium payment",
+        "Pension that is postponed to start at a future predetermined date",
+        "A pension paid to the nominee after death",
+        "A cancelled pension"
+      ],
+      "correct_index": 1,
+      "explanation": "In a Deferred Annuity, the policyholder accumulates funds over a term, and the regular pension payouts begin only after a specified future date (vesting date)."
+    },
+    {
+      "id": "ic38_life_mock_02_q36",
+      "text": "Who receives the claim money if the policyholder of an MWP Act policy dies?",
+      "options": [
+        "The policyholder's creditors",
+        "The official Trustees appointed for the wife and/or children",
+        "The agent",
+        "The parents of the policyholder"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the MWP Act, the policy proceeds bypass creditors and the policyholder's estate, going directly to the appointed Trustees for the benefit of the wife and children."
+    },
+    {
+      "id": "ic38_life_mock_02_q37",
+      "text": "What is the primary objective of KYC (Know Your Customer) guidelines in insurance?",
+      "options": [
+        "To increase sales",
+        "To prevent identity theft, fraud, and money laundering",
+        "To reduce premium rates",
+        "To collect data for marketing"
+      ],
+      "correct_index": 1,
+      "explanation": "KYC procedures ensure the insurer confirms the true identity and address of the customer to prevent financial crimes like money laundering and fraud."
+    },
+    {
+      "id": "ic38_life_mock_02_q38",
+      "text": "What constitutes a 'Lien' in a life insurance policy?",
+      "options": [
+        "A permanent increase in premium",
+        "A restriction on the sum assured payable if death occurs within a specific initial period",
+        "A bonus declared by the company",
+        "A tax deduction"
+      ],
+      "correct_index": 1,
+      "explanation": "A lien is often placed on sub-standard lives or minors, meaning if death occurs within the lien period, only a reduced sum assured or premium refund is paid."
+    },
+    {
+      "id": "ic38_life_mock_02_q39",
+      "text": "Which document signals the completion of the insurance contract?",
+      "options": [
+        "Proposal Form",
+        "First Premium Receipt (FPR)",
+        "Medical Report",
+        "Renewal Premium Receipt"
+      ],
+      "correct_index": 1,
+      "explanation": "The issuance of the First Premium Receipt (FPR) confirms that the insurer has accepted the risk and the contract has officially commenced."
+    },
+    {
+      "id": "ic38_life_mock_02_q40",
+      "text": "If the sum assured is Rs. 10 Lakhs, and the policy has a 10% co-payment clause, how much will the insurance company pay for an approved claim of Rs. 1 Lakh?",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 90,000",
+        "Rs. 1,00,000",
+        "Rs. 10 Lakhs"
+      ],
+      "correct_index": 1,
+      "explanation": "With a 10% co-payment, the insured pays 10% (Rs. 10,000) and the insurance company pays the remaining 90% (Rs. 90,000) of the Rs. 1 Lakh claim."
+    },
+    {
+      "id": "ic38_life_mock_02_q41",
+      "text": "Which concept prevents an individual from insuring a stranger's life?",
+      "options": [
+        "Indemnity",
+        "Utmost Good Faith",
+        "Insurable Interest",
+        "Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurable Interest dictates that a person can only insure a life if they would suffer a financial loss upon that person's death. You cannot insure a stranger."
+    },
+    {
+      "id": "ic38_life_mock_02_q42",
+      "text": "What is an 'Endorsement' on an insurance policy?",
+      "options": [
+        "A marketing advertisement",
+        "A written alteration or addition to the terms of the policy",
+        "The cancellation stamp",
+        "The agent's signature"
+      ],
+      "correct_index": 1,
+      "explanation": "An endorsement is a formal written amendment attached to the policy document that alters, adds, or removes specific coverage terms."
+    },
+    {
+      "id": "ic38_life_mock_02_q43",
+      "text": "What does a 'Foreclosure' of a life insurance policy mean?",
+      "options": [
+        "Closing the policy due to maturity",
+        "Termination of the policy by the insurer because the outstanding loan and interest exceed the surrender value",
+        "Surrendering the policy voluntarily",
+        "Paying all premiums in advance"
+      ],
+      "correct_index": 1,
+      "explanation": "If a policyholder takes a loan against the policy and fails to pay interest, and the total debt exceeds the policy's surrender value, the insurer will foreclose (terminate) it."
+    },
+    {
+      "id": "ic38_life_mock_02_q44",
+      "text": "In a Unit Linked Insurance Plan (ULIP), the value of the investment is calculated by multiplying the number of units by:",
+      "options": [
+        "The Sum Assured",
+        "The Premium Amount",
+        "The Net Asset Value (NAV)",
+        "The Mortality Charge"
+      ],
+      "correct_index": 2,
+      "explanation": "In a ULIP, the fund value is determined by the number of units allocated to the policyholder multiplied by the current Net Asset Value (NAV) of the chosen fund."
+    },
+    {
+      "id": "ic38_life_mock_02_q45",
+      "text": "Which type of life insurance policy is mandatory to be issued in an electronic form (e-Insurance Account)?",
+      "options": [
+        "Micro Insurance",
+        "Policies with a sum assured above a certain threshold set by IRDAI",
+        "Term policies only",
+        "No policy is mandatory for electronic issuance"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI mandates that policies exceeding a specific sum assured or premium threshold must be issued electronically through an e-Insurance Account (eIA) for safety and convenience."
+    },
+    {
+      "id": "ic38_life_mock_02_q46",
+      "text": "A life insurance claim where the cause of death is an earthquake is:",
+      "options": [
+        "Always rejected as 'Act of God'",
+        "Paid without any deduction",
+        "Paid only if a specific rider was attached",
+        "Referred to the government"
+      ],
+      "correct_index": 1,
+      "explanation": "Unlike property insurance, basic life insurance covers death due to natural calamities (Acts of God) like earthquakes and tsunamis without requiring special riders."
+    },
+    {
+      "id": "ic38_life_mock_02_q47",
+      "text": "Who among the following cannot be an Insurance Agent?",
+      "options": [
+        "A college graduate",
+        "A housewife",
+        "A person of unsound mind",
+        "A retired bank employee"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the Insurance Act, a person of unsound mind, a minor, or a person convicted of a criminal offense involving fraud cannot be granted an agent's license."
+    },
+    {
+      "id": "ic38_life_mock_02_q48",
+      "text": "What happens to a life insurance policy if the premium is not paid within the grace period?",
+      "options": [
+        "It becomes a Paid-up policy automatically in the first year",
+        "The policy Lapses and life cover ceases",
+        "The insurer pays the premium on behalf of the customer",
+        "The policy is permanently cancelled and cannot be revived"
+      ],
+      "correct_index": 1,
+      "explanation": "If the premium is not received by the end of the grace period, the policy lapses, meaning the risk cover stops. However, it can usually be revived within a specified period."
+    },
+    {
+      "id": "ic38_life_mock_02_q49",
+      "text": "Which body resolves consumer disputes specifically regarding deficiency in services up to Rs. 50 Lakhs?",
+      "options": [
+        "National Consumer Disputes Redressal Commission",
+        "State Consumer Disputes Redressal Commission",
+        "District Consumer Disputes Redressal Commission",
+        "Supreme Court"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the updated Consumer Protection Act, the District Commission entertains complaints where the value of goods or services paid as consideration does not exceed Rs. 50 Lakhs (note: limits undergo revisions, but District is the first tier)."
+    },
+    {
+      "id": "ic38_life_mock_02_q50",
+      "text": "The primary objective of 'Underwriting' is to:",
+      "options": [
+        "Maximize the agent's commission",
+        "Prevent anti-selection and ensure equitable premium charging",
+        "Ensure all applicants get insurance",
+        "Reduce the company's tax liability"
+      ],
+      "correct_index": 1,
+      "explanation": "Underwriting ensures fairness. It prevents 'anti-selection' (unhealthy people flocking to buy insurance) and categorizes risks properly so that each person pays a fair premium."
+    }
+  ]
+}
