@@ -12,7 +12,7 @@
         "Loss of peace of mind",
         "Insurance premium paid"
       ],
-      "answer": "Actual loss incurred",
+      "correct_index": 0,
       "explanation": "Primary burden of risk consists of the actual losses that occur, such as the value of assets damaged or lost."
     },
     {
@@ -24,7 +24,7 @@
         "Utmost Good Faith",
         "Insurable Interest"
       ],
-      "answer": "Law of Large Numbers",
+      "correct_index": 0,
       "explanation": "Pooling works on the Law of Large Numbers, where the actual results of a large number of similar risks tend to approach the expected results."
     },
     {
@@ -36,7 +36,7 @@
         "Caring and individualized attention",
         "Knowledge and courtesy of employees"
       ],
-      "answer": "Caring and individualized attention",
+      "correct_index": 2,
       "explanation": "Empathy represents the caring and individualized attention that the firm provides its customers."
     },
     {
@@ -48,7 +48,7 @@
         "Rs. 50 Lakhs",
         "Rs. 1 Crore"
       ],
-      "answer": "Rs. 20 Lakhs",
+      "correct_index": 1,
       "explanation": "As per the 1986 Act (which IC-38 textbooks often refer to), the District Forum limit is up to Rs. 20 Lakhs."
     },
     {
@@ -60,7 +60,7 @@
         "Rs. 10,000",
         "Rs. 1 Lakh"
       ],
-      "answer": "Rs. 10,000",
+      "correct_index": 2,
       "explanation": "IRDAI regulations strictly prohibit multilevel marketing and agents can be penalized up to Rs. 10,000 for such activities."
     },
     {
@@ -72,7 +72,7 @@
         "Proximate Cause",
         "Insurable Interest"
       ],
-      "answer": "Indemnity",
+      "correct_index": 1,
       "explanation": "The principle of Indemnity ensures that the insured is restored to the same financial position as before the loss, preventing any profit."
     },
     {
@@ -84,7 +84,7 @@
         "Both at the time of taking and at the time of claim",
         "Not required in health insurance"
       ],
-      "answer": "Both at the time of taking and at the time of claim",
+      "correct_index": 2,
       "explanation": "In non-life and health insurance, insurable interest must exist both at the inception and at the time of loss."
     },
     {
@@ -96,7 +96,7 @@
         "Insurance Company",
         "State Government"
       ],
-      "answer": "IRDAI",
+      "correct_index": 1,
       "explanation": "TPAs are independent entities licensed by IRDAI to provide claims processing and other health-related services."
     },
     {
@@ -108,7 +108,7 @@
         "Rs. 25,000 per month",
         "Rs. 10,000 per month"
       ],
-      "answer": "Rs. 21,000 per month",
+      "correct_index": 1,
       "explanation": "The current wage limit for coverage under the Employees State Insurance (ESI) scheme is Rs. 21,000 per month."
     },
     {
@@ -120,7 +120,7 @@
         "Post Enrollment Disability",
         "Personal Examination Data"
       ],
-      "answer": "Pre-existing Disease",
+      "correct_index": 1,
       "explanation": "PED stands for Pre-existing Disease, which is any condition or illness that existed before the policy was issued."
     },
     {
@@ -132,7 +132,7 @@
         "48 months",
         "60 months"
       ],
-      "answer": "48 months",
+      "correct_index": 2,
       "explanation": "The standard waiting period for PED in health insurance as per IRDAI regulations is a maximum of 48 months (4 years)."
     },
     {
@@ -144,7 +144,7 @@
         "Network hospitals",
         "Only hospitals in metropolitan cities"
       ],
-      "answer": "Network hospitals",
+      "correct_index": 2,
       "explanation": "Cashless facility is provided by insurers or TPAs only at hospitals with which they have a tie-up, known as network hospitals."
     },
     {
@@ -156,7 +156,7 @@
         "Paying for multiple policies",
         "Paying for family members' premium"
       ],
-      "answer": "Sharing the cost of the claim between insured and insurer",
+      "correct_index": 1,
       "explanation": "Co-payment is a cost-sharing requirement where the insured agrees to pay a fixed percentage of every admissible claim amount."
     },
     {
@@ -168,7 +168,7 @@
         "Discharge Summary",
         "Premium Receipt"
       ],
-      "answer": "Discharge Summary",
+      "correct_index": 2,
       "explanation": "The Discharge Summary provides details of the treatment and is essential for assessing the validity of a reimbursement claim."
     },
     {
@@ -180,7 +180,7 @@
         "To underwrite complex risks",
         "To invest insurance premiums"
       ],
-      "answer": "To settle disputes between insurer and insured out of court",
+      "correct_index": 1,
       "explanation": "The Insurance Ombudsman is an independent official appointed to resolve complaints from policyholders in a fast and cost-effective manner."
     },
     {
@@ -192,7 +192,7 @@
         "Tertiary Healthcare",
         "Quaternary Healthcare"
       ],
-      "answer": "Secondary Healthcare",
+      "correct_index": 1,
       "explanation": "Secondary healthcare refers to specialized care provided by medical specialists (e.g., cardiologists, urologists) who do not have first contact with patients."
     },
     {
@@ -204,7 +204,7 @@
         "Policy Schedule",
         "Premium Receipt"
       ],
-      "answer": "Policy Schedule",
+      "correct_index": 2,
       "explanation": "The Policy Schedule (part of the policy document) contains specific details like the name of the insured, sum insured, period of cover, and specific conditions."
     },
     {
@@ -216,7 +216,7 @@
         "The amount subtracted for age",
         "The commission paid to the agent"
       ],
-      "answer": "A fixed amount the insured must pay before the insurer starts paying",
+      "correct_index": 1,
       "explanation": "A deductible is a specified dollar amount that an insured person must pay before the insurance company pays its share of the claim."
     },
     {
@@ -228,7 +228,7 @@
         "30 days",
         "45 days"
       ],
-      "answer": "15 days",
+      "correct_index": 1,
       "explanation": "In health insurance, a free-look period of 15 days is provided to the policyholder to review the terms and conditions after receiving the policy."
     },
     {
@@ -240,7 +240,7 @@
         "Life Cover",
         "Critical Illness"
       ],
-      "answer": "Life Cover",
+      "correct_index": 2,
       "explanation": "Life cover is a feature of life insurance, not health insurance. Health insurance focuses on indemnity or fixed benefits for medical expenses/illnesses."
     },
     {
@@ -252,7 +252,7 @@
         "Entire family collectively",
         "Only the senior-most member"
       ],
-      "answer": "Entire family collectively",
+      "correct_index": 2,
       "explanation": "A family floater policy covers the entire family under a single sum insured which can be used by any or all members during the policy period."
     },
     {
@@ -265,6 +265,7 @@
         "All illnesses (except accidents)"
       ],
       "answer": "All illnesses (except accidents)",
+      "correct_index": 3,
       "explanation": "Standard health policies have a 30-day waiting period from inception for all illnesses. Accidental injuries are usually covered from day one."
     },
     {
@@ -276,7 +277,7 @@
         "Risk of aging",
         "Risk of changing government policies"
       ],
-      "answer": "Intentional actions by insured to increase claim amount",
+      "correct_index": 1,
       "explanation": "Moral hazard is the risk that the insured might behave dishonestly or recklessly because they are covered by insurance (e.g., inflating a claim)."
     },
     {
@@ -288,7 +289,7 @@
         "Internal Bank Note Receipt",
         "Immediate Benefit No Requirement"
       ],
-      "answer": "Incurred But Not Reported",
+      "correct_index": 0,
       "explanation": "IBNR stands for Incurred But Not Reported claims, which are losses that have occurred but have not yet been reported to the insurance company."
     },
     {
@@ -300,7 +301,7 @@
         "The insurer contributes to charity",
         "The agent shares commission with the insured"
       ],
-      "answer": "The insured has multiple policies covering the same loss",
+      "correct_index": 1,
       "explanation": "Contribution means if a person has multiple indemnity policies, the loss will be shared proportionately among all insurers."
     },
     {
@@ -312,7 +313,7 @@
         "To pay all claims immediately",
         "To avoid paying taxes"
       ],
-      "answer": "To select and classify risks to ensure long-term stability",
+      "correct_index": 1,
       "explanation": "Underwriting is the process of evaluating risks and deciding whether to accept them and at what price, ensuring the insurer remains solvent."
     },
     {
@@ -324,7 +325,7 @@
         "Keep Your Commission",
         "Key Yield Calculation"
       ],
-      "answer": "Know Your Customer",
+      "correct_index": 1,
       "explanation": "KYC stands for Know Your Customer, a process to verify the identity of the customer as per anti-money laundering (AML) guidelines."
     },
     {
@@ -336,7 +337,7 @@
         "Health awareness campaign for balanced diet",
         "Hospitalization for fever"
       ],
-      "answer": "Health awareness campaign for balanced diet",
+      "correct_index": 2,
       "explanation": "Promotive healthcare focus on improving health through lifestyle, education, and nutrition awareness."
     },
     {
@@ -348,7 +349,7 @@
         "Both Life and General Insurance in India",
         "Only Government Insurance schemes"
       ],
-      "answer": "Both Life and General Insurance in India",
+      "correct_index": 2,
       "explanation": "The Insurance Act, 1938 is the primary legislation that regulates all insurance business in India."
     },
     {
@@ -360,7 +361,7 @@
         "The amount of premium paid",
         "The age of the insured"
       ],
-      "answer": "The maximum amount the insurer will pay for a claim/year",
+      "correct_index": 1,
       "explanation": "Sum Insured is the limit of liability of the insurer for the claims made during the policy period."
     },
     {
@@ -372,7 +373,7 @@
         "Water supply",
         "Employment status"
       ],
-      "answer": "Genetic makeup",
+      "correct_index": 1,
       "explanation": "Internal determinants are biological/genetic factors inherited from parents, unlike external factors like environment or lifestyle."
     },
     {
@@ -384,7 +385,7 @@
         "Redressal of Public Grievances Rules, 1998",
         "Consumer Protection Act"
       ],
-      "answer": "Redressal of Public Grievances Rules, 1998",
+      "correct_index": 2,
       "explanation": "The Insurance Ombudsman was established by the Govt under the Redressal of Public Grievances Rules, 1998."
     },
     {
@@ -396,7 +397,7 @@
         "The agent is penalized Rs. 1 Lakh",
         "No impact on the policy"
       ],
-      "answer": "The policy becomes invalid/voidable",
+      "correct_index": 0,
       "explanation": "Non-disclosure of material facts is a breach of 'Utmost Good Faith' and gives the insurer the right to cancel the contract."
     },
     {
@@ -408,7 +409,7 @@
         "Trip cancellation",
         "Normal pregnancy checkups"
       ],
-      "answer": "Normal pregnancy checkups",
+      "correct_index": 3,
       "explanation": "Standard travel insurance typically excludes normal pregnancy, childbirth, and pre-existing medical conditions unless specifically covered."
     },
     {
@@ -420,7 +421,7 @@
         "Rs. 5 Lakhs",
         "Rs. 10 Lakhs"
       ],
-      "answer": "Rs. 5 Lakhs",
+      "correct_index": 2,
       "explanation": "Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides a health cover of Rs. 5 Lakhs per family per year for secondary and tertiary care hospitalization."
     },
     {
@@ -432,7 +433,7 @@
         "Family Floater",
         "Group Health Policy"
       ],
-      "answer": "Critical Illness Policy",
+      "correct_index": 1,
       "explanation": "Critical illness policies are fixed-benefit plans where a lump sum is paid on diagnosis of a specified illness, regardless of actual expenses."
     },
     {
@@ -444,7 +445,7 @@
         "45 days",
         "60 days"
       ],
-      "answer": "30 days",
+      "correct_index": 1,
       "explanation": "Standard health insurance policies allow a 30-day grace period from the expiry date for policy renewal to maintain continuity benefits."
     },
     {
@@ -456,7 +457,7 @@
         "Policy Document",
         "Premium Receipt"
       ],
-      "answer": "Policy Document",
+      "correct_index": 2,
       "explanation": "The Policy Document is the legal evidence of the insurance contract between the insurer and the policyholder."
     },
     {
@@ -468,7 +469,7 @@
         "Continuous treatment in the same hospital",
         "Paying premium without any break"
       ],
-      "answer": "Portability of waiting periods when switching insurers",
+      "correct_index": 1,
       "explanation": "Continuity benefit ensures that the time spent in the previous policy is credited towards waiting periods when porting to a new insurer."
     },
     {
@@ -480,7 +481,7 @@
         "The Insured (Customer)",
         "The IRDAI"
       ],
-      "answer": "The Insured (Customer)",
+      "correct_index": 2,
       "explanation": "The customer is the most important stakeholder as the primary goal of insurance is to provide financial relief to the customer when a loss occurs."
     },
     {
@@ -492,7 +493,7 @@
         "The number of times a person can fall ill",
         "The number of hospitals in the network"
       ],
-      "answer": "Room rent, doctor fees, or specific surgeries",
+      "correct_index": 1,
       "explanation": "Sub-limits are caps placed by insurers on specific expense categories (like 1% of Sum Insured for room rent)."
     },
     {
@@ -504,7 +505,7 @@
         "Self-medication",
         "Placebo treatment"
       ],
-      "answer": "AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy)",
+      "correct_index": 1,
       "explanation": "Many modern health policies cover AYUSH treatments provided they are taken in a government-recognized institution."
     },
     {
@@ -516,7 +517,7 @@
         "To check the validity of hospital bills",
         "To train hospital staff"
       ],
-      "answer": "To assess the health risk of the proposer",
+      "correct_index": 1,
       "explanation": "Medical underwriting evaluates the health history and current medical condition of the proposer to decide the risk level and premium."
     },
     {
@@ -528,7 +529,7 @@
         "Replace all existing health policies",
         "Provide free insurance to everyone"
       ],
-      "answer": "Standardize health cover across all insurers for easier comparison",
+      "correct_index": 1,
       "explanation": "Arogya Sanjeevani is a standard product that every insurer must offer, with identical terms to reduce customer confusion."
     },
     {
@@ -540,7 +541,7 @@
         "Any cause that contributes to the loss",
         "A cause that is excluded by the policy"
       ],
-      "answer": "The most direct and dominant cause of loss",
+      "correct_index": 1,
       "explanation": "Proximate cause is the primary cause that sets in motion a chain of events leading to a loss, without any intervention."
     },
     {
@@ -552,7 +553,7 @@
         "War and nuclear perils",
         "Surgery"
       ],
-      "answer": "War and nuclear perils",
+      "correct_index": 2,
       "explanation": "War, nuclear risks, and intentional self-injury are standard permanent exclusions in virtually all insurance contracts."
     },
     {
@@ -564,7 +565,7 @@
         "The insurance company's liability",
         "The premium amount"
       ],
-      "answer": "A condition that increases the likelihood or severity of a loss",
+      "correct_index": 1,
       "explanation": "Hazard is a condition (like smoking or working in a chemical factory) that makes the occurrence of a peril more likely."
     },
     {
@@ -576,7 +577,7 @@
         "Paying double the premium amount",
         "Giving a free medical checkup"
       ],
-      "answer": "Reimbursing the actual expenses incurred up to the sum insured",
+      "correct_index": 1,
       "explanation": "Indemnity ensures the insured is compensated for the actual financial loss suffered, no more and no less."
     },
     {
@@ -588,7 +589,7 @@
         "Finance Ministry",
         "Consumer Forums"
       ],
-      "answer": "IRDAI",
+      "correct_index": 1,
       "explanation": "Third Party Administrators (TPAs) are regulated and licensed by IRDAI under specific TPA regulations."
     },
     {
@@ -600,7 +601,7 @@
         "Previous medical history",
         "Educational qualification (usually)"
       ],
-      "answer": "Educational qualification (usually)",
+      "correct_index": 3,
       "explanation": "Material facts are those that would influence an underwriter's decision. Education usually doesn't affect health risk assessment."
     }
   ]
