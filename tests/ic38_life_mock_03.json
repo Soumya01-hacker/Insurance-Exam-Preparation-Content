@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_life_mock_03",
+  "chapter_title": "IC-38 Life Mock Test 3",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "mt03_q1",
+      "text": "What does 'Risk Retention' mean in the context of risk management?",
+      "options": [
+        "Transferring the risk to an insurance company",
+        "Ignoring the risk completely",
+        "Deciding to bear the risk and its financial consequences oneself",
+        "Taking steps to completely eliminate the risk"
+      ],
+      "correct_index": 2,
+      "explanation": "Risk retention implies that an individual or organization decides to face the potential loss using their own resources rather than purchasing insurance."
+    },
+    {
+      "id": "mt03_q2",
+      "text": "Which of the following is considered a 'Secondary Burden' of risk?",
+      "options": [
+        "Hospitalization bill after a heart attack",
+        "Cost of repairing a damaged car",
+        "Setting aside emergency reserve funds, leading to loss of potential investment returns",
+        "Loss of factory goods due to fire"
+      ],
+      "correct_index": 2,
+      "explanation": "Primary burdens are the actual direct losses. Secondary burdens are the psychological stress and the financial constraints of setting aside reserves to meet potential future losses."
+    },
+    {
+      "id": "mt03_q3",
+      "text": "What is 'Customer Lifetime Value' (CLV)?",
+      "options": [
+        "The duration of the insurance policy",
+        "The total time a customer lives",
+        "The projected economic value of all past and future profits generated from a customer relationship",
+        "The maximum sum assured a customer can buy"
+      ],
+      "correct_index": 2,
+      "explanation": "CLV is a measure of the total worth or profit a business expects to earn from a customer throughout their entire relationship."
+    },
+    {
+      "id": "mt03_q4",
+      "text": "As per IRDAI guidelines, what is the 'Turn Around Time' (TAT) for an insurance company to process a life insurance proposal?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 1,
+      "explanation": "The standard TAT prescribed by IRDAI to process an insurance proposal and communicate the decision is 15 days."
+    },
+    {
+      "id": "mt03_q5",
+      "text": "Which mechanism ensures that a policyholder is protected if an insurance company goes bankrupt?",
+      "options": [
+        "Reinsurance",
+        "Ombudsman",
+        "Solvency Margin",
+        "Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI mandates a 'Solvency Margin'\u2014a minimum excess of assets over liabilities that insurers must maintain to ensure they can meet all claims even in extreme situations."
+    },
+    {
+      "id": "mt03_q6",
+      "text": "What is the third and final stage of Money Laundering?",
+      "options": [
+        "Placement",
+        "Layering",
+        "Integration",
+        "Subrogation"
+      ],
+      "correct_index": 2,
+      "explanation": "The three stages of money laundering are Placement (entering the system), Layering (hiding the origin), and Integration (re-entering the economy as legitimate funds)."
+    },
+    {
+      "id": "mt03_q7",
+      "text": "An insurance agent represents:",
+      "options": [
+        "The Customer",
+        "The Insurance Company (Principal)",
+        "The IRDAI",
+        "The Government"
+      ],
+      "correct_index": 1,
+      "explanation": "An agent legally acts on behalf of the Insurance Company (the Principal) to solicit and procure business."
+    },
+    {
+      "id": "mt03_q8",
+      "text": "An Insurance Broker represents:",
+      "options": [
+        "A specific single Insurance Company",
+        "The IRDAI",
+        "The Customer",
+        "The TPA"
+      ],
+      "correct_index": 2,
+      "explanation": "Unlike agents who represent the company, an Insurance Broker represents the customer and helps them find the best policy among multiple insurers."
+    },
+    {
+      "id": "mt03_q9",
+      "text": "What does a 'Waiver of Premium' rider do?",
+      "options": [
+        "Waives the first premium of the policy",
+        "Waives all future premiums if the policyholder suffers total permanent disability or death, keeping the policy active",
+        "Allows the customer to stop paying premiums whenever they want",
+        "Refunds the premiums on maturity"
+      ],
+      "correct_index": 1,
+      "explanation": "This rider ensures that the policy remains in force without further premium payments if the premium-payer suffers a specified contingency like severe disability."
+    },
+    {
+      "id": "mt03_q10",
+      "text": "A policyholder realizes he made a mistake in the proposal form after receiving the policy document. Under which provision can he return it?",
+      "options": [
+        "Grace Period",
+        "Free Look Period",
+        "Surrender Clause",
+        "Paid-up Clause"
+      ],
+      "correct_index": 1,
+      "explanation": "The Free Look Period gives the policyholder 15 days to review the policy and return it for a refund if they disagree with the terms or realize an error."
+    },
+    {
+      "id": "mt03_q11",
+      "text": "For an insurance contract to be valid, 'Consideration' is required. What is the consideration from the policyholder's side?",
+      "options": [
+        "The Sum Assured",
+        "The Proposal Form",
+        "The Premium",
+        "The Claim"
+      ],
+      "correct_index": 2,
+      "explanation": "In legal terms, consideration is the exchange of value. The policyholder's consideration is the Premium, and the insurer's is the promise to pay the claim."
+    },
+    {
+      "id": "mt03_q12",
+      "text": "What type of risk is NOT insurable?",
+      "options": [
+        "Pure Risk",
+        "Speculative Risk",
+        "Financial Risk",
+        "Health Risk"
+      ],
+      "correct_index": 1,
+      "explanation": "Speculative risk involves a chance of both gain and loss (like investing in the stock market or gambling). Insurance only covers Pure Risks, where there is only a chance of loss."
+    },
+    {
+      "id": "mt03_q13",
+      "text": "In Health Insurance, what is a 'Waiting Period'?",
+      "options": [
+        "The time taken to issue the policy",
+        "The time the customer must wait in the hospital",
+        "A specified duration after policy inception during which certain illnesses are not covered",
+        "The grace period for premium payment"
+      ],
+      "correct_index": 2,
+      "explanation": "A waiting period is a contractual time frame during which specific conditions (like pre-existing diseases or maternity) are excluded from coverage."
+    },
+    {
+      "id": "mt03_q14",
+      "text": "If a person applies for life insurance at age 40 but submits proof showing age 38, this is an example of:",
+      "options": [
+        "Moral Hazard",
+        "Physical Hazard",
+        "Underwriting Error",
+        "Subrogation"
+      ],
+      "correct_index": 0,
+      "explanation": "Intentionally suppressing or falsifying facts (like age) to get a lower premium is an act of dishonesty, which constitutes a Moral Hazard."
+    },
+    {
+      "id": "mt03_q15",
+      "text": "What does 'Maturity Claim' refer to?",
+      "options": [
+        "Payment made when the policyholder dies",
+        "Payment made when the policy term gets successfully completed by the surviving policyholder",
+        "Payment made when the policy is surrendered prematurely",
+        "Payment made to the agent"
+      ],
+      "correct_index": 1,
+      "explanation": "A maturity claim arises when the life assured survives the stipulated term of an endowment or money-back policy."
+    },
+    {
+      "id": "mt03_q16",
+      "text": "Which document is issued by the insurer detailing the exact premiums, charges, and projected fund value growth at 4% and 8% in a ULIP?",
+      "options": [
+        "Benefit Illustration",
+        "Discharge Voucher",
+        "Medical Report",
+        "Renewal Notice"
+      ],
+      "correct_index": 0,
+      "explanation": "A Benefit Illustration is a mandatory document provided during the sale of linked policies to show the customer the projected returns under assumed scenarios."
+    },
+    {
+      "id": "mt03_q17",
+      "text": "What does a 'Survival Benefit' mean?",
+      "options": [
+        "A death claim paid to the nominee",
+        "Periodic lump sum payouts made during the term of a Money Back policy while the insured is alive",
+        "Bonus paid on surrender",
+        "A discount on premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Survival benefits are periodic payments made at pre-defined intervals during the policy term of a Money Back plan, provided the life assured is surviving."
+    },
+    {
+      "id": "mt03_q18",
+      "text": "What is the primary factor that determines the premium rate for life insurance?",
+      "options": [
+        "The agent's commission rate",
+        "The mortality rate of the age group",
+        "The location of the policyholder",
+        "The inflation rate"
+      ],
+      "correct_index": 1,
+      "explanation": "Mortality rate (the statistical likelihood of death at a certain age) is the core basis for calculating life insurance premiums."
+    },
+    {
+      "id": "mt03_q19",
+      "text": "Which of the following describes 'Group Life Insurance'?",
+      "options": [
+        "A policy combining health and life insurance",
+        "A single master policy covering a defined group of people, like employees of a company",
+        "A policy covering a person and their spouse",
+        "A policy for multiple agents"
+      ],
+      "correct_index": 1,
+      "explanation": "Group insurance provides coverage to a group of individuals under one Master Policy, usually managed by an employer or association."
+    },
+    {
+      "id": "mt03_q20",
+      "text": "Which of the following is NOT a right of an Assignee after an Absolute Assignment?",
+      "options": [
+        "To pay the future premiums",
+        "To surrender the policy for cash value",
+        "To cancel the assignment and return ownership to the original policyholder without a deed",
+        "To receive the claim amount"
+      ],
+      "correct_index": 2,
+      "explanation": "Under absolute assignment, full rights are transferred. To return the policy to the original owner, a fresh deed of assignment is legally required."
+    },
+    {
+      "id": "mt03_q21",
+      "text": "What does 'TPA' stand for?",
+      "options": [
+        "Third Party Agent",
+        "Third Party Administrator",
+        "Total Premium Amount",
+        "Term Policy Agreement"
+      ],
+      "correct_index": 1,
+      "explanation": "Third Party Administrators (TPAs) manage health insurance claims processing and provider networks on behalf of insurance companies."
+    },
+    {
+      "id": "mt03_q22",
+      "text": "Which health insurance concept relates to capping the maximum amount the insurer will pay for a specific surgery or room rent?",
+      "options": [
+        "Sub-limit",
+        "Deductible",
+        "Co-payment",
+        "Waiting Period"
+      ],
+      "correct_index": 0,
+      "explanation": "Sub-limits are specific caps placed on certain expenses, like a maximum of Rs. 5000 per day for room rent, regardless of the total sum insured."
+    },
+    {
+      "id": "mt03_q23",
+      "text": "Under standard Health Insurance, 'Cashless Facility' means:",
+      "options": [
+        "The insured pays cash later",
+        "The insurer settles the bill directly with the network hospital without the insured paying out of pocket",
+        "The premium is paid without cash",
+        "The agent pays the hospital bill"
+      ],
+      "correct_index": 1,
+      "explanation": "Cashless hospitalization allows the insured to get treated at a network hospital without paying the bills upfront; the insurer settles directly with the hospital."
+    },
+    {
+      "id": "mt03_q24",
+      "text": "A person has a health policy of Rs. 5 Lakhs. He makes a claim of Rs. 2 Lakhs in the first year. What is his available Sum Insured for the rest of that year?",
+      "options": [
+        "Rs. 5 Lakhs",
+        "Rs. 3 Lakhs",
+        "Zero",
+        "Rs. 2 Lakhs"
+      ],
+      "correct_index": 1,
+      "explanation": "In standard indemnity health policies, the sum insured depletes by the claim amount paid. So, 5 Lakhs - 2 Lakhs = 3 Lakhs remaining."
+    },
+    {
+      "id": "mt03_q25",
+      "text": "Who regulates the National Pension System (NPS) in India?",
+      "options": [
+        "IRDAI",
+        "RBI",
+        "PFRDA",
+        "SEBI"
+      ],
+      "correct_index": 2,
+      "explanation": "The Pension Fund Regulatory and Development Authority (PFRDA) is the statutory body that regulates the National Pension System."
+    },
+    {
+      "id": "mt03_q26",
+      "text": "What is an 'Immediate Annuity'?",
+      "options": [
+        "Annuity payouts start after 10 years",
+        "Annuity payouts commence immediately or within one year after paying a single lump-sum premium",
+        "Premium is paid immediately but pension starts at age 60",
+        "A death claim paid immediately"
+      ],
+      "correct_index": 1,
+      "explanation": "In an immediate annuity, the policyholder pays a single premium, and the regular pension income starts almost instantly (e.g., from the very next month)."
+    },
+    {
+      "id": "mt03_q27",
+      "text": "Which concept states that the insured must disclose all known material facts honestly?",
+      "options": [
+        "Insurable Interest",
+        "Indemnity",
+        "Utmost Good Faith",
+        "Proximate Cause"
+      ],
+      "correct_index": 2,
+      "explanation": "Utmost Good Faith (Uberrima Fides) places a legal obligation on the proposer to fully and truthfully disclose all material facts regarding the risk being proposed."
+    },
+    {
+      "id": "mt03_q28",
+      "text": "If an insurance agent offers to share a part of his commission with the customer to close the sale, this is known as:",
+      "options": [
+        "Discounting",
+        "Rebating",
+        "Cross-selling",
+        "Churning"
+      ],
+      "correct_index": 1,
+      "explanation": "Rebating is the illegal practice of offering a portion of the agent's commission as a financial incentive to the prospect. It is punishable under Section 41."
+    },
+    {
+      "id": "mt03_q29",
+      "text": "Which of the following is considered a 'Rider' in life insurance?",
+      "options": [
+        "Endowment Plan",
+        "Accidental Death Benefit",
+        "Whole Life Cover",
+        "Money Back Plan"
+      ],
+      "correct_index": 1,
+      "explanation": "Accidental Death Benefit is an add-on coverage (rider) that can be attached to a base policy for an extra premium to provide additional payout in case of an accident."
+    },
+    {
+      "id": "mt03_q30",
+      "text": "If the original policy document is lost, what can the insurance company issue to the policyholder?",
+      "options": [
+        "A new distinct policy",
+        "A Duplicate Policy",
+        "An Assignment Deed",
+        "A Cover Note"
+      ],
+      "correct_index": 1,
+      "explanation": "Upon satisfying the company's requirements (like an indemnity bond), a duplicate policy can be issued which holds the same legal validity as the original."
+    },
+    {
+      "id": "mt03_q31",
+      "text": "What does a 'Convertible Term Policy' allow the policyholder to do?",
+      "options": [
+        "Convert the life policy into a health policy",
+        "Convert the pure term policy into an endowment or whole life policy without fresh medical evidence",
+        "Convert the sum assured into a loan",
+        "Convert the policy into cash instantly"
+      ],
+      "correct_index": 1,
+      "explanation": "It offers an option to convert a term protection plan into a cash-value savings plan (like Endowment) later, without needing to undergo medical tests again."
+    },
+    {
+      "id": "mt03_q32",
+      "text": "Which type of General Insurance is mandatory by law in India?",
+      "options": [
+        "Home Insurance",
+        "Health Insurance",
+        "Motor Third-Party Liability Insurance",
+        "Travel Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the Motor Vehicles Act, it is compulsory for every vehicle on Indian roads to have at least Third-Party Liability insurance."
+    },
+    {
+      "id": "mt03_q33",
+      "text": "When assessing health risk, which factor is most crucial for underwriting?",
+      "options": [
+        "Current Income",
+        "Marital Status",
+        "Age and Personal Medical History",
+        "Educational Qualification"
+      ],
+      "correct_index": 2,
+      "explanation": "Age, personal medical history, and family medical history are the primary determinants of morbidity risk in health insurance underwriting."
+    },
+    {
+      "id": "mt03_q34",
+      "text": "What is the primary function of the Insurance Regulatory and Development Authority of India (IRDAI)?",
+      "options": [
+        "To sell life insurance policies",
+        "To protect the interests of policyholders and regulate the insurance industry",
+        "To provide medical treatment to policyholders",
+        "To print currency notes"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI's main mandate is to safeguard policyholder interests, ensure the financial stability of insurers, and regulate the entire insurance sector."
+    },
+    {
+      "id": "mt03_q35",
+      "text": "What happens in a 'Joint Life Policy'?",
+      "options": [
+        "Two people sell a policy together",
+        "A single policy covers two lives (usually spouses), and the sum assured is paid on the first death",
+        "Two companies issue one policy",
+        "The policy covers a person and their pet"
+      ],
+      "correct_index": 1,
+      "explanation": "A Joint Life Policy covers multiple lives under one contract. The death benefit is usually triggered and paid out upon the death of the first person."
+    },
+    {
+      "id": "mt03_q36",
+      "text": "In a ULIP, what are 'Mortality Charges' deducted for?",
+      "options": [
+        "Agent commission",
+        "Managing the investment fund",
+        "Providing the life insurance cover (death benefit)",
+        "Administering the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Mortality charges are the specific deductions made from the fund value to pay for the actual cost of providing the life risk cover."
+    },
+    {
+      "id": "mt03_q37",
+      "text": "Which type of life insurance policy is considered permanent and lasts until the insured reaches 100 years of age?",
+      "options": [
+        "Term Insurance",
+        "Whole Life Insurance",
+        "10-year Endowment",
+        "Deferred Annuity"
+      ],
+      "correct_index": 1,
+      "explanation": "Whole Life Insurance provides lifetime coverage (usually defined up to age 100). The maturity amount is paid if the person survives to 100, or as a death claim otherwise."
+    },
+    {
+      "id": "mt03_q38",
+      "text": "What does 'Revival' of an insurance policy mean?",
+      "options": [
+        "Renewing a health policy every year",
+        "Restoring a lapsed policy to full force by paying all premium arrears with interest",
+        "Surrendering a policy",
+        "Increasing the sum assured"
+      ],
+      "correct_index": 1,
+      "explanation": "When a policy lapses due to non-payment of premiums, it can be 'revived' or reinstated by paying the missed premiums along with an interest/penalty fee."
+    },
+    {
+      "id": "mt03_q39",
+      "text": "Which document must the claimant sign to acknowledge the receipt of the final claim payment, thereby releasing the insurer from further liability?",
+      "options": [
+        "Proposal Form",
+        "Discharge Voucher",
+        "First Premium Receipt",
+        "Policy Bond"
+      ],
+      "correct_index": 1,
+      "explanation": "A Discharge Voucher is a legal receipt signed by the beneficiary acknowledging that the claim has been settled in full."
+    },
+    {
+      "id": "mt03_q40",
+      "text": "Under Section 39, a policyholder nominates his friend. Later, he assigns the policy absolutely to a bank for a loan. What happens to the nomination?",
+      "options": [
+        "The nomination remains valid",
+        "The bank must split the money with the friend",
+        "The nomination is automatically cancelled",
+        "The friend must approve the assignment"
+      ],
+      "correct_index": 2,
+      "explanation": "An absolute assignment supersedes any existing nomination. The nomination is automatically cancelled as the ownership completely shifts to the assignee."
+    },
+    {
+      "id": "mt03_q41",
+      "text": "Who sets the syllabus and guidelines for the pre-recruitment training of insurance agents?",
+      "options": [
+        "The Insurance Company",
+        "IRDAI",
+        "Ministry of Finance",
+        "Life Insurance Council"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI prescribes the syllabus (IC-38), mandatory training hours, and exam procedures for anyone wanting to become an insurance agent."
+    },
+    {
+      "id": "mt03_q42",
+      "text": "What is the purpose of 'Reinsurance'?",
+      "options": [
+        "For a customer to buy two policies",
+        "For an insurance company to transfer a portion of its own assumed risk to another insurance company",
+        "To renew an expired policy",
+        "To pay back a loan"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinsurance is 'insurance for insurance companies.' It allows insurers to manage their own risk limits by passing on large risks to a reinsurer."
+    },
+    {
+      "id": "mt03_q43",
+      "text": "A life insurance policy states a 'Sum Assured' of Rs. 10 Lakhs. This amount represents:",
+      "options": [
+        "The total premium to be paid",
+        "The guaranteed minimum amount payable on death or maturity",
+        "The agent's target",
+        "The surrender value"
+      ],
+      "correct_index": 1,
+      "explanation": "The Sum Assured is the predefined, guaranteed base amount the insurer promises to pay upon the occurrence of the insured event (death or maturity)."
+    },
+    {
+      "id": "mt03_q44",
+      "text": "Which principle guarantees that the insured does not make a profit from a general insurance claim?",
+      "options": [
+        "Insurable Interest",
+        "Utmost Good Faith",
+        "Indemnity",
+        "Contribution"
+      ],
+      "correct_index": 2,
+      "explanation": "Indemnity restores the insured to the exact financial position they were in before the loss occurred, ensuring no profit is made from the disaster."
+    },
+    {
+      "id": "mt03_q45",
+      "text": "Under Married Women's Property (MWP) Act, who can a married man name as beneficiaries?",
+      "options": [
+        "His parents",
+        "His wife alone, his children alone, or his wife and children jointly",
+        "His brothers and sisters",
+        "His business partners"
+      ],
+      "correct_index": 1,
+      "explanation": "A policy under the MWP Act can only be created for the benefit of the policyholder's wife, his children, or both jointly."
+    },
+    {
+      "id": "mt03_q46",
+      "text": "In the event of an 'Early Claim' (within 3 years), what action is the insurer likely to take?",
+      "options": [
+        "Pay double the sum assured",
+        "Conduct a thorough investigation to rule out fraud or suppression of facts",
+        "Reject the claim immediately without questions",
+        "Refer the claim to the Ombudsman"
+      ],
+      "correct_index": 1,
+      "explanation": "Early claims raise a red flag for potential non-disclosure or fraud, prompting the insurer to conduct strict investigations before settlement."
+    },
+    {
+      "id": "mt03_q47",
+      "text": "Which type of General Insurance is mandatory by law in India?",
+      "options": [
+        "Home Insurance",
+        "Health Insurance",
+        "Motor Third-Party Liability Insurance",
+        "Travel Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the Motor Vehicles Act, it is compulsory for every vehicle on Indian roads to have at least Third-Party Liability insurance."
+    },
+    {
+      "id": "mt03_q48",
+      "text": "What does an 'Ex Gratia' payment mean in insurance claims?",
+      "options": [
+        "A penalty paid by the insurer",
+        "A claim paid out of goodwill or compassion, even though the insurer has no legal obligation to pay",
+        "A mandatory payment directed by the court",
+        "A partial payment for a fraudulent claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Ex gratia translates to 'by favor.' It is a voluntary payment made by the insurer to the claimant on humanitarian grounds when the claim technically falls outside policy terms."
+    },
+    {
+      "id": "mt03_q49",
+      "text": "What is the primary document used to report a loss to the insurance company?",
+      "options": [
+        "Proposal Form",
+        "Claim Form",
+        "Policy Document",
+        "KYC Document"
+      ],
+      "correct_index": 1,
+      "explanation": "The Claim Form is the formal document submitted by the insured or nominee to notify the insurer of a loss and initiate the settlement process."
+    },
+    {
+      "id": "mt03_q50",
+      "text": "If an agent collects cash premium from a customer, whose money is it considered to be legally at that moment?",
+      "options": [
+        "The Agent's money",
+        "The Customer's money",
+        "The Insurance Company's money",
+        "The IRDAI's money"
+      ],
+      "correct_index": 2,
+      "explanation": "Once an authorized agent collects the premium, it is legally deemed to have been received by the Principal (the Insurance Company), and the company bears the risk from that moment."
+    }
+  ]
+}
