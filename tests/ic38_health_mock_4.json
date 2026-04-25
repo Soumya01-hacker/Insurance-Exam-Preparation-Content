@@ -1,0 +1,607 @@
+{
+  "chapter_id": "ic38_health_mock_4",
+  "chapter_title": "Full Syllabus Mock Test 4 (Health)",
+  "pass_marks": 18,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the primary function of IRDAI?",
+      "options": [
+        "To sell insurance policies to the public",
+        "To protect the interests of policyholders and regulate the insurance industry",
+        "To manage government hospitals",
+        "To invest insurance premiums in the stock market"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) is the statutory body tasked with regulating and promoting the insurance industry and protecting policyholders."
+    },
+    {
+      "id": "q2",
+      "text": "Which of the following risks is generally NOT insurable?",
+      "options": [
+        "Risk of falling ill",
+        "Risk of an accident",
+        "Speculative risk (like gambling or stock market losses)",
+        "Risk of a heart attack"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance only covers 'Pure Risks' where there is a chance of loss or no loss. 'Speculative Risks' where there is a chance of profit are not insurable."
+    },
+    {
+      "id": "q3",
+      "text": "What does a 'Super Top-up' Health Insurance policy do?",
+      "options": [
+        "It provides unlimited coverage without any premium",
+        "It covers multiple claims whose aggregate value crosses the deductible limit in a policy year",
+        "It only covers maternity expenses",
+        "It replaces the base health insurance policy"
+      ],
+      "correct_index": 1,
+      "explanation": "A Super Top-up policy triggers when the total (aggregate) claims in a year cross a pre-defined deductible threshold, unlike a standard top-up which applies per claim."
+    },
+    {
+      "id": "q4",
+      "text": "Under Section 80D of the Income Tax Act, what is the maximum tax deduction allowed for health insurance premium paid for self, spouse, and children (below 60 years)?",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 15,000",
+        "Rs. 25,000",
+        "Rs. 50,000"
+      ],
+      "correct_index": 2,
+      "explanation": "For individuals below 60 years of age, the maximum tax deduction available under Section 80D is Rs. 25,000."
+    },
+    {
+      "id": "q5",
+      "text": "Under Section 80D, what is the additional tax deduction limit for paying health insurance premiums for senior citizen parents (aged 60 and above)?",
+      "options": [
+        "Rs. 25,000",
+        "Rs. 30,000",
+        "Rs. 50,000",
+        "Rs. 1,00,000"
+      ],
+      "correct_index": 2,
+      "explanation": "An additional deduction of up to Rs. 50,000 is available for premiums paid for parents who are senior citizens."
+    },
+    {
+      "id": "q6",
+      "text": "What is the Toll-Free number for the IRDAI Grievance Call Centre (IGCC)?",
+      "options": [
+        "100",
+        "155255 / 1800 4254 732",
+        "108",
+        "112"
+      ],
+      "correct_index": 1,
+      "explanation": "Policyholders can register complaints against insurers by calling the IGCC toll-free number 155255 or 1800 4254 732."
+    },
+    {
+      "id": "q7",
+      "text": "Which document constitutes the actual contract between the insurer and the policyholder?",
+      "options": [
+        "The Proposal Form",
+        "The First Premium Receipt",
+        "The Policy Document",
+        "The Sales Brochure"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Document contains all the terms, conditions, exclusions, and warranties, serving as the legal contract."
+    },
+    {
+      "id": "q8",
+      "text": "In health insurance, specific diseases like Cataract or Hernia usually have a waiting period of how long?",
+      "options": [
+        "30 days",
+        "1 to 2 years",
+        "4 years",
+        "No waiting period"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard health policies have a 'Specific Disease Waiting Period' of usually 12 to 24 months for slow-growing ailments like cataract, hernia, or joint replacements."
+    },
+    {
+      "id": "q9",
+      "text": "What is 'Bancassurance'?",
+      "options": [
+        "Insurance for bank buildings",
+        "An arrangement where a bank sells insurance products of an insurance company",
+        "Banks creating their own insurance companies",
+        "Insurance companies keeping their money in banks"
+      ],
+      "correct_index": 1,
+      "explanation": "Bancassurance is a partnership between a bank and an insurance company where the bank uses its customer network to sell insurance products."
+    },
+    {
+      "id": "q10",
+      "text": "What is the purpose of a 'Medical Examiner's Report (MER)'?",
+      "options": [
+        "To treat a patient in the hospital",
+        "To assess the current health status of a proposer during underwriting",
+        "To provide a bill for claim reimbursement",
+        "To register a birth certificate"
+      ],
+      "correct_index": 1,
+      "explanation": "The MER is filled by a designated doctor during pre-policy medical check-ups to help the underwriter assess the exact health risk."
+    },
+    {
+      "id": "q11",
+      "text": "Which of the following is considered a 'Standard Age Proof'?",
+      "options": [
+        "Horoscope (Kundali)",
+        "Self-declaration",
+        "Passport / School Leaving Certificate",
+        "Village Panchayat letter"
+      ],
+      "correct_index": 2,
+      "explanation": "Passports, School/Board passing certificates, PAN cards, and Birth Certificates are considered reliable and standard proofs of age."
+    },
+    {
+      "id": "q12",
+      "text": "When can a policyholder request policy cancellation and get a refund on a pro-rata or short-period basis?",
+      "options": [
+        "Only during the free-look period",
+        "Any time during the policy year, provided no claim has been made",
+        "Only at the time of renewal",
+        "A policy can never be cancelled by the policyholder"
+      ],
+      "correct_index": 1,
+      "explanation": "The insured can cancel the policy at any time. If no claims were made, the insurer refunds the premium for the remaining period based on short-period scales."
+    },
+    {
+      "id": "q13",
+      "text": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY) provides a health cover of how much per family per year?",
+      "options": [
+        "Rs. 1 Lakh",
+        "Rs. 2 Lakhs",
+        "Rs. 5 Lakhs",
+        "Rs. 10 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "PMJAY is a government scheme providing a cashless health cover of up to Rs. 5 Lakhs per family per year for secondary and tertiary care hospitalization."
+    },
+    {
+      "id": "q14",
+      "text": "An agent has a 'Fiduciary Duty' towards the client. What does fiduciary mean?",
+      "options": [
+        "Duty based on trust and acting in the best financial interest of the client",
+        "Duty to sell the most expensive policy",
+        "Duty to hide diseases from the insurer",
+        "Duty to give cash discounts"
+      ],
+      "correct_index": 0,
+      "explanation": "Fiduciary refers to a relationship built on trust and good faith, where the agent is legally and ethically bound to act in the client's best interest."
+    },
+    {
+      "id": "q15",
+      "text": "Which of the following is typically a permanent exclusion in a health insurance policy?",
+      "options": [
+        "Dengue Fever",
+        "Heart Surgery",
+        "Congenital External Anomalies (defects present from birth)",
+        "Accidental Bone Fracture"
+      ],
+      "correct_index": 2,
+      "explanation": "External congenital anomalies (like a cleft lip) are standard permanent exclusions in retail health insurance."
+    },
+    {
+      "id": "q16",
+      "text": "What is the maximum limit of an Ex-Gratia payment?",
+      "options": [
+        "It depends on the Ombudsman",
+        "It is completely at the discretion of the Insurance Company as it is a goodwill gesture",
+        "100% of the claim amount",
+        "Rs. 50,000"
+      ],
+      "correct_index": 1,
+      "explanation": "Ex-gratia is a payment made out of goodwill by the insurer when the claim is not strictly covered by policy terms, so there is no fixed limit."
+    },
+    {
+      "id": "q17",
+      "text": "What does 'e-IA' stand for in insurance?",
+      "options": [
+        "Electronic Insurance Agent",
+        "Electronic Insurance Account",
+        "External Insurance Authority",
+        "Emergency Insurance Assistance"
+      ],
+      "correct_index": 1,
+      "explanation": "An e-IA (Electronic Insurance Account) allows policyholders to hold all their insurance policies in an electronic/digital format in a single account."
+    },
+    {
+      "id": "q18",
+      "text": "In case a claim form is submitted with all documents, normally within how many days should the reimbursement claim be paid?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI guidelines, an insurer must settle or reject a claim within 30 days of receiving the last necessary document."
+    },
+    {
+      "id": "q19",
+      "text": "What penalty does the insurance company pay if they delay the claim settlement beyond the stipulated time?",
+      "options": [
+        "They pay double the claim amount",
+        "Interest at a rate 2% above the prevailing bank rate",
+        "Interest at 10% per annum",
+        "The TPA's license is cancelled"
+      ],
+      "correct_index": 1,
+      "explanation": "If the claim payment is delayed beyond 30 days, the insurer is liable to pay interest at 2% above the bank rate established by the RBI."
+    },
+    {
+      "id": "q20",
+      "text": "Which network allows cash payment at a negotiated lower rate for non-cashless treatments in specific hospitals?",
+      "options": [
+        "OPD Network",
+        "PPN (Preferred Provider Network)",
+        "Ayush Network",
+        "Public Health Network"
+      ],
+      "correct_index": 1,
+      "explanation": "PPN comprises hospitals where insurers/TPAs have agreed on specific package rates for procedures to control claims costs."
+    },
+    {
+      "id": "q21",
+      "text": "For how long is a medical prescription for diagnostic tests generally considered valid by an insurer?",
+      "options": [
+        "Only 24 hours",
+        "Usually up to 30 days",
+        "6 months",
+        "Lifetime"
+      ],
+      "correct_index": 1,
+      "explanation": "Prescriptions for pre-hospitalization tests are typically accepted if they are within 30 days of the actual hospitalization."
+    },
+    {
+      "id": "q22",
+      "text": "What does a 'Copayment' clause do to the health insurance premium?",
+      "options": [
+        "It increases the premium significantly",
+        "It decreases the premium because the policyholder shares the risk",
+        "It has no effect on the premium",
+        "It doubles the premium"
+      ],
+      "correct_index": 1,
+      "explanation": "Because the policyholder agrees to pay a fixed percentage of every claim, the insurer's liability decreases, which lowers the premium."
+    },
+    {
+      "id": "q23",
+      "text": "If a person has a 10% co-payment clause and submits an approved claim of Rs. 1,00,000, how much will the insurance company pay?",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 90,000",
+        "Rs. 1,00,000",
+        "Rs. 1,10,000"
+      ],
+      "correct_index": 1,
+      "explanation": "The insured pays 10% (Rs. 10,000) as co-payment, and the insurer pays the remaining 90% (Rs. 90,000)."
+    },
+    {
+      "id": "q24",
+      "text": "Who investigates major or complex insurance claims to assess the extent of loss?",
+      "options": [
+        "The Insurance Ombudsman",
+        "A Surveyor / Loss Assessor or Field Investigator",
+        "The TPA Call Center Executive",
+        "The RTO Officer"
+      ],
+      "correct_index": 1,
+      "explanation": "Surveyors or Field Investigators are assigned to physically verify complex, large, or suspicious claims by visiting the hospital or the patient's residence."
+    },
+    {
+      "id": "q25",
+      "text": "Which of the following is considered 'Tertiary Healthcare'?",
+      "options": [
+        "A local village clinic",
+        "A general physician's clinic",
+        "A specialized hospital performing complex surgeries like organ transplants",
+        "A pharmacy selling over-the-counter medicine"
+      ],
+      "correct_index": 2,
+      "explanation": "Tertiary healthcare requires highly specialized equipment and expertise, such as neurosurgery, cancer management, or organ transplants."
+    },
+    {
+      "id": "q26",
+      "text": "What is the condition called when a policy ceases to exist because the renewal premium was not paid even after the grace period?",
+      "options": [
+        "Portability",
+        "Lapse",
+        "Endorsement",
+        "Surrender"
+      ],
+      "correct_index": 1,
+      "explanation": "If the premium is not paid within the grace period (usually 30 days), the policy lapses and all accumulated benefits like waiting period waivers are lost."
+    },
+    {
+      "id": "q27",
+      "text": "Is it mandatory for an insurance company to send a renewal notice to the policyholder?",
+      "options": [
+        "Yes, it is legally binding",
+        "No, it is a good practice but the primary responsibility to renew lies with the policyholder",
+        "Only for senior citizens",
+        "Only if the sum insured is above 10 Lakhs"
+      ],
+      "correct_index": 1,
+      "explanation": "While insurers usually send reminders, it is not a legal obligation. The policyholder must track the expiry date and renew on time."
+    },
+    {
+      "id": "q28",
+      "text": "What happens in health insurance if the policyholder changes their occupation to a more hazardous one (like from an office worker to a mine worker)?",
+      "options": [
+        "Nothing happens",
+        "The policyholder must inform the insurer, who may alter the premium or terms",
+        "The policy automatically increases the sum insured",
+        "The TPA changes immediately"
+      ],
+      "correct_index": 1,
+      "explanation": "A change in occupation to a hazardous one alters the physical hazard. The principle of utmost good faith requires informing the insurer."
+    },
+    {
+      "id": "q29",
+      "text": "What is 'Reinsurance'?",
+      "options": [
+        "Taking two policies from the same company",
+        "Insurance purchased by an insurance company from another insurance company to manage its risk",
+        "Renewing a lapsed policy",
+        "Getting a claim approved twice"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinsurance is 'insurance for insurers'. Companies transfer portions of their risk portfolios to other parties to reduce the likelihood of paying a massive obligation."
+    },
+    {
+      "id": "q30",
+      "text": "A customer is denied cashless facility by the TPA. Does this mean their claim is rejected?",
+      "options": [
+        "Yes, absolutely",
+        "No, they can still apply for reimbursement after paying the hospital bill themselves",
+        "Yes, and the policy is cancelled",
+        "No, the hospital will treat them for free"
+      ],
+      "correct_index": 1,
+      "explanation": "Denial of cashless authorization is not a rejection of the claim. It just means the TPA needs more details, and the claim can be evaluated on a reimbursement basis later."
+    },
+    {
+      "id": "q31",
+      "text": "What is the typical time limit for submitting a reimbursement claim form and documents after being discharged from the hospital?",
+      "options": [
+        "Within 24 hours",
+        "Within 7 to 15 days (depending on the specific policy)",
+        "Within 6 months",
+        "Any time before the policy expires"
+      ],
+      "correct_index": 1,
+      "explanation": "Most standard policies require the complete set of original documents to be submitted within 15 days of discharge."
+    },
+    {
+      "id": "q32",
+      "text": "Which of these is NOT a valid ground for rejecting a claim under a health insurance policy?",
+      "options": [
+        "Admission purely for diagnostic or investigation purposes without active treatment",
+        "Admission for an illness that is under a waiting period",
+        "The policyholder did not inform the agent about the hospitalization",
+        "Hiding a pre-existing disease at the time of taking the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Informing the agent is not legally mandatory. The requirement is to inform the Insurer or TPA directly. Claims cannot be rejected just because the agent wasn't told."
+    },
+    {
+      "id": "q33",
+      "text": "What is an 'Endorsement' in an insurance policy?",
+      "options": [
+        "A promotional advertisement",
+        "A written amendment or addition attached to the policy document changing its terms",
+        "The signature of the agent",
+        "The hospital's stamp on the bill"
+      ],
+      "correct_index": 1,
+      "explanation": "Any change to the original policy (like a name correction, adding a family member, or address change) is executed via a document called an endorsement."
+    },
+    {
+      "id": "q34",
+      "text": "Can a proposal form be filled by the insurance agent on behalf of the customer?",
+      "options": [
+        "Yes, it is the agent's job to fill the form and the customer just signs",
+        "No, the proposer should ideally fill it. If the agent assists, the proposer must understand and sign the declaration",
+        "Only if the customer is illiterate",
+        "Yes, but the agent must use a pencil"
+      ],
+      "correct_index": 1,
+      "explanation": "The proposer is responsible for the contents of the form. If an agent or third party fills it, they must read it back to the proposer, who must sign a declaration confirming they understood the details."
+    },
+    {
+      "id": "q35",
+      "text": "If an insurance ombudsman passes a decision that the policyholder does not accept, what is the policyholder's next step?",
+      "options": [
+        "They must accept it as the Ombudsman's decision is final for everyone",
+        "They can appeal to the IRDAI Chairman",
+        "They can approach consumer courts (Consumer Dispute Redressal Forums)",
+        "They can appeal to the Supreme Court immediately"
+      ],
+      "correct_index": 2,
+      "explanation": "If the complainant rejects the Ombudsman's award, they retain the right to take the matter to a Consumer Court or regular civil court."
+    },
+    {
+      "id": "q36",
+      "text": "What is the primary difference between a TPA and an Insurance Broker?",
+      "options": [
+        "There is no difference",
+        "A Broker sells policies representing the customer; a TPA processes claims representing the insurer",
+        "A TPA sells policies; a Broker processes claims",
+        "A Broker is a government employee; a TPA is private"
+      ],
+      "correct_index": 1,
+      "explanation": "Brokers are sales intermediaries who help clients buy insurance. TPAs are service intermediaries who help insurers manage and process health claims."
+    },
+    {
+      "id": "q37",
+      "text": "Which pricing method applies a lower premium initially, which increases as the policyholder grows older in age brackets?",
+      "options": [
+        "Level Premium",
+        "Community Rating",
+        "Age-banded Premium",
+        "Single Premium"
+      ],
+      "correct_index": 2,
+      "explanation": "In Age-banded pricing, premiums are fixed for specific age groups (e.g., 25-30, 31-35) and increase when the insured moves to the next age bracket."
+    },
+    {
+      "id": "q38",
+      "text": "In the event of a dispute regarding a claim amount, if the dispute is strictly about the quantum (amount) and not liability, what mechanism is used?",
+      "options": [
+        "Arbitration",
+        "Subrogation",
+        "Contribution",
+        "Endorsement"
+      ],
+      "correct_index": 0,
+      "explanation": "If the insurer accepts the liability to pay but there is a dispute over the exact amount, standard policy conditions require the matter to be referred to Arbitration."
+    },
+    {
+      "id": "q39",
+      "text": "Which of the following is considered an 'Alternative Treatment' in India?",
+      "options": [
+        "Allopathy",
+        "Homeopathy",
+        "Open Heart Surgery",
+        "Chemotherapy"
+      ],
+      "correct_index": 1,
+      "explanation": "In India, treatments under Ayurveda, Yoga/Naturopathy, Unani, Siddha, and Homeopathy (AYUSH) are considered alternative treatments compared to conventional Allopathy."
+    },
+    {
+      "id": "q40",
+      "text": "Which document is essential to prove that an accident was reported to the authorities in a medico-legal case (MLC) before processing a claim?",
+      "options": [
+        "Proposal Form",
+        "First Information Report (FIR) or Police Panchnama",
+        "Aadhaar Card",
+        "Discharge Summary only"
+      ],
+      "correct_index": 1,
+      "explanation": "In accident cases involving road traffic or assault (Medico-Legal Cases), an FIR is mandatory to process the health or accident insurance claim."
+    },
+    {
+      "id": "q41",
+      "text": "In an Employer-Employee Group Health Insurance policy, who is the 'Master Policyholder'?",
+      "options": [
+        "The Employee",
+        "The Employer",
+        "The TPA",
+        "The Union Leader"
+      ],
+      "correct_index": 1,
+      "explanation": "The Employer buys the policy, pays the premium, and holds the master contract, while employees are the beneficiaries who receive health cards."
+    },
+    {
+      "id": "q42",
+      "text": "Tailor-made group policies can offer a benefit not usually found in retail individual policies. Which one?",
+      "options": [
+        "Waiver of Pre-Existing Disease (PED) waiting period",
+        "Coverage for suicide attempts",
+        "Cashless groceries",
+        "Double claim for the same bill"
+      ],
+      "correct_index": 0,
+      "explanation": "Large corporate group policies are often customized (tailor-made) to waive off the 4-year PED waiting period from day one."
+    },
+    {
+      "id": "q43",
+      "text": "What is 'Proportionate Deduction' in the context of room rent caps?",
+      "options": [
+        "Deducting money proportionally from the agent's commission",
+        "Reducing all associated medical charges (doctor fees, OT charges) in the same ratio if a higher category room is chosen",
+        "Deducting premium from salary",
+        "Refusing to pay the room rent entirely"
+      ],
+      "correct_index": 1,
+      "explanation": "If a patient chooses a room more expensive than their policy limit allows, the insurer not only pays less for the room but also proportionately reduces associated costs like doctor's visits."
+    },
+    {
+      "id": "q44",
+      "text": "What happens if a policyholder misplaces the original policy document?",
+      "options": [
+        "The policy is cancelled instantly",
+        "The policyholder can apply for a duplicate policy document by paying a nominal fee and signing an indemnity bond",
+        "They can never make a claim again",
+        "They must buy a new policy"
+      ],
+      "correct_index": 1,
+      "explanation": "A lost document does not cancel the contract. The insurer will issue a duplicate policy document upon request and submission of an indemnity bond."
+    },
+    {
+      "id": "q45",
+      "text": "If a claim is found to be fraudulent, what action will the insurance company take?",
+      "options": [
+        "Pay the claim but warn the customer",
+        "Repudiate (reject) the claim and cancel the policy with forfeiture of premium",
+        "Increase the premium for next year",
+        "Ask the TPA to pay half"
+      ],
+      "correct_index": 1,
+      "explanation": "Fraud goes against the principle of Utmost Good Faith. The insurer has the right to completely reject the claim, cancel the policy, and keep the premium."
+    },
+    {
+      "id": "q46",
+      "text": "Under the Consumer Protection Act, a complaint can be filed in the District Commission if the value of goods or services paid as consideration does not exceed?",
+      "options": [
+        "Rs. 20 Lakhs",
+        "Rs. 50 Lakhs",
+        "Rs. 1 Crore (Updated CPA 2019 limits, revised to 50 Lakhs in 2021)",
+        "Rs. 10 Crores"
+      ],
+      "correct_index": 1,
+      "explanation": "As per the latest Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, District Commissions have jurisdiction up to Rs. 50 Lakhs."
+    },
+    {
+      "id": "q47",
+      "text": "Which entity provides 'Cashless Authorization' in a hospital?",
+      "options": [
+        "The treating doctor",
+        "The insurance agent",
+        "The Third Party Administrator (TPA) or Insurer's internal claim team",
+        "The hospital receptionist"
+      ],
+      "correct_index": 2,
+      "explanation": "Authorization for cashless treatment is exclusively evaluated and provided by the TPA or the in-house claim processing team of the insurance company."
+    },
+    {
+      "id": "q48",
+      "text": "A 'Morale Hazard' is best described as?",
+      "options": [
+        "Deliberately burning down a building for insurance",
+        "Being careless about locking doors because 'I have insurance'",
+        "Working in a coal mine",
+        "Having a pre-existing illness"
+      ],
+      "correct_index": 1,
+      "explanation": "Morale hazard is an attitude of indifference or carelessness towards loss because the person is insured. (Distinct from 'Moral' hazard which involves deliberate dishonest acts)."
+    },
+    {
+      "id": "q49",
+      "text": "What is the primary motive behind the principle of 'Proximate Cause'?",
+      "options": [
+        "To find the most distant event that led to a loss",
+        "To identify the active, direct, and efficient cause that set in motion a chain of events leading to the loss",
+        "To find a reason to reject a claim",
+        "To calculate the claim amount"
+      ],
+      "correct_index": 1,
+      "explanation": "Proximate cause helps insurers determine the actual, immediate, and efficient cause of a loss to check if that specific peril is covered under the policy."
+    },
+    {
+      "id": "q50",
+      "text": "According to IRDAI, what is the maximum commission an agent can get for selling a standard retail health insurance policy in the first year?",
+      "options": [
+        "5%",
+        "15%",
+        "50%",
+        "100%"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI regulations on remuneration, the maximum commission payable to an agent for retail health insurance is typically capped at 15%."
+    }
+  ]
+}
