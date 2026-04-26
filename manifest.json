@@ -11,6 +11,22 @@
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
       "total_chapters": 21,
+      "crash_course": {
+        "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_life_full_notes.pdf",
+        "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_life_short_notes.pdf",
+        "videos": [
+          {
+            "id": "v1_life",
+            "title": "IC-38 Life Masterclass Part 1",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          },
+          {
+            "id": "v2_life",
+            "title": "IC-38 Life Masterclass Part 2",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
       "mock_tests": [
         {
           "id": "ic38_life_mock_01",
@@ -691,6 +707,17 @@
       "id": "ic38_general",
       "name": "IC-38 General Insurance",
       "total_chapters": 16,
+      "crash_course": {
+        "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_general_full_notes.pdf",
+        "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_general_short_notes.pdf",
+        "videos": [
+          {
+            "id": "v1_gen",
+            "title": "IC-38 General Masterclass Part 1",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
       "mock_tests": [
         {
           "id": "ic38_general_mock_1",
@@ -1205,6 +1232,17 @@
       "id": "ic38_health",
       "name": "IC-38 Health Insurance",
       "total_chapters": 10,
+      "crash_course": {
+        "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_health_full_notes.pdf",
+        "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_health_short_notes.pdf",
+        "videos": [
+          {
+            "id": "v1_hlt",
+            "title": "IC-38 Health Masterclass Part 1",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
       "mock_tests": [
         {
           "id": "ic38_health_mock_1",
