@@ -1,0 +1,76 @@
+{
+  "chapterId": "financial_planning",
+  "title": "Chapter 7: Financial Planning",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Core of Financial Planning",
+          "content": "• Economic Life Cycle (Phases of Life)\n• Contingency Funds & Emergency Needs\n• Impact of Inflation on Purchasing Power\n• Role of Insurance vs. Investment",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🗓️ The Economic Life Cycle",
+      "cards": [
+        {
+          "title": "1. Phases of Life",
+          "content": "Student Phase: Preparation & Education.\nWorking Phase: Wealth Accumulation & Protection.\nRetirement Phase: Wealth Distribution & Conservation.",
+          "color": "blue"
+        },
+        {
+          "title": "2. When to Start?",
+          "content": "The best time to start financial planning is 'as soon as one starts earning'. Don't wait for marriage or retirement.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ Financial Needs & Inflation",
+      "cards": [
+        {
+          "title": "3. Contingency vs. Retirement",
+          "content": "Contingency: Managed by Emergency Funds & Insurance.\nRetirement: Managed by Pensions & Annuities (covers risk of 'living too long').",
+          "color": "orange"
+        },
+        {
+          "title": "4. Impact of Inflation",
+          "content": "Inflation reduces 'Purchasing Power'. Real rate of return = Interest Rate - Inflation Rate. Planning must account for this.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Starting Time: Immediately after the first salary.",
+        "Outliving savings risk cover: Annuities / Pensions.",
+        "Inflation effect: Reduces purchasing power of money.",
+        "Contingency fund goal: To handle emergencies without breaking long-term investments."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Best time to start financial planning?",
+          "content": "Answer: As soon as one gets their first salary.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Primarily a protection product?",
+          "content": "Answer: Term Life Insurance.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}

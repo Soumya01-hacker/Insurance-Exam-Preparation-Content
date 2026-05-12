@@ -1,0 +1,76 @@
+{
+  "chapterId": "health_insurance_claims",
+  "title": "Chapter 21: Health Insurance Claims",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Practical Processes",
+          "content": "• Role of TPA (Third Party Administrator)\n• Cashless vs. Reimbursement Claims\n• Pre (30 Days) & Post (60 Days) Hospitalization\n• Network vs. Non-Network Hospitals",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Claim Methods",
+      "cards": [
+        {
+          "title": "1. Cashless vs Reimbursement",
+          "content": "Cashless: At Network Hospitals only. Insurer pays hospital directly.\nReimbursement: At Non-Network Hospitals. Patient pays first, then gets refund.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Role of TPA",
+          "content": "Licensed by IRDAI to process claims and issue ID cards. CRITICAL: Risk/Liability always rests with the Insurance Co, NOT the TPA.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ Hospitalization Timelines",
+      "cards": [
+        {
+          "title": "Pre & Post Expenses",
+          "content": "Pre-Hospitalization: 30 DAYS before admission.\nPost-Hospitalization: 60 DAYS after discharge.",
+          "color": "red"
+        },
+        {
+          "title": "Claim Intimation",
+          "content": "Emergency: Inform within 24 hours.\nPlanned: Inform 48-72 hours before admission.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Pre-Hospitalization period: 30 Days.",
+        "Post-Hospitalization period: 60 Days.",
+        "ID Card Issuer: TPA.",
+        "TPA Risk: None (Financial risk is with Insurer)."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Non-network hospital claim type?",
+          "content": "Answer: Reimbursement Claim.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Standard Pre-Hospitalization limit?",
+          "content": "Answer: 30 Days.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}

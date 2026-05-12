@@ -1,0 +1,82 @@
+{
+  "chapterId": "health_insurance_products",
+  "title": "Chapter 19: Health Insurance Products",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Health Product Core",
+          "content": "• Indemnity vs. Fixed Benefit Policies\n• Family Floater (Premium Rules)\n• Arogya Sanjeevani (Standard Product)\n• Day Care vs. Domiciliary Hospitalization",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Policy Types",
+      "cards": [
+        {
+          "title": "1. Indemnity vs Fixed Benefit",
+          "content": "Indemnity: Reimburses ACTUAL bills (Standard Mediclaim).\nFixed Benefit: Pays fixed LUMPSUM regardless of bills (Critical Illness).",
+          "color": "blue"
+        },
+        {
+          "title": "2. Family Floater Policy",
+          "content": "One Sum Insured for whole family. CRITICAL: Premium is based on the age of the OLDEST member.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📜 Standardized Products",
+      "cards": [
+        {
+          "title": "3. Arogya Sanjeevani",
+          "content": "Mandatory standard product. Co-payment: 5% on all claims is mandatory (Insured pays 5%).",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Special Hospitalization",
+      "cards": [
+        {
+          "title": "4. Day Care & Domiciliary",
+          "content": "Day Care: Less than 24 hrs (Cataract, Dialysis).\nDomiciliary: Treatment at HOME (Must be for at least 3 days).",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Family Floater Premium: Based on OLDEST member.",
+        "Critical Illness type: Fixed Benefit.",
+        "Arogya Sanjeevani Co-pay: 5%.",
+        "Day Care: Requires less than 24 hours."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Reimburses actual bills?",
+          "content": "Answer: Indemnity Policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Family Floater Premium calculation?",
+          "content": "Answer: Based on oldest member's age.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}

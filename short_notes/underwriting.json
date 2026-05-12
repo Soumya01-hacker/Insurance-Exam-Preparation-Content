@@ -1,0 +1,87 @@
+{
+  "chapterId": "underwriting",
+  "title": "Chapter 15: Underwriting",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Risk Assessment Process",
+          "content": "• Agent as the Primary Underwriter\n• Physical Hazards vs. Moral Hazards\n• Numerical Rating System\n• Underwriting Decisions (Loading, Lien, etc.)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👤 The Underwriters",
+      "cards": [
+        {
+          "title": "1. Field Underwriter (Agent)",
+          "content": "The agent is the FIRST or PRIMARY underwriter. Only the agent can observe the customer's lifestyle and habits directly.",
+          "color": "red"
+        },
+        {
+          "title": "2. Desk Underwriter",
+          "content": "The office official who makes the final decision based on all reports (Proposal, MHR, Medical).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Hazards and Scoring",
+      "cards": [
+        {
+          "title": "3. Physical vs Moral Hazards",
+          "content": "Physical: Body/Environment (BP, Diabetes, Mining Job).\nMoral: Character/Habits (Hiding illness, excessive drinking, insurance beyond income).",
+          "color": "orange"
+        },
+        {
+          "title": "4. Numerical Rating System",
+          "content": "Developed by Dr. Arthur Hunter. Points are given for risk factors. Standard risk score = 100.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Underwriting Decisions",
+      "cards": [
+        {
+          "title": "Decision Types",
+          "content": "• Standard Acceptance: Regular premium.\n• Loading: Extra premium for higher risk.\n• Lien: Claim is reduced if death occurs early.\n• Postpone/Decline: Risk is too high.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "First Underwriter: The Insurance Agent.",
+        "Hiding illness: Moral Hazard.",
+        "Numerical Rating Father: Dr. Arthur Hunter.",
+        "Extra premium for health: Loading."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Who is the 'First Underwriter'?",
+          "content": "Answer: The Insurance Agent.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Condition for reduced claim early on?",
+          "content": "Answer: Lien.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}
