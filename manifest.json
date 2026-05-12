@@ -1,5 +1,5 @@
 {
-  "version": "12.1.3",
+  "version": "12.1.4",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -62,6 +62,10 @@
           {
             "id": "lecture_health_02_health_insurance_documentation",
             "url": "https://youtu.be/0UBE65txNSs"
+          },
+          {
+            "id": "lecture_health_03_health_insurance_products",
+            "url": "https://youtu.be/_7bBu2kleK8"
           }
         ]
       },
@@ -404,6 +408,10 @@
         {
           "id": "lecture_health_02_health_insurance_documentation",
           "url": "https://youtu.be/0UBE65txNSs"
+        },
+        {
+          "id": "lecture_health_03_health_insurance_products",
+          "url": "https://youtu.be/_7bBu2kleK8"
         }
       ]
     },
@@ -462,6 +470,10 @@
           {
             "id": "lecture_health_02_health_insurance_documentation",
             "url": "https://youtu.be/0UBE65txNSs"
+          },
+          {
+            "id": "lecture_health_03_health_insurance_products",
+            "url": "https://youtu.be/_7bBu2kleK8"
           }
         ]
       },
@@ -735,6 +747,10 @@
         {
           "id": "lecture_health_02_health_insurance_documentation",
           "url": "https://youtu.be/0UBE65txNSs"
+        },
+        {
+          "id": "lecture_health_03_health_insurance_products",
+          "url": "https://youtu.be/_7bBu2kleK8"
         }
       ]
     },
@@ -793,6 +809,10 @@
           {
             "id": "lecture_health_02_health_insurance_documentation",
             "url": "https://youtu.be/0UBE65txNSs"
+          },
+          {
+            "id": "lecture_health_03_health_insurance_products",
+            "url": "https://youtu.be/_7bBu2kleK8"
           }
         ]
       },
@@ -1013,6 +1033,10 @@
         {
           "id": "lecture_health_02_health_insurance_documentation",
           "url": "https://youtu.be/0UBE65txNSs"
+        },
+        {
+          "id": "lecture_health_03_health_insurance_products",
+          "url": "https://youtu.be/_7bBu2kleK8"
         }
       ]
     }
