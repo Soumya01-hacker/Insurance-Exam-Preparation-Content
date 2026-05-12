@@ -1,5 +1,5 @@
 {
-  "version": "12.1.5",
+  "version": "12.1.6",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -70,6 +70,10 @@
           {
             "id": "lecture_health_04_health_insurance_underwriting",
             "url": "https://youtu.be/p7oJiMB-i3Q"
+          },
+          {
+            "id": "lecture_health_05_health_insurance_claims",
+            "url": "https://youtu.be/Av3mysGBozk"
           }
         ]
       },
@@ -420,6 +424,10 @@
         {
           "id": "lecture_health_04_health_insurance_underwriting",
           "url": "https://youtu.be/p7oJiMB-i3Q"
+        },
+        {
+          "id": "lecture_health_05_health_insurance_claims",
+          "url": "https://youtu.be/Av3mysGBozk"
         }
       ]
     },
@@ -486,6 +494,10 @@
           {
             "id": "lecture_health_04_health_insurance_underwriting",
             "url": "https://youtu.be/p7oJiMB-i3Q"
+          },
+          {
+            "id": "lecture_health_05_health_insurance_claims",
+            "url": "https://youtu.be/Av3mysGBozk"
           }
         ]
       },
@@ -767,6 +779,10 @@
         {
           "id": "lecture_health_04_health_insurance_underwriting",
           "url": "https://youtu.be/p7oJiMB-i3Q"
+        },
+        {
+          "id": "lecture_health_05_health_insurance_claims",
+          "url": "https://youtu.be/Av3mysGBozk"
         }
       ]
     },
@@ -833,6 +849,10 @@
           {
             "id": "lecture_health_04_health_insurance_underwriting",
             "url": "https://youtu.be/p7oJiMB-i3Q"
+          },
+          {
+            "id": "lecture_health_05_health_insurance_claims",
+            "url": "https://youtu.be/Av3mysGBozk"
           }
         ]
       },
@@ -1061,6 +1081,10 @@
         {
           "id": "lecture_health_04_health_insurance_underwriting",
           "url": "https://youtu.be/p7oJiMB-i3Q"
+        },
+        {
+          "id": "lecture_health_05_health_insurance_claims",
+          "url": "https://youtu.be/Av3mysGBozk"
         }
       ]
     }
