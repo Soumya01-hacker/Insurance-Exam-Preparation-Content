@@ -1,5 +1,5 @@
 {
-  "version": "12.1.1",
+  "version": "12.1.2",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -58,6 +58,10 @@
           {
             "id": "lecture_health_ch20_introduction_to_health_insurance",
             "url": "https://youtu.be/lX1HNOcatW8"
+          },
+          {
+            "id": "lecture_health_ch21_health_insurance_documentation",
+            "url": "https://youtu.be/0UBE65txNSs"
           }
         ]
       },
@@ -396,6 +400,10 @@
         {
           "id": "lecture_health_ch20_introduction_to_health_insurance",
           "url": "https://youtu.be/lX1HNOcatW8"
+        },
+        {
+          "id": "lecture_health_ch21_health_insurance_documentation",
+          "url": "https://youtu.be/0UBE65txNSs"
         }
       ]
     },
@@ -450,6 +458,10 @@
           {
             "id": "lecture_health_ch20_introduction_to_health_insurance",
             "url": "https://youtu.be/lX1HNOcatW8"
+          },
+          {
+            "id": "lecture_health_ch21_health_insurance_documentation",
+            "url": "https://youtu.be/0UBE65txNSs"
           }
         ]
       },
@@ -719,6 +731,10 @@
         {
           "id": "lecture_health_ch20_introduction_to_health_insurance",
           "url": "https://youtu.be/lX1HNOcatW8"
+        },
+        {
+          "id": "lecture_health_ch21_health_insurance_documentation",
+          "url": "https://youtu.be/0UBE65txNSs"
         }
       ]
     },
@@ -773,6 +789,10 @@
           {
             "id": "lecture_health_ch20_introduction_to_health_insurance",
             "url": "https://youtu.be/lX1HNOcatW8"
+          },
+          {
+            "id": "lecture_health_ch21_health_insurance_documentation",
+            "url": "https://youtu.be/0UBE65txNSs"
           }
         ]
       },
@@ -989,6 +1009,10 @@
         {
           "id": "lecture_health_ch20_introduction_to_health_insurance",
           "url": "https://youtu.be/lX1HNOcatW8"
+        },
+        {
+          "id": "lecture_health_ch21_health_insurance_documentation",
+          "url": "https://youtu.be/0UBE65txNSs"
         }
       ]
     }
