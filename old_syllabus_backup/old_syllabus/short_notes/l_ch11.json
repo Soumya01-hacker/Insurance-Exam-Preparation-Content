@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒöó Pricing and Valuation",
+      "cards": [
+        {
+          "title": "Premium Calculation",
+          "content": "ΓÇó Mortality (Death Rate): Higher mortality = Higher premium.\nΓÇó Interest: Higher interest earned by insurer = Lower premium.\nΓÇó Expenses (Loading): Adds to the premium cost.",
+          "color": "blue"
+        },
+        {
+          "title": "Actuarial Valuation",
+          "content": "ΓÇó The process by which an Actuary assesses the assets and future liabilities of an insurance company.\nΓÇó If Assets > Liabilities, the surplus is distributed as Bonus to participating policyholders.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒôè Key Pricing Concepts",
+      "items": [
+        {
+          "year": "Net Premium",
+          "text": "Net Premium = Mortality Cost - Interest Earned. (Does NOT include expenses)."
+        },
+        {
+          "year": "Gross Premium",
+          "text": "Gross Premium = Net Premium + Expenses (Loading) + Contingency Margins."
+        },
+        {
+          "year": "Level Premium",
+          "text": "You pay the same flat premium amount every year, even though mortality risk increases with age."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Mortality Table: A statistical table showing the probability of death at various ages (e.g., IALM Table).",
+        "Actuary: The highly specialized mathematician who calculates premiums, reserves, and bonuses.",
+        "Reversionary Bonus: Declared annually but paid only at maturity or death.",
+        "Terminal Bonus: A one-time extra bonus paid only when the policy matures or the person dies.",
+        "Policy Reserve: The extra money collected in early years (under level premium) is kept aside to pay future claims."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "chapter_id": "underwriting",
+  "chapter_title": "Chapter 15: Underwriting",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch15_q1",
+      "text": "In the life insurance industry, who is officially considered the 'Primary Underwriter' or the 'First Underwriter'?",
+      "options": [
+        "The Panel Doctor",
+        "The Insurance Agent",
+        "The Branch Manager",
+        "The Chief Actuary"
+      ],
+      "correct_index": 1,
+      "explanation": "The insurance agent is the First Underwriter because they are the only person who physically meets the prospect, sees their living conditions, and can initially judge their health and lifestyle."
+    },
+    {
+      "id": "ch15_q2",
+      "text": "What is the primary objective of the underwriting process?",
+      "options": [
+        "To reject as many proposals as possible to save money.",
+        "To ensure agents get maximum commission.",
+        "To assess the risk accurately and charge a fair premium to protect the common pool of funds.",
+        "To force customers to buy high-value policies."
+      ],
+      "correct_index": 2,
+      "explanation": "Underwriting ensures 'Equity'. It accurately measures the risk a person brings to the insurance pool so that healthy people don't end up paying for the high risk of sick people."
+    },
+    {
+      "id": "ch15_q3",
+      "text": "Factors like being heavily overweight, having high blood pressure, or a history of heart attacks are classified as:",
+      "options": [
+        "Physical Hazards",
+        "Moral Hazards",
+        "Occupational Hazards",
+        "Financial Hazards"
+      ],
+      "correct_index": 0,
+      "explanation": "Physical hazards relate to the medical, biological, or physical conditions of the proposer's body that directly increase the risk of early death."
+    },
+    {
+      "id": "ch15_q4",
+      "text": "A prospect earning only Rs. 2 Lakhs a year applies for a life insurance policy of Rs. 10 Crores. What kind of hazard does this indicate to the underwriter?",
+      "options": [
+        "Medical Hazard",
+        "Physical Hazard",
+        "Occupational Hazard",
+        "Moral Hazard"
+      ],
+      "correct_index": 3,
+      "explanation": "Over-insurance is a classic red flag for Moral Hazard. It suggests that the person might have a hidden, fraudulent motive or intent to cause a loss to make a profit."
+    },
+    {
+      "id": "ch15_q5",
+      "text": "If a prospect is diabetic but otherwise healthy, the underwriter might accept the proposal but charge a higher premium than a standard healthy person. This decision is called:",
+      "options": [
+        "Acceptance at Ordinary Rates",
+        "Acceptance with Extra (Loading)",
+        "Postponement",
+        "Declinature (Decline)"
+      ],
+      "correct_index": 1,
+      "explanation": "When the risk is higher than normal (Sub-standard risk) but still insurable, the company accepts the risk but adds an 'Extra' or 'Loading' to the standard premium."
+    },
+    {
+      "id": "ch15_q6",
+      "text": "Under a 'Lien' condition imposed by an underwriter, what happens to the policy?",
+      "options": [
+        "The premium is doubled for the entire term.",
+        "The policy is transferred to the agent.",
+        "If the insured dies within a specific early period, only a reduced death benefit is paid.",
+        "The policyholder cannot surrender the policy."
+      ],
+      "correct_index": 2,
+      "explanation": "A Lien is an underwriting tool. Instead of charging extra premium, the company reduces the death benefit for the first few years. If the insured survives the lien period, full cover is restored."
+    },
+    {
+      "id": "ch15_q7",
+      "text": "The most widely used scientific method globally for classifying risks in life insurance underwriting is the:",
+      "options": [
+        "Numerical Rating Method",
+        "Alphabetical Grading System",
+        "Random Selection Method",
+        "Visual Inspection Method"
+      ],
+      "correct_index": 0,
+      "explanation": "The Numerical Rating Method assigns positive or negative points to various risk factors (like weight, family history). The final mathematical score determines the premium."
+    },
+    {
+      "id": "ch15_q8",
+      "text": "In the Numerical Rating Method, a perfectly 'Standard' or average risk is usually represented by what base score?",
+      "options": [
+        "0",
+        "100",
+        "50",
+        "1000"
+      ],
+      "correct_index": 1,
+      "explanation": "In this system, 100 represents a normal, standard risk. Negative points (credits) reduce the score for good factors, while positive points (debits) increase the score for bad factors (like smoking)."
+    },
+    {
+      "id": "ch15_q9",
+      "text": "Why do modern life insurance companies often offer slightly lower premium rates to female lives compared to male lives?",
+      "options": [
+        "Because females take lower Sum Assured policies.",
+        "Because it is mandated by the Consumer Court.",
+        "Because females earn less money on average.",
+        "Because statistically, females have a higher life expectancy and lower mortality rate than males."
+      ],
+      "correct_index": 3,
+      "explanation": "Actuarial mortality tables globally show that women tend to live longer than men. Lower risk of early death naturally translates to cheaper premiums."
+    },
+    {
+      "id": "ch15_q10",
+      "text": "Which crucial underwriting document must be strictly filled by a qualified doctor without any interference from the insurance agent?",
+      "options": [
+        "Moral Hazard Report",
+        "Agent's Confidential Report",
+        "Medical Examiner’s Report (MER)",
+        "Discharge Voucher"
+      ],
+      "correct_index": 2,
+      "explanation": "The MER is a technical medical document. The Panel Doctor conducts the physical tests and fills the report confidentially to give the underwriter an unbiased view of the prospect's health."
+    },
+    {
+      "id": "ch15_q11",
+      "text": "If an applicant has advanced terminal cancer, the underwriter will likely reject the proposal entirely. This underwriting decision is known as:",
+      "options": [
+        "Postponement",
+        "Declinature (Decline)",
+        "Acceptance with Lien",
+        "Standard Acceptance"
+      ],
+      "correct_index": 1,
+      "explanation": "When the risk is exceptionally high, uninsurable, or outside the company's risk appetite, the underwriter formally rejects or 'Declines' the proposal."
+    },
+    {
+      "id": "ch15_q12",
+      "text": "What does 'Non-Medical Underwriting' mean in life insurance?",
+      "options": [
+        "Accepting the risk based purely on the proposal form declarations, without requiring a physical medical examination.",
+        "Providing a policy that does not cover any medical illnesses.",
+        "Rejecting the policy because the person failed the medical test.",
+        "Selling insurance only to doctors."
+      ],
+      "correct_index": 0,
+      "explanation": "To speed up the process, companies waive physical medical tests for young, healthy people taking lower sum assured policies. They underwrite the policy purely on the customer's written declarations."
+    },
+    {
+      "id": "ch15_q13",
+      "text": "Which two factors primarily determine whether a proposal will be processed under 'Non-Medical' or 'Medical' limits?",
+      "options": [
+        "Gender and City of residence",
+        "Agent's experience and Customer's height",
+        "Customer's religion and marital status",
+        "Age at entry and the Total Sum Assured requested"
+      ],
+      "correct_index": 3,
+      "explanation": "High age means a higher risk of hidden diseases, and a high Sum Assured means a high financial risk for the company. Both trigger mandatory physical medical tests."
+    },
+    {
+      "id": "ch15_q14",
+      "text": "Which of the following is considered a severe 'Occupational Hazard' by a life underwriter?",
+      "options": [
+        "Working as an IT Software Engineer",
+        "Working as a School Teacher",
+        "Working as an underground coal miner or commercial diver",
+        "Working as a Bank Manager"
+      ],
+      "correct_index": 2,
+      "explanation": "An occupational hazard exists when a person's daily job exposes them to a higher-than-normal risk of accidental death or long-term health deterioration (like miners inhaling coal dust)."
+    },
+    {
+      "id": "ch15_q15",
+      "text": "Why is 'Moral Hazard' much harder to detect than 'Physical Hazard'?",
+      "options": [
+        "Because it relates to the prospect's hidden intentions, character, and financial motives.",
+        "Because doctors cannot test for it with blood samples.",
+        "Because IRDAI prohibits checking moral hazard.",
+        "Because it only happens in old age."
+      ],
+      "correct_index": 0,
+      "explanation": "You can detect a physical hazard (like high sugar) with a simple blood test. But you cannot easily test a person's hidden intention to commit fraud or suicide, making moral hazard tough to underwrite."
+    },
+    {
+      "id": "ch15_q16",
+      "text": "If a prospect engages in dangerous hobbies like skydiving or car racing, how might an underwriter handle the proposal?",
+      "options": [
+        "They will offer a huge discount.",
+        "They may charge an extra premium or put an exclusion clause for that specific activity.",
+        "They will force the prospect to change their hobby.",
+        "They will issue the policy only for 1 year."
+      ],
+      "correct_index": 1,
+      "explanation": "Avocational hazards (dangerous hobbies) increase the risk of accidental death. The underwriter will either charge a loading or exclude death arising specifically from that hobby."
+    },
+    {
+      "id": "ch15_q17",
+      "text": "What is the primary goal of 'Financial Underwriting'?",
+      "options": [
+        "To check if the agent's bank account is valid.",
+        "To calculate the company's total profits.",
+        "To ensure the policyholder invests only in the stock market.",
+        "To ensure the premium is affordable and the Sum Assured is justified by the prospect's income (preventing over-insurance)."
+      ],
+      "correct_index": 3,
+      "explanation": "Financial underwriting matches the life cover to the Human Life Value (income). If a poor person asks for a massive cover, it signals a moral hazard, which financial underwriting prevents."
+    },
+    {
+      "id": "ch15_q18",
+      "text": "If an applicant has just undergone a major heart surgery 10 days ago, the underwriter's decision will most likely be:",
+      "options": [
+        "Postponement (delay the decision until complete recovery is verified).",
+        "Acceptance at Standard Rates.",
+        "Acceptance with a massive discount.",
+        "Immediate Declinature forever."
+      ],
+      "correct_index": 0,
+      "explanation": "When an acute temporary condition exists (like recent surgery or pregnancy complications), the underwriter 'Postpones' the proposal for a few months until the person stabilizes."
+    },
+    {
+      "id": "ch15_q19",
+      "text": "The fundamental principle of 'Equity' in life insurance underwriting means:",
+      "options": [
+        "Everyone must pay the exact same premium regardless of age.",
+        "Insurance companies must invest 50% in equity stocks.",
+        "Each policyholder should pay a premium that is directly proportional to the risk they bring to the pool.",
+        "Agents should get equal commission for every policy."
+      ],
+      "correct_index": 2,
+      "explanation": "Equity means fairness. A 25-year-old healthy person should not pay the same premium as a 55-year-old diabetic person. Underwriting ensures everyone pays their fair, proportionate share."
+    },
+    {
+      "id": "ch15_q20",
+      "text": "Which confidential report acts as the underwriter's 'eyes and ears' regarding the prospect's lifestyle, habits, and social surroundings?",
+      "options": [
+        "The Electrocardiogram (ECG) Report",
+        "The Agent's Confidential Report (MHR)",
+        "The Bank Statement",
+        "The Free Look Cancellation form"
+      ],
+      "correct_index": 1,
+      "explanation": "Because the underwriter sits in a corporate office, they rely entirely on the Agent's Confidential Report (Moral Hazard Report) to understand the ground reality of the prospect's lifestyle."
+    },
+    {
+      "id": "ch15_q21",
+      "text": "How does an underwriter typically treat a proposal from a physically handicapped individual (e.g., missing a leg from an old accident)?",
+      "options": [
+        "They are automatically declined by law.",
+        "They are always charged double premium.",
+        "They are forced to take only term insurance.",
+        "They are evaluated based on whether the handicap affects their overall life expectancy; if not, standard rates may apply."
+      ],
+      "correct_index": 3,
+      "explanation": "A physical handicap does not automatically mean a higher risk of early death. If the person is healthy and the handicap doesn't affect their mortality, they are usually offered standard rates."
+    },
+    {
+      "id": "ch15_q22",
+      "text": "In underwriting terminology, a 'Sub-standard risk' refers to a prospect who:",
+      "options": [
+        "Has a higher probability of death than the average person of the same age.",
+        "Fails to pay their premiums on time.",
+        "Takes a policy below Rs. 50,000.",
+        "Does not submit their KYC documents."
+      ],
+      "correct_index": 0,
+      "explanation": "Standard risks are average people. Sub-standard risks are those with health, occupational, or lifestyle issues that make them more likely to claim early, thus requiring extra premium."
+    },
+    {
+      "id": "ch15_q23",
+      "text": "Which of the following statements about proposals with a 'Very Large Sum Assured' is true?",
+      "options": [
+        "They are processed without any medical tests to please the rich customer.",
+        "They undergo highly stringent medical and financial underwriting due to the massive risk to the company.",
+        "They are automatically issued by the agent without underwriter approval.",
+        "They always get a 50% discount on the premium."
+      ],
+      "correct_index": 1,
+      "explanation": "A large Sum Assured represents a massive potential loss for the company. Therefore, these cases face the strictest scrutiny, including multiple medical tests and deep financial background checks."
+    },
+    {
+      "id": "ch15_q24",
+      "text": "If an applicant has a slightly hazardous occupation but refuses to pay extra premium, what alternative might an underwriter offer?",
+      "options": [
+        "Issue the policy with a fake name.",
+        "Ask the agent to pay the extra premium.",
+        "Offer an Endowment policy instead of a pure Term plan, as it builds cash value faster and reduces the company's net risk.",
+        "Threaten the applicant with legal action."
+      ],
+      "correct_index": 2,
+      "explanation": "Endowment policies build a large reserve quickly. This reduces the 'Amount at Risk' for the company much faster than a Term plan, allowing the underwriter to safely offer standard rates to a mildly sub-standard risk."
+    },
+    {
+      "id": "ch15_q25",
+      "text": "In the Numerical Rating Method, if an applicant has an excellent family history of longevity and a very healthy lifestyle, the underwriter will assign:",
+      "options": [
+        "Positive debit points to increase the premium.",
+        "A permanent lien on the policy.",
+        "An immediate decline.",
+        "Negative credit points, which reduce the total score and may result in a cheaper premium."
+      ],
+      "correct_index": 3,
+      "explanation": "Good factors give 'credits' (negative numbers that reduce the base score of 100). A score below 100 means the person is a 'Preferred Risk' and might get a discount on the premium."
+    }
+  ]
+}

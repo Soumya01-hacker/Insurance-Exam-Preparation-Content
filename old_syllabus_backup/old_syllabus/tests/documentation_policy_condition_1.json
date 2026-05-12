@@ -1,0 +1,307 @@
+{
+  "chapter_id": "documentation_policy_condition_1",
+  "chapter_title": "Chapter 13: Documentation – Policy Condition I",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch13_q1",
+      "text": "Which part of the life insurance policy document introduces the two parties entering into the contract?",
+      "options": [
+        "Policy Schedule",
+        "Operative Clause",
+        "Specific Provisions",
+        "Preamble"
+      ],
+      "correct_index": 3,
+      "explanation": "The Preamble is the introductory paragraph of the policy document. It officially identifies and introduces the two parties involved in the contract: the Insurance Company and the Policyholder."
+    },
+    {
+      "id": "ch13_q2",
+      "text": "How many days does a policyholder have to review and return the life insurance policy under the 'Free Look Period' if they disagree with the terms?",
+      "options": [
+        "15 days from the receipt of the policy document",
+        "30 days from the date of proposal",
+        "10 days from the FPR issuance",
+        "45 days from the date of dispatch"
+      ],
+      "correct_index": 0,
+      "explanation": "The Free Look (or Cooling-off) period gives the customer exactly 15 days, starting from the day they physically or electronically receive the policy document, to cancel the policy without any severe penalty."
+    },
+    {
+      "id": "ch13_q3",
+      "text": "Which section of the policy document is highly customized and contains specific details like the name of the insured, sum assured, premium amount, and date of commencement?",
+      "options": [
+        "Standard Provisions",
+        "Policy Schedule",
+        "Preamble",
+        "Exclusions"
+      ],
+      "correct_index": 1,
+      "explanation": "The Policy Schedule is the most personalized part of the document. It holds all the specific data relating to that particular customer, including premium, nominee details, and policy dates."
+    },
+    {
+      "id": "ch13_q4",
+      "text": "What is the standard grace period allowed for a life insurance policy where the premium is paid on a yearly, half-yearly, or quarterly basis?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 2,
+      "explanation": "For premiums paid on a yearly, half-yearly, or quarterly mode, the insurance company allows a grace period of 30 days after the due date to pay the premium without any late fee or interest."
+    },
+    {
+      "id": "ch13_q5",
+      "text": "The core promise of the insurance company to pay the claim amount upon the happening of the insured event is clearly stated in which part of the policy document?",
+      "options": [
+        "The Schedule",
+        "The Preamble",
+        "The Attestation",
+        "The Operative Clause"
+      ],
+      "correct_index": 3,
+      "explanation": "The Operative Clause is the heart of the policy. It explicitly states the insurer's fundamental promise to pay the Sum Assured to the policyholder or nominee when the specific insured event (death or maturity) occurs."
+    },
+    {
+      "id": "ch13_q6",
+      "text": "If a policyholder chooses to pay their life insurance premium on a monthly basis, what is the grace period allowed?",
+      "options": [
+        "15 days",
+        "30 days",
+        "7 days",
+        "10 days"
+      ],
+      "correct_index": 0,
+      "explanation": "Because monthly premiums involve a higher frequency of payments, the standard grace period allowed by IRDAI for the monthly premium mode is only 15 days."
+    },
+    {
+      "id": "ch13_q7",
+      "text": "What happens if the life assured dies during the grace period before paying the due premium?",
+      "options": [
+        "The policy is considered lapsed and no claim is paid.",
+        "The claim is paid, but the unpaid premium is deducted from the death benefit.",
+        "The claim is paid fully without any deductions.",
+        "The nominee must first pay a penalty before claiming."
+      ],
+      "correct_index": 1,
+      "explanation": "During the grace period, the risk cover continues to remain fully active. If death occurs, the company pays the full death claim to the nominee, but deducts the unpaid premium amount from the final payout."
+    },
+    {
+      "id": "ch13_q8",
+      "text": "If a customer returns the policy during the Free Look Period, the insurance company refunds the premium after deducting:",
+      "options": [
+        "The agent's full commission.",
+        "A flat 50% penalty.",
+        "Only the GST amount.",
+        "Proportionate risk premium, medical examination expenses, and stamp duty."
+      ],
+      "correct_index": 3,
+      "explanation": "When a policy is cancelled under Free Look, the insurer refunds the premium but is legally allowed to deduct the cost of the medical tests, the stamp duty paid to the government, and the mortality charge for the days the risk was covered."
+    },
+    {
+      "id": "ch13_q9",
+      "text": "A life insurance policy 'lapses' when:",
+      "options": [
+        "The insured reaches the age of 60.",
+        "The first premium is paid.",
+        "The premium is not paid even after the expiry of the grace period.",
+        "The policyholder shifts to another country."
+      ],
+      "correct_index": 2,
+      "explanation": "A policy lapses, meaning the life risk cover stops, strictly when the policyholder fails to pay the renewal premium by the due date and also misses the subsequent grace period."
+    },
+    {
+      "id": "ch13_q10",
+      "text": "The process of restoring a lapsed life insurance policy back to active status with full benefits is known as:",
+      "options": [
+        "Revival or Reinstatement",
+        "Surrender",
+        "Foreclosure",
+        "Assignment"
+      ],
+      "correct_index": 0,
+      "explanation": "Revival (or Reinstatement) is the process by which a policyholder brings a lapsed policy back to an 'in-force' condition by clearing all past dues and proving they are still in good health."
+    },
+    {
+      "id": "ch13_q11",
+      "text": "Which of the following is an essential requirement for the revival of a lapsed policy?",
+      "options": [
+        "Issuing a new proposal form.",
+        "Payment of all unpaid premiums with interest and a fresh declaration of good health.",
+        "Changing the nominee of the policy.",
+        "Reducing the sum assured by half."
+      ],
+      "correct_index": 1,
+      "explanation": "To revive a policy, the insured must pay all the missed premiums (arrears) along with late penalty interest, and submit a Declaration of Good Health (DGH) to prove they haven't developed a new disease during the lapsed period."
+    },
+    {
+      "id": "ch13_q12",
+      "text": "Which of the following elements is generally NOT found on the first page (face) of a standard life insurance policy document?",
+      "options": [
+        "Name and address of the insurance company",
+        "Signature of the authorized official",
+        "Detailed terms and conditions of policy exclusions",
+        "The Policy Schedule"
+      ],
+      "correct_index": 2,
+      "explanation": "The first page (face) usually contains the Preamble, Schedule, Operative Clause, and Attestation. The detailed legal terms, conditions, and exclusions are printed on the subsequent pages (Standard Provisions)."
+    },
+    {
+      "id": "ch13_q13",
+      "text": "The rules regarding grace period, days of grace, payment of premium, and revival are printed under which section of the policy document?",
+      "options": [
+        "Specific Provisions",
+        "Policy Schedule",
+        "Preamble",
+        "Standard Provisions"
+      ],
+      "correct_index": 3,
+      "explanation": "Standard Provisions contain the universal rules that apply generally to all life insurance contracts issued by the company, such as rules for grace periods, revival, and claims."
+    },
+    {
+      "id": "ch13_q14",
+      "text": "If an underwriter imposes an extra premium (loading) because the insured has a hazardous occupation, where will this condition be explicitly printed in the policy?",
+      "options": [
+        "Standard Provisions",
+        "Specific Provisions / Endorsement",
+        "Attestation Clause",
+        "Operative Clause"
+      ],
+      "correct_index": 1,
+      "explanation": "Any special conditions, restrictions, or extra premiums that apply ONLY to that particular customer are printed under 'Specific Provisions' or added as a special endorsement."
+    },
+    {
+      "id": "ch13_q15",
+      "text": "If a policy has been lapsed for a very long period, the insurance company may ask for a fresh medical examination before reviving it. This is known as:",
+      "options": [
+        "Medical Revival",
+        "Ordinary Revival",
+        "Special Revival",
+        "Automatic Revival"
+      ],
+      "correct_index": 0,
+      "explanation": "When a simple Declaration of Good Health is not enough due to a long lapse period or a high sum assured, the company enforces a 'Medical Revival', requiring the insured to undergo fresh medical tests."
+    },
+    {
+      "id": "ch13_q16",
+      "text": "The Free Look Period is applicable to life insurance policies primarily to protect the policyholder from:",
+      "options": [
+        "Medical inflation",
+        "Changes in interest rates",
+        "Mis-selling and misunderstanding of policy terms",
+        "Tax liabilities"
+      ],
+      "correct_index": 2,
+      "explanation": "The main objective of the Free Look Period is consumer protection. It gives the buyer a chance to read the actual document and cancel if the agent mis-sold the policy or made false promises."
+    },
+    {
+      "id": "ch13_q17",
+      "text": "As per IRDAI guidelines, a lapsed life insurance policy can typically be revived within a specific period from the date of the first unpaid premium. What is this period generally?",
+      "options": [
+        "1 Year",
+        "2 Years",
+        "3 Years",
+        "5 Years"
+      ],
+      "correct_index": 3,
+      "explanation": "According to the updated IRDAI regulations, a policyholder generally has a window of up to 5 years from the date of the first unpaid premium to revive a lapsed non-linked life insurance policy."
+    },
+    {
+      "id": "ch13_q18",
+      "text": "Which of the following is considered a permitted alteration in an active life insurance policy?",
+      "options": [
+        "Change in the mode of premium payment (e.g., from yearly to monthly)",
+        "Increase in the Sum Assured after a disease diagnosis",
+        "Changing the date of birth",
+        "Changing the name of the insured person entirely"
+      ],
+      "correct_index": 0,
+      "explanation": "Insurers allow certain minor alterations during the policy term, such as changing the premium payment frequency, address, or nominee. Altering the core risk factors (like the person insured or increasing cover after getting sick) is not allowed."
+    },
+    {
+      "id": "ch13_q19",
+      "text": "Whenever an alteration (like a change of address) is made in the policy, it is legally recorded on the policy document through an:",
+      "options": [
+        "Annexure",
+        "Endorsement",
+        "Attestation",
+        "Arbitration"
+      ],
+      "correct_index": 1,
+      "explanation": "An 'Endorsement' is a written clause attached to the policy document that formally modifies, adds to, or alters the existing terms of the insurance contract."
+    },
+    {
+      "id": "ch13_q20",
+      "text": "In life insurance, which document serves as the formal, written evidence of the contract between the insurer and the insured?",
+      "options": [
+        "Moral Hazard Report",
+        "Prospectus",
+        "The Policy Document",
+        "Claim form"
+      ],
+      "correct_index": 2,
+      "explanation": "The Policy Document is the ultimate, legally binding written evidence of the contract. It outlines all the rights, duties, benefits, and conditions agreed upon by both parties."
+    },
+    {
+      "id": "ch13_q21",
+      "text": "The signature of the authorized executive of the insurance company, along with the company seal, is placed in which part of the policy document?",
+      "options": [
+        "Operative Clause",
+        "Proviso",
+        "Schedule",
+        "Attestation"
+      ],
+      "correct_index": 3,
+      "explanation": "The Attestation clause is the concluding part of the policy's face page. It formally executes the document, bearing the date of issue and the signature of the authorized official of the insurer."
+    },
+    {
+      "id": "ch13_q22",
+      "text": "To exercise the Free Look cancellation option, the policyholder must:",
+      "options": [
+        "Take the agent to the court.",
+        "Stop paying the next premium without telling anyone.",
+        "Communicate the decision in writing to the insurer and return the original policy document.",
+        "Sell the policy to a third party."
+      ],
+      "correct_index": 2,
+      "explanation": "To properly utilize the Free Look Period, the policyholder must formally notify the insurance company in writing stating their reasons for disagreement, and surrender the original physical policy document back to them."
+    },
+    {
+      "id": "ch13_q23",
+      "text": "The list of conditions under which the insurance company will NOT pay the claim (such as suicide within one year) is found under:",
+      "options": [
+        "Policy Exclusions / Standard Provisions",
+        "The Preamble",
+        "The Schedule",
+        "The Attestation"
+      ],
+      "correct_index": 0,
+      "explanation": "Exclusions are a critical part of the Standard Provisions. They explicitly list the specific risks and scenarios (like early suicide or participation in hazardous sports) that the policy will not cover."
+    },
+    {
+      "id": "ch13_q24",
+      "text": "The fundamental purpose of the 'Grace Period' is to:",
+      "options": [
+        "Give the agent more time to earn commission.",
+        "Protect the policyholder from unintentional lapse of the policy due to a slight delay in premium payment.",
+        "Allow the insurance company to invest the funds.",
+        "Increase the final maturity amount."
+      ],
+      "correct_index": 1,
+      "explanation": "The grace period acts as a safety net. It ensures that a policyholder doesn't immediately lose their valuable life cover just because they forgot or were delayed by a few days in paying the renewal premium."
+    },
+    {
+      "id": "ch13_q25",
+      "text": "The policy document only gains legal validity when it is printed on a paper bearing a certain value, representing the tax paid to the government. This is called:",
+      "options": [
+        "Tax Voucher",
+        "Registration Fee",
+        "Premium Receipt",
+        "Stamp Duty"
+      ],
+      "correct_index": 3,
+      "explanation": "Like all formal contracts, a life insurance policy document is subject to the Indian Stamp Act. The insurance company pays Stamp Duty to the government to make the document legally valid and enforceable in court."
+    }
+  ]
+}

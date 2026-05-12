@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "ΓÜû∩╕Å Grievance Redressal",
+      "cards": [
+        {
+          "title": "IGMS & Consumer Courts",
+          "content": "ΓÇó IGMS: IRDAI's online portal to register complaints.\nΓÇó Consumer Protection Act 2019: Defines who is a \"Consumer\". Ensures fast resolution without needing an advocate.",
+          "color": "blue"
+        },
+        {
+          "title": "Consumer Court Limits (2019)",
+          "content": "ΓÇó District Commission: Claims up to Γé╣50 Lakhs.\nΓÇó State Commission: Claims from Γé╣50 Lakhs to Γé╣2 Crores.\nΓÇó National Commission: Claims above Γé╣2 Crores.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒÅó Insurance Ombudsman",
+      "items": [
+        {
+          "year": "Eligibility",
+          "text": "Can approach if the insurer rejects a complaint or doesn't reply within 30 days."
+        },
+        {
+          "year": "Award Limit",
+          "text": "Can award compensation up to a maximum of Γé╣30 Lakhs."
+        },
+        {
+          "year": "Binding Rule",
+          "text": "The award is binding on the INSURER, but NOT on the Insured."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Time Limit for Ombudsman: Complaint must be made within 1 year of the insurer's rejection.",
+        "Fee: Approaching the Insurance Ombudsman is completely FREE of cost.",
+        "Recommendation: The Ombudsman gives a recommendation first. If accepted by the insured within 15 days, the insurer must comply in 15 days.",
+        "Award Time: If a recommendation fails, the Ombudsman passes an Award within 3 months.",
+        "No lawyer or advocate is required to represent a case before the Ombudsman."
+      ]
+    }
+  ]
+}

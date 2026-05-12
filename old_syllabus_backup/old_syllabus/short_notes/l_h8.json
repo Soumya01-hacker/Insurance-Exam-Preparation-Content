@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒ¢Æ Health Insurance Products",
+      "cards": [
+        {
+          "title": "Indemnity vs Fixed Benefit",
+          "content": "ΓÇó Indemnity (Mediclaim): Pays the actual hospital bill up to the Sum Insured.\nΓÇó Fixed Benefit (Critical Illness / Daily Cash): Pays a predetermined lump sum upon diagnosis, regardless of actual expenses.",
+          "color": "purple"
+        },
+        {
+          "title": "Top-up & Super Top-up",
+          "content": "ΓÇó Top-up: Kicks in only when a SINGLE claim exceeds the deductible amount.\nΓÇó Super Top-up: Kicks in when the AGGREGATE of all claims in a year exceeds the deductible. (Much better for chronic patients).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒÅÑ Policy Types & Schemes",
+      "items": [
+        {
+          "year": "Family Floater",
+          "text": "One single Sum Insured shared by the entire family. Cost-effective."
+        },
+        {
+          "year": "PM-JAY",
+          "text": "Ayushman Bharat: Provides Γé╣5 Lakhs per family per year for secondary/tertiary care to vulnerable families."
+        },
+        {
+          "year": "Travel & PA",
+          "text": "Overseas Travel covers medical emergencies abroad. Personal Accident covers Death/Disability."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Co-pay: A fixed percentage (e.g., 10%) of the claim amount that the insured must pay from their own pocket.",
+        "Deductible: A fixed amount (e.g., Γé╣50,000) that must be borne by the insured before the policy starts paying.",
+        "Sub-limits: Maximum limits placed on specific treatments (e.g., Cataract limit Γé╣30,000) or Room Rent (e.g., 1% of Sum Insured).",
+        "Critical Illness covers 36 specified major diseases (like Cancer, Stroke) and pays a lump sum on survival of 30 days post-diagnosis.",
+        "Micro Insurance policies are designed for economically weaker sections with affordable premiums."
+      ]
+    }
+  ]
+}

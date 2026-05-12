@@ -1,0 +1,307 @@
+{
+  "chapter_id": "personal_retail_insurance",
+  "chapter_title": "Chapter 25: Personal and Retail Insurance",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch25_q1",
+      "text": "As per the Motor Vehicles Act, which type of insurance is mandatory for all vehicles plying in public places in India?",
+      "options": [
+        "Third Party Liability Insurance",
+        "Comprehensive Insurance",
+        "Own Damage Insurance",
+        "Personal Accident Cover for Passengers"
+      ],
+      "correct_index": 0,
+      "explanation": "Third Party Liability insurance is a statutory requirement. It protects the vehicle owner against legal liability arising from death, bodily injury, or property damage caused to a third party."
+    },
+    {
+      "id": "ch25_q2",
+      "text": "In Motor Insurance, the 'Insured Declared Value' (IDV) is technically defined as the:",
+      "options": [
+        "Current market value of the vehicle including modifications.",
+        "The Sum Insured of the vehicle, calculated as the manufacturer’s listed selling price minus depreciation.",
+        "The price the owner paid when purchasing the vehicle.",
+        "The resale value of the car after an accident."
+      ],
+      "correct_index": 1,
+      "explanation": "IDV is the maximum amount the insurer will pay in case of a Total Loss. It is calculated by taking the manufacturer's listed price and applying a fixed depreciation percentage based on the age of the vehicle."
+    },
+    {
+      "id": "ch25_q3",
+      "text": "What does a 'Personal Accident' (PA) policy primarily provide to the insured?",
+      "options": [
+        "Reimbursement of routine hospital bills for fevers.",
+        "A monthly pension for life after retirement.",
+        "Fixed financial compensation for death or disability caused solely by an accident.",
+        "Coverage for the repair of the insured's vehicle."
+      ],
+      "correct_index": 2,
+      "explanation": "A PA policy is a benefit-based contract. It pays a pre-fixed sum if the insured suffers death or specified disabilities (Total or Partial) resulting from a sudden, visible, and external accident."
+    },
+    {
+      "id": "ch25_q4",
+      "text": "Under a standard 'Householders' Insurance' policy, what is the core requirement for a 'Burglary' claim to be valid?",
+      "options": [
+        "The items must be lost while the owner is traveling.",
+        "The theft must happen during the daytime.",
+        "The items must have been misplaced by the domestic help.",
+        "There must be evidence of 'forcible and violent' entry or exit from the premises."
+      ],
+      "correct_index": 3,
+      "explanation": "Burglary insurance covers theft only when it involves the use of force or violence to enter or exit a locked building. Simple theft (e.g., through an open door) is often excluded or covered under a separate clause."
+    },
+    {
+      "id": "ch25_q5",
+      "text": "What happens to the 'No Claim Bonus' (NCB) in a Motor Insurance policy if a claim is made during the policy period?",
+      "options": [
+        "The accumulated NCB is reduced to zero (lost) for the next renewal.",
+        "The NCB is doubled to help the customer pay for the accident.",
+        "The NCB remains unchanged if the accident was not the driver's fault.",
+        "The NCB is converted into a cash refund."
+      ],
+      "correct_index": 0,
+      "explanation": "NCB is a reward for safe driving and having a claim-free year. Even a small claim for a minor scratch will reset the accumulated NCB percentage to zero for the subsequent year."
+    },
+    {
+      "id": "ch25_q6",
+      "text": "Which of the following is an example of 'Permanent Total Disability' (PTD) in a Personal Accident policy?",
+      "options": [
+        "A fracture in the arm that heals in 2 months.",
+        "Loss of sight in both eyes or loss of both hands/feet.",
+        "Loss of a single finger.",
+        "Temporary bed rest due to a minor back injury."
+      ],
+      "correct_index": 1,
+      "explanation": "PTD refers to an injury that permanently and totally prevents the person from engaging in any occupation. Loss of both eyes or two limbs is the standard definition of 100% PTD."
+    },
+    {
+      "id": "ch25_q7",
+      "text": "In 'Travel Insurance', the 'Baggage Loss' cover typically applies to:",
+      "options": [
+        "Items stolen from the traveler's home while they are away.",
+        "Loss of baggage while in the custody of the traveler at a hotel.",
+        "Total and permanent loss of 'checked-in' baggage by a common carrier (like an airline).",
+        "Slight damage to the suitcase handle during handling."
+      ],
+      "correct_index": 2,
+      "explanation": "Travel insurance specifically covers the total loss of baggage that has been checked in with the airline. It does not usually cover hand-carry items or minor wear and tear."
+    },
+    {
+      "id": "ch25_q8",
+      "text": "What is the primary benefit of a 'Shopkeepers' Package Policy' for a small business owner?",
+      "options": [
+        "It provides free life insurance to all customers of the shop.",
+        "It guarantees that the shop's sales will increase.",
+        "It covers only the medical expenses of the shop owner.",
+        "It combines multiple covers (Fire, Burglary, Money-in-Transit, Liability) into a single, comprehensive policy."
+      ],
+      "correct_index": 3,
+      "explanation": "Package policies are designed for convenience. Instead of buying separate policies, a shopkeeper can protect their stock, furniture, and legal liabilities under one contract with a single premium."
+    },
+    {
+      "id": "ch25_q9",
+      "text": "Which of the following is a permanent EXCLUSION in a standard Personal Accident insurance policy?",
+      "options": [
+        "Death or injury resulting from attempted suicide or intentional self-injury.",
+        "Injury caused by a collision with another vehicle.",
+        "Slipping and falling in a bathroom.",
+        "A snake bite occurring during a trek."
+      ],
+      "correct_index": 0,
+      "explanation": "Insurance only covers fortuitous (accidental) events. Intentional acts like suicide or self-harm are fundamental exclusions in all insurance contracts."
+    },
+    {
+      "id": "ch25_q10",
+      "text": "In Motor Insurance, 'Comprehensive' coverage refers to a policy that includes:",
+      "options": [
+        "Only Third Party Liability.",
+        "Both Own Damage (OD) to the vehicle and Third Party Liability.",
+        "Life insurance for the owner's entire family.",
+        "Coverage for traffic fines and penalties."
+      ],
+      "correct_index": 1,
+      "explanation": "A Comprehensive policy (or Package policy) provides the widest protection by covering the mandatory Third Party requirements as well as damage to the insured's own vehicle."
+    },
+    {
+      "id": "ch25_q11",
+      "text": "If an insured person under a Personal Accident policy is injured while driving under the influence of alcohol or drugs, the claim will be:",
+      "options": [
+        "Paid in full as it was an accident.",
+        "Paid with a 50% penalty.",
+        "Rejected entirely as it is a standard exclusion.",
+        "Paid only if the police do not file a case."
+      ],
+      "correct_index": 2,
+      "explanation": "Driving under the influence of intoxicants is an illegal act and a major moral hazard. It is a standard exclusion in almost all insurance policies, including Personal Accident and Motor."
+    },
+    {
+      "id": "ch25_q12",
+      "text": "What does 'Liability' insurance protect a policyholder against?",
+      "options": [
+        "Physical damage to their own property.",
+        "Natural disasters like floods and earthquakes.",
+        "The theft of their own personal belongings.",
+        "Legal obligations to pay compensation to third parties for injury, death, or property damage."
+      ],
+      "correct_index": 3,
+      "explanation": "Liability insurance is 'Other People's' insurance. It covers the legal costs and compensation the policyholder is required to pay when they are found at fault for harming someone else."
+    },
+    {
+      "id": "ch25_q13",
+      "text": "In a 'Family Floater' health insurance policy, who does the Sum Insured cover?",
+      "options": [
+        "The entire family together, where the sum can be used by any one or all members during the year.",
+        "Only the head of the family.",
+        "Each family member with a separate and equal individual limit.",
+        "Only the children until they reach age 18."
+      ],
+      "correct_index": 0,
+      "explanation": "A floater policy provides a pool of insurance. If the limit is 5 Lakhs, any member of the family can use it until the total 5 Lakhs is exhausted by the group."
+    },
+    {
+      "id": "ch25_q14",
+      "text": "What is the significance of the '15-day Free Look Period' in retail insurance policies?",
+      "options": [
+        "The customer can take a loan for 15 days.",
+        "The customer can review the policy terms and cancel for a refund if they disagree with the conditions.",
+        "The agent gets 15 days to collect the premium.",
+        "The insurer can cancel the policy without giving a reason."
+      ],
+      "correct_index": 1,
+      "explanation": "The Free Look period is a consumer protection feature. It allows the buyer to read the actual document and return it if the terms are not what they expected."
+    },
+    {
+      "id": "ch25_q15",
+      "text": "In Motor Insurance, the 'No Claim Bonus' (NCB) can be transferred from:",
+      "options": [
+        "One person to another when the vehicle is sold.",
+        "A father to a son for a new car purchase.",
+        "An old vehicle to a new vehicle purchased by the same owner.",
+        "A bike to a truck owned by the same person."
+      ],
+      "correct_index": 2,
+      "explanation": "NCB is a reward for the 'owner's' safe driving habits, not the vehicle. Therefore, the owner can carry their NCB discount from their old car to their new car."
+    },
+    {
+      "id": "ch25_q16",
+      "text": "A Personal Accident policy usually covers 'Temporary Total Disability' (TTD). What benefit does this provide?",
+      "options": [
+        "A lump-sum payment of the full Sum Insured.",
+        "Coverage for the hospital surgery bill.",
+        "Payment of the school fees for the insured's children.",
+        "A weekly allowance for a specified period to compensate for the loss of income while the insured is unable to work."
+      ],
+      "correct_index": 3,
+      "explanation": "TTD (like a leg fracture requiring 4 weeks of bed rest) prevents the person from working temporarily. The policy pays a weekly benefit (usually 1% of Sum Insured) to support them during that period."
+    },
+    {
+      "id": "ch25_q17",
+      "text": "Which of the following would be covered under the 'Public Liability' section of a Shopkeepers' policy?",
+      "options": [
+        "Legal compensation for a customer who slips on a wet floor in the shop and gets injured.",
+        "Theft of cash from the shop counter by an employee.",
+        "Damage to the shop's roof due to a heavy storm.",
+        "The shopkeeper's own medical treatment for a common cold."
+      ],
+      "correct_index": 0,
+      "explanation": "Public Liability covers injuries to 'third parties' (customers/visitors) that occur on the business premises due to the owner's negligence."
+    },
+    {
+      "id": "ch25_q18",
+      "text": "What is the standard 'Deductible' or 'Excess' in a Motor Insurance claim?",
+      "options": [
+        "The amount the agent deducts as their service fee.",
+        "The fixed initial portion of every claim that the policyholder must pay from their own pocket.",
+        "The discount given to the policyholder for being a safe driver.",
+        "The amount of tax paid on the claim payout."
+      ],
+      "correct_index": 1,
+      "explanation": "Deductibles ensure that the insured bears a small part of the loss, discouraging frivolous small claims and promoting better care of the vehicle."
+    },
+    {
+      "id": "ch25_q19",
+      "text": "Overseas Travel Insurance is generally mandatory for which category of travelers?",
+      "options": [
+        "Travelers going to another city within India.",
+        "Travelers going on a pilgrimage within their own state.",
+        "Travelers applying for a 'Schengen Visa' to visit European countries.",
+        "Travelers using their own private car for a trip."
+      ],
+      "correct_index": 2,
+      "explanation": "While recommended for everyone, many countries (especially Schengen nations) make travel insurance a compulsory requirement for the visa application process."
+    },
+    {
+      "id": "ch25_q20",
+      "text": "In a Personal Accident policy, if the insured dies in an accident, the claim amount is paid to:",
+      "options": [
+        "The Hospital management.",
+        "The Police department.",
+        "The Insurance Agent.",
+        "The Nominee or legal heirs of the insured."
+      ],
+      "correct_index": 3,
+      "explanation": "In the event of accidental death, the benefit (Sum Insured) is paid to the nominee designated by the policyholder to provide financial support to the family."
+    },
+    {
+      "id": "ch25_q21",
+      "text": "Which document is required to prove that a vehicle is correctly insured for its Third Party Liability?",
+      "options": [
+        "Certificate of Insurance",
+        "Manufacturer's manual",
+        "Driver's license",
+        "PUC (Pollution) certificate"
+      ],
+      "correct_index": 0,
+      "explanation": "The Certificate of Insurance is the legal proof required by traffic authorities to verify that the vehicle complies with the compulsory insurance laws."
+    },
+    {
+      "id": "ch25_q22",
+      "text": "What is covered under the 'Money-in-Transit' section of a Retail Business policy?",
+      "options": [
+        "Loss of digital currency from a bank account.",
+        "Loss of business cash due to robbery while it is being carried between the shop and the bank.",
+        "Loss of profit due to a slow economy.",
+        "Loss of personal jewelry from the owner's home."
+      ],
+      "correct_index": 1,
+      "explanation": "Money-in-Transit specifically protects the physical cash of a business against theft or robbery while it is being moved by the owner or authorized employees."
+    },
+    {
+      "id": "ch25_q23",
+      "text": "Why is 'Retail' insurance considered 'standardized'?",
+      "options": [
+        "Because it is sold only in retail shopping malls.",
+        "Because it is designed only for rich corporate executives.",
+        "Because the policies have uniform terms and conditions to cater to a large number of individual customers easily.",
+        "Because the government sets the premium for every individual customer."
+      ],
+      "correct_index": 2,
+      "explanation": "Retail policies are mass-market products. They are standardized so that they can be sold quickly and efficiently to millions of individuals without needing complex, customized underwriting."
+    },
+    {
+      "id": "ch25_q24",
+      "text": "Under a 'Householders' Package Policy', which of the following is usually NOT covered?",
+      "options": [
+        "Damage to the building due to a fire.",
+        "Theft of electronic gadgets from the house.",
+        "Legal liability to domestic servants under the Workmen's Compensation Act.",
+        "Routine wear and tear or gradual depreciation of furniture."
+      ],
+      "correct_index": 3,
+      "explanation": "Insurance covers sudden and accidental losses. Gradual deterioration, rust, or normal wear and tear that happens over time is never covered by any general insurance policy."
+    },
+    {
+      "id": "ch25_q25",
+      "text": "If a policyholder buys a 'Critical Illness' policy and is diagnosed with a covered major illness (like Kidney Failure), the company will pay:",
+      "options": [
+        "Only the pharmacy bills.",
+        "The entire Sum Insured as a lump-sum payout, regardless of the actual treatment cost.",
+        "Double the amount of the agent's commission.",
+        "Nothing, until the person is hospitalized for 30 days."
+      ],
+      "correct_index": 1,
+      "explanation": "Critical Illness is a benefit-based retail product. It provides a large lump sum upon diagnosis to help the family manage lifestyle changes and non-medical costs associated with severe diseases."
+    }
+  ]
+}

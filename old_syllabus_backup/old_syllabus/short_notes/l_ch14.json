@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒ¢í∩╕Å Policy Conditions II",
+      "cards": [
+        {
+          "title": "Free Look Period",
+          "content": "ΓÇó 30 Days: Time given to the policyholder to review the terms. (IRDAI recently changed this from 15 to 30 days).\nΓÇó If cancelled, premium is refunded after deducting stamp duty and medical test costs.",
+          "color": "green"
+        },
+        {
+          "title": "Paid-up & Surrender",
+          "content": "ΓÇó Surrender: Terminating the policy to get cash back (Guaranteed Surrender Value).\nΓÇó Paid-up Value: If you stop paying premiums but don't surrender, the policy continues with a reduced Sum Assured.",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒöÉ Important Clauses",
+      "items": [
+        {
+          "year": "Suicide",
+          "text": "Suicide Clause: If suicide occurs within 1 year of inception/revival, only 80% of premiums are returned (no death claim)."
+        },
+        {
+          "year": "Indisputable",
+          "text": "Section 45: After 3 years, a policy CANNOT be questioned or cancelled by the insurer on any grounds (including fraud)."
+        },
+        {
+          "year": "Loans",
+          "text": "Policy Loans: Can be taken up to a certain percentage (usually 90%) of the Surrender Value."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Guaranteed Surrender Value is acquired only after at least 2 full years' premiums are paid.",
+        "Paid-up Value = (No. of premiums paid / Total premiums payable) ├ù Sum Assured.",
+        "Foreclosure: If loan + interest exceeds the Surrender Value, the insurer will cancel the policy.",
+        "Alterations (like changing the premium mode or reducing sum assured) can be requested via endorsement.",
+        "Duplicate policies require an Indemnity Bond and sometimes an advertisement in a newspaper."
+      ]
+    }
+  ]
+}

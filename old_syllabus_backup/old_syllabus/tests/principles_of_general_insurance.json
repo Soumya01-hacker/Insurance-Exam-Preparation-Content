@@ -1,0 +1,307 @@
+{
+  "chapter_id": "principles_of_general_insurance",
+  "chapter_title": "Chapter 22: Principles of General Insurance",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch22_q1",
+      "text": "What is the fundamental principle that ensures an insured person does not make a financial profit out of an insurance claim in general insurance?",
+      "options": [
+        "Principle of Subrogation",
+        "Principle of Indemnity",
+        "Principle of Proximate Cause",
+        "Principle of Contribution"
+      ],
+      "correct_index": 1,
+      "explanation": "The Principle of Indemnity ensures that the insured is compensated exactly for the actual financial loss suffered, restoring them to the same financial position they were in just before the loss, without making any profit."
+    },
+    {
+      "id": "ch22_q2",
+      "text": "Under the Principle of Contribution, what happens if a factory owner insures his warehouse with two different insurance companies for the same risk?",
+      "options": [
+        "He gets double the claim amount, making a profit.",
+        "The second policy is automatically cancelled.",
+        "Both companies share the actual loss proportionately based on their Sum Insured.",
+        "The government takes over the claim settlement."
+      ],
+      "correct_index": 2,
+      "explanation": "Contribution prevents double profit. If multiple policies cover the same property, all insurers will pool together and share the exact loss amount proportionately. The insured cannot claim more than the actual loss."
+    },
+    {
+      "id": "ch22_q3",
+      "text": "Which principle gives the insurance company the legal right to step into the shoes of the insured and sue a guilty third party who caused the accident?",
+      "options": [
+        "Insurable Interest",
+        "Utmost Good Faith",
+        "Condition of Average",
+        "Principle of Subrogation"
+      ],
+      "correct_index": 3,
+      "explanation": "Subrogation is the transfer of legal rights. After the insurer pays the claim to the policyholder, they gain the right to sue the third party responsible for the damage to recover the money."
+    },
+    {
+      "id": "ch22_q4",
+      "text": "In a Marine Cargo Insurance contract, when is it legally required for the policyholder to have 'Insurable Interest' in the goods?",
+      "options": [
+        "Only at the exact time of the loss",
+        "Only at the time of buying the policy",
+        "Both at inception and at the time of loss",
+        "It is never required in marine insurance"
+      ],
+      "correct_index": 0,
+      "explanation": "Unlike fire insurance, marine cargo goods are frequently bought and sold while the ship is mid-sea. Therefore, the law requires insurable interest to exist only at the time the actual loss or damage occurs."
+    },
+    {
+      "id": "ch22_q5",
+      "text": "A house worth Rs. 10 Lakhs is insured for only Rs. 5 Lakhs. A fire causes a loss of Rs. 2 Lakhs. Applying the 'Condition of Average', how much will the insurance company pay?",
+      "options": [
+        "Rs. 2 Lakhs",
+        "Rs. 1 Lakh",
+        "Rs. 5 Lakhs",
+        "Nothing is payable"
+      ],
+      "correct_index": 1,
+      "explanation": "The house is 50% under-insured (5 Lakhs out of 10 Lakhs). Under the Condition of Average, the insurer acts as a co-insurer for the remaining 50%. Thus, they will only pay 50% of the actual loss (Rs. 1 Lakh)."
+    },
+    {
+      "id": "ch22_q6",
+      "text": "The Latin term 'Causa Proxima' (Proximate Cause) refers to:",
+      "options": [
+        "The very first event in a timeline of a year.",
+        "A totally unrelated accident.",
+        "The most distant cause of an accident.",
+        "The direct, active, and efficient cause that sets in motion a chain of events leading to the loss."
+      ],
+      "correct_index": 3,
+      "explanation": "When a loss is caused by multiple events happening together, the insurer looks for the Proximate Cause—the most dominant and effective cause—to decide if the claim is payable under the policy."
+    },
+    {
+      "id": "ch22_q7",
+      "text": "Which of the following types of general insurance policies is an absolute EXCEPTION to the strict Principle of Indemnity?",
+      "options": [
+        "Motor Insurance",
+        "Marine Hull Insurance",
+        "Personal Accident Insurance",
+        "Burglary Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Like Life Insurance, Personal Accident insurance covers human life/limbs, which cannot be accurately valued in money. Hence, it pays a pre-fixed Sum Assured, making it an exception to strict indemnity."
+    },
+    {
+      "id": "ch22_q8",
+      "text": "In Fire Insurance, when is it legally required for the policyholder to possess 'Insurable Interest'?",
+      "options": [
+        "Both at the time of taking the policy AND at the time of the loss",
+        "Only at the time of taking the policy",
+        "Only at the time of the loss",
+        "Only at the time of paying the premium"
+      ],
+      "correct_index": 0,
+      "explanation": "Fire insurance is very strict. You must own or have a financial interest in the property when you buy the policy, and you must still have that interest when the fire actually happens."
+    },
+    {
+      "id": "ch22_q9",
+      "text": "After an insurance company pays a 'Total Loss' claim for a completely wrecked car, who legally owns the damaged remains (salvage) of that car?",
+      "options": [
+        "The original car owner",
+        "The Police Department",
+        "The RTO",
+        "The Insurance Company"
+      ],
+      "correct_index": 3,
+      "explanation": "To prevent the insured from making a profit by selling the scrap after taking the full claim amount, the legal ownership of the salvage transfers to the insurance company."
+    },
+    {
+      "id": "ch22_q10",
+      "text": "The Principle of Subrogation is actually a direct extension (corollary) of which main legal principle?",
+      "options": [
+        "Insurable Interest",
+        "Principle of Indemnity",
+        "Utmost Good Faith",
+        "Proximate Cause"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation exists strictly to support Indemnity. It ensures that the insured gets compensated only once (from the insurer) and does not double-profit by also suing the guilty third party for cash."
+    },
+    {
+      "id": "ch22_q11",
+      "text": "A factory owner hides the fact that he stores explosive chemicals in his warehouse when buying fire insurance. A fire breaks out. This act is a direct breach of:",
+      "options": [
+        "Principle of Contribution",
+        "Principle of Subrogation",
+        "Principle of Utmost Good Faith (Uberrima Fides)",
+        "Principle of Average"
+      ],
+      "correct_index": 2,
+      "explanation": "Concealing a material fact (like explosive storage) breaches Utmost Good Faith. The insurer has the legal right to declare the policy void and reject the claim entirely."
+    },
+    {
+      "id": "ch22_q12",
+      "text": "If a loss is caused by two simultaneous perils—one covered by the policy and one explicitly excluded—how does the insurer determine liability?",
+      "options": [
+        "By automatically paying 50% of the claim.",
+        "By consulting the agent who sold the policy.",
+        "By rejecting the claim entirely without investigation.",
+        "By identifying the Proximate Cause to see if it was the covered peril or the excluded peril."
+      ],
+      "correct_index": 3,
+      "explanation": "The insurer uses the rule of Proximate Cause. If the dominant, active cause was the covered peril, the claim is paid. If the dominant cause was the excluded peril, the claim is rejected."
+    },
+    {
+      "id": "ch22_q13",
+      "text": "Which of the following phrases best describes the 'Condition of Average' in general insurance?",
+      "options": [
+        "A penalty clause applied when the property is under-insured compared to its actual market value.",
+        "A discount given to average-income earners.",
+        "A rule that allows the insurer to cancel average policies.",
+        "A formula used only in life insurance."
+      ],
+      "correct_index": 0,
+      "explanation": "The Condition of Average is designed to penalize under-insurance. If you insure a property for less than its true value to save on premium, the insurer will proportionately reduce your claim payout."
+    },
+    {
+      "id": "ch22_q14",
+      "text": "A fire breaks out in a house. Firefighters spray water to extinguish the flames, but the water severely damages the expensive wooden furniture. What is the Proximate Cause of the damaged furniture?",
+      "options": [
+        "The Water",
+        "The Fire",
+        "The Firefighters",
+        "The Furniture Quality"
+      ],
+      "correct_index": 1,
+      "explanation": "The fire was the active, efficient cause that set the chain of events into motion (causing the firefighters to use water). Therefore, Fire is the proximate cause, and the fire insurance policy will pay for the water damage."
+    },
+    {
+      "id": "ch22_q15",
+      "text": "Can an insured person legally claim the full loss amount twice from two different insurance companies for the same damaged property?",
+      "options": [
+        "Yes, if they paid premiums to both companies.",
+        "Yes, but only if the loss is below Rs. 1 Lakh.",
+        "No, because it violates the principles of Indemnity and Contribution.",
+        "Only if they get permission from IRDAI."
+      ],
+      "correct_index": 2,
+      "explanation": "You cannot make a profit from a loss. Under the Principle of Contribution, multiple insurers will share the loss so the total payout never exceeds the actual financial loss suffered."
+    },
+    {
+      "id": "ch22_q16",
+      "text": "Under a Marine Cargo Insurance policy, who normally holds the 'Insurable Interest' in the goods while they are in transit on a ship?",
+      "options": [
+        "The Captain of the ship",
+        "The Insurance Agent",
+        "The local port authority",
+        "The owner or the buyer of the goods who bears the financial risk of loss"
+      ],
+      "correct_index": 3,
+      "explanation": "Insurable interest means suffering a financial loss if the goods sink. The person who owns the goods or is financially responsible for them during transit (buyer or seller, depending on trade terms) holds this interest."
+    },
+    {
+      "id": "ch22_q17",
+      "text": "The strict legal duty to observe Utmost Good Faith applies to:",
+      "options": [
+        "Both the proposer (customer) and the insurance company equally.",
+        "Only the proposer.",
+        "Only the insurance agent.",
+        "Only the insurance company."
+      ],
+      "correct_index": 0,
+      "explanation": "Utmost Good Faith is a two-way street. The customer must honestly disclose all material risks, and the insurer must transparently disclose all policy terms, conditions, and exclusions."
+    },
+    {
+      "id": "ch22_q18",
+      "text": "What happens if a factory owner deliberately sets his own loss-making factory on fire to claim the insurance money?",
+      "options": [
+        "The insurer pays the claim but cancels the policy.",
+        "The claim is completely rejected due to lack of a fortuitous (accidental) proximate cause and a breach of good faith.",
+        "The insurer pays 50% of the claim as a settlement.",
+        "The money is paid to the workers instead."
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance only covers fortuitous (accidental and unpredictable) events. Intentional damage (arson) by the insured is a criminal fraud, destroying the contract completely."
+    },
+    {
+      "id": "ch22_q19",
+      "text": "A bailee (such as a dry cleaner or a warehouse owner) has an 'Insurable Interest' in the goods belonging to their customers up to what extent?",
+      "options": [
+        "Unlimited amount",
+        "They have no insurable interest since they don't own the goods.",
+        "Only the profit margin they make on the service.",
+        "The potential legal liability they hold if the goods are damaged or stolen while in their custody."
+      ],
+      "correct_index": 3,
+      "explanation": "Even though a dry cleaner doesn't own your suit, they are legally liable to pay you if they destroy it. This potential legal liability creates an Insurable Interest, allowing them to insure the customer's goods."
+    },
+    {
+      "id": "ch22_q20",
+      "text": "Which of the following is the exact mathematical formula used by surveyors to calculate a claim payout when the 'Condition of Average' is applied?",
+      "options": [
+        "(Actual Loss / Sum Insured) x Market Value",
+        "(Market Value / Actual Loss) x Sum Insured",
+        "(Sum Insured / Actual Market Value of Property) x Actual Loss",
+        "(Sum Insured + Actual Loss) / 2"
+      ],
+      "correct_index": 2,
+      "explanation": "The formula proportionately reduces the claim. If Sum Insured is 50% of the Actual Market Value, the insurer pays exactly 50% of the Actual Loss."
+    },
+    {
+      "id": "ch22_q21",
+      "text": "Does a bank that has granted a loan against a commercial truck have an insurable interest in that truck?",
+      "options": [
+        "Yes, strictly up to the extent of the outstanding loan amount.",
+        "No, because the bank doesn't drive the truck.",
+        "Yes, for an unlimited amount regardless of the loan.",
+        "Only if the truck driver dies in an accident."
+      ],
+      "correct_index": 0,
+      "explanation": "A lender (bank) has a direct financial interest in the asset that acts as collateral. If the truck is destroyed, the loan becomes unsecured. Their insurable interest is exactly equal to the unpaid loan balance."
+    },
+    {
+      "id": "ch22_q22",
+      "text": "The Principle of Subrogation is designed primarily to prevent the insured policyholder from:",
+      "options": [
+        "Changing their insurance company.",
+        "Collecting full compensation from the insurance company AND then suing the guilty third party for cash, thereby making a double profit.",
+        "Filing a claim after 30 days.",
+        "Taking a loan against the policy."
+      ],
+      "correct_index": 1,
+      "explanation": "Once the insurer compensates the victim, the victim cannot legally sue the person who caused the accident for the same damage. The right to sue transfers exclusively to the insurer."
+    },
+    {
+      "id": "ch22_q23",
+      "text": "Under the duty of disclosure, which of the following facts is an insured person NOT legally bound to disclose to the underwriter?",
+      "options": [
+        "Previous claims rejected by other insurance companies.",
+        "The existence of hazardous materials near the property.",
+        "Facts that are common public knowledge or matters of law (e.g., that a war is going on).",
+        "A history of severe medical illnesses."
+      ],
+      "correct_index": 2,
+      "explanation": "A proposer does not need to disclose things the insurer is already presumed to know, such as public knowledge, matters of law, or facts that actually lessen the risk."
+    },
+    {
+      "id": "ch22_q24",
+      "text": "Which of the following lines of insurance is generally NOT subject to the Principle of Contribution, even if a person holds multiple policies?",
+      "options": [
+        "Fire Insurance",
+        "Marine Insurance",
+        "Motor Insurance",
+        "Life Insurance"
+      ],
+      "correct_index": 3,
+      "explanation": "Because Life Insurance is not a strict contract of indemnity (you can't value a human life), the principle of contribution does not apply. If a person has 5 life policies, all 5 will pay the full death claim."
+    },
+    {
+      "id": "ch22_q25",
+      "text": "In Marine Insurance, if a heavily damaged ship is abandoned because the cost of repairing it exceeds its value, the formal transfer of rights to the insurer is known as a 'Notice of...':",
+      "options": [
+        "Abandonment",
+        "Assignment",
+        "Subrogation",
+        "Foreclosure"
+      ],
+      "correct_index": 0,
+      "explanation": "When a 'Constructive Total Loss' happens in marine insurance, the shipowner issues a Notice of Abandonment to the insurer. They surrender the damaged ship to the insurer and claim the full Sum Insured."
+    }
+  ]
+}

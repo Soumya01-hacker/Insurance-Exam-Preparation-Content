@@ -1,0 +1,307 @@
+{
+  "chapter_id": "payments_under_life_insurance_claims",
+  "chapter_title": "Chapter 16: Payments under a Life Insurance Policy - Claims",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch16_q1",
+      "text": "What type of claim arises when the policyholder safely outlives the entire stipulated term of an endowment policy?",
+      "options": [
+        "Maturity Claim",
+        "Death Claim",
+        "Rider Claim",
+        "Surrender Claim"
+      ],
+      "correct_index": 0,
+      "explanation": "A Maturity Claim is triggered when the policy term ends and the life assured is still alive. The insurance company pays the guaranteed sum assured plus any accumulated bonuses."
+    },
+    {
+      "id": "ch16_q2",
+      "text": "According to standard life insurance rules, an 'Early Death Claim' is a death claim that occurs within how many years from the commencement or revival of the policy?",
+      "options": [
+        "1 Year",
+        "3 Years",
+        "5 Years",
+        "7 Years"
+      ],
+      "correct_index": 1,
+      "explanation": "If the life assured dies within 3 years of taking the policy or reviving it, it is classified as an Early Death Claim. These claims are subjected to strict investigation to rule out fraud."
+    },
+    {
+      "id": "ch16_q3",
+      "text": "Section 45 of the Insurance Act, 1938 is famously and legally known as the:",
+      "options": [
+        "Nomination Clause",
+        "Assignment Clause",
+        "Indisputability Clause",
+        "Grace Period Clause"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 45 is the 'Indisputability Clause'. It protects the policyholder's family by preventing the insurance company from rejecting an old policy on the grounds of minor misstatements."
+    },
+    {
+      "id": "ch16_q4",
+      "text": "As per the amended Section 45 of the Insurance Act, no life insurance policy can be called into question (rejected) on any ground whatsoever after the expiry of how many years?",
+      "options": [
+        "1 Year",
+        "2 Years",
+        "5 Years",
+        "3 Years"
+      ],
+      "correct_index": 3,
+      "explanation": "The 2015 amendment to Section 45 strictly states that after 3 years from the date of issuance or revival, the insurance company cannot reject a death claim for ANY reason, not even proven fraud."
+    },
+    {
+      "id": "ch16_q5",
+      "text": "If a death occurs within the 'early claim' period, the insurance company typically subjects the claim to:",
+      "options": [
+        "An intensive investigation to check for fraud, suicide, or non-disclosure of pre-existing diseases",
+        "Immediate rejection without any process",
+        "A mandatory 50% penalty deduction from the sum assured",
+        "Compulsory arbitration before a judge"
+      ],
+      "correct_index": 0,
+      "explanation": "Early claims (within 3 years) ring an alarm bell for 'Moral Hazard'. Insurers investigate these heavily to ensure the person didn't buy the policy hiding a terminal illness."
+    },
+    {
+      "id": "ch16_q6",
+      "text": "Which of the following is the standard, legally required basic document to initiate a death claim process?",
+      "options": [
+        "Moral Hazard Report",
+        "Agent's Appointment Letter",
+        "Death Certificate issued by the local municipal authority",
+        "Pan Card of the insurance agent"
+      ],
+      "correct_index": 2,
+      "explanation": "The original or attested Death Certificate from the local government (Municipal Corporation/Panchayat) is the primary legal proof of death required to process the claim."
+    },
+    {
+      "id": "ch16_q7",
+      "text": "In a Money-Back policy, the periodic partial payouts given to the policyholder while they are still alive are called:",
+      "options": [
+        "Maturity Benefits",
+        "Survival Benefits",
+        "Death Benefits",
+        "Surrender Benefits"
+      ],
+      "correct_index": 1,
+      "explanation": "Survival Benefits are the regular installments (e.g., 20% of Sum Assured every 5 years) paid to the policyholder strictly on the condition that they 'survive' up to that specific date."
+    },
+    {
+      "id": "ch16_q8",
+      "text": "Under a life insurance policy, if the insured commits suicide within one year of the date of commencement or revival, what amount is legally payable?",
+      "options": [
+        "100% of the Sum Assured",
+        "Double the Sum Assured",
+        "Nothing is payable at all",
+        "80% of the total premiums paid till the date of death (or surrender value, whichever is higher)"
+      ],
+      "correct_index": 3,
+      "explanation": "To prevent moral hazard, suicide within 1 year is excluded from full coverage. The company only pays 80% of the premiums paid (or the acquired surrender value), ensuring the family gets some relief without rewarding fraud."
+    },
+    {
+      "id": "ch16_q9",
+      "text": "Who is the legally rightful person to receive the claim money if the policy was 'Absolutely Assigned' before death?",
+      "options": [
+        "The Assignee",
+        "The Nominee",
+        "The Legal Heirs of the Assured",
+        "The Insurance Agent"
+      ],
+      "correct_index": 0,
+      "explanation": "Absolute assignment transfers full ownership of the policy. Therefore, the Assignee becomes the owner and is the only person legally entitled to receive the death or maturity claim."
+    },
+    {
+      "id": "ch16_q10",
+      "text": "If a life assured is reported missing and their dead body is not found, under the Indian Evidence Act, the person is presumed dead only after they have not been heard of for at least:",
+      "options": [
+        "3 Years",
+        "7 Years",
+        "10 Years",
+        "12 Years"
+      ],
+      "correct_index": 1,
+      "explanation": "Under Section 108 of the Indian Evidence Act, if a person is missing and not heard of by their family for 7 continuous years, the court presumes them dead, allowing the insurance company to pay the death claim."
+    },
+    {
+      "id": "ch16_q11",
+      "text": "What is the primary purpose of obtaining an 'Attending Physician's Statement' during an early death claim investigation?",
+      "options": [
+        "To calculate the final maturity bonus",
+        "To check the agent's commission percentage",
+        "To verify the exact cause of death and check if any pre-existing illnesses were hidden during the proposal",
+        "To officially change the nominee details"
+      ],
+      "correct_index": 2,
+      "explanation": "The doctor who treated the deceased during their last illness provides this statement. It helps the underwriter confirm if the person died of a sudden accident or a long-term illness that was hidden from the company."
+    },
+    {
+      "id": "ch16_q12",
+      "text": "To successfully claim a 'Maturity Benefit', the policyholder must surrender which important document to the insurance company along with the discharge voucher?",
+      "options": [
+        "Their original birth certificate",
+        "The First Premium Receipt (FPR)",
+        "The agent's ID card",
+        "The original Policy Document"
+      ],
+      "correct_index": 3,
+      "explanation": "Since the contract ends upon maturity, the policyholder must return the Original Policy Document to the insurance company to receive the maturity payout and officially close the contract."
+    },
+    {
+      "id": "ch16_q13",
+      "text": "If there is a delay in paying the claim beyond the stipulated time by the insurance company, the company is legally mandated by IRDAI to pay:",
+      "options": [
+        "Double the Sum Assured",
+        "Penal interest at a rate 2% above the prevailing bank rate",
+        "A complete refund of all premiums paid",
+        "Nothing, delays are legally accepted"
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI protects consumers. If the insurer delays the claim payment unnecessarily, they must pay the claimant penal interest at a rate 2% higher than the current bank rate for the delayed period."
+    },
+    {
+      "id": "ch16_q14",
+      "text": "In case of a claim where the original policy document is lost or destroyed, the claimant must execute an 'Indemnity Bond'. Why?",
+      "options": [
+        "To protect the insurance company from future financial loss if someone else produces the original policy and claims the money",
+        "To pay a legal fine to the state government",
+        "To officially transfer the claim to a charity trust",
+        "To waive the remaining premium payments"
+      ],
+      "correct_index": 0,
+      "explanation": "An Indemnity Bond is a legal promise. The claimant guarantees that if the lost policy is found later and someone else tries to claim the money, the claimant will compensate the insurance company."
+    },
+    {
+      "id": "ch16_q15",
+      "text": "An employer claims the death benefit of a Keyman Insurance policy. This claim amount received by the employer will be:",
+      "options": [
+        "Paid entirely to the Keyman's widow by law",
+        "Exempt from all income taxes",
+        "Treated as taxable business income/profit for the employer",
+        "Returned to IRDAI's claim fund"
+      ],
+      "correct_index": 2,
+      "explanation": "Since the employer claimed the premiums as a business expense to save tax earlier, the death claim amount received is added back to their revenue and taxed as normal business income."
+    },
+    {
+      "id": "ch16_q16",
+      "text": "If a policyholder dies after the grace period expires without paying the renewal premium, what is the status of the death claim?",
+      "options": [
+        "It is paid fully with double bonus",
+        "It is automatically treated as an early claim",
+        "It is paid by the insurance agent personally",
+        "The claim is rejected as the policy is lapsed, and only the paid-up value (if acquired) is payable"
+      ],
+      "correct_index": 3,
+      "explanation": "If death occurs after the grace period, the policy is officially lapsed and the risk cover is off. The company is not liable to pay the Sum Assured. They will only pay the reduced Paid-up value if the policy ran for at least 2-3 years."
+    },
+    {
+      "id": "ch16_q17",
+      "text": "A 'Non-Early Death Claim' refers to a death claim where the death occurs:",
+      "options": [
+        "Within the first 6 months of the policy",
+        "After 3 years from the date of commencement or revival of the policy",
+        "Only after the maturity date of the policy",
+        "Due to a natural disaster"
+      ],
+      "correct_index": 1,
+      "explanation": "Claims arising after 3 full years of the policy running smoothly are 'Non-Early'. Under Section 45, these are highly secure claims and are usually settled quickly with minimal investigation."
+    },
+    {
+      "id": "ch16_q18",
+      "text": "Which document acts as a formal, legal receipt confirming that the claimant has received the settlement amount and releases the insurer from any further liability?",
+      "options": [
+        "First Premium Receipt",
+        "Endorsement Clause",
+        "Discharge Voucher / Discharge Form",
+        "Moral Hazard Report"
+      ],
+      "correct_index": 2,
+      "explanation": "Before releasing the payment, the company sends a 'Discharge Voucher'. By signing it, the claimant agrees that this payment is the final settlement and the contract is officially closed."
+    },
+    {
+      "id": "ch16_q19",
+      "text": "If a sole nominee dies before the settlement of the death claim, the claim amount is legally payable to:",
+      "options": [
+        "The legal heirs of the deceased policyholder",
+        "The legal heirs of the deceased nominee",
+        "The State Government's welfare fund",
+        "The Insurance Agent who sold the policy"
+      ],
+      "correct_index": 0,
+      "explanation": "A nominee is just a trustee, not the owner. If the nominee dies, the right to receive the money reverts back to the original policyholder's estate, meaning it goes to the policyholder's legal heirs."
+    },
+    {
+      "id": "ch16_q20",
+      "text": "Double Indemnity (Accidental Death Benefit) rider claims usually require which additional legal documents that are NOT needed in a normal natural death claim?",
+      "options": [
+        "School Leaving Certificate of the deceased",
+        "Marriage Certificate of the nominee",
+        "Income Tax Returns of the last 3 years",
+        "Police FIR, Inquest Report, and Post-Mortem Report"
+      ],
+      "correct_index": 3,
+      "explanation": "To pay the extra accidental death benefit, the insurance company must legally prove the death was caused purely by an accident. Police FIRs and Post-Mortem reports provide this critical proof."
+    },
+    {
+      "id": "ch16_q21",
+      "text": "Which specific legal concept ensures that an insurance company cannot harass a family by investigating minor errors in a policy that has been running for decades?",
+      "options": [
+        "Subrogation",
+        "Indisputability (Section 45)",
+        "Contribution",
+        "Condition of Average"
+      ],
+      "correct_index": 1,
+      "explanation": "The principle of Indisputability (codified in Section 45) protects the consumer. It puts a strict 3-year deadline on the insurer to find any fraud. After 3 years, the policy cannot be disputed."
+    },
+    {
+      "id": "ch16_q22",
+      "text": "When an insurance company officially and entirely denies its liability to pay a death claim (often due to proven fraud or non-disclosure), this action is legally termed as:",
+      "options": [
+        "Assignment",
+        "Postponement",
+        "Repudiation",
+        "Commutation"
+      ],
+      "correct_index": 2,
+      "explanation": "Repudiation means rejection. When an insurer repudiates a claim, they are formally stating that the policyholder breached the contract (like hiding cancer), making the claim invalid."
+    },
+    {
+      "id": "ch16_q23",
+      "text": "Which type of claim specifically requires the submission of an 'Employer's Certificate of Leave / Absence' to the insurance company?",
+      "options": [
+        "Surrender Claim",
+        "Early Death Claim of a salaried employee",
+        "Survival Benefit",
+        "Maturity Claim"
+      ],
+      "correct_index": 1,
+      "explanation": "During an early death claim investigation of a salaried person, the insurer checks their leave records. Frequent sick leaves before buying the policy might indicate they were hiding an illness."
+    },
+    {
+      "id": "ch16_q24",
+      "text": "In case of a claim where the original policy document is lost or destroyed, the claimant must execute an 'Indemnity Bond'. Why?",
+      "options": [
+        "To protect the insurance company from future financial loss if someone else produces the original policy and claims the money",
+        "To pay a legal fine to the state government",
+        "To officially transfer the claim to a charity trust",
+        "To waive the remaining premium payments"
+      ],
+      "correct_index": 0,
+      "explanation": "An Indemnity Bond is a legal promise. The claimant guarantees that if the lost policy is found later and someone else tries to claim the money, the claimant will compensate the insurance company."
+    },
+    {
+      "id": "ch16_q25",
+      "text": "Under a pure Term Insurance policy, what claim amount is payable if the life assured survives till the exact end (maturity) of the policy term?",
+      "options": [
+        "100% of the Sum Assured",
+        "All premiums paid plus loyalty bonus",
+        "Half of the Sum Assured",
+        "Nothing (Zero) is payable"
+      ],
+      "correct_index": 3,
+      "explanation": "A pure term policy covers only the risk of death. It has no savings component. If the insured person does not die during the term, the policy expires and no maturity or survival claim is paid."
+    }
+  ]
+}

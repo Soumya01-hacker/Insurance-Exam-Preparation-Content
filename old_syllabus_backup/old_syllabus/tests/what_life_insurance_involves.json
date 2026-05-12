@@ -1,0 +1,307 @@
+{
+  "chapter_id": "what_life_insurance_involves",
+  "chapter_title": "Chapter 6: What Life Insurance Involves",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch6_q1",
+      "text": "The concept of 'Human Life Value' (HLV) was invented by which famous professor?",
+      "options": [
+        "Prof. S.S. Huebner",
+        "Dr. Arthur Hunter",
+        "RN Malhotra",
+        "Adam Smith"
+      ],
+      "correct_index": 0,
+      "explanation": "Prof. S.S. Huebner created the concept of Human Life Value (HLV) to calculate the economic value of a human life based on their future earning capacity."
+    },
+    {
+      "id": "ch6_q2",
+      "text": "What does the 'Level Premium System' in life insurance mean?",
+      "options": [
+        "Premium increases every year as age increases",
+        "Premium remains the same (fixed) throughout the entire policy term",
+        "Premium decreases as the person gets older",
+        "Premium changes depending on market inflation"
+      ],
+      "correct_index": 1,
+      "explanation": "In a level premium system, the insurance company averages out the risk cost so that the policyholder pays a constant, fixed amount of premium every year for the entire term."
+    },
+    {
+      "id": "ch6_q3",
+      "text": "In life insurance, which of the following represents the 'asset' being insured?",
+      "options": [
+        "The physical house of the person",
+        "The bank balance of the person",
+        "The economic value / income generating capacity of the human life",
+        "The physical body of the insured"
+      ],
+      "correct_index": 2,
+      "explanation": "Unlike general insurance which protects physical assets like cars or houses, life insurance protects the 'economic value' (future earning capacity) of the human life."
+    },
+    {
+      "id": "ch6_q4",
+      "text": "Why is an 'investment element' or 'cash reserve' automatically built into the Level Premium system?",
+      "options": [
+        "To give high bonuses to agents",
+        "To reduce the tax burden of the company",
+        "Because IRDAI legally mandates a savings account for everyone",
+        "To compensate for the higher mortality risk in later years without increasing the premium"
+      ],
+      "correct_index": 3,
+      "explanation": "In early years, level premium collects more than the actual risk cost. This excess is saved as a 'reserve' (cash value) to pay for the higher risk of death when the person gets much older, keeping the premium level."
+    },
+    {
+      "id": "ch6_q5",
+      "text": "How is Human Life Value (HLV) generally calculated in practical terms?",
+      "options": [
+        "By calculating the present value of future net earnings of the person",
+        "By adding the total loans taken by the person",
+        "By multiplying the person's age with their weight",
+        "By checking the current bank balance of the proposer"
+      ],
+      "correct_index": 0,
+      "explanation": "HLV is calculated by taking the net income a person brings to their family and estimating its present financial value over their remaining working years."
+    },
+    {
+      "id": "ch6_q6",
+      "text": "When calculating the net income for HLV, which component is strictly deducted from the gross income?",
+      "options": [
+        "Office expenses and travel costs",
+        "Personal self-maintenance expenses (like the person's own food/clothing)",
+        "Children's school fees",
+        "House rent paid by the family"
+      ],
+      "correct_index": 1,
+      "explanation": "To calculate HLV, we deduct the amount the earner spends on themselves (self-maintenance) because if they die, that expense also stops. The remainder is what the family actually loses."
+    },
+    {
+      "id": "ch6_q7",
+      "text": "Unlike a fire insurance contract, a life insurance contract is fundamentally considered a contract of:",
+      "options": [
+        "Strict Indemnity",
+        "Wagering (Gambling)",
+        "Guarantee / Fixed Benefit",
+        "Profit making"
+      ],
+      "correct_index": 2,
+      "explanation": "Life insurance is a 'Valued' or Fixed Benefit contract. It pays a pre-agreed guaranteed amount (Sum Assured) upon death, unlike general insurance which pays only exact indemnity for the loss."
+    },
+    {
+      "id": "ch6_q8",
+      "text": "Which of the following risk management techniques best describes the mechanism of purchasing life insurance?",
+      "options": [
+        "Risk Avoidance",
+        "Risk Retention",
+        "Risk Reduction",
+        "Risk Transfer"
+      ],
+      "correct_index": 3,
+      "explanation": "By buying insurance and paying a premium, the policyholder 'transfers' the heavy financial risk of premature death to the insurance company."
+    },
+    {
+      "id": "ch6_q9",
+      "text": "Under the 'Natural Premium' system (not the level premium system), what happens to the life insurance premium as a person's age increases?",
+      "options": [
+        "The premium increases every year because the risk of death increases",
+        "The premium decreases to help senior citizens",
+        "The premium stays completely fixed",
+        "The premium becomes zero after 10 years"
+      ],
+      "correct_index": 0,
+      "explanation": "In a natural premium system, the premium matches the exact risk for that specific age. Since mortality risk goes up with age, the premium would increase every single year."
+    },
+    {
+      "id": "ch6_q10",
+      "text": "What happens in the early years of a 'Level Premium' life insurance policy?",
+      "options": [
+        "The premium charged is less than the actual risk cost",
+        "The premium charged is more than the actual risk cost",
+        "The premium exactly matches the risk cost",
+        "No premium is charged at all"
+      ],
+      "correct_index": 1,
+      "explanation": "To keep the premium 'level' for the whole term, the company charges more than the actual cost of risk during the early (younger) years and saves the excess."
+    },
+    {
+      "id": "ch6_q11",
+      "text": "The excess money collected by the insurer in the early years of a level premium policy forms what is known as the:",
+      "options": [
+        "Agent's bonus fund",
+        "Government tax pool",
+        "Death claim penalty",
+        "Policy Reserve or Cash Value"
+      ],
+      "correct_index": 3,
+      "explanation": "The overcharged amount in early years is invested by the insurer to create a 'Reserve'. This reserve builds the 'Cash Value' of the policy, which enables features like policy loans and surrender values."
+    },
+    {
+      "id": "ch6_q12",
+      "text": "A person earns Rs. 5 Lakhs a year. He spends Rs. 1 Lakh entirely on his own personal expenses. What amount is used as the base for calculating his family's financial loss (HLV)?",
+      "options": [
+        "5 Lakhs",
+        "6 Lakhs",
+        "4 Lakhs",
+        "1 Lakh"
+      ],
+      "correct_index": 2,
+      "explanation": "Gross Income (5 Lakhs) minus Self-maintenance expenses (1 Lakh) equals the Net Income (4 Lakhs) that actually supports the family. This 4 Lakhs is the base for HLV calculation."
+    },
+    {
+      "id": "ch6_q13",
+      "text": "Which basic principle dictates that many people exposed to a similar risk contribute to a common fund to pay the few who suffer a loss?",
+      "options": [
+        "Mutuality (Risk Pooling)",
+        "Utmost Good Faith",
+        "Proximate Cause",
+        "Underwriting"
+      ],
+      "correct_index": 0,
+      "explanation": "Mutuality or Risk Pooling is the core scientific mechanism of all insurance. The losses of a few are shared by the contributions of many."
+    },
+    {
+      "id": "ch6_q14",
+      "text": "Why can't the legal principle of strict 'Indemnity' be applied to life insurance contracts?",
+      "options": [
+        "Because life insurance companies don't have enough money to indemnify",
+        "Because the exact financial value of a human life cannot be precisely measured or replaced",
+        "Because IRDAI explicitly prevents it to protect agents",
+        "Because life insurance is a short-term contract"
+      ],
+      "correct_index": 1,
+      "explanation": "Indemnity means restoring the exact financial loss. Since no one can put an exact monetary price on a human life to 'restore' it, life insurance pays a pre-decided fixed sum assured instead."
+    },
+    {
+      "id": "ch6_q15",
+      "text": "In a pure 'Term Insurance' policy, if the insured survives the policy term, what amount is usually payable?",
+      "options": [
+        "Full Sum Assured",
+        "Total premium paid plus Bonus",
+        "Half of the Sum Assured",
+        "Nothing is payable"
+      ],
+      "correct_index": 3,
+      "explanation": "A pure term insurance policy only provides death risk cover. It does not have a savings element. If the insured survives, the policy expires and nothing is paid back."
+    },
+    {
+      "id": "ch6_q16",
+      "text": "As a whole life policy progresses towards maturity and its Cash Value (Reserve) increases, what happens to the 'Amount at Risk' for the insurance company?",
+      "options": [
+        "It also increases rapidly",
+        "It remains exactly the same",
+        "It decreases",
+        "It doubles every 5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "Amount at Risk = Sum Assured MINUS Cash Value. As the cash value reserve grows larger over time, the actual net amount the company has to pay out of its own pocket (the risk amount) decreases."
+    },
+    {
+      "id": "ch6_q17",
+      "text": "The principle of 'Diversification' used by insurance companies to invest funds is best described by which common phrase?",
+      "options": [
+        "Don't put all your eggs in one basket",
+        "Buyer beware",
+        "Time is money",
+        "Honesty is the best policy"
+      ],
+      "correct_index": 0,
+      "explanation": "Insurance companies use diversification (spreading investments across different sectors like government bonds, equity, real estate) to minimize risk, akin to 'not putting all eggs in one basket'."
+    },
+    {
+      "id": "ch6_q18",
+      "text": "For an insurance contract to be legally valid, the possibility of the risk occurring must be:",
+      "options": [
+        "100% certain and known in advance",
+        "Zero",
+        "Completely controlled by the insured person",
+        "Unpredictable and accidental"
+      ],
+      "correct_index": 3,
+      "explanation": "Insurance only covers fortuitous (accidental and unpredictable) events. If a loss is deliberate or 100% certain to happen at a known time, it cannot be insured."
+    },
+    {
+      "id": "ch6_q19",
+      "text": "What is the main disadvantage of the 'Natural Premium' method for life insurance that led to the creation of the Level Premium system?",
+      "options": [
+        "It is declared illegal by IRDAI",
+        "It becomes unaffordable at older ages when insurance is needed the most",
+        "It does not allow the company to pay death claims",
+        "It requires the policyholder to take monthly medical tests"
+      ],
+      "correct_index": 1,
+      "explanation": "Because Natural Premium increases with age, it becomes incredibly expensive when a person reaches old age, forcing them to drop the policy right when they are most likely to die."
+    },
+    {
+      "id": "ch6_q20",
+      "text": "Who among the following would typically have the highest Human Life Value (HLV), assuming their current monthly income is exactly the same?",
+      "options": [
+        "A 60-year-old person",
+        "A 50-year-old person",
+        "A 30-year-old person",
+        "Age does not affect the calculation of HLV"
+      ],
+      "correct_index": 2,
+      "explanation": "A 30-year-old has many more working years left until retirement compared to a 60-year-old. Therefore, the present value of their future earnings (HLV) will be significantly higher."
+    },
+    {
+      "id": "ch6_q21",
+      "text": "Which of the following elements strongly distinguishes Life Insurance from most General Insurance contracts?",
+      "options": [
+        "It is a long-term contract and often includes a savings/investment element",
+        "It strictly follows the principle of indemnity",
+        "It is usually valid for only one year and requires annual renewal",
+        "It does not require insurable interest at any stage"
+      ],
+      "correct_index": 0,
+      "explanation": "General insurance (like motor or fire) is typically a 1-year pure risk contract. Life insurance is a long-term contract that bundles both risk protection and a cash-value (savings) element."
+    },
+    {
+      "id": "ch6_q22",
+      "text": "The creation of a 'Reserve' in life insurance is a direct and necessary result of which pricing method?",
+      "options": [
+        "Natural Premium Method",
+        "Level Premium Method",
+        "Flexible Premium Method",
+        "Single Premium Method"
+      ],
+      "correct_index": 1,
+      "explanation": "The Level Premium method intentionally overcharges in the early years. This overcharge must be set aside to cover future deficits, thus creating the 'Reserve'."
+    },
+    {
+      "id": "ch6_q23",
+      "text": "If Mr. X dies prematurely, his family will lose his future income. This potential financial loss forms the core basis of his:",
+      "options": [
+        "Medical Underwriting History",
+        "Agent's Commission Structure",
+        "Human Life Value (HLV)",
+        "Grace Period limit"
+      ],
+      "correct_index": 2,
+      "explanation": "The concept of HLV was specifically designed to quantify this exact loss—the economic value of the income that a breadwinner would have earned for their family."
+    },
+    {
+      "id": "ch6_q24",
+      "text": "Most traditional life insurance policies provide a combination of two distinct elements. What are they?",
+      "options": [
+        "Health coverage and Wealth creation",
+        "Profit making and Loss adjustment",
+        "Indemnity and Subrogation",
+        "Risk Protection (Mortality) and Savings/Investment"
+      ],
+      "correct_index": 3,
+      "explanation": "Thanks to the Level Premium system, traditional life policies (like Endowment) bundle two things: protection against the risk of death, and a savings element that builds cash value over time."
+    },
+    {
+      "id": "ch6_q25",
+      "text": "In the technical context of life insurance, what does 'Amount at Risk' mean for the insurer?",
+      "options": [
+        "The total premium paid by the customer till date",
+        "The difference between the total Sum Assured and the accumulated Cash Value (Reserve)",
+        "The maximum penalty imposed by the regulator",
+        "The sum assured divided by the age of the policyholder"
+      ],
+      "correct_index": 1,
+      "explanation": "The actual financial risk to the company decreases over time because they use the accumulated cash value to pay a part of the death claim. The 'Amount at Risk' is strictly the Sum Assured minus the Cash Value."
+    }
+  ]
+}

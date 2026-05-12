@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒÅÑ Introduction to Health Insurance",
+      "cards": [
+        {
+          "title": "Definition & Determinants",
+          "content": "ΓÇó WHO Definition: A state of complete physical, mental, and social well-being, not just absence of disease.\nΓÇó Determinants of Health: Lifestyle, Genetics, Environment, and Medical Services.",
+          "color": "blue"
+        },
+        {
+          "title": "Levels of Healthcare",
+          "content": "ΓÇó Primary: First point of contact (e.g., Clinics, Primary Health Centers).\nΓÇó Secondary: Specialized hospitals for specific ailments (General Hospitals).\nΓÇó Tertiary: Highly specialized, advanced care (e.g., Cancer Centers, Cardiology units).",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒÅó Health Insurance Evolution",
+      "items": [
+        {
+          "year": "1948",
+          "text": "ESIS (Employees State Insurance Scheme): Introduced for factory workers and their families."
+        },
+        {
+          "year": "1954",
+          "text": "CGHS (Central Govt. Health Scheme): Introduced for Central Government employees."
+        },
+        {
+          "year": "1986",
+          "text": "Mediclaim: The first commercial health insurance policy introduced in India."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "Types of Healthcare: Preventive (vaccines), Promotive (health education), Curative (treatment), Rehabilitative (restoring normal life).",
+        "SAHI: Stand-alone Health Insurance companies specialize ONLY in health, travel, and personal accident insurance.",
+        "TPA (Third Party Administrator): Intermediary who manages claims, hospital networks, and cashless processing on behalf of insurers.",
+        "Lifestyle diseases (like Diabetes and Hypertension) are currently the biggest burden on the Indian healthcare system.",
+        "Health insurance mitigates the financial impact of out-of-pocket medical expenses."
+      ]
+    }
+  ]
+}

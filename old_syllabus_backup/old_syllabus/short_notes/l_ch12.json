@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "≡ƒôä Documentation - Proposal Stage",
+      "cards": [
+        {
+          "title": "Proposal Form & FPR",
+          "content": "ΓÇó Proposal Form: The primary document containing all material facts. The basic foundation of the contract.\nΓÇó First Premium Receipt (FPR): Serves as evidence that the policy contract has commenced and risk is covered.",
+          "color": "blue"
+        },
+        {
+          "title": "KYC & AML",
+          "content": "ΓÇó KYC: Know Your Customer (Identity & Address proof) is mandatory to prevent frauds.\nΓÇó AML: Anti-Money Laundering guidelines prevent illegal funds from entering the financial system.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "≡ƒåö Important Proofs",
+      "items": [
+        {
+          "year": "Age Proof",
+          "text": "Standard (Passport, School Cert) vs Non-Standard (Horoscope, Gram Panchayat cert)."
+        },
+        {
+          "year": "Medical",
+          "text": "Medical Examiner's Report: Required if the sum assured is high or age is advanced."
+        },
+        {
+          "year": "e-Policy",
+          "text": "e-Insurance Account (e-IA): Used to hold policies electronically through an Insurance Repository."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "≡ƒÆí Exam Master Tips",
+      "items": [
+        "If a non-standard age proof is submitted, the insurer usually charges an extra premium (age proof loading).",
+        "Agent's Confidential Report: The agent must submit a moral hazard report about the prospect's lifestyle and income.",
+        "Renewal Premium Receipt (RPR): Proof that the policy is active and subsequent premiums are paid.",
+        "e-Insurance eliminates the risk of losing physical policy documents.",
+        "PAN card is mandatory for cash premiums exceeding Γé╣50,000."
+      ]
+    }
+  ]
+}

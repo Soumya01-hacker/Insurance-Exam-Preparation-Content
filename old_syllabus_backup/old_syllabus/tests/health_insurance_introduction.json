@@ -1,0 +1,307 @@
+{
+  "chapter_id": "health_insurance_introduction",
+  "chapter_title": "Chapter 17: Health Insurance - Introduction",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch17_q1",
+      "text": "What is the broad definition of 'Health' as defined by the World Health Organization (WHO)?",
+      "options": [
+        "A state of complete physical, mental, and social well-being, and not merely the absence of disease.",
+        "Only the physical absence of diseases and infirmity.",
+        "The financial ability to afford expensive medical treatments.",
+        "Having a normal Body Mass Index (BMI)."
+      ],
+      "correct_index": 0,
+      "explanation": "WHO defines health holistically. It is not just about being disease-free; it encompasses physical fitness, mental peace, and social well-being."
+    },
+    {
+      "id": "ch17_q2",
+      "text": "Which of the following is considered a 'Primary' level of healthcare?",
+      "options": [
+        "Advanced open-heart surgery at a specialized hospital.",
+        "A local dispensary or family doctor treating a common cold or fever.",
+        "Radiation therapy for complex cancer.",
+        "Admission to an Intensive Care Unit (ICU)."
+      ],
+      "correct_index": 1,
+      "explanation": "Primary healthcare is the first point of contact for a patient. It includes basic treatments by general physicians, local clinics, and dispensaries for common ailments."
+    },
+    {
+      "id": "ch17_q3",
+      "text": "Which legislation led to the introduction of the first formal health insurance scheme for blue-collar workers in India?",
+      "options": [
+        "The Insurance Act, 1938",
+        "The Life Insurance Corporation Act, 1956",
+        "The Employees' State Insurance (ESI) Act, 1948",
+        "The Workmen's Compensation Act, 1923"
+      ],
+      "correct_index": 2,
+      "explanation": "The ESI Act of 1948 established the ESIC scheme, which was India's first major social security and health insurance initiative designed specifically for factory workers and low-wage employees."
+    },
+    {
+      "id": "ch17_q4",
+      "text": "What does the term 'Morbidity' refer to in the context of health insurance?",
+      "options": [
+        "The rate of death in a specific population.",
+        "The total amount of premium collected by an insurer.",
+        "The percentage of claims rejected due to fraud.",
+        "The incidence or frequency of illness, sickness, and disease in a population."
+      ],
+      "correct_index": 3,
+      "explanation": "Mortality relates to death, whereas Morbidity relates to sickness. Health insurance companies study morbidity rates to predict how often people will fall ill and claim hospitalization expenses."
+    },
+    {
+      "id": "ch17_q5",
+      "text": "Who is the primary target beneficiary group for the Central Government Health Scheme (CGHS)?",
+      "options": [
+        "Central government employees, pensioners, and their dependents.",
+        "All citizens living below the poverty line.",
+        "Private sector corporate employees.",
+        "Unemployed youth in rural areas."
+      ],
+      "correct_index": 0,
+      "explanation": "CGHS is a specialized healthcare facility designed exclusively to provide comprehensive medical care to serving and retired Central Government employees and their families."
+    },
+    {
+      "id": "ch17_q6",
+      "text": "Which level of healthcare involves specialized consultative care, usually provided upon referral from a primary care physician (e.g., treatment at a district hospital)?",
+      "options": [
+        "Primary Healthcare",
+        "Secondary Healthcare",
+        "Tertiary Healthcare",
+        "Preventive Healthcare"
+      ],
+      "correct_index": 1,
+      "explanation": "Secondary healthcare requires more specialized knowledge and equipment than primary care. Patients are usually referred here by their family doctor for expert consultations or standard surgeries."
+    },
+    {
+      "id": "ch17_q7",
+      "text": "In the health sector, what do 'Out-of-Pocket' (OOP) expenses refer to?",
+      "options": [
+        "The commission paid to the insurance agent by the company.",
+        "The tax paid to the government on medical equipment.",
+        "The medical costs paid directly by the patient that are not covered or reimbursed by insurance.",
+        "The annual premium paid for the health policy."
+      ],
+      "correct_index": 2,
+      "explanation": "Out-of-pocket expenses are the direct financial burdens borne by patients from their own savings, either because they don't have insurance or their insurance doesn't cover the full bill."
+    },
+    {
+      "id": "ch17_q8",
+      "text": "Which of the following factors is an example of a 'Biological/Genetic' determinant of health?",
+      "options": [
+        "Living in a highly polluted industrial city.",
+        "Daily smoking and excessive drinking habits.",
+        "The cultural and social beliefs of a community.",
+        "Family medical history of diabetes or asthma."
+      ],
+      "correct_index": 3,
+      "explanation": "Determinants of health are divided into lifestyle, environment, and biology. Genetics and traits inherited from parents are biological determinants that heavily influence a person's health risks."
+    },
+    {
+      "id": "ch17_q9",
+      "text": "What is the core purpose of a commercial health insurance policy?",
+      "options": [
+        "To provide financial protection against unexpected and high medical hospitalization expenses.",
+        "To provide a guaranteed monthly pension after the age of 60.",
+        "To cover the cost of daily groceries and rent during a short illness.",
+        "To give a massive lump sum amount upon the natural death of the policyholder."
+      ],
+      "correct_index": 0,
+      "explanation": "Unlike life insurance which covers death, commercial health insurance acts as a financial shield against the massive bills generated by unexpected hospitalization and surgeries."
+    },
+    {
+      "id": "ch17_q10",
+      "text": "How do 'Lifestyle Choices' act as a determinant of health?",
+      "options": [
+        "They only affect the mental peace of a person without physical impact.",
+        "Habits like diet, exercise, and smoking directly impact the likelihood of developing chronic diseases.",
+        "They determine the genetic makeup of the next generation.",
+        "They dictate the premium of life insurance but not health insurance."
+      ],
+      "correct_index": 1,
+      "explanation": "A sedentary lifestyle, poor diet, and substance abuse are behavioral determinants that directly cause lifestyle diseases like hypertension, obesity, and heart disease."
+    },
+    {
+      "id": "ch17_q11",
+      "text": "Specialized, highly technical care for complex and rare conditions (like neurosurgery, organ transplants, or advanced oncology) falls under which category?",
+      "options": [
+        "Primary Healthcare",
+        "Secondary Healthcare",
+        "Tertiary Healthcare",
+        "Preventive Healthcare"
+      ],
+      "correct_index": 2,
+      "explanation": "Tertiary healthcare involves advanced, super-specialty medical interventions. It requires highly specialized doctors, surgeons, and state-of-the-art hospital infrastructure."
+    },
+    {
+      "id": "ch17_q12",
+      "text": "Which of the following was one of the earliest forms of health insurance introduced globally?",
+      "options": [
+        "Modern Mediclaim Policies",
+        "Unit Linked Health Plans",
+        "Critical Illness Riders",
+        "Sickness funds and mutual benefit societies in Europe."
+      ],
+      "correct_index": 3,
+      "explanation": "Before commercial companies existed, workers in Europe formed guilds and 'sickness funds'. They pooled small amounts of money to help members who fell ill and couldn't work."
+    },
+    {
+      "id": "ch17_q13",
+      "text": "The 'Mediclaim' policy, which became the foundation of modern retail health insurance in India, was introduced in which year?",
+      "options": [
+        "1956",
+        "1986",
+        "1999",
+        "2010"
+      ],
+      "correct_index": 1,
+      "explanation": "The Government of India introduced the standardized 'Mediclaim' policy in 1986. For decades, it was the only retail health insurance product available to the general public."
+    },
+    {
+      "id": "ch17_q14",
+      "text": "A standard health insurance policy protects a family primarily from which type of risk?",
+      "options": [
+        "Morbidity Risk",
+        "Mortality Risk",
+        "Longevity Risk",
+        "Investment Risk"
+      ],
+      "correct_index": 0,
+      "explanation": "Morbidity risk is the financial risk associated with falling sick and needing treatment. Health insurance directly addresses this by covering hospitalization costs."
+    },
+    {
+      "id": "ch17_q15",
+      "text": "What is the primary role of a Third Party Administrator (TPA) in the health insurance ecosystem?",
+      "options": [
+        "To independently sell health policies to the public.",
+        "To act as the primary treating doctor for the insured.",
+        "To process health insurance claims and manage the network of hospitals.",
+        "To regulate the premium rates of health insurance companies."
+      ],
+      "correct_index": 2,
+      "explanation": "A TPA is an intermediary licensed by IRDAI. They don't sell insurance; instead, they handle the administrative backend, issue ID cards, process bills, and facilitate cashless treatments."
+    },
+    {
+      "id": "ch17_q16",
+      "text": "The Employees' State Insurance (ESI) scheme is administered and managed by:",
+      "options": [
+        "IRDAI",
+        "The Ministry of Finance directly",
+        "The Life Insurance Corporation of India",
+        "The Employees' State Insurance Corporation (ESIC)"
+      ],
+      "correct_index": 3,
+      "explanation": "ESIC is an autonomous body created under the ESI Act, 1948, under the Ministry of Labour and Employment, to manage the funds and infrastructure of the ESI scheme."
+    },
+    {
+      "id": "ch17_q17",
+      "text": "High out-of-pocket (OOP) healthcare expenditure in a country usually indicates:",
+      "options": [
+        "A highly effective and free government healthcare system.",
+        "Low health insurance penetration, leading to a high financial burden on citizens.",
+        "That all hospitals are providing charitable services.",
+        "That major diseases have been completely eradicated."
+      ],
+      "correct_index": 1,
+      "explanation": "When health insurance penetration is low, citizens have to break their savings or take loans to pay medical bills, resulting in a high percentage of out-of-pocket expenditure."
+    },
+    {
+      "id": "ch17_q18",
+      "text": "What is the primary focus of 'Preventive Healthcare'?",
+      "options": [
+        "Taking proactive measures to prevent diseases before they occur, such as vaccinations and regular health screenings.",
+        "Performing complex life-saving surgeries during an emergency.",
+        "Providing palliative care to terminally ill patients in hospices.",
+        "Reimbursing hospital bills as quickly as possible."
+      ],
+      "correct_index": 0,
+      "explanation": "Preventive care aims to catch diseases early or prevent them entirely. Examples include polio drops, fitness regimes, and annual health checkups."
+    },
+    {
+      "id": "ch17_q19",
+      "text": "Which of the following is an 'Environmental' factor that heavily influences public health?",
+      "options": [
+        "The genetic height of the population.",
+        "The number of insurance agents operating in a city.",
+        "Access to clean drinking water, proper sanitation, and unpolluted air.",
+        "The daily fluctuations in the stock market index."
+      ],
+      "correct_index": 2,
+      "explanation": "Environmental determinants include everything around us. Lack of sanitation, polluted air, and unsafe drinking water directly lead to widespread infectious diseases."
+    },
+    {
+      "id": "ch17_q20",
+      "text": "An indemnity-based health insurance policy typically pays for:",
+      "options": [
+        "Loss of monthly income due to being absent from work.",
+        "Purely cosmetic surgeries done for beautification purposes.",
+        "Routine daily dietary and gym expenses.",
+        "Actual hospitalization and medical treatment expenses incurred due to illness or injury."
+      ],
+      "correct_index": 3,
+      "explanation": "Indemnity health policies compensate the insured for the actual medical bills incurred during hospitalization, up to the maximum limit of the Sum Insured."
+    },
+    {
+      "id": "ch17_q21",
+      "text": "Social health insurance schemes (like ESIC) are generally funded by:",
+      "options": [
+        "Foreign charitable donations.",
+        "Mandatory financial contributions from both the employers and the employees.",
+        "Voluntary high premiums paid only by wealthy individuals.",
+        "The World Bank."
+      ],
+      "correct_index": 1,
+      "explanation": "Social insurance schemes are statutory. Both the employer and the employee contribute a fixed percentage of the employee's wages to the ESIC fund to guarantee medical care."
+    },
+    {
+      "id": "ch17_q22",
+      "text": "What does the term 'Network Hospital' mean in the context of health insurance?",
+      "options": [
+        "A hospital that only provides treatment to insurance agents.",
+        "A hospital completely owned and operated by the government.",
+        "A hospital that has a formal agreement with an insurer or TPA to provide cashless treatment to policyholders.",
+        "A hospital that refuses to accept any form of insurance."
+      ],
+      "correct_index": 2,
+      "explanation": "Insurers tie up with various hospitals to form a 'network'. If a policyholder goes to a network hospital, the insurer directly settles the bill with the hospital, offering cashless convenience."
+    },
+    {
+      "id": "ch17_q23",
+      "text": "The gradual shift in a country's disease pattern from infectious diseases (like cholera or malaria) to lifestyle diseases (like diabetes and heart disease) is known as:",
+      "options": [
+        "Epidemiological transition",
+        "Genetic mutation",
+        "Morbidity elimination",
+        "Subrogation"
+      ],
+      "correct_index": 0,
+      "explanation": "As countries develop and sanitation improves, infectious diseases drop, but sedentary lifestyles increase. This shift in the primary causes of death and sickness is called the epidemiological transition."
+    },
+    {
+      "id": "ch17_q24",
+      "text": "Why is having private health insurance becoming increasingly crucial in modern times?",
+      "options": [
+        "Because the overall cost of living is rapidly decreasing.",
+        "Because everyone is guaranteed to live up to 100 years safely.",
+        "Because government hospitals are entirely empty and unused.",
+        "Because of rapidly rising medical inflation and the extremely high cost of advanced private healthcare."
+      ],
+      "correct_index": 3,
+      "explanation": "Medical inflation in India is very high. A single specialized surgery in a private hospital can wipe out years of middle-class savings, making health insurance an absolute necessity."
+    },
+    {
+      "id": "ch17_q25",
+      "text": "Which of the following is NOT considered a core determinant of a person's health status?",
+      "options": [
+        "Biological and Genetic factors",
+        "The specific type of life insurance policy they hold",
+        "Environmental and social conditions",
+        "Behavioral and Lifestyle choices"
+      ],
+      "correct_index": 1,
+      "explanation": "Health is determined by biology, environment, and lifestyle. Holding a life insurance policy is a financial decision and has no direct biological or environmental impact on preventing diseases."
+    }
+  ]
+}

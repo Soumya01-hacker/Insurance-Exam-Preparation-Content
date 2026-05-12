@@ -1,0 +1,77 @@
+{
+  "chapterId": "introduction_to_insurance",
+  "title": "Chapter 1: Introduction to Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "timeline",
+      "title": "📜 The History of Insurance (Must Remember!)",
+      "items": [
+        { "year": "1688", "text": "Lloyd's Coffee House in London - Birthplace of modern marine insurance." },
+        { "year": "1818", "text": "Oriental Life Insurance Company - First Life Company in India (started by Europeans)." },
+        { "year": "1870", "text": "Bombay Mutual Life Assurance Society - First Indian-owned life insurance company." },
+        { "year": "1956", "text": "245 companies merged to form LIC (Nationalization of Life Insurance)." },
+        { "year": "1972", "text": "General Insurance Business Act - Nationalization of Non-Life Insurance." },
+        { "year": "2000", "text": "IRDAI Established - The Supreme Regulator of Insurance in India." }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ The 4 Techniques of Risk Management",
+      "cards": [
+        {
+          "title": "1. Risk Avoidance (Negative)",
+          "content": "Avoiding the activity altogether (e.g., Not traveling to avoid accidents). It is a negative way to handle risk.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Risk Retention (Self-Insurance)",
+          "content": "Deciding to bear the loss yourself. Best for small, predictable losses.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Risk Reduction (Practical)",
+          "content": "Lowering the chance of loss (e.g., Using fire extinguishers or wearing helmets).",
+          "color": "blue"
+        },
+        {
+          "title": "4. Risk Transfer (The BEST)",
+          "content": "Transferring the financial burden to an Insurance Company.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💡 How it Works? (Core Concepts)",
+      "cards": [
+        {
+          "title": "Law of Large Numbers",
+          "content": "Predicting the future becomes easier when we look at a large group of people.",
+          "color": "blue"
+        },
+        {
+          "title": "Pooling of Risks",
+          "content": "The 'Many' contribute premiums to pay for the losses of the 'Few'.",
+          "color": "blue"
+        },
+        {
+          "title": "Human Life Value (HLV)",
+          "content": "Introduced by Prof. S.S. Huebner. It measures the economic value of a human life based on future earnings.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "IRDAI is the ONLY regulator in India. (Established in 2000).",
+        "Insurance is a 'Tool for Risk Transfer', not a tool to remove the risk itself.",
+        "Primary Burden of Risk: The actual financial loss.",
+        "Secondary Burden of Risk: The mental strain, anxiety, and keeping reserve funds.",
+        "Don't confuse LIC (1956) with GIC (1972) dates in MCQs!"
+      ]
+    }
+  ]
+}

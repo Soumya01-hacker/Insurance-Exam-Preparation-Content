@@ -1,0 +1,307 @@
+{
+  "chapter_id": "life_insurance_products_2",
+  "chapter_title": "Chapter 9: Life Insurance Products - II",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch9_q1",
+      "text": "Under the Married Women's Property (MWP) Act, 1874, who can legally be the beneficiaries of a life insurance policy?",
+      "options": [
+        "Any relative of the husband",
+        "Only the parents of the husband",
+        "Wife alone, child/children alone, or wife and children jointly",
+        "The business partners of the husband"
+      ],
+      "correct_index": 2,
+      "explanation": "Under Section 6 of the MWP Act, a married man can take a policy on his own life specifically for the benefit of his wife, his children, or both. No one else can be a beneficiary."
+    },
+    {
+      "id": "ch9_q2",
+      "text": "What is the most distinguishing feature of a Unit Linked Insurance Plan (ULIP) compared to traditional endowment policies?",
+      "options": [
+        "Complete transparency and unbundling of various charges",
+        "It offers zero life risk cover",
+        "The premium is paid only after maturity",
+        "It guarantees a fixed bonus every year regardless of market performance"
+      ],
+      "correct_index": 0,
+      "explanation": "ULIPs are fully transparent. The insurance company 'unbundles' the premium and clearly shows how much money is deducted for mortality, administration, and how much is actually invested in the funds."
+    },
+    {
+      "id": "ch9_q3",
+      "text": "While life insurance protects a family against the financial risk of dying too early, an Annuity (Pension) protects a person against the risk of:",
+      "options": [
+        "Getting a critical illness",
+        "Losing their job before retirement",
+        "Stock market crashes",
+        "Living too long and running out of money"
+      ],
+      "correct_index": 3,
+      "explanation": "The fundamental purpose of an annuity is to provide a guaranteed regular income until death, thereby eliminating the risk of a person outliving their retirement savings."
+    },
+    {
+      "id": "ch9_q4",
+      "text": "Who is the proposer and premium payer in a Keyman Insurance policy?",
+      "options": [
+        "The Keyman's spouse",
+        "The Employer / Company",
+        "The Keyman himself",
+        "The State Government"
+      ],
+      "correct_index": 1,
+      "explanation": "In Keyman Insurance, the employer (company) proposes the policy, pays the premiums, and is the sole beneficiary to protect the business from financial loss if their most valuable employee dies."
+    },
+    {
+      "id": "ch9_q5",
+      "text": "Which specific section of the Married Women's Property Act, 1874 allows for the creation of an immediate trust for the family?",
+      "options": [
+        "Section 45",
+        "Section 39",
+        "Section 6",
+        "Section 38"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 6 of the MWP Act allows a married man to buy a policy that legally becomes a trust for the benefit of his wife and children from the moment the policy is issued."
+    },
+    {
+      "id": "ch9_q6",
+      "text": "In a Unit Linked Insurance Plan (ULIP), who bears the investment risk of the market?",
+      "options": [
+        "The Insurance Agent",
+        "The Insurance Company",
+        "IRDAI",
+        "The Policyholder"
+      ],
+      "correct_index": 3,
+      "explanation": "Unlike traditional policies where the insurer bears the risk and guarantees returns, in a ULIP, the policyholder chooses the investment funds (equity/debt) and fully bears the market risk."
+    },
+    {
+      "id": "ch9_q7",
+      "text": "An annuity where the regular pension payouts start immediately (usually the next month or year) after paying a single lump-sum premium is called:",
+      "options": [
+        "Immediate Annuity",
+        "Deferred Annuity",
+        "Variable Annuity",
+        "Reversionary Annuity"
+      ],
+      "correct_index": 0,
+      "explanation": "Immediate Annuities are designed for people who have just retired, have a lump sum of money, and want their pension payouts to begin instantly."
+    },
+    {
+      "id": "ch9_q8",
+      "text": "As per IRDAI guidelines, what is the maximum Sum Assured generally allowed under a Micro-Insurance life policy?",
+      "options": [
+        "Rs. 50,000",
+        "Rs. 2,00,000",
+        "Rs. 5,00,000",
+        "Rs. 10,00,000"
+      ],
+      "correct_index": 1,
+      "explanation": "Micro-insurance is designed for economically vulnerable sections. To keep it accessible, regulations cap the maximum life cover (Sum Assured) at Rs. 2,00,000."
+    },
+    {
+      "id": "ch9_q9",
+      "text": "How is the death claim amount received by a company under a Keyman Insurance policy treated for tax purposes?",
+      "options": [
+        "It is completely tax-free for the company",
+        "It is transferred to the Keyman's family tax-free",
+        "It is exempted under Section 80C",
+        "It is fully taxable as business income"
+      ],
+      "correct_index": 3,
+      "explanation": "Because the premiums paid by the company are claimed as a business expense to save tax during the policy term, any claim amount received upon the Keyman's death is treated as taxable business profit."
+    },
+    {
+      "id": "ch9_q10",
+      "text": "The daily value of one unit in a ULIP fund, which indicates how the fund is performing, is determined by its:",
+      "options": [
+        "Sum Assured",
+        "Terminal Bonus",
+        "Net Asset Value (NAV)",
+        "Mortality Rate"
+      ],
+      "correct_index": 2,
+      "explanation": "NAV (Net Asset Value) represents the current market price of one unit of the ULIP fund. Policyholders track the NAV to see if their investments are growing."
+    },
+    {
+      "id": "ch9_q11",
+      "text": "Once a policy is endorsed under the MWP Act, the policyholder (husband) loses complete control over it because it legally becomes a:",
+      "options": [
+        "Trust property managed by Trustees",
+        "Government property",
+        "Joint bank account",
+        "Voidable contract"
+      ],
+      "correct_index": 0,
+      "explanation": "The moment an MWP policy is issued, a 'Trust' is created. The husband no longer owns the policy; the Trustees manage it exclusively for the benefit of the wife/children."
+    },
+    {
+      "id": "ch9_q12",
+      "text": "In a Deferred Annuity, the early period during which the policyholder pays regular premiums to build their retirement corpus is called the:",
+      "options": [
+        "Payout Phase",
+        "Accumulation Phase (Deferment Period)",
+        "Grace Period",
+        "Free Look Period"
+      ],
+      "correct_index": 1,
+      "explanation": "A Deferred Annuity has two phases: The Accumulation Phase (where you save and build the fund) and the Vesting/Payout Phase (where the company starts paying you the pension)."
+    },
+    {
+      "id": "ch9_q13",
+      "text": "What is the biggest legal advantage of buying a life insurance policy under the MWP Act?",
+      "options": [
+        "The premium is completely free",
+        "The policy matures in just 5 years",
+        "The wife can sell the policy to a bank",
+        "The policy money cannot be attached by the husband's creditors or court orders"
+      ],
+      "correct_index": 3,
+      "explanation": "Because the policy is a Trust for the family, it is immune from the husband's debts. Even if the husband goes bankrupt, creditors and courts cannot touch the MWP policy funds."
+    },
+    {
+      "id": "ch9_q14",
+      "text": "The specific age at which the policyholder's deferment period ends and they start receiving regular pension payouts is known as the:",
+      "options": [
+        "Maturity Age",
+        "Surrender Age",
+        "Vesting Age",
+        "Nomination Age"
+      ],
+      "correct_index": 2,
+      "explanation": "In pension/annuity plans, the term 'Maturity' is replaced by 'Vesting'. The Vesting Age is the exact age when the pension payments begin."
+    },
+    {
+      "id": "ch9_q15",
+      "text": "The facility to withdraw a certain percentage (e.g., up to 60%) of the accumulated pension corpus as a lump sum at the time of retirement is called:",
+      "options": [
+        "Commutation",
+        "Assignment",
+        "Subrogation",
+        "Foreclosure"
+      ],
+      "correct_index": 0,
+      "explanation": "Commutation allows a retiring person to take a chunk of their pension fund as a tax-free lump sum to meet immediate needs, while the remaining amount is used to buy a regular monthly annuity."
+    },
+    {
+      "id": "ch9_q16",
+      "text": "The facility in a ULIP that allows the policyholder to shift their money from an aggressive equity fund to a safe debt fund is known as:",
+      "options": [
+        "Top-up",
+        "Fund Switching",
+        "Premium Redirection",
+        "Partial Withdrawal"
+      ],
+      "correct_index": 1,
+      "explanation": "Fund switching is a highly flexible ULIP feature. It allows investors to move their accumulated money between different funds (equity, debt, balanced) based on market conditions."
+    },
+    {
+      "id": "ch9_q17",
+      "text": "Who among the following is permitted to act as a Micro-Insurance Agent under IRDAI regulations?",
+      "options": [
+        "Large Corporate Banks only",
+        "Only individual brokers from metro cities",
+        "Only Foreign Insurance Companies",
+        "Non-Governmental Organizations (NGOs) and Self-Help Groups (SHGs)"
+      ],
+      "correct_index": 3,
+      "explanation": "To penetrate rural and low-income areas, IRDAI allows NGOs, SHGs, and Micro-Finance Institutions (MFIs) to act as agents and distribute micro-insurance policies."
+    },
+    {
+      "id": "ch9_q18",
+      "text": "Can a policyholder take a loan against a life insurance policy issued under the MWP Act?",
+      "options": [
+        "Yes, easily up to 90% of surrender value",
+        "Yes, but only to expand his business",
+        "No, neither a loan can be taken nor can the policy be surrendered for the husband's own use",
+        "Yes, if the insurance agent permits it"
+      ],
+      "correct_index": 2,
+      "explanation": "Since the husband does not own the policy (it belongs to the trust), he cannot pledge it for a personal or business loan, nor can he surrender it to get cash for himself."
+    },
+    {
+      "id": "ch9_q19",
+      "text": "What happens if a 'Keyman' resigns from the company before the Keyman Insurance policy matures?",
+      "options": [
+        "The policy is automatically transferred to the Keyman's wife",
+        "The company can choose to surrender the policy or assign it to the departing Keyman",
+        "IRDAI completely confiscates the policy",
+        "The policy automatically becomes a ULIP"
+      ],
+      "correct_index": 1,
+      "explanation": "If the employee leaves, the company has two main choices: surrender the policy and take the cash value, or legally assign the policy to the resigning employee (who then pays future premiums)."
+    },
+    {
+      "id": "ch9_q20",
+      "text": "Which specific charge is deducted from a ULIP fund strictly to cover the cost of the life insurance protection (death risk)?",
+      "options": [
+        "Mortality Charge",
+        "Fund Management Charge (FMC)",
+        "Premium Allocation Charge",
+        "Policy Administration Charge"
+      ],
+      "correct_index": 0,
+      "explanation": "The Mortality Charge is the actual cost of providing the life cover. It is deducted from the fund value every month based on the policyholder's age and the amount at risk."
+    },
+    {
+      "id": "ch9_q21",
+      "text": "To buy a life insurance policy under the Married Women's Property (MWP) Act, when must the proposer fill out the MWP addendum form?",
+      "options": [
+        "Just before the claim is filed",
+        "Any time before the policy matures",
+        "At the time of taking a loan on the policy",
+        "Only at the time of making the initial proposal"
+      ],
+      "correct_index": 3,
+      "explanation": "An MWP trust must be created at the very inception of the policy. The proposer must submit the MWP addendum form along with the main proposal form. An existing normal policy cannot be converted into an MWP policy later."
+    },
+    {
+      "id": "ch9_q22",
+      "text": "In a ULIP, if the policyholder decides to completely surrender the policy within the mandatory 5-year lock-in period, what happens to their money?",
+      "options": [
+        "It is refunded immediately to their bank account",
+        "It is permanently seized by the insurance company",
+        "It is moved to a 'Discontinued Policy Fund' and paid only after the 5-year lock-in ends",
+        "It is converted into a traditional endowment plan"
+      ],
+      "correct_index": 2,
+      "explanation": "ULIPs have a strict 5-year lock-in. If surrendered early, the risk cover stops, and the fund value is shifted to a Discontinued Fund. The money is paid out only after the 5th policy anniversary."
+    },
+    {
+      "id": "ch9_q23",
+      "text": "Which of the following conditions is absolutely necessary for a company to buy a Keyman Insurance policy on an employee?",
+      "options": [
+        "The employee must be related to the owner",
+        "The employer must demonstrate a clear financial loss to the business if the Keyman dies",
+        "The employee must have a minimum salary of 1 Crore",
+        "The company must be a government entity"
+      ],
+      "correct_index": 1,
+      "explanation": "To establish Insurable Interest, the employer must prove to the underwriter that the death of this specific employee would cause a severe loss of profit or business disruption."
+    },
+    {
+      "id": "ch9_q24",
+      "text": "The main objective of introducing Micro-Insurance regulations in India was to:",
+      "options": [
+        "Help rich investors save more tax",
+        "Provide a platform for stock market trading",
+        "Offer high-value life insurance to NRIs",
+        "Provide affordable insurance protection to economically vulnerable sections and the rural poor"
+      ],
+      "correct_index": 3,
+      "explanation": "Micro-insurance is specifically regulated to promote financial inclusion by offering low-cost, small-ticket insurance policies to people below the poverty line and in rural sectors."
+    },
+    {
+      "id": "ch9_q25",
+      "text": "If a husband takes a policy under the MWP Act but forgets to name specific 'Trustees' in the form, who automatically acts as the trustee by default law?",
+      "options": [
+        "The Official Trustee of the State",
+        "The Insurance Agent",
+        "The Husband's father",
+        "The Bank Manager"
+      ],
+      "correct_index": 0,
+      "explanation": "By law, if no specific trustees are appointed by the policyholder in the MWP form, the Official Trustee of the respective State automatically becomes the trustee to safeguard the family's interests."
+    }
+  ]
+}

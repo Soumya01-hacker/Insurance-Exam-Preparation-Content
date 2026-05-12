@@ -1,0 +1,87 @@
+{
+  "chapterId": "theory_and_practice_of_premium_rating",
+  "title": "Chapter 24: Theory & Practice of Premium Rating",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Pricing Fundamentals",
+          "content": "• Pure Premium vs. Gross Premium\n• Tariff vs. Detariffing (Market Rules)\n• Motor Rating Factors (IDV, CC)\n• No Claim Bonus (NCB) Rules",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Premium Components",
+      "cards": [
+        {
+          "title": "1. Pure vs Gross Premium",
+          "content": "Pure Premium (Burning Cost): Only covers expected claims.\nGross Premium: Pure Premium + Expenses + Profit.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Third Party Rule",
+          "content": "CRITICAL: Premium for 'Motor Third Party Liability' is NOT free. It is strictly fixed by IRDAI annually.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚗 Motor Insurance Factors",
+      "cards": [
+        {
+          "title": "3. Rating Factors",
+          "content": "Premium depends on: Cubic Capacity (CC), Age of vehicle, Zone, and IDV (Insured Declared Value).",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🎁 No Claim Bonus (NCB)",
+      "cards": [
+        {
+          "title": "4. Owner's Reward",
+          "content": "NCB follows the OWNER, not the vehicle. Can be transferred to a new car if the old one is sold.",
+          "color": "orange"
+        },
+        {
+          "title": "5. Max Discount",
+          "content": "NCB can go up to a maximum of 50% discount in motor insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Third Party Premium Fixer: IRDAI.",
+        "NCB Owner: The Insured (not the car).",
+        "Burning Cost: Pure Premium.",
+        "Own Damage factors: CC, IDV, Age, Zone."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Who fixes Motor TP rates?",
+          "content": "Answer: IRDAI.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. What happens to NCB if car is sold?",
+          "content": "Answer: Belongs to policyholder; can be transferred to new car.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}

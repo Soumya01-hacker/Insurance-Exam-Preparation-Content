@@ -1,0 +1,319 @@
+{
+  "chapter_id": "grievance_redressal_mechanism",
+  "chapter_title": "Chapter 3: Grievance Redressal Mechanism",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch3_q1",
+      "text": "What is the full form of IGMS?",
+      "options": [
+        "Internal Grievance Management System",
+        "Integrated Grievance Management System",
+        "Insurance Grievance Management System",
+        "Indian Grievance Monitoring System"
+      ],
+      "correct_index": 1,
+      "explanation": "IGMS stands for Integrated Grievance Management System. It is an online portal launched by IRDAI to provide a gateway to register and track insurance grievances."
+    },
+    {
+      "id": "ch3_q2",
+      "text": "Who can be classified as a 'Consumer' under the Consumer Protection Act?",
+      "options": [
+        "A person who buys goods for resale",
+        "A person who buys goods/services for commercial purposes",
+        "A person who buys goods/services for personal use",
+        "A manufacturer"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the Consumer Protection Act, a consumer is someone who purchases goods or avails services for personal use, not for commercial or resale purposes."
+    },
+    {
+      "id": "ch3_q3",
+      "text": "What is the fee required to file a complaint with the Insurance Ombudsman?",
+      "options": [
+        "Rs. 100",
+        "Rs. 500",
+        "Rs. 1000",
+        "No fee is required"
+      ],
+      "correct_index": 3,
+      "explanation": "Approaching the Insurance Ombudsman is a completely free process for policyholders. No fee or charge is levied for filing or processing a complaint."
+    },
+    {
+      "id": "ch3_q4",
+      "text": "What is the maximum limit of compensation that an Insurance Ombudsman can award?",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 30 Lakhs",
+        "Rs. 50 Lakhs"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Ombudsman has the jurisdiction to award compensation up to a maximum limit of Rs. 30 Lakhs."
+    },
+    {
+      "id": "ch3_q5",
+      "text": "What is the time limit for filing a complaint with the Insurance Ombudsman after the insurer has rejected the claim?",
+      "options": [
+        "Within 3 months",
+        "Within 6 months",
+        "Within 1 year",
+        "Within 3 years"
+      ],
+      "correct_index": 2,
+      "explanation": "A complaint to the Ombudsman must be filed within 1 year from the date the insurance company rejected the claim or provided an unsatisfactory resolution."
+    },
+    {
+      "id": "ch3_q6",
+      "text": "As per the updated Consumer Protection Rules (2021), what is the monetary jurisdiction of the District Commission?",
+      "options": [
+        "Up to Rs. 20 Lakhs",
+        "Up to Rs. 50 Lakhs",
+        "Up to Rs. 1 Crore",
+        "Between Rs. 1 Crore and Rs. 10 Crores"
+      ],
+      "correct_index": 1,
+      "explanation": "As per the recent 2021 amendment to the Consumer Protection Act, the District Commission now handles complaints where the value of goods/services is up to Rs. 50 Lakhs."
+    },
+    {
+      "id": "ch3_q7",
+      "text": "Are the decisions (awards) of the Insurance Ombudsman binding on the Insurance Company?",
+      "options": [
+        "No, they are just recommendations",
+        "Yes, they are legally binding on the insurance company",
+        "Yes, but only if IRDAI approves",
+        "Binding on both the company and the policyholder equally"
+      ],
+      "correct_index": 1,
+      "explanation": "Once the complainant accepts the award, it becomes legally binding on the insurance company, and they cannot appeal against it in a higher court."
+    },
+    {
+      "id": "ch3_q8",
+      "text": "Can a lawyer represent a complainant during a hearing at the Insurance Ombudsman?",
+      "options": [
+        "Yes, it is mandatory",
+        "Yes, if the claim is above Rs. 10 Lakhs",
+        "No, legal representation is not allowed",
+        "Yes, but only with IRDAI permission"
+      ],
+      "correct_index": 2,
+      "explanation": "The Ombudsman process is designed to be simple, informal, and out-of-court. Therefore, lawyers or legal representatives are not permitted."
+    },
+    {
+      "id": "ch3_q9",
+      "text": "If a policyholder is not satisfied with the decision of the Insurance Ombudsman, what is their next step?",
+      "options": [
+        "Appeal to IRDAI",
+        "Appeal to the Finance Ministry",
+        "Approach the Consumer Court / Civil Court",
+        "They have no further legal options"
+      ],
+      "correct_index": 2,
+      "explanation": "The Ombudsman's award is binding on the insurer, not the policyholder. If the policyholder is unhappy, they can reject the award and approach consumer or civil courts."
+    },
+    {
+      "id": "ch3_q10",
+      "text": "Which of the following bodies handles consumer disputes where the value exceeds Rs. 2 Crores (as per updated 2021 rules)?",
+      "options": [
+        "District Commission",
+        "State Commission",
+        "National Commission",
+        "Supreme Court"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the updated Consumer Protection Rules (2021), the National Commission handles disputes where the value of goods or services paid as consideration exceeds Rs. 2 Crores."
+    },
+    {
+      "id": "ch3_q11",
+      "text": "Before approaching the Insurance Ombudsman, what is the mandatory first step a policyholder must take?",
+      "options": [
+        "File an FIR with the police",
+        "Complain to the Consumer Court",
+        "File a written complaint with the Insurance Company's grievance cell",
+        "Send a legal notice through a lawyer"
+      ],
+      "correct_index": 2,
+      "explanation": "The Ombudsman will only entertain a complaint if the policyholder has first raised the issue with the insurance company and it was rejected or not resolved within 30 days."
+    },
+    {
+      "id": "ch3_q12",
+      "text": "The turnaround time (TAT) for an insurance company to resolve a grievance according to IRDAI guidelines is generally:",
+      "options": [
+        "7 Days",
+        "15 Days",
+        "30 Days",
+        "45 Days"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance companies are mandated to resolve a registered grievance within 15 days of its receipt."
+    },
+    {
+      "id": "ch3_q13",
+      "text": "Can an ongoing case in the Consumer Court be simultaneously filed with the Insurance Ombudsman?",
+      "options": [
+        "Yes, to get a faster resolution",
+        "No, it cannot be filed with the Ombudsman",
+        "Yes, but only for claims under Rs. 10 Lakhs",
+        "Yes, if the consumer court permits"
+      ],
+      "correct_index": 1,
+      "explanation": "A complaint cannot be filed with the Ombudsman if proceedings related to the same subject matter are already pending in any court, including consumer courts."
+    },
+    {
+      "id": "ch3_q14",
+      "text": "Which of the following disputes can be taken to the Insurance Ombudsman?",
+      "options": [
+        "Disputes relating to premium paid or payable",
+        "Delay in claim settlement",
+        "Partial or total rejection of claims",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "The Ombudsman has the power to resolve issues regarding premium disputes, delays in claim settlement, and arbitrary rejection of claims for personal lines of insurance."
+    },
+    {
+      "id": "ch3_q15",
+      "text": "Once the complainant accepts the Ombudsman's award, within how many days must the insurer comply with it?",
+      "options": [
+        "15 Days",
+        "30 Days",
+        "45 Days",
+        "60 Days"
+      ],
+      "correct_index": 1,
+      "explanation": "Once the policyholder sends the acceptance letter of the award to the insurer, the insurer must comply with the award and pay the amount within 30 days."
+    },
+    {
+      "id": "ch3_q16",
+      "text": "Who created the institution of the Insurance Ombudsman?",
+      "options": [
+        "Life Insurance Corporation of India (LIC)",
+        "Government of India",
+        "The Supreme Court of India",
+        "Consumer Protection Council"
+      ],
+      "correct_index": 1,
+      "explanation": "The Insurance Ombudsman scheme was created by the Government of India for the quick and impartial settlement of individual policyholders' grievances out of court."
+    },
+    {
+      "id": "ch3_q17",
+      "text": "Which tier is at the middle level of the 3-tier consumer dispute redressal machinery?",
+      "options": [
+        "District Commission",
+        "State Commission",
+        "National Commission",
+        "Zonal Commission"
+      ],
+      "correct_index": 1,
+      "explanation": "The 3-tier system under the Consumer Protection Act consists of the District Commission (base), State Commission (middle), and National Commission (apex)."
+    },
+    {
+      "id": "ch3_q18",
+      "text": "The Insurance Ombudsman acts primarily as a _________ before passing an award.",
+      "options": [
+        "Judge",
+        "Prosecutor",
+        "Counselor and Mediator",
+        "Financial Auditor"
+      ],
+      "correct_index": 2,
+      "explanation": "The primary role of the Ombudsman is to act as a counselor and mediator to arrive at a fair agreement between the policyholder and the insurer. If mediation fails, an award is passed."
+    },
+    {
+      "id": "ch3_q19",
+      "text": "Does the Consumer Protection Act cover life insurance services?",
+      "options": [
+        "No, it only covers physical goods",
+        "Yes, insurance is legally considered a 'Service'",
+        "Only Health Insurance is covered",
+        "No, it is handled exclusively by civil courts"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the Consumer Protection Act, insurance policies are legally defined under the category of 'Services', making policyholders eligible to file complaints as consumers."
+    },
+    {
+      "id": "ch3_q20",
+      "text": "If a complaint is rejected by the District Consumer Commission, where can the consumer file an appeal?",
+      "options": [
+        "National Commission",
+        "Insurance Ombudsman",
+        "State Commission",
+        "IRDAI"
+      ],
+      "correct_index": 2,
+      "explanation": "The hierarchy allows appeals to flow upwards. An order passed by the District Commission can be appealed at the State Commission."
+    },
+    {
+      "id": "ch3_q21",
+      "text": "To file a complaint via the IGMS portal, what is the prerequisite for the policyholder?",
+      "options": [
+        "Must have an active bank account",
+        "Must register on the portal and create a profile",
+        "Must pay a registration fee",
+        "Must hire an agent"
+      ],
+      "correct_index": 1,
+      "explanation": "To use the Integrated Grievance Management System (IGMS), a policyholder must create an account/profile on the portal with their policy details."
+    },
+    {
+      "id": "ch3_q22",
+      "text": "Can a commercial enterprise with a multi-crore turnover approach the Insurance Ombudsman?",
+      "options": [
+        "Yes, for any claim amount",
+        "Yes, if the claim is below Rs. 30 Lakhs",
+        "No, the Ombudsman primarily deals with personal lines and sole proprietorships/micro-enterprises",
+        "Only if IRDAI refers them"
+      ],
+      "correct_index": 2,
+      "explanation": "The Ombudsman is designed for individual policyholders, group insurance members, and micro-enterprises/sole proprietorships. Large commercial entities cannot approach the Ombudsman."
+    },
+    {
+      "id": "ch3_q23",
+      "text": "The time limit to file an appeal in the State Commission against an order of the District Commission is generally:",
+      "options": [
+        "15 Days",
+        "30 Days",
+        "45 Days",
+        "90 Days"
+      ],
+      "correct_index": 2,
+      "explanation": "As per the Consumer Protection Act 2019, an appeal against the order of a District Commission must be filed before the State Commission within 45 days."
+    },
+    {
+      "id": "ch3_q24",
+      "text": "Who sets up the consumer dispute redressal commissions at the District and State levels?",
+      "options": [
+        "The Central Government",
+        "The State Government",
+        "The Supreme Court",
+        "IRDAI"
+      ],
+      "correct_index": 1,
+      "explanation": "The respective State Governments are responsible for establishing the District Commissions and State Commissions within their states."
+    },
+    {
+      "id": "ch3_q25",
+      "text": "Which of the following is an essential requirement for a policyholder to approach the consumer court?",
+      "options": [
+        "The claim must be above Rs. 10 Lakhs",
+        "There must be a 'Deficiency in Service' by the insurer",
+        "The policy must be at least 5 years old",
+        "The policyholder must have a lawyer"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the Consumer Protection Act, a consumer can file a complaint against an insurance company primarily on the grounds of 'Deficiency in Service' or unfair trade practices."
+    },
+    {
+      "id": "ch3_q26",
+      "text": "How many Insurance Ombudsman offices (centers) are currently established across India to handle policyholder grievances?",
+      "options": [
+        "12",
+        "15",
+        "17",
+        "20"
+      ],
+      "correct_index": 2,
+      "explanation": "There are currently 17 Insurance Ombudsman offices located in various cities (like Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Delhi, Guwahati, Hyderabad, Jaipur, Kochi, Kolkata, Lucknow, Mumbai, Noida, Patna, and Pune) to cover the entire country's territorial jurisdiction."
+    }
+  ]
+}

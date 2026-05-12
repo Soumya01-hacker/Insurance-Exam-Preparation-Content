@@ -1,0 +1,331 @@
+{
+  "chapter_id": "health_insurance_products",
+  "chapter_title": "Chapter 19: Health Insurance Products",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch18_q1",
+      "text": "Which type of health insurance policy pays a fixed, pre-decided lump sum amount upon the diagnosis of a specified severe disease, regardless of the actual hospital bill?",
+      "options": [
+        "Critical Illness Policy",
+        "Standard Mediclaim Policy",
+        "Family Floater Policy",
+        "Group Health Insurance"
+      ],
+      "correct_index": 0,
+      "explanation": "Critical Illness is a 'Benefit' policy. If the insured is diagnosed with a covered major disease (like cancer or kidney failure), the company pays the entire Sum Assured in one lump sum to help the family with treatment and income loss."
+    },
+    {
+      "id": "ch18_q2",
+      "text": "How does the Sum Insured work in a standard 'Family Floater' health insurance policy?",
+      "options": [
+        "Each family member gets a separate, isolated share of the total coverage.",
+        "The total Sum Insured 'floats' among all members and can be exhausted by one member or shared by all during the year.",
+        "Only the eldest family member is allowed to claim the money.",
+        "The Sum Insured automatically multiplies by the number of members."
+      ],
+      "correct_index": 1,
+      "explanation": "In a Family Floater, a single Sum Insured covers the entire family. For example, a 5 Lakh floater means any family member can use the cover up to 5 Lakhs, or multiple members can use parts of it until the 5 Lakhs is exhausted."
+    },
+    {
+      "id": "ch18_q3",
+      "text": "According to IRDAI guidelines for standard retail health insurance, what is the maximum waiting period an insurer can impose for a 'Pre-Existing Disease' (PED)?",
+      "options": [
+        "30 days",
+        "12 months",
+        "48 months (4 years)",
+        "No waiting period is allowed"
+      ],
+      "correct_index": 2,
+      "explanation": "A Pre-Existing Disease (PED) is a medical condition the person had before buying the policy. Companies generally impose a waiting period of up to 48 months before they start covering that specific disease."
+    },
+    {
+      "id": "ch18_q4",
+      "text": "Which of the following treatments is almost universally listed under the 'General Exclusions' of a standard health insurance policy and will NOT be paid?",
+      "options": [
+        "Treatment for Malaria or Dengue",
+        "Chemotherapy sessions for cancer",
+        "Emergency surgery for appendicitis",
+        "Cosmetic or plastic surgery purely for beautification purposes"
+      ],
+      "correct_index": 3,
+      "explanation": "Health insurance covers medical necessities. Cosmetic surgeries done solely for aesthetic enhancement (beautification) are universally excluded. However, plastic surgery necessitated by an accident or burn is covered."
+    },
+    {
+      "id": "ch18_q5",
+      "text": "Advancements in medical science mean some surgeries no longer require a 24-hour hospital stay. Treatments like Cataract or Dialysis, which take less than 24 hours, are covered under:",
+      "options": [
+        "Day Care Procedures",
+        "Out-Patient Department (OPD)",
+        "Domiciliary Hospitalization",
+        "Post-Hospitalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Day Care Procedures are specific surgeries that are completed in less than 24 hours due to advanced technology. Insurers specifically list and cover these despite the lack of a 24-hour admission."
+    },
+    {
+      "id": "ch18_q6",
+      "text": "A 'Top-Up' health insurance policy is designed to pay claims only when the hospital bill exceeds a certain pre-defined threshold. This threshold is known as:",
+      "options": [
+        "Co-payment",
+        "Waiting Period",
+        "Deductible",
+        "Sub-limit"
+      ],
+      "correct_index": 2,
+      "explanation": "A Deductible is the initial amount that must be paid by the policyholder (or their base policy) before the Top-Up policy activates and pays the remaining bill."
+    },
+    {
+      "id": "ch18_q7",
+      "text": "If a health insurance policy has a 20% 'Co-payment' clause and the approved hospital bill is Rs. 1 Lakh, what is the policyholder's financial responsibility?",
+      "options": [
+        "The insurance company pays the full Rs. 1 Lakh.",
+        "The policyholder pays Rs. 80,000.",
+        "The claim is rejected completely.",
+        "The policyholder must pay Rs. 20,000 from their own pocket."
+      ],
+      "correct_index": 3,
+      "explanation": "Co-payment means 'sharing the bill'. A 20% co-payment clause means the insured must bear 20% of every approved claim amount from their own pocket, while the insurer pays the remaining 80%."
+    },
+    {
+      "id": "ch18_q8",
+      "text": "Except for emergency accidental injuries, what is the standard initial waiting period applied to all illnesses from the inception date of a new health policy?",
+      "options": [
+        "15 days",
+        "30 days",
+        "90 days",
+        "1 year"
+      ],
+      "correct_index": 1,
+      "explanation": "To prevent moral hazard (people buying a policy right after feeling sick), all new health policies have a strict 30-day initial waiting period during which no disease-related claims are paid. Accidental injuries are covered from Day 1."
+    },
+    {
+      "id": "ch18_q9",
+      "text": "Medical treatment taken at home because the patient's condition is too severe to move them, or because no hospital beds are available, is termed in insurance as:",
+      "options": [
+        "Day Care Treatment",
+        "Out-Patient Treatment (OPD)",
+        "Domiciliary Hospitalization",
+        "Post-Hospitalization Care"
+      ],
+      "correct_index": 2,
+      "explanation": "Domiciliary Hospitalization refers to taking treatment at home that normally requires hospital admission. It is covered only under strict conditions: lack of hospital accommodation or the patient's severe immobility."
+    },
+    {
+      "id": "ch18_q10",
+      "text": "Which of the following is a massive advantage commonly found in Employer-Employee 'Group Health Insurance' policies compared to individual retail policies?",
+      "options": [
+        "It requires strict medical tests for every single employee.",
+        "The policy cover remains active even after the employee resigns.",
+        "It only covers the employer and not the staff.",
+        "Pre-existing diseases (PED) are often covered from Day 1 without any waiting period."
+      ],
+      "correct_index": 3,
+      "explanation": "Because a group involves many people, the risk is spread out. Insurers often provide customized benefits like waiving the 48-month PED waiting period and the 30-day initial waiting period for corporate groups."
+    },
+    {
+      "id": "ch18_q11",
+      "text": "The right of a policyholder to transfer their health insurance policy from one insurance company to another without losing the accumulated benefits of waiting periods is called:",
+      "options": [
+        "Portability",
+        "Assignment",
+        "Subrogation",
+        "Migration"
+      ],
+      "correct_index": 0,
+      "explanation": "Health Insurance Portability allows customers to switch to a better insurance company without losing the time they have already served towards the 48-month Pre-Existing Disease waiting period in their old policy."
+    },
+    {
+      "id": "ch18_q12",
+      "text": "What unique benefit does a 'Hospital Daily Cash' policy provide?",
+      "options": [
+        "It pays the hospital directly for the surgery costs.",
+        "It pays a fixed cash amount to the insured for each day of hospitalization, regardless of the actual medical bill.",
+        "It reimburses only the cost of medicines bought outside the hospital.",
+        "It pays the daily salary of the attending nurses."
+      ],
+      "correct_index": 1,
+      "explanation": "A Hospital Cash policy is a benefit-based rider/policy. It pays a fixed daily allowance (e.g., Rs. 2000/day) to the patient to cover incidental expenses like travel, food for attendants, or loss of daily wages."
+    },
+    {
+      "id": "ch18_q13",
+      "text": "If a health policy has a room rent 'Sub-limit' of 1% of the Sum Insured, and the policy Sum Insured is Rs. 5 Lakhs, what is the maximum room rent the insurer will pay per day?",
+      "options": [
+        "Rs. 1,000",
+        "Rs. 2,500",
+        "Rs. 10,000",
+        "Rs. 5,000"
+      ],
+      "correct_index": 3,
+      "explanation": "Sub-limits cap specific expenses. 1% of Rs. 5,00,000 is Rs. 5,000. If the patient takes a room costing Rs. 8,000 per day, they must pay the remaining Rs. 3,000 out of pocket."
+    },
+    {
+      "id": "ch18_q14",
+      "text": "Maternity expenses are typically excluded from basic mediclaim policies. If an upgraded policy does cover maternity, it almost always comes with a strict waiting period of:",
+      "options": [
+        "30 days",
+        "3 months",
+        "Usually 9 months to 36 months, depending on the insurer.",
+        "10 years"
+      ],
+      "correct_index": 2,
+      "explanation": "Because pregnancy is often a planned event, offering immediate maternity cover would lead to massive losses (moral hazard). Insurers mitigate this by imposing a waiting period of anywhere from 9 months to 3 years."
+    },
+    {
+      "id": "ch18_q15",
+      "text": "Overseas Travel Insurance policies predominantly cover emergency medical expenses incurred while traveling abroad. Which of the following statements is TRUE?",
+      "options": [
+        "They explicitly exclude planned medical treatments (medical tourism) abroad.",
+        "They only cover accidental injuries and not fevers or illnesses.",
+        "They cover routine dental checkups in foreign countries.",
+        "They are valid for the entire lifetime of the policyholder."
+      ],
+      "correct_index": 0,
+      "explanation": "Travel insurance is for unexpected medical emergencies during a trip. It will NOT pay if a person is traveling abroad specifically to get a planned surgery (Medical Tourism)."
+    },
+    {
+      "id": "ch18_q16",
+      "text": "Apart from Pre-Existing Diseases, basic health policies impose a specific 'Time-Bound Exclusion' or waiting period for slow-growing illnesses like Cataract, Hernia, or Joint Replacement. This period is usually:",
+      "options": [
+        "30 days",
+        "1 year to 2 years",
+        "5 years",
+        "10 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Conditions like Cataracts, Hernia, and Knee replacements take a long time to develop. To prevent people from buying a policy just when the surgery becomes imminent, companies apply a specific 1 or 2-year waiting period for these ailments."
+    },
+    {
+      "id": "ch18_q17",
+      "text": "What is the standard 'Grace Period' allowed for renewing a health insurance policy where the premium is paid annually?",
+      "options": [
+        "7 days",
+        "10 days",
+        "15 days",
+        "30 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Policyholders get a 30-day grace period after the expiry date to pay the renewal premium. Paying within this period ensures the policy continuity benefits (like PED waiting periods) are not lost."
+    },
+    {
+      "id": "ch18_q18",
+      "text": "If a person forgets to renew on time, but gets hospitalized DURING the 30-day grace period BEFORE paying the renewal premium, will the insurance company pay the claim?",
+      "options": [
+        "No, the risk cover is suspended, and no claim is payable for events occurring during the grace period until the premium is actually paid.",
+        "Yes, the full claim is paid immediately without conditions.",
+        "Yes, but only 50% of the claim is paid.",
+        "Yes, but the hospital must pay the bill first."
+      ],
+      "correct_index": 0,
+      "explanation": "CRUCIAL EXAM RULE: Unlike life insurance, health insurance does NOT provide risk coverage during the grace period. If an illness or accident occurs during those unpaid days, the company will reject the claim."
+    },
+    {
+      "id": "ch18_q19",
+      "text": "Similar to life insurance, health insurance policies with a term of one year or more offer a 'Free Look Period' for the customer to review the terms. How long is this period?",
+      "options": [
+        "5 days",
+        "10 days",
+        "15 days",
+        "30 days"
+      ],
+      "correct_index": 2,
+      "explanation": "The policyholder has 15 days from the receipt of the policy document to review the terms. If dissatisfied, they can cancel the policy and get a refund of the premium (minus medical test and risk costs)."
+    },
+    {
+      "id": "ch18_q20",
+      "text": "A Personal Accident (PA) policy is highly specific. It primarily provides financial compensation for:",
+      "options": [
+        "Death occurring due to a severe heart attack.",
+        "Hospitalization bills arising from Dengue fever.",
+        "Damage caused to the insured's vehicle in a crash.",
+        "Death, permanent disability, or temporary disability caused solely by violent, accidental, and visible external means."
+      ],
+      "correct_index": 3,
+      "explanation": "A Personal Accident policy strictly covers the consequences of an accident. It does NOT cover natural deaths or hospitalizations caused by diseases and illnesses."
+    },
+    {
+      "id": "ch18_q21",
+      "text": "In an Employer-Employee Group Health Insurance scheme, who is issued the main 'Master Policy' document?",
+      "options": [
+        "The individual employees",
+        "The Employer or the Group Manager",
+        "The Third Party Administrator (TPA)",
+        "The Network Hospital"
+      ],
+      "correct_index": 1,
+      "explanation": "In group insurance, the contract is between the insurer and the employer. The employer holds the 'Master Policy', while the individual employees only receive health ID cards or certificates of insurance."
+    },
+    {
+      "id": "ch18_q22",
+      "text": "The standard Mediclaim policy strictly operates on the 'Principle of Indemnity'. This means that the policy:",
+      "options": [
+        "Only reimburses the actual hospitalization expenses incurred, up to the maximum limit of the Sum Insured.",
+        "Pays the full Sum Insured amount to the policyholder even if the hospital bill was only Rs. 5000.",
+        "Pays double the hospital bill so the patient makes a profit.",
+        "Only covers the cost of medicines, completely ignoring room rent and surgery costs."
+      ],
+      "correct_index": 0,
+      "explanation": "Indemnity means 'to make good the loss'. The insurer will only pay the exact amount of the hospital bill. The policyholder cannot make a financial profit from a sickness."
+    },
+    {
+      "id": "ch18_q23",
+      "text": "Medical expenses incurred for doctor consultations, blood tests, and scans BEFORE actually being admitted to the hospital are covered under which policy feature?",
+      "options": [
+        "Post-hospitalization expenses",
+        "Domiciliary hospitalization",
+        "Pre-hospitalization expenses (usually covering 30 to 60 days before admission)",
+        "Day Care Procedures"
+      ],
+      "correct_index": 2,
+      "explanation": "If a doctor orders tests that eventually lead to hospitalization for that same disease, those prior diagnostic and consultation costs are reimbursed under the 'Pre-hospitalization' benefit."
+    },
+    {
+      "id": "ch18_q24",
+      "text": "How does a 'Super Top-Up' health policy differ technically from a regular 'Top-Up' policy?",
+      "options": [
+        "A Super Top-up requires absolutely zero deductible.",
+        "A Super Top-up aggregates (adds up) multiple claims in a year to breach the deductible, whereas a standard Top-up applies the deductible separately on a per-claim basis.",
+        "A Super Top-up only covers treatments in VIP hospital rooms.",
+        "A Super Top-up automatically covers all the neighbors of the policyholder."
+      ],
+      "correct_index": 1,
+      "explanation": "This is a key technical difference. A standard Top-Up only pays if a SINGLE hospital bill crosses the deductible. A Super Top-Up is much better because it adds up all the smaller hospital bills throughout the year until they cross the deductible limit."
+    },
+    {
+      "id": "ch18_q25",
+      "text": "To initiate the cashless claim process at a network hospital, the hospital desk must send an initial request to the TPA or Insurer to block an estimated amount. This formal process is called:",
+      "options": [
+        "Reimbursement Request",
+        "Subrogation Process",
+        "Claim Settlement",
+        "Pre-authorization"
+      ],
+      "correct_index": 3,
+      "explanation": "Before starting the treatment in a cashless scenario, the hospital sends the diagnosis and estimated cost to the TPA. The TPA approves this via a 'Pre-authorization' letter, guaranteeing the payment to the hospital."
+    },
+    {
+      "id": "ch18_q26",
+      "text": "To exercise the right of 'Portability' (switching insurers), a policyholder must apply to the new insurance company at least how many days before the expiry of their current policy?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "90 days"
+      ],
+      "correct_index": 2,
+      "explanation": "As per IRDAI regulations, a policyholder who wishes to port their health insurance must inform the new insurer at least 45 days before the current policy's renewal date to allow time for the transfer of data and underwriting."
+    },
+    {
+      "id": "ch18_q27",
+      "text": "Which of the following is a standard, entry-level health insurance product mandated by IRDAI that all general and health insurance companies in India MUST offer?",
+      "options": [
+        "Arogya Sanjeevani Policy",
+        "Unit Linked Health Plan",
+        "Critical Illness Rider",
+        "High-Value Overseas Cover"
+      ],
+      "correct_index": 0,
+      "explanation": "Arogya Sanjeevani is a standardized health insurance product introduced by IRDAI. It has the same features, terms, and conditions across all insurance companies, making it easy for the common public to understand and compare."
+    }
+  ]
+}

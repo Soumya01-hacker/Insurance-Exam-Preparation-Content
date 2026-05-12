@@ -1,0 +1,307 @@
+{
+  "chapter_id": "health_insurance_underwriting",
+  "chapter_title": "Chapter 20: Health Insurance Underwriting",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch20_q1",
+      "text": "What is the core purpose of health insurance underwriting?",
+      "options": [
+        "To accurately assess the risk and ensure the premium charged is proportionate to the risk accepted, maintaining equity.",
+        "To reject as many claims as possible to increase the company's profit.",
+        "To guarantee high profits for network hospitals.",
+        "To provide free medical treatment to the general public."
+      ],
+      "correct_index": 0,
+      "explanation": "The main goal of underwriting is 'Equity'. It evaluates the medical and financial risk of an applicant so that standard healthy people don't end up paying for the higher risk of sick people."
+    },
+    {
+      "id": "ch20_q2",
+      "text": "Who among the following officially serves as the 'Primary' or 'First' underwriter in health insurance?",
+      "options": [
+        "The Third Party Administrator (TPA)",
+        "The Panel Doctor (Medical Examiner)",
+        "The Insurance Agent",
+        "The Underwriting Manager at the Head Office"
+      ],
+      "correct_index": 2,
+      "explanation": "The insurance agent is considered the First Underwriter because they are the only ones who physically meet the prospect and can observe their lifestyle, living conditions, and apparent health."
+    },
+    {
+      "id": "ch20_q3",
+      "text": "In health insurance underwriting, an individual who has a higher probability of falling sick compared to a normal healthy person of the same age is classified as a:",
+      "options": [
+        "Standard risk",
+        "Sub-standard risk",
+        "Preferred risk",
+        "Declined risk"
+      ],
+      "correct_index": 1,
+      "explanation": "A 'sub-standard risk' refers to a person who has health issues (like diabetes or obesity) or dangerous hobbies, making them more likely to claim. They are usually charged a higher premium."
+    },
+    {
+      "id": "ch20_q4",
+      "text": "Which of the following is considered a primary example of a 'Physical Hazard' in health insurance?",
+      "options": [
+        "A person lying about their actual annual income.",
+        "A person secretly buying 5 different health policies.",
+        "A person planning to commit insurance fraud.",
+        "A person suffering from severe obesity and high blood pressure."
+      ],
+      "correct_index": 3,
+      "explanation": "Physical hazards relate to the tangible medical, biological, or physical conditions of the applicant's body (like BMI, blood pressure, or past diseases) that directly increase the risk of sickness."
+    },
+    {
+      "id": "ch20_q5",
+      "text": "The principle of 'Utmost Good Faith' requires the proposer to disclose all material facts. What happens if a critical medical fact is intentionally hidden during the proposal stage?",
+      "options": [
+        "The insurer has the legal right to declare the contract void ab initio and reject all future claims.",
+        "The insurer must still pay the claim but can deduct a small penalty.",
+        "The network hospital gets blacklisted by IRDAI.",
+        "The premium is refunded to the customer with double interest."
+      ],
+      "correct_index": 0,
+      "explanation": "Hiding a pre-existing disease (Non-disclosure) is a breach of Utmost Good Faith. If discovered, the insurer can cancel the policy entirely and reject any claims arising from it."
+    },
+    {
+      "id": "ch20_q6",
+      "text": "If an underwriter finds that an applicant has an existing medical condition (like severe Asthma), they may issue the policy but permanently refuse to cover treatments related to Asthma. This specific decision is called:",
+      "options": [
+        "Postponement",
+        "Acceptance at Standard Rates",
+        "Acceptance with an Exclusion / Endorsement",
+        "Acceptance with a Lien"
+      ],
+      "correct_index": 2,
+      "explanation": "Instead of rejecting the applicant entirely, the underwriter offers a policy but 'excludes' the specific existing illness. The person gets cover for all other new diseases, except the excluded one."
+    },
+    {
+      "id": "ch20_q7",
+      "text": "Why is 'Age' considered the most critical risk factor in health insurance underwriting?",
+      "options": [
+        "Because IRDAI mandates that policies can only be sold to young people.",
+        "Because agents receive higher commissions for older clients.",
+        "Because older people generally have higher incomes.",
+        "Because the morbidity risk (probability of falling ill and needing hospitalization) significantly increases with advancing age."
+      ],
+      "correct_index": 3,
+      "explanation": "As the human body ages, its immunity weakens and the likelihood of developing chronic diseases (morbidity) goes up. Therefore, health premiums increase drastically as a person gets older."
+    },
+    {
+      "id": "ch20_q8",
+      "text": "Which of the following scenarios strongly indicates a 'Moral Hazard' to a health insurance underwriter?",
+      "options": [
+        "An applicant working in an underground coal mine.",
+        "An applicant buying a health cover that is disproportionately massive compared to their actual annual income.",
+        "An applicant having a strong family history of diabetes.",
+        "An applicant suffering from a congenital heart defect."
+      ],
+      "correct_index": 1,
+      "explanation": "Over-insurance (buying a 5 Crore policy on a 2 Lakh salary) is a major red flag for Moral Hazard. It implies the person might be planning a fraud to make an unethical profit out of an illness."
+    },
+    {
+      "id": "ch20_q9",
+      "text": "What does the term 'Medical Underwriting' specifically refer to?",
+      "options": [
+        "Assessing the health risk based on the physical medical test reports and the doctor's clinical findings of the applicant.",
+        "Checking the applicant's bank account statements and income tax returns.",
+        "Evaluating the applicant's ethical behavior and criminal record.",
+        "Providing medical training to the insurance agents."
+      ],
+      "correct_index": 0,
+      "explanation": "Medical underwriting focuses purely on the health status. It involves analyzing ECGs, blood reports, and the Medical Examiner's Report (MER) to determine the physical risk of the applicant."
+    },
+    {
+      "id": "ch20_q10",
+      "text": "What is the fundamental difference between underwriting an individual retail health policy versus a corporate 'Group Health Policy'?",
+      "options": [
+        "Group policies require much stricter medical tests for every single member.",
+        "Individual retail policies do not have any waiting periods.",
+        "Group underwriting only checks the age of the oldest member and ignores the rest.",
+        "Group underwriting assesses the risk of the group as a whole entity, without focusing on the individual medical histories of the members."
+      ],
+      "correct_index": 3,
+      "explanation": "In group insurance (like Employer-Employee), the risk is spread across many people. Insurers don't ask for individual medical tests; they price the policy based on the average age and past claim experience of the entire group."
+    },
+    {
+      "id": "ch20_q11",
+      "text": "If a person applies for a health policy immediately after being advised a knee replacement surgery by their doctor, what will the underwriter most likely do?",
+      "options": [
+        "Accept the proposal at standard premium rates.",
+        "Accept the proposal with a huge discount.",
+        "Decline or Postpone the proposal until the surgery is successfully completed and the person fully recovers.",
+        "Request the State Government to pay for the surgery."
+      ],
+      "correct_index": 2,
+      "explanation": "Buying a policy when a surgery is already planned is a guaranteed immediate claim. The underwriter will 'postpone' the decision until the acute condition is resolved."
+    },
+    {
+      "id": "ch20_q12",
+      "text": "A person applying for health insurance declares that they smoke two packs of cigarettes a day. How will the underwriter treat this information?",
+      "options": [
+        "As a financial hazard that reduces the premium.",
+        "As a physical/lifestyle hazard, which will likely attract an extra premium (loading).",
+        "They will ignore it as long as the person is under 30 years of age.",
+        "They will reject the proposal without any medical review."
+      ],
+      "correct_index": 1,
+      "explanation": "Smoking drastically increases the risk of lung cancer and heart disease. While they might not be rejected immediately, smokers are considered sub-standard risks and are charged an extra premium (loading)."
+    },
+    {
+      "id": "ch20_q13",
+      "text": "The 'Proposal Form' is the most vital document for underwriting. If a medical question in the form is left completely blank by the applicant, what must the underwriter do?",
+      "options": [
+        "Guess the most likely answer and fill it themselves.",
+        "Ignore the blank question and issue the policy.",
+        "Reject the policy permanently and ban the agent.",
+        "Return the form to the applicant and insist that all questions be answered completely before processing."
+      ],
+      "correct_index": 3,
+      "explanation": "An underwriter cannot make assumptions. If a material question is left blank, the form is incomplete. It must be sent back to the proposer to fill and sign."
+    },
+    {
+      "id": "ch20_q14",
+      "text": "In the terminology of health insurance underwriting, what does 'Loading' mean?",
+      "options": [
+        "Charging an additional amount of premium above the standard rate due to a higher assumed medical or lifestyle risk.",
+        "Reducing the sum assured for perfectly healthy standard lives.",
+        "The physical process of admitting a patient to the hospital bed.",
+        "Uploading the digital policy documents onto the customer's web portal."
+      ],
+      "correct_index": 0,
+      "explanation": "When an applicant has a higher risk (like obesity or smoking), the company 'loads' extra cost onto the base premium to compensate for the higher probability of a claim."
+    },
+    {
+      "id": "ch20_q15",
+      "text": "Which of the following documents is generally NOT an acceptable 'Standard Age Proof' for health insurance underwriting?",
+      "options": [
+        "Passport",
+        "A local gym or club membership card",
+        "Municipal Birth Certificate",
+        "School or College Leaving Certificate"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard age proofs must be issued by a recognized public or statutory authority. A private club membership card is completely unreliable and is not accepted as age proof."
+    },
+    {
+      "id": "ch20_q16",
+      "text": "Why is 'Financial Underwriting' necessary in retail health insurance?",
+      "options": [
+        "To verify if the applicant has an international bank account.",
+        "To force the applicant to pay the premium in hard cash.",
+        "To ensure the proposed Sum Insured is justified by the applicant's earning capacity, thereby preventing over-insurance.",
+        "To ensure the applicant can afford to buy a luxury car in the future."
+      ],
+      "correct_index": 2,
+      "explanation": "Financial underwriting checks the income. If a person earning Rs. 1 Lakh asks for a Rs. 2 Crore health policy, it raises suspicion of moral hazard. The cover must logically match the person's status."
+    },
+    {
+      "id": "ch20_q17",
+      "text": "In health insurance exclusions, a 'Congenital Anomaly' refers to a medical condition or physical defect that is:",
+      "options": [
+        "Acquired due to aging after 60 years.",
+        "Caused directly by a major road accident.",
+        "Caused by excessive alcohol consumption over decades.",
+        "Present right from birth, either inherited genetically or caused during pregnancy."
+      ],
+      "correct_index": 3,
+      "explanation": "Congenital diseases (like a hole in the heart present since birth) are often permanently excluded in standard retail health policies, though some advanced policies may cover them after a long waiting period."
+    },
+    {
+      "id": "ch20_q18",
+      "text": "Underwriters always check the 'Family History' section of the proposal form because certain critical diseases have a strong hereditary component. Which of the following diseases is considered strongly hereditary?",
+      "options": [
+        "Diabetes and early-onset Heart Disease",
+        "Malaria",
+        "Typhoid",
+        "Dengue Fever"
+      ],
+      "correct_index": 0,
+      "explanation": "Infectious diseases like Malaria or Dengue are environmental. However, Diabetes, Hypertension, and early heart attacks often run in families, alerting the underwriter to a higher genetic risk."
+    },
+    {
+      "id": "ch20_q19",
+      "text": "If an applicant works in a highly hazardous occupation (e.g., as an underground miner or high-rise window cleaner), the health insurance underwriter might:",
+      "options": [
+        "Increase the sum assured for free as a social service.",
+        "Ignore the occupation if the applicant is physically fit.",
+        "Charge an extra premium (loading) or place a specific exclusion for injuries arising directly from that dangerous occupation.",
+        "Pay a portion of the premium on behalf of the applicant."
+      ],
+      "correct_index": 2,
+      "explanation": "Occupational hazards increase the risk of severe accidental hospitalization. The insurer will either charge more money (loading) or exclude accidents that happen while performing that specific job."
+    },
+    {
+      "id": "ch20_q20",
+      "text": "What is the exact regulatory definition of a 'Pre-Existing Disease' (PED) in the context of health insurance underwriting?",
+      "options": [
+        "A disease that the person happens to catch 10 days after buying the policy.",
+        "Any condition, ailment, or injury for which the person had signs/symptoms, or received medical advice/treatment within 48 months prior to the first policy issued by the insurer.",
+        "A genetic disease that only affects senior citizens above 70 years.",
+        "A disease that is currently declared incurable by the WHO."
+      ],
+      "correct_index": 1,
+      "explanation": "IRDAI strictly defines PED as any illness that the insured was aware of, had symptoms of, or was treated for, within the 48 months (4 years) right before buying the health policy."
+    },
+    {
+      "id": "ch20_q21",
+      "text": "Which of the following scenarios typically allows an underwriter to waive off the standard 30-day initial waiting period for illnesses?",
+      "options": [
+        "If the premium is paid in advance for 5 consecutive years.",
+        "If the applicant is a registered medical practitioner.",
+        "If the sum assured requested is above Rs. 1 Crore.",
+        "It is generally not waived for individual retail policies, but is routinely waived in large corporate 'Group Health Insurance' policies."
+      ],
+      "correct_index": 3,
+      "explanation": "In retail policies, the 30-day waiting period is mandatory to stop fraud. However, in corporate group policies, since the entire staff is covered automatically, the risk of individual fraud drops, and this waiting period is waived."
+    },
+    {
+      "id": "ch20_q22",
+      "text": "To speed up policy issuance without compromising risk assessment, many modern insurers use 'Tele-underwriting'. This refers to:",
+      "options": [
+        "Diagnosing the patient's internal diseases using a telescope.",
+        "Conducting a detailed, recorded medical and lifestyle interview over the telephone by a trained medical professional.",
+        "Selling insurance forcefully through television advertisements.",
+        "Issuing policies automatically via SMS without filling any proposal form."
+      ],
+      "correct_index": 1,
+      "explanation": "Tele-underwriting replaces complex physical forms with a recorded phone call. A qualified medical team calls the customer, asks detailed health questions, and assesses the risk quickly and accurately."
+    },
+    {
+      "id": "ch20_q23",
+      "text": "The fundamental principle of 'Indemnity' in health insurance ensures that:",
+      "options": [
+        "The policyholder makes a massive financial profit from falling sick.",
+        "The treating hospital receives double the billed amount from the insurer.",
+        "The insured is compensated exactly for the actual medical expenses incurred, without making any profit, subject to the sum insured limit.",
+        "The agent's commission is protected even if the policy is surrendered."
+      ],
+      "correct_index": 2,
+      "explanation": "Underwriting relies on indemnity. It ensures that the insurance money only 'restores' the financial loss caused by the hospital bill. It prevents people from using sickness as a way to earn extra money."
+    },
+    {
+      "id": "ch20_q24",
+      "text": "In Group Health Insurance underwriting, the risk is evaluated based on the 'Law of Large Numbers'. What does this imply?",
+      "options": [
+        "The larger the group of employees, the more predictable the overall health claims will be for the insurer.",
+        "Large corporate groups are more likely to commit massive insurance fraud.",
+        "Large groups always pay the highest per-person premium in the market.",
+        "Only multinational companies with over 10,000 employees can buy group insurance."
+      ],
+      "correct_index": 0,
+      "explanation": "The Law of Large Numbers states that while you can't predict if one specific person will fall ill, in a group of 1000 people, the underwriter can accurately predict the statistical average of how many will fall ill."
+    },
+    {
+      "id": "ch20_q25",
+      "text": "Why do health underwriters explicitly mandate a 'Medical Examiner's Report' (MER) for high age or high sum-assured proposals?",
+      "options": [
+        "To artificially inflate the premium and earn more tax.",
+        "To deliberately delay the policy issuance process to harass the customer.",
+        "To make the customer feel they are buying a VIP product.",
+        "To get an unbiased, professional clinical assessment of the applicant's current hidden health status before taking on a massive financial risk."
+      ],
+      "correct_index": 3,
+      "explanation": "Customers might hide diseases, or might not even know they have them (like silent high blood pressure). For high risks, underwriters rely on an independent Panel Doctor's MER to uncover the exact physical truth."
+    }
+  ]
+}

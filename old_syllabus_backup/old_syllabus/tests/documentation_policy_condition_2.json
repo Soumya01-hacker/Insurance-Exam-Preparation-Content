@@ -1,0 +1,307 @@
+{
+  "chapter_id": "documentation_policy_condition_2",
+  "chapter_title": "Chapter 14: Documentation – Policy Condition II",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch14_q1",
+      "text": "Which section of the Insurance Act, 1938 specifically deals with the rules of 'Nomination' in a life insurance policy?",
+      "options": [
+        "Section 45",
+        "Section 38",
+        "Section 39",
+        "Section 41"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 39 of the Insurance Act, 1938 governs Nomination. It allows the policyholder to appoint a person to receive the policy money in the event of the policyholder's death."
+    },
+    {
+      "id": "ch14_q2",
+      "text": "What is the true legal status of a 'Nominee' in a standard life insurance policy?",
+      "options": [
+        "A trustee or authorized receiver of the death benefit",
+        "The absolute legal owner of the policy",
+        "The person who pays the premium",
+        "A joint partner in the insurance contract"
+      ],
+      "correct_index": 0,
+      "explanation": "A nominee does NOT become the legal owner of the policy. They are simply legally authorized to receive the death benefit funds as a trustee on behalf of the legal heirs of the deceased."
+    },
+    {
+      "id": "ch14_q3",
+      "text": "If a policyholder appoints a minor child (under 18 years) as a nominee, what is the mandatory additional requirement?",
+      "options": [
+        "The policy must be completely assigned to the minor",
+        "Permission from the State Government must be taken",
+        "The minor must sign the proposal form",
+        "An adult 'Appointee' must be named to receive the money on the minor's behalf"
+      ],
+      "correct_index": 3,
+      "explanation": "Since a minor cannot legally handle financial contracts or sign a valid discharge voucher, the policyholder must appoint a trusted adult (Appointee) who will receive the funds if the claim arises while the nominee is still a minor."
+    },
+    {
+      "id": "ch14_q4",
+      "text": "Which section of the Insurance Act, 1938 governs the 'Assignment' (transfer of rights) of a life insurance policy?",
+      "options": [
+        "Section 45",
+        "Section 38",
+        "Section 39",
+        "Section 10(10D)"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 38 of the Insurance Act, 1938 deals with the Assignment of policies. It lays down the legal procedure for transferring the rights, title, and ownership of a policy to another person or entity."
+    },
+    {
+      "id": "ch14_q5",
+      "text": "What happens to an existing Nomination when a policyholder makes an Absolute Assignment of the policy to a third party?",
+      "options": [
+        "The nomination becomes a joint holding",
+        "The nominee gets 50% of the claim",
+        "The existing nomination is automatically cancelled",
+        "The nomination remains fully active"
+      ],
+      "correct_index": 2,
+      "explanation": "This is a highly repeated exam rule. Because assignment transfers complete ownership of the policy, any prior nomination made by the original owner is immediately and automatically cancelled."
+    },
+    {
+      "id": "ch14_q6",
+      "text": "A father gifts his life insurance policy to his newly married daughter out of natural love and affection, transferring all ownership rights to her permanently. This is an example of:",
+      "options": [
+        "Absolute Assignment",
+        "Conditional Assignment",
+        "Nomination",
+        "Foreclosure"
+      ],
+      "correct_index": 0,
+      "explanation": "Absolute Assignment means the complete and permanent transfer of all rights, title, and interest in the policy. The original policyholder loses all control, and the new owner (daughter) can do whatever she wants with the policy."
+    },
+    {
+      "id": "ch14_q7",
+      "text": "A policyholder transfers the rights of his policy to a bank solely as security for a housing loan. This process is known as:",
+      "options": [
+        "Indemnity Bond",
+        "Absolute Assignment",
+        "Paid-up Value transfer",
+        "Conditional Assignment"
+      ],
+      "correct_index": 3,
+      "explanation": "Conditional Assignment transfers the rights subject to a specific condition (like loan repayment). Once the condition is fulfilled, the rights revert back to the original owner."
+    },
+    {
+      "id": "ch14_q8",
+      "text": "In the case of a Conditional Assignment made to a bank for a loan, what happens once the policyholder fully repays the loan?",
+      "options": [
+        "The policy is permanently cancelled by the bank",
+        "The rights and title of the policy automatically revert back to the original policyholder",
+        "The bank becomes the permanent owner",
+        "The policyholder must buy a new policy"
+      ],
+      "correct_index": 1,
+      "explanation": "When the loan is fully repaid, the condition is met. The bank will issue a reassignment deed, and the complete ownership of the policy is restored to the policyholder."
+    },
+    {
+      "id": "ch14_q9",
+      "text": "What is the meaning of 'Surrender Value' in a traditional life insurance policy?",
+      "options": [
+        "The fine paid by the agent for a delayed premium",
+        "The guaranteed amount paid upon natural death",
+        "The cash amount paid by the insurance company if the policyholder voluntarily terminates the policy before maturity",
+        "The total profit of the insurance company"
+      ],
+      "correct_index": 2,
+      "explanation": "Surrender Value is the portion of the savings reserve that the insurance company returns to the policyholder if they decide to close (surrender) the policy before its scheduled maturity date."
+    },
+    {
+      "id": "ch14_q10",
+      "text": "If a policyholder stops paying premiums after 3 years, the policy does not lapse entirely. Instead, it continues with a proportionately reduced life cover. This reduced cover is called:",
+      "options": [
+        "Paid-Up Value",
+        "Surrender Value",
+        "Foreclosed Value",
+        "Bonus Value"
+      ],
+      "correct_index": 0,
+      "explanation": "When a policy acquires a surrender value, stopping premiums converts it into a 'Paid-up' policy. The life cover doesn't stop, but the Sum Assured is permanently reduced based on the number of premiums already paid."
+    },
+    {
+      "id": "ch14_q11",
+      "text": "Which of the following is the correct mathematical formula to calculate the 'Paid-Up Value' of a policy?",
+      "options": [
+        "(Total premiums paid / Current Age) * Bonus",
+        "Surrender Value + Agent Commission",
+        "(Years remaining / Total years) * Surrender Value",
+        "(Number of premiums paid / Total number of premiums payable) x Original Sum Assured"
+      ],
+      "correct_index": 3,
+      "explanation": "If you bought a 20-year policy for Rs. 10 Lakhs and paid premiums for 10 years (half the term), the paid-up value will be (10/20) * 10,00,000 = Rs. 5 Lakhs."
+    },
+    {
+      "id": "ch14_q12",
+      "text": "When a policyholder applies for a loan against their life insurance policy from the insurance company, the maximum loan amount is usually determined as a percentage of the:",
+      "options": [
+        "Total Sum Assured",
+        "Current Surrender Value",
+        "Policyholder's monthly salary",
+        "Agent's commission"
+      ],
+      "correct_index": 1,
+      "explanation": "Policy loans are secured against the policy's savings element. Therefore, insurance companies typically grant a loan up to 80% to 90% of the policy's accumulated Surrender Value."
+    },
+    {
+      "id": "ch14_q13",
+      "text": "What does the term 'Foreclosure' mean in the context of a life insurance policy loan?",
+      "options": [
+        "Opening a new policy before the old one matures",
+        "Refusing to grant a loan to the policyholder",
+        "The insurer permanently closes the policy when the outstanding loan amount plus interest exceeds the surrender value",
+        "Paying the maturity amount early"
+      ],
+      "correct_index": 2,
+      "explanation": "If the policyholder stops paying loan interest, the total debt keeps growing. Once the debt exceeds the policy's surrender value, the insurer 'forecloses' (cancels) the policy to recover the loss, and all life cover stops."
+    },
+    {
+      "id": "ch14_q14",
+      "text": "Can a policyholder change or cancel an existing nomination during the active term of the policy?",
+      "options": [
+        "Yes, it can be changed any number of times before the policy matures",
+        "No, a nomination once made is permanent",
+        "Yes, but only once in a lifetime",
+        "Only if the current nominee gives written consent"
+      ],
+      "correct_index": 0,
+      "explanation": "Nomination is a highly flexible right. A policyholder can change, update, or cancel the nominee details as many times as they want during the policy term without needing the old nominee's permission."
+    },
+    {
+      "id": "ch14_q15",
+      "text": "Who among the following holds the legal right to assign a life insurance policy?",
+      "options": [
+        "The Nominee",
+        "The Appointee",
+        "The Insurance Agent",
+        "Only the legal owner / Policyholder"
+      ],
+      "correct_index": 3,
+      "explanation": "Assignment is the transfer of property (the policy). Therefore, only the absolute legal owner of the policy (the policyholder) has the right to assign it to someone else."
+    },
+    {
+      "id": "ch14_q16",
+      "text": "If a sole nominee dies before the policyholder, what happens to the nomination?",
+      "options": [
+        "The policy is automatically surrendered",
+        "The nomination becomes invalid, and the policyholder must appoint a new nominee",
+        "The claim will go to the nominee's children",
+        "The money goes to the insurance agent"
+      ],
+      "correct_index": 1,
+      "explanation": "If the nominee pre-deceases (dies before) the policyholder, the nomination is cancelled. The policyholder should ideally file a new nomination, otherwise, the death benefit will go to the policyholder's legal heirs."
+    },
+    {
+      "id": "ch14_q17",
+      "text": "Which of the following statements is TRUE regarding making a nomination at the proposal stage?",
+      "options": [
+        "It requires court approval",
+        "It is completely forbidden",
+        "It is highly recommended and usually incorporated directly in the proposal form itself",
+        "It requires an extra premium"
+      ],
+      "correct_index": 2,
+      "explanation": "To ensure a smooth claim settlement process in the future, insurers highly encourage making a nomination right at the beginning. Standard proposal forms have a dedicated section for nominee details."
+    },
+    {
+      "id": "ch14_q18",
+      "text": "What is the primary purpose of executing an 'Indemnity Bond' in a life insurance context?",
+      "options": [
+        "To obtain a duplicate policy document if the original is lost or destroyed",
+        "To take a loan from the bank",
+        "To change the nominee",
+        "To pay the renewal premium"
+      ],
+      "correct_index": 0,
+      "explanation": "If a customer loses the original policy bond, the company will issue a duplicate. However, to protect themselves against future disputes (like someone finding the old document and claiming the money), the company requires the customer to sign an Indemnity Bond."
+    },
+    {
+      "id": "ch14_q19",
+      "text": "If a life insurance policy is absolutely assigned to a person (Assignee), can that new owner further assign the policy to someone else?",
+      "options": [
+        "No, reassignment is illegal",
+        "Yes, but only back to the original owner",
+        "Only if IRDAI permits",
+        "Yes, the new absolute owner has full rights to re-assign it to anyone they choose"
+      ],
+      "correct_index": 3,
+      "explanation": "An absolute assignment transfers 100% of the ownership rights. The new owner is free to hold the policy, surrender it, or further assign it to a third party."
+    },
+    {
+      "id": "ch14_q20",
+      "text": "Which of the following policy alterations is generally NOT permitted by an insurance company during the policy term?",
+      "options": [
+        "Changing the premium payment mode (e.g., half-yearly to yearly)",
+        "Increasing the basic Sum Assured after the policy is issued",
+        "Updating the correspondence address",
+        "Changing the nomination"
+      ],
+      "correct_index": 1,
+      "explanation": "While minor administrative changes are allowed, increasing the basic Sum Assured midway alters the fundamental risk assumed by the company. If a customer wants more cover, they must buy a new, separate policy."
+    },
+    {
+      "id": "ch14_q21",
+      "text": "If the life assured survives till the maturity date of an endowment policy, who is legally entitled to receive the maturity amount?",
+      "options": [
+        "The Nominee",
+        "The Insurance Agent",
+        "The Policyholder themselves",
+        "The Appointee"
+      ],
+      "correct_index": 2,
+      "explanation": "A nominee only comes into the picture if the policyholder dies. If the policyholder survives the term and the policy matures, the maturity proceeds are paid directly to the policyholder."
+    },
+    {
+      "id": "ch14_q22",
+      "text": "When a policyholder assigns their policy directly to the insurance company itself (to take a policy loan), what is the impact on the existing nomination?",
+      "options": [
+        "It is an exception to the rule; the existing nomination is NOT cancelled",
+        "The nomination is immediately cancelled",
+        "The nominee must repay the loan",
+        "The nominee becomes the owner"
+      ],
+      "correct_index": 0,
+      "explanation": "This is a critical legal exception. Usually, assignment cancels nomination. However, if the policy is assigned strictly to the issuing insurer for a loan, the existing nomination remains active (though subject to the insurer's right to recover the loan first)."
+    },
+    {
+      "id": "ch14_q23",
+      "text": "What is the minimum number of full years' premiums that must typically be paid for a traditional endowment policy to acquire a Guaranteed Surrender Value?",
+      "options": [
+        "1 Month",
+        "1 Year",
+        "5 Years",
+        "2 to 3 Years depending on the specific policy terms"
+      ],
+      "correct_index": 3,
+      "explanation": "As per IRDAI rules, traditional life insurance policies generally acquire a Guaranteed Surrender Value only after premiums have been fully paid for 2 consecutive years (or 3 years for longer-term policies)."
+    },
+    {
+      "id": "ch14_q24",
+      "text": "When an Assignment of a policy is made, how is it legally recorded to be valid?",
+      "options": [
+        "By a verbal agreement",
+        "By making an endorsement on the policy document itself or executing a separate stamped assignment deed",
+        "By updating the Aadhaar card",
+        "By paying the agent a fee"
+      ],
+      "correct_index": 1,
+      "explanation": "An assignment must be in writing. It is done either by an endorsement printed on the back of the original policy document or through a separate, legally stamped legal deed."
+    },
+    {
+      "id": "ch14_q25",
+      "text": "If there are multiple nominees appointed in a policy, and the policyholder dies, how is the claim amount distributed?",
+      "options": [
+        "The eldest nominee gets everything",
+        "The male nominee gets everything",
+        "The court decides the distribution",
+        "It is distributed equally among all surviving nominees, or as per specific percentages declared by the policyholder"
+      ],
+      "correct_index": 3,
+      "explanation": "A policyholder can appoint multiple nominees. They can specify the exact percentage (e.g., 50% to wife, 50% to son). If no specific share is mentioned, the company distributes the money equally among all valid nominees."
+    }
+  ]
+}

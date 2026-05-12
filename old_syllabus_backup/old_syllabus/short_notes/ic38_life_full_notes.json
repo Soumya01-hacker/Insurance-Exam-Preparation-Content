@@ -1,0 +1,1587 @@
+{
+  "chapterId": "ic38_life_full_notes",
+  "title": "IC-38 Life Full Syllabus Notes",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "chapter_header",
+      "title": "Chapter 1: Introduction to Insurance"
+    },
+    {
+      "type": "timeline",
+      "title": "📜 The History of Insurance (Must Remember!)",
+      "items": [
+        {
+          "year": "1688",
+          "text": "Lloyd's Coffee House in London - Birthplace of modern marine insurance."
+        },
+        {
+          "year": "1818",
+          "text": "Oriental Life Insurance Company - First Life Company in India (started by Europeans)."
+        },
+        {
+          "year": "1870",
+          "text": "Bombay Mutual Life Assurance Society - First Indian-owned life insurance company."
+        },
+        {
+          "year": "1956",
+          "text": "245 companies merged to form LIC (Nationalization of Life Insurance)."
+        },
+        {
+          "year": "1972",
+          "text": "General Insurance Business Act - Nationalization of Non-Life Insurance."
+        },
+        {
+          "year": "2000",
+          "text": "IRDAI Established - The Supreme Regulator of Insurance in India."
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ The 4 Techniques of Risk Management",
+      "cards": [
+        {
+          "title": "1. Risk Avoidance (Negative)",
+          "content": "Avoiding the activity altogether (e.g., Not traveling to avoid accidents). It is a negative way to handle risk.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Risk Retention (Self-Insurance)",
+          "content": "Deciding to bear the loss yourself. Best for small, predictable losses.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Risk Reduction (Practical)",
+          "content": "Lowering the chance of loss (e.g., Using fire extinguishers or wearing helmets).",
+          "color": "blue"
+        },
+        {
+          "title": "4. Risk Transfer (The BEST)",
+          "content": "Transferring the financial burden to an Insurance Company.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💡 How it Works? (Core Concepts)",
+      "cards": [
+        {
+          "title": "Law of Large Numbers",
+          "content": "Predicting the future becomes easier when we look at a large group of people.",
+          "color": "blue"
+        },
+        {
+          "title": "Pooling of Risks",
+          "content": "The 'Many' contribute premiums to pay for the losses of the 'Few'.",
+          "color": "blue"
+        },
+        {
+          "title": "Human Life Value (HLV)",
+          "content": "Introduced by Prof. S.S. Huebner. It measures the economic value of a human life based on future earnings.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "IRDAI is the ONLY regulator in India. (Established in 2000).",
+        "Insurance is a 'Tool for Risk Transfer', not a tool to remove the risk itself.",
+        "Primary Burden of Risk: The actual financial loss.",
+        "Secondary Burden of Risk: The mental strain, anxiety, and keeping reserve funds.",
+        "Don't confuse LIC (1956) with GIC (1972) dates in MCQs!"
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 2: Customer Service"
+    },
+    {
+      "type": "note_card",
+      "title": "🌟 The 5 Pillars of Service Quality (SERVQUAL)",
+      "cards": [
+        {
+          "title": "1. Reliability",
+          "content": "The ability to perform the promised service dependably and accurately. (e.g., Doing what you promised).",
+          "color": "blue"
+        },
+        {
+          "title": "2. Responsiveness",
+          "content": "Willingness to help customers and provide prompt service. (e.g., Replying to calls/emails quickly).",
+          "color": "blue"
+        },
+        {
+          "title": "3. Assurance",
+          "content": "Employees' knowledge, courtesy, and ability to convey trust and confidence.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Empathy",
+          "content": "Caring, individualized attention given to customers. (Putting yourself in their shoes).",
+          "color": "blue"
+        },
+        {
+          "title": "5. Tangibles",
+          "content": "Physical facilities, equipment, and appearance of personnel. (Since insurance is intangible, documents must look professional).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Grievance Redressal Mechanism (V. Important)",
+      "cards": [
+        {
+          "title": "IGMS (Integrated Grievance Management System)",
+          "content": "An online portal launched by IRDAI. It acts as a central repository for industry-wide consumer grievances.",
+          "color": "blue"
+        },
+        {
+          "title": "Consumer Courts (CPA)",
+          "content": "Three-tier system: District Commission, State Commission, and National Commission. Used when customers are dissatisfied with the service.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance Ombudsman",
+          "content": "Created by the Government. Resolves complaints out of the court system efficiently and impartially.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "🏛️ Insurance Ombudsman Rules (Must Memorize)",
+      "items": [
+        {
+          "year": "Rule 1",
+          "text": "Who can approach? Any person who has a grievance against an insurer."
+        },
+        {
+          "year": "Rule 2",
+          "text": "Complaint must be made within 1 YEAR of the insurance company rejecting the complaint."
+        },
+        {
+          "year": "Rule 3",
+          "text": "Maximum compensation awarded by Ombudsman cannot exceed ₹30 Lakhs."
+        },
+        {
+          "year": "Rule 4",
+          "text": "There is NO FEE charged for filing a complaint with the Ombudsman."
+        },
+        {
+          "year": "Rule 5",
+          "text": "The Ombudsman's decision is binding on the insurer, but NOT binding on the customer."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "Active Listening is the most important communication skill for an agent.",
+        "Insurance is an 'Intangible' product. You are selling a promise.",
+        "CLV (Customer Lifetime Value) is the historical and future revenue expected from a customer.",
+        "If a customer's complaint is not resolved within 15 days by the company, they can go to the Ombudsman.",
+        "Ombudsman has 1 month to give a recommendation, and 3 months to pass an award."
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 3: Grievance Redressal Mechanism"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "High Weightage Areas",
+          "content": "• Insurance Ombudsman (Limits, Fees, and Timelines)\n• Consumer Protection Act 3-Tier System (District, State, National)\n• IGMS (Integrated Grievance Management System)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Detailed Short Notes",
+      "cards": [
+        {
+          "title": "1. IGMS (Integrated Grievance Management System)",
+          "content": "Launched by IRDAI to track and monitor grievance redressal in the insurance industry. It acts as a central repository for all insurance grievances in India. Customers can register complaints directly with the insurer or escalate to IRDAI.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Consumer Protection Act (3-Tier System)",
+          "content": "District Commission: Up to Rs. 1 Crore.\nState Commission: Rs. 1 Crore to Rs. 10 Crores.\nNational Commission: Exceeds Rs. 10 Crores.\nKey Point: A 'Consumer' is someone who buys for personal use, NOT commercial purposes.",
+          "color": "blue"
+        },
+        {
+          "title": "3. The Insurance Ombudsman",
+          "content": "Quick, impartial settlement for life & general insurance.\nFinancial Limit: Max award is Rs. 30 Lakhs.\nFees: NO fee to file a complaint.\nTime Limit: Within 1 year of insurer rejection.\nBinding Nature: Binding on company, but policyholder can still approach consumer court.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Maximum Ombudsman Award: Rs. 30 Lakhs.",
+        "Fee for Ombudsman: Zero (No Fee).",
+        "Time limit to file with Ombudsman: 1 Year after rejection.",
+        "District Commission handles disputes up to Rs. 1 Crore."
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 4: Regulatory Aspects of Insurance Agents"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "High Weightage Areas",
+          "content": "• Prerequisites and Validity of License\n• Section 41 (Prohibition of Rebates)\n• IRDAI Code of Conduct\n• Conditions for Disqualification",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Key Short Notes",
+      "cards": [
+        {
+          "title": "1. Agency License Rules",
+          "content": "Age: Min 18 years.\nQualification: Min 10th standard.\nValidity: 3 Years.\nComposite Agent: Can hold 1 Life, 1 General, 1 Health, and 1 Mono-line license simultaneously, but NOT two of the same category.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Code of Conduct (Do's and Don'ts)",
+          "content": "• Must show ID card and disclose commission if asked.\n• Churning/Twisting: Forcing customer to end policy to buy new one (Strictly Prohibited).\n• Material Facts: Agents must ensure 100% accurate disclosure.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Section 41: Prohibition of Rebates",
+          "content": "Most Important! Prohibits offering or taking discounts (rebates) to induce a purchase.\nPenalty: Fine up to Rs. 10 Lakhs.",
+          "color": "red"
+        },
+        {
+          "title": "4. Disqualification",
+          "content": "Disqualified if: Minor, Unsound mind, guilty of fraud, or breach of trust. License can be suspended or cancelled for code violations.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "License Validity: 3 Years.",
+        "Anti-Rebate Section: Section 41 of Insurance Act, 1938.",
+        "Max Rebate Penalty: Rs. 10 Lakhs.",
+        "Wait period for policy replacement (Churning): 3 Years."
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 5: Legal Principles of an Insurance Contract"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Core Legal Principles",
+          "content": "• Utmost Good Faith (Uberrima Fides)\n• Insurable Interest (Timing Rules)\n• Principle of Indemnity (Exceptions)\n• Proximate Cause (Causa Proxima)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Utmost Good Faith & Insurable Interest",
+      "cards": [
+        {
+          "title": "1. Utmost Good Faith (Uberrima Fides)",
+          "content": "Proposer must truthfully disclose all 'Material Facts'. Concealment (e.g., hiding diabetes) makes the policy void.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Insurable Interest (TIMING RULES)",
+          "content": "• Life Insurance: Must exist only at the START of the policy.\n• Marine Insurance: Must exist at the time of LOSS.\n• Fire Insurance: Must exist at both START and LOSS.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Indemnity, Subrogation & Contribution",
+      "cards": [
+        {
+          "title": "3. Principle of Indemnity",
+          "content": "To compensate the loss, not to make profit. Does NOT apply to Life Insurance and Personal Accident Insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Proximate Cause & Others",
+          "content": "Proximate Cause: The direct, dominant cause of loss.\nSubrogation: Insurer steps into insured's shoes to recover from 3rd party.\nContribution: Multiple insurers share loss proportionately.\n(Subrogation/Contribution do NOT apply to Life Insurance).",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Insurable Interest in Life: Required at the time of taking the policy.",
+        "Indemnity in Life Insurance: Does NOT apply.",
+        "Uberrima Fides: Utmost Good Faith.",
+        "Causa Proxima: The most effective cause of loss."
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 6: What Life Insurance Involves"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Core Concepts of Life Insurance",
+          "content": "• Human Life Value (HLV) - Prof. Hubner\n• Mutuality and Risk Pooling\n• Level Premium System vs. Natural Premium",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Human Life Value (HLV)",
+      "cards": [
+        {
+          "title": "1. What is HLV?",
+          "content": "Developed by Prof. Hubner. It measures a person's economic value based on future net earnings. It answers: 'How much insurance do I need?'",
+          "color": "blue"
+        },
+        {
+          "title": "2. Risk Pooling & Mutuality",
+          "content": "Foundation of insurance. The 'Many' contribute to a common fund to share the losses of the unfortunate 'Few'.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📈 Premium Systems",
+      "cards": [
+        {
+          "title": "3. Natural vs. Level Premium",
+          "content": "Natural Premium: Increases every year as risk (age) increases.\nLevel Premium: Remains constant throughout the term. Policyholders pay MORE in early years to cover high risk in later years.",
+          "color": "green"
+        },
+        {
+          "title": "4. Cash Value & Reserve",
+          "content": "In Level Premium, the excess money collected in early years creates a reserve. This build-up is known as the 'Cash Value' or 'Surrender Value'.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "HLV Concept Father: Prof. Hubner.",
+        "System with constant premium: Level Premium System.",
+        "Cash Value Reason: Excess premium collected in early years of Level Premium policies.",
+        "Life Insurance Contract: Long-term protection + savings."
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 7: Financial Planning"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Core of Financial Planning",
+          "content": "• Economic Life Cycle (Phases of Life)\n• Contingency Funds & Emergency Needs\n• Impact of Inflation on Purchasing Power\n• Role of Insurance vs. Investment",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🗓️ The Economic Life Cycle",
+      "cards": [
+        {
+          "title": "1. Phases of Life",
+          "content": "Student Phase: Preparation & Education.\nWorking Phase: Wealth Accumulation & Protection.\nRetirement Phase: Wealth Distribution & Conservation.",
+          "color": "blue"
+        },
+        {
+          "title": "2. When to Start?",
+          "content": "The best time to start financial planning is 'as soon as one starts earning'. Don't wait for marriage or retirement.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ Financial Needs & Inflation",
+      "cards": [
+        {
+          "title": "3. Contingency vs. Retirement",
+          "content": "Contingency: Managed by Emergency Funds & Insurance.\nRetirement: Managed by Pensions & Annuities (covers risk of 'living too long').",
+          "color": "orange"
+        },
+        {
+          "title": "4. Impact of Inflation",
+          "content": "Inflation reduces 'Purchasing Power'. Real rate of return = Interest Rate - Inflation Rate. Planning must account for this.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Starting Time: Immediately after the first salary.",
+        "Outliving savings risk cover: Annuities / Pensions.",
+        "Inflation effect: Reduces purchasing power of money.",
+        "Contingency fund goal: To handle emergencies without breaking long-term investments."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Best time to start financial planning?",
+          "content": "Answer: As soon as one gets their first salary.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Primarily a protection product?",
+          "content": "Answer: Term Life Insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 8: Life Insurance Products – I"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Product Categories",
+          "content": "• Term Insurance (Pure Risk Cover)\n• Endowment Plans (Protection + Savings)\n• Whole Life Policies (Estate Creation)\n• Riders (Add-on Benefits)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ Core Insurance Products",
+      "cards": [
+        {
+          "title": "1. Term Insurance",
+          "content": "Simplest & Cheapest. Highest risk cover for lowest premium. NO maturity/savings benefit. (If you survive, nothing is paid).",
+          "color": "red"
+        },
+        {
+          "title": "2. Endowment Insurance",
+          "content": "Term Insurance + Pure Endowment. Benefit paid on EITHER death OR survival (maturity). Good for targeted savings.",
+          "color": "green"
+        },
+        {
+          "title": "3. Whole Life Insurance",
+          "content": "Covers entire life (up to 100 years). Best for 'Estate Creation' and leaving a legacy for heirs.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "➕ Riders (Add-on Benefits)",
+      "cards": [
+        {
+          "title": "Optional Benefits",
+          "content": "Additional covers like Accidental Death, Critical Illness, Waiver of Premium (WOP). Nominal extra cost.",
+          "color": "orange"
+        },
+        {
+          "title": "Important Rule",
+          "content": "Premium for all health/critical illness riders cannot exceed 30% of the base policy premium.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Highest coverage @ Lowest premium: Term Insurance.",
+        "Maturity benefit absent in: Term Insurance.",
+        "Legacy/Estate creation policy: Whole Life.",
+        "Endowment combo: Term Insurance + Pure Endowment."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Agent recommendation for lowest premium/high cover?",
+          "content": "Answer: Term Insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. What is a 'Rider'?",
+          "content": "Answer: An add-on benefit attached to the base policy for extra premium.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 9: Life Insurance Products – II"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Market-Linked Products",
+          "content": "• Traditional vs Non-Traditional Products\n• Unit Linked Insurance Plans (ULIPs)\n• Net Asset Value (NAV) Calculation\n• Universal Life Insurance Features",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💡 Traditional vs. Non-Traditional",
+      "cards": [
+        {
+          "title": "1. Why Non-Traditional?",
+          "content": "Traditional products are 'bundled' (opaque). Non-traditional products bring Transparency through 'Unbundling'—separating risk cover, expenses, and investment.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📈 ULIPs & NAV",
+      "cards": [
+        {
+          "title": "2. ULIP Core Concepts",
+          "content": "Premiums buy 'Units' in a fund (Equity, Debt, etc.). \nNAV: The price per unit.\nRisk: Investment risk is 100% borne by the POLICYHOLDER.\nLock-in: Mandatory 5 years.",
+          "color": "red"
+        },
+        {
+          "title": "3. Flexibility in ULIPs",
+          "content": "Fund Switching: Move money between Equity & Debt.\nPremium Holiday: Temporary stop in payments if fund value is high enough.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🌍 Universal Life Insurance",
+      "cards": [
+        {
+          "title": "4. Key Features",
+          "content": "Highly flexible. Allows policyholders to change the premium amount and Sum Assured based on their financial life changes.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "ULIP Investment Risk: Borne by the Policyholder.",
+        "Unbundling: Separating protection, savings, and expenses.",
+        "ULIP Value: Depends on the NAV of the units.",
+        "Switching option: Only available in ULIPs."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Who bears the investment risk in a ULIP?",
+          "content": "Answer: The Policyholder.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Advantage of non-traditional products?",
+          "content": "Answer: Complete unbundling and transparency.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 10: Applications of Life Insurance"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Legal & Business Applications",
+          "content": "• Married Women's Property (MWP) Act, 1874\n• Keyman Insurance (Business Protection)\n• Mortgage Redemption Insurance (MRI)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📜 Married Women's Property (MWP) Act",
+      "cards": [
+        {
+          "title": "1. Section 6 - The Trust",
+          "content": "Creates a 'Trust' for wife/children. The policyholder loses control—cannot surrender or take a loan without trustee consent.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Protection from Creditors",
+          "content": "CRITICAL: The money is 100% protected from the husband's creditors and court attachments. Even parents/relatives cannot claim it.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💼 Business & Loan Protection",
+      "cards": [
+        {
+          "title": "3. Keyman Insurance",
+          "content": "Taken by Employer on the life of an important employee. Premium is a business expense. Claim is paid to the EMPLOYER, not the family.",
+          "color": "orange"
+        },
+        {
+          "title": "4. Mortgage Redemption (MRI)",
+          "content": "A Decreasing Term Insurance. Cover decreases as the loan amount decreases. Pays off the loan directly to the bank if the borrower dies.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "MWP Act Protection: Protects from creditors/court attachments.",
+        "Keyman Benefit Receiver: The Employer/Company.",
+        "MRI Policy Type: Decreasing Term Insurance.",
+        "MWP Trustee Consent: Needed for any changes to the policy."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Primary goal of MWP Act?",
+          "content": "Answer: Protection from Policyholder's Creditors.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Who pays & receives in Keyman?",
+          "content": "Answer: Employer pays, Employer receives.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 11: Pricing and Valuation"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Core Concepts",
+          "content": "• Components of Premium\n• Net Premium vs. Gross Premium (Formulas)\n• Valuation and Surplus (Actuary's Role)\n• Types of Bonuses",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Premium Calculation",
+      "cards": [
+        {
+          "title": "1. Components",
+          "content": "Mortality: Cost of death risk.\nInterest: Discount from investment earnings.\nExpenses: Cost of running business.",
+          "color": "blue"
+        },
+        {
+          "title": "2. The Formulas (Must Remember!)",
+          "content": "Net Premium = Mortality - Interest\nGross Premium = Net Premium + Expenses",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Valuation & Surplus",
+      "cards": [
+        {
+          "title": "3. The Actuary's Role",
+          "content": "An 'Actuary' is the specialist who calculates premiums and conducts valuation (comparing Assets vs Liabilities).",
+          "color": "orange"
+        },
+        {
+          "title": "4. Surplus & Bonus",
+          "content": "Surplus = Assets - Liabilities. This surplus is given to 'Participating' policyholders as a Bonus.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🎁 Types of Bonuses",
+      "cards": [
+        {
+          "title": "Allocation Methods",
+          "content": "• Simple Reversionary: % of Sum Assured only.\n• Compound Reversionary: % of (Sum Assured + Previous Bonuses).\n• Terminal Bonus: Paid only when policy ends.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Gross Premium formula: Net Premium + Expenses.",
+        "Premium professional: Actuary.",
+        "Surplus definition: Excess of Assets over Liabilities.",
+        "Interest effect: Always reduces the premium amount."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Correct formula for Net Premium?",
+          "content": "Answer: Mortality - Interest.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Who calculates premiums?",
+          "content": "Answer: Actuary.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 12: Documentation – Proposal Stage"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Initial Documents",
+          "content": "• Standard vs. Non-Standard Age Proofs\n• The Proposal Form (Contract Base)\n• FPR vs. RPR (Proof of Risk)\n• KYC and Moral Hazard Report (MHR)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📅 Age Proof Categories",
+      "cards": [
+        {
+          "title": "1. Standard Age Proofs",
+          "content": "Issued by Public Authority. Examples: Passport, PAN Card, Birth Certificate, School Leaving Certificate.",
+          "color": "green"
+        },
+        {
+          "title": "2. Non-Standard Age Proofs",
+          "content": "Less Reliable. Examples: Horoscope, Ration Card, Village Panchayat Certificate, Self-declaration. (Company may charge extra premium).",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Legal Documentation",
+      "cards": [
+        {
+          "title": "3. The Proposal Form",
+          "content": "The BASE of the insurance contract. Every detail must be truthful (Utmost Good Faith).",
+          "color": "blue"
+        },
+        {
+          "title": "4. FPR (First Premium Receipt)",
+          "content": "Conclusive legal proof that the contract has begun and risk is covered.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🕵️ Reports & KYC",
+      "cards": [
+        {
+          "title": "Moral Hazard Report (MHR)",
+          "content": "Confidential report by the Agent about the proposer's lifestyle, habits, and financial status.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Non-Standard Proofs: Horoscope / Ration Card.",
+        "Contract Base: Proposal Form.",
+        "Proof of Risk Commencement: First Premium Receipt (FPR).",
+        "MHR Prepared By: Insurance Agent / Official."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Which is a Standard Age Proof?",
+          "content": "Answer: Passport.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Document signifying risk acceptance?",
+          "content": "Answer: First Premium Receipt (FPR).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 13: Documentation – Policy Condition I"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Policy Rules & Timelines",
+          "content": "• Free Look Period (Cooling-off)\n• Grace Period (Timelines by Mode)\n• Lapse and Revival\n• Standard Parts of a Policy Document",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📜 Policy Document Structure",
+      "cards": [
+        {
+          "title": "1. Parts of Document",
+          "content": "Preamble: Intro of parties.\nOperative Clause: The heart of the promise.\nPolicy Schedule: PERSONALIZED details (Name, Age, Sum Assured, Nominee).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ Important Timelines",
+      "cards": [
+        {
+          "title": "2. Free Look Period",
+          "content": "Trial period of 15 days from receipt. Can return policy for full refund (minus stamp duty/medical/mortality charges).",
+          "color": "green"
+        },
+        {
+          "title": "3. Grace Period Rules",
+          "content": "Monthly Mode: 15 Days.\nQuarterly/Half-Yearly/Yearly: 30 Days.\nNote: Claim is PAID if death occurs during grace period.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Lapse and Revival",
+      "cards": [
+        {
+          "title": "4. Reinstatement",
+          "content": "Policy lapses after grace period. Revival requires paying arrears + interest + declaration of good health.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Grace Period (Monthly): 15 Days.",
+        "Free Look Period: 15 Days.",
+        "Personalized part: Policy Schedule.",
+        "Death during grace period: Claim paid minus due premium."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Free Look provision duration?",
+          "content": "Answer: 15 days.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Grace period for yearly premium?",
+          "content": "Answer: 30 days.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 14: Documentation – Policy Condition II"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Legal Rights & Values",
+          "content": "• Nomination (Section 39) vs. Assignment (Section 38)\n• Absolute vs. Conditional Assignment\n• Surrender Value and Paid-Up Value\n• Policy Loans and Foreclosure",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👤 Nomination (Section 39)",
+      "cards": [
+        {
+          "title": "Key Points",
+          "content": "Nominee is only a receiver/trustee, NOT the owner. Can be changed anytime. If nominee is minor, an 'Appointee' must be named.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Assignment (Section 38)",
+      "cards": [
+        {
+          "title": "1. Absolute Assignment",
+          "content": "Transfer of complete ownership. CRITICAL: This automatically CANCELS existing nomination.",
+          "color": "red"
+        },
+        {
+          "title": "2. Conditional Assignment",
+          "content": "Subject to conditions (e.g., Bank Loan). Policy returns to owner once condition is met (loan repaid).",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Surrender, Paid-Up & Loans",
+      "cards": [
+        {
+          "title": "3. Surrender vs Paid-Up",
+          "content": "Surrender: Terminating for cash. \nPaid-Up: Continuing with reduced Sum Assured when premiums stop after 2-3 years.",
+          "color": "green"
+        },
+        {
+          "title": "4. Loans & Foreclosure",
+          "content": "Can take loan up to 90% of Surrender Value. Foreclosure occurs if (Loan + Interest) > Surrender Value.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Nomination Section: 39.",
+        "Assignment Section: 38.",
+        "Absolute Assignment impact: Cancels Nomination.",
+        "Appointee needed: When nominee is a minor."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Bank loan assignment type?",
+          "content": "Answer: Conditional Assignment.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Step for minor nominee?",
+          "content": "Answer: Appoint an Appointee.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 15: Underwriting"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Risk Assessment Process",
+          "content": "• Agent as the Primary Underwriter\n• Physical Hazards vs. Moral Hazards\n• Numerical Rating System\n• Underwriting Decisions (Loading, Lien, etc.)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👤 The Underwriters",
+      "cards": [
+        {
+          "title": "1. Field Underwriter (Agent)",
+          "content": "The agent is the FIRST or PRIMARY underwriter. Only the agent can observe the customer's lifestyle and habits directly.",
+          "color": "red"
+        },
+        {
+          "title": "2. Desk Underwriter",
+          "content": "The office official who makes the final decision based on all reports (Proposal, MHR, Medical).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Hazards and Scoring",
+      "cards": [
+        {
+          "title": "3. Physical vs Moral Hazards",
+          "content": "Physical: Body/Environment (BP, Diabetes, Mining Job).\nMoral: Character/Habits (Hiding illness, excessive drinking, insurance beyond income).",
+          "color": "orange"
+        },
+        {
+          "title": "4. Numerical Rating System",
+          "content": "Developed by Dr. Arthur Hunter. Points are given for risk factors. Standard risk score = 100.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Underwriting Decisions",
+      "cards": [
+        {
+          "title": "Decision Types",
+          "content": "• Standard Acceptance: Regular premium.\n• Loading: Extra premium for higher risk.\n• Lien: Claim is reduced if death occurs early.\n• Postpone/Decline: Risk is too high.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "First Underwriter: The Insurance Agent.",
+        "Hiding illness: Moral Hazard.",
+        "Numerical Rating Father: Dr. Arthur Hunter.",
+        "Extra premium for health: Loading."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Who is the 'First Underwriter'?",
+          "content": "Answer: The Insurance Agent.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Condition for reduced claim early on?",
+          "content": "Answer: Lien.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 16: Payments Under Life Policy"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Claim Rules & Timelines",
+          "content": "• Maturity vs. Death Claims\n• Early vs. Non-Early Death Claims (3-Year Rule)\n• Section 45 (Indisputability Clause)\n• IRDAI Settlement Timelines & Penalties",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Claim Categories",
+      "cards": [
+        {
+          "title": "1. Maturity & Death Claims",
+          "content": "Maturity: Survival benefit. Requires 'Discharge Voucher'.\nDeath Claim: Paid to nominee on death during term.\nEarly Claim: Death within 3 YEARS of policy start/revival. (Strict Investigation).",
+          "color": "blue"
+        },
+        {
+          "title": "2. Section 45 (Indisputability)",
+          "content": "A policy CANNOT be questioned on any ground (even fraud) after 3 YEARS. This is the ultimate protection for policyholders.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ IRDAI Timelines (MUST REMEMBER)",
+      "cards": [
+        {
+          "title": "Claim Settlement Time",
+          "content": "30 DAYS from receiving all documents. \n90 DAYS for investigation (if needed for early claims).",
+          "color": "red"
+        },
+        {
+          "title": "Delay Penalty",
+          "content": "Bank Rate + 2% Interest must be paid by the insurer if settlement is delayed.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Investigation Limit: 90 Days.",
+        "Standard Settlement: 30 Days.",
+        "Indisputability Period (Section 45): 3 Years.",
+        "Delay Penalty Interest: Bank Rate + 2%."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Early death claim period?",
+          "content": "Answer: 3 Years.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Interest on delayed claim?",
+          "content": "Answer: Bank Rate + 2%.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 17: Introduction to Health Insurance"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Healthcare Fundamentals",
+          "content": "• Levels of Healthcare (Primary, Secondary, Tertiary)\n• Determinants of Health (Genetics vs. Lifestyle)\n• Medical Inflation & Out-of-Pocket Expenses (OOP)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Levels of Healthcare",
+      "cards": [
+        {
+          "title": "1. Primary Healthcare",
+          "content": "First point of contact. Common ailments. Examples: PHCs, family doctors, dispensaries.",
+          "color": "green"
+        },
+        {
+          "title": "2. Secondary Healthcare",
+          "content": "Care by specialists (Cardiologists, Surgeons) in general hospitals. Usually referred by primary care.",
+          "color": "orange"
+        },
+        {
+          "title": "3. Tertiary Healthcare",
+          "content": "Highly specialized. Complex surgeries (Cancer, Organ Transplants). Examples: Super-specialty hospitals like AIIMS.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💡 Health & Costs",
+      "cards": [
+        {
+          "title": "Determinants of Health",
+          "content": "Genetics, Environment, and Lifestyle. Lifestyle Diseases (Diabetes, Heart Disease) are the biggest modern drivers for insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Medical Inflation",
+          "content": "Medical costs rise much faster than general inflation. Health insurance protects against financial ruin from Out-of-Pocket (OOP) expenses.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "First point of contact: Primary Healthcare.",
+        "Organ transplant level: Tertiary Healthcare.",
+        "Medical Inflation: Rising faster than general inflation.",
+        "Lifestyle Disease example: Type-2 Diabetes."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Complex brain surgery level?",
+          "content": "Answer: Tertiary Healthcare.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Which is a Lifestyle Disease?",
+          "content": "Answer: Type-2 Diabetes.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 18: Insurance Documentation (Health)"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Rules & Timelines",
+          "content": "• Waiting Periods (Initial, Specific, PED)\n• Portability (45-Day Rule)\n• Pre-Insurance Medical Checks\n• Grace Period & Free Look Differences",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ Waiting Periods (CRITICAL)",
+      "cards": [
+        {
+          "title": "1. Initial (30 Days)",
+          "content": "No illness claims for first 30 days. \nEXCEPTION: Accidents are covered from DAY 1.",
+          "color": "red"
+        },
+        {
+          "title": "2. Specific & PED",
+          "content": "Specific Diseases: 1-2 Years (Cataract, Hernia).\nPre-Existing Disease (PED): Usually 48 Months waiting period.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Portability Rules",
+      "cards": [
+        {
+          "title": "The 45-Day Rule",
+          "content": "Must apply for portability at least 45 DAYS before renewal date. Benefits of completed waiting periods are transferred.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Grace Period & Free Look",
+      "cards": [
+        {
+          "title": "Important Difference",
+          "content": "Free Look: 15 Days.\nGrace Period: 30 Days. \nNOTE: Unlike Life Insurance, claims are NOT payable during the grace period in Health Insurance.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Initial Illness Waiting Period: 30 Days.",
+        "Accidents: Covered from Day 1.",
+        "Portability application: 45 Days before renewal.",
+        "Claim during Grace Period: NOT payable in Health."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Portability request timeline?",
+          "content": "Answer: 45 days before renewal.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Cataract waiting period?",
+          "content": "Answer: 1 to 2 Years.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 19: Health Insurance Products"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Health Product Core",
+          "content": "• Indemnity vs. Fixed Benefit Policies\n• Family Floater (Premium Rules)\n• Arogya Sanjeevani (Standard Product)\n• Day Care vs. Domiciliary Hospitalization",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Policy Types",
+      "cards": [
+        {
+          "title": "1. Indemnity vs Fixed Benefit",
+          "content": "Indemnity: Reimburses ACTUAL bills (Standard Mediclaim).\nFixed Benefit: Pays fixed LUMPSUM regardless of bills (Critical Illness).",
+          "color": "blue"
+        },
+        {
+          "title": "2. Family Floater Policy",
+          "content": "One Sum Insured for whole family. CRITICAL: Premium is based on the age of the OLDEST member.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📜 Standardized Products",
+      "cards": [
+        {
+          "title": "3. Arogya Sanjeevani",
+          "content": "Mandatory standard product. Co-payment: 5% on all claims is mandatory (Insured pays 5%).",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Special Hospitalization",
+      "cards": [
+        {
+          "title": "4. Day Care & Domiciliary",
+          "content": "Day Care: Less than 24 hrs (Cataract, Dialysis).\nDomiciliary: Treatment at HOME (Must be for at least 3 days).",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Family Floater Premium: Based on OLDEST member.",
+        "Critical Illness type: Fixed Benefit.",
+        "Arogya Sanjeevani Co-pay: 5%.",
+        "Day Care: Requires less than 24 hours."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Reimburses actual bills?",
+          "content": "Answer: Indemnity Policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Family Floater Premium calculation?",
+          "content": "Answer: Based on oldest member's age.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 20: Health Insurance Underwriting"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Risk Assessment Focus",
+          "content": "• Concept of Morbidity vs. Mortality\n• Medical, Non-Medical & Tele-underwriting\n• Fraud Management (Hard vs. Soft Fraud)\n• Anti-selection Prevention",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🤒 Morbidity Risk",
+      "cards": [
+        {
+          "title": "Key Definition",
+          "content": "Mortality: Probability of Death.\nMorbidity: Probability of falling ill/injured. \nHealth insurance focuses 100% on MORBIDITY risk.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📞 Underwriting Methods",
+      "cards": [
+        {
+          "title": "1. Tele-underwriting",
+          "content": "Gathering medical history over the phone by doctors. Speeds up policy issuance and reduces physical tests.",
+          "color": "green"
+        },
+        {
+          "title": "2. Medical vs Non-Medical",
+          "content": "Medical: Requires physical tests (ECG, Blood test).\nNon-Medical: Issued based only on proposal form declarations.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚨 Fraud & Selection",
+      "cards": [
+        {
+          "title": "Anti-Selection",
+          "content": "The tendency of sick people to buy insurance. Underwriting prevents this to protect the company.",
+          "color": "orange"
+        },
+        {
+          "title": "Hard vs Soft Fraud",
+          "content": "Hard Fraud: Deliberate (Fake bills for treatment that NEVER happened).\nSoft Fraud: Exaggerated (Staying in hospital longer than needed just to claim more).",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Health Underwriting Focus: Morbidity.",
+        "Sick people buying insurance: Anti-selection.",
+        "Phone call medical history: Tele-underwriting.",
+        "Fake documents: Hard Fraud."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Health underwriting primary focus?",
+          "content": "Answer: Morbidity.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Fake bill for no treatment?",
+          "content": "Answer: Hard Fraud.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "chapter_header",
+      "title": "Chapter 21: Health Insurance Claims"
+    },
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Practical Processes",
+          "content": "• Role of TPA (Third Party Administrator)\n• Cashless vs. Reimbursement Claims\n• Pre (30 Days) & Post (60 Days) Hospitalization\n• Network vs. Non-Network Hospitals",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Claim Methods",
+      "cards": [
+        {
+          "title": "1. Cashless vs Reimbursement",
+          "content": "Cashless: At Network Hospitals only. Insurer pays hospital directly.\nReimbursement: At Non-Network Hospitals. Patient pays first, then gets refund.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Role of TPA",
+          "content": "Licensed by IRDAI to process claims and issue ID cards. CRITICAL: Risk/Liability always rests with the Insurance Co, NOT the TPA.",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ Hospitalization Timelines",
+      "cards": [
+        {
+          "title": "Pre & Post Expenses",
+          "content": "Pre-Hospitalization: 30 DAYS before admission.\nPost-Hospitalization: 60 DAYS after discharge.",
+          "color": "red"
+        },
+        {
+          "title": "Claim Intimation",
+          "content": "Emergency: Inform within 24 hours.\nPlanned: Inform 48-72 hours before admission.",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Pre-Hospitalization period: 30 Days.",
+        "Post-Hospitalization period: 60 Days.",
+        "ID Card Issuer: TPA.",
+        "TPA Risk: None (Financial risk is with Insurer)."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Non-network hospital claim type?",
+          "content": "Answer: Reimbursement Claim.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. Standard Pre-Hospitalization limit?",
+          "content": "Answer: 30 Days.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}

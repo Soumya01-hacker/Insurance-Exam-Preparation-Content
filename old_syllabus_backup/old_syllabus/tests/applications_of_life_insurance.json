@@ -1,0 +1,307 @@
+{
+  "chapter_id": "applications_of_life_insurance",
+  "chapter_title": "Chapter 10: Applications of Life Insurance",
+  "pass_marks": 9,
+  "questions": [
+    {
+      "id": "ch10_q1",
+      "text": "What is the primary purpose of a Mortgage Redemption Insurance (MRI) policy?",
+      "options": [
+        "To provide funds to pay off a home loan if the borrower dies.",
+        "To provide a regular pension to the borrower after retirement.",
+        "To cover the medical expenses of the borrower.",
+        "To guarantee a profit on the sale of the house."
+      ],
+      "correct_index": 0,
+      "explanation": "MRI is a decreasing term insurance designed specifically to cover the outstanding principal of a mortgage/home loan so the family doesn't lose the house if the breadwinner dies."
+    },
+    {
+      "id": "ch10_q2",
+      "text": "Under the MWP Act, 1874, an insurance policy taken by a husband for his wife and children creates a:",
+      "options": [
+        "Voidable contract",
+        "Trust for the beneficiaries",
+        "Joint business asset",
+        "Collateral for personal loans"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 6 of the MWP Act creates an immediate trust. This ensures the policy proceeds belong strictly to the beneficiaries (family) and not the policyholder."
+    },
+    {
+      "id": "ch10_q3",
+      "text": "In a Keyman Insurance policy, who is the beneficiary that receives the claim amount in the event of the Keyman's death?",
+      "options": [
+        "The Keyman's wife",
+        "The Keyman's children",
+        "The Employer / Company",
+        "The State Government"
+      ],
+      "correct_index": 2,
+      "explanation": "The employer pays the premium to protect the business from the financial loss of losing a crucial employee. Therefore, the employer (company) is the sole beneficiary."
+    },
+    {
+      "id": "ch10_q4",
+      "text": "Which of the following statements is TRUE regarding creditors and an MWP Act policy?",
+      "options": [
+        "Creditors have the first right to the policy funds.",
+        "The bank can seize the policy if the husband defaults on a loan.",
+        "Creditors can claim 50% of the death benefit.",
+        "The policy proceeds are strictly protected and cannot be attached by the husband's creditors."
+      ],
+      "correct_index": 3,
+      "explanation": "A major feature of the MWP Act is that the policy funds are immune from court attachments. Even if the husband goes bankrupt, his creditors cannot touch the policy money."
+    },
+    {
+      "id": "ch10_q5",
+      "text": "In Partnership Insurance, a 'Buy-Sell Agreement' is funded by life insurance to ensure that:",
+      "options": [
+        "Surviving partners have the cash to buy out the deceased partner's share from their heirs.",
+        "The company is automatically dissolved upon a partner's death.",
+        "The deceased partner's heirs are forced to join the business.",
+        "The government takes over the partnership."
+      ],
+      "correct_index": 0,
+      "explanation": "Partnership insurance provides immediate liquidity so surviving partners can purchase the deceased partner's business share, ensuring smooth business continuity."
+    },
+    {
+      "id": "ch10_q6",
+      "text": "Can an individual assign or take a loan against a policy endorsed under the Married Women's Property (MWP) Act?",
+      "options": [
+        "Yes, up to 90% of the surrender value.",
+        "Yes, but only with the agent's permission.",
+        "No, the policyholder loses all rights to borrow against or assign the policy.",
+        "Yes, after 5 years of the policy term."
+      ],
+      "correct_index": 2,
+      "explanation": "Since the policy legally forms an irrevocable trust for the family, the husband cannot pledge it for a loan, surrender it for personal use, or assign it."
+    },
+    {
+      "id": "ch10_q7",
+      "text": "What is the required condition for an employee to be considered a 'Keyman' for insurance purposes?",
+      "options": [
+        "They must be the oldest employee in the company.",
+        "Their death or absence would cause a significant financial loss to the company's profits.",
+        "They must be a blood relative of the founder.",
+        "They must be drawing the lowest salary in the organization."
+      ],
+      "correct_index": 1,
+      "explanation": "A Keyman is an employee with specialized skills or responsibilities whose loss would directly translate into a severe financial blow to the business."
+    },
+    {
+      "id": "ch10_q8",
+      "text": "In an Employer-Employee insurance scheme, who usually pays the premiums for the life insurance policies of the employees?",
+      "options": [
+        "The Insurance Agent",
+        "IRDAI",
+        "The Employees themselves",
+        "The Employer"
+      ],
+      "correct_index": 3,
+      "explanation": "These schemes are used as employee retention and welfare benefits where the employer pays the premiums to provide financial security to the staff."
+    },
+    {
+      "id": "ch10_q9",
+      "text": "What type of life insurance product is mathematically most suitable for Mortgage Redemption Insurance (MRI)?",
+      "options": [
+        "Decreasing Term Insurance",
+        "Increasing Term Insurance",
+        "Whole Life Insurance",
+        "Unit Linked Insurance Plan (ULIP)"
+      ],
+      "correct_index": 0,
+      "explanation": "In a decreasing term plan, the Sum Assured reduces every year, perfectly matching the reducing balance of an amortizing home loan."
+    },
+    {
+      "id": "ch10_q10",
+      "text": "If a husband takes a policy under the MWP Act and does not specifically name any trustees, who becomes the official trustee by default?",
+      "options": [
+        "The husband himself",
+        "The husband's eldest child",
+        "The Insurance Company's Branch Manager",
+        "The Official Trustee of the State"
+      ],
+      "correct_index": 3,
+      "explanation": "Under the Act, if no private trustees are appointed by the proposer, the Official Trustee of the respective State automatically assumes the role to protect the trust."
+    },
+    {
+      "id": "ch10_q11",
+      "text": "How is the premium paid by a company for a Keyman Insurance policy treated under the Income Tax Act?",
+      "options": [
+        "It is treated as a personal expense of the keyman.",
+        "It is heavily taxed as a luxury expense.",
+        "It is treated as a deductible business expense.",
+        "It is completely ignored by the tax department."
+      ],
+      "correct_index": 2,
+      "explanation": "The premiums paid for Keyman insurance are generally considered a legitimate business expense under Section 37(1) of the IT Act, which helps reduce the company's taxable profit."
+    },
+    {
+      "id": "ch10_q12",
+      "text": "Under the MWP Act, can the husband's parents be named as beneficiaries?",
+      "options": [
+        "Yes, if they are dependent on him.",
+        "No, the beneficiaries can only be the wife, children, or both.",
+        "Yes, if the wife gives written consent.",
+        "Yes, but they only get 10% of the claim."
+      ],
+      "correct_index": 1,
+      "explanation": "Section 6 of the MWP Act explicitly restricts the beneficiaries to the wife alone, a child/children alone, or the wife and children jointly. Parents cannot be included."
+    },
+    {
+      "id": "ch10_q13",
+      "text": "In a Keyman policy, the maximum Sum Assured that a company can buy is usually linked to:",
+      "options": [
+        "The company's profitability and the keyman's contribution to those profits.",
+        "The age of the company's building.",
+        "The number of total employees in the company.",
+        "The keyman's personal bank balance."
+      ],
+      "correct_index": 0,
+      "explanation": "Insurance companies underwrite the Sum Assured based on a multiple of the keyman's salary or a percentage of the company's average gross profit attributed to that specific person."
+    },
+    {
+      "id": "ch10_q14",
+      "text": "What happens to the Keyman Insurance policy if the key employee resigns and joins a competitor?",
+      "options": [
+        "The policy is automatically cancelled and money is seized by IRDAI.",
+        "The competitor company automatically takes over the policy.",
+        "The keyman's family gets the death benefit immediately.",
+        "The original employer can surrender the policy for its cash value or assign it to the keyman."
+      ],
+      "correct_index": 3,
+      "explanation": "The employer owns the policy. Upon resignation, they can either encash the surrender value or legally assign the policy to the departing employee (who will then pay future premiums)."
+    },
+    {
+      "id": "ch10_q15",
+      "text": "A company buys life insurance for all its middle managers to reduce attrition and build loyalty. This is a classic application of:",
+      "options": [
+        "Mortgage Redemption",
+        "Employer-Employee Scheme",
+        "Married Women's Property Act",
+        "Micro Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Employer-Employee schemes are a powerful human resource tool used to provide financial security to employees' families, thereby increasing retention and loyalty."
+    },
+    {
+      "id": "ch10_q16",
+      "text": "Which of the following forms must be filled to issue a policy under the MWP Act?",
+      "options": [
+        "A regular nomination form under Section 39.",
+        "An assignment form under Section 38.",
+        "A specific MWP addendum form submitted along with the main proposal at the time of inception.",
+        "A claim discharge voucher."
+      ],
+      "correct_index": 2,
+      "explanation": "The trust must be created at the very beginning. The proposer must submit the MWP addendum simultaneously with the main proposal form."
+    },
+    {
+      "id": "ch10_q17",
+      "text": "In Mortgage Redemption Insurance (MRI), what happens if the borrower completely repays the home loan early, but the policy term is still running?",
+      "options": [
+        "The policy continues, and in case of death, the remaining life cover is paid to the nominee.",
+        "The bank seizes the policy.",
+        "The policy automatically converts into a Keyman policy.",
+        "The policy is forcefully cancelled by the insurer with no refund."
+      ],
+      "correct_index": 0,
+      "explanation": "The insurance contract is separate from the loan. If the loan is closed early, the decreasing term cover still continues, and any death benefit goes to the family instead of the bank."
+    },
+    {
+      "id": "ch10_q18",
+      "text": "Which of the following features is NOT allowed in a true Keyman Insurance policy?",
+      "options": [
+        "It is owned by the employer.",
+        "It covers the life of a crucial employee.",
+        "The premiums are paid by the employer.",
+        "Adding family riders or nominating the keyman's wife as the beneficiary."
+      ],
+      "correct_index": 3,
+      "explanation": "A Keyman policy is strictly a business protection tool. The employer is the sole beneficiary, and personal elements like naming the employee's wife or adding personal riders are not permitted."
+    },
+    {
+      "id": "ch10_q19",
+      "text": "Can a divorced woman claim the benefits of an MWP Act policy that her ex-husband took when they were married?",
+      "options": [
+        "No, the trust dissolves upon divorce.",
+        "Yes, she remains a beneficiary as the trust was created during the marriage.",
+        "Only if she pays the remaining premiums.",
+        "The money automatically goes to the State Government."
+      ],
+      "correct_index": 1,
+      "explanation": "The trust is irrevocable. A policy taken for the benefit of a wife remains for her benefit even if the marriage later dissolves, unless the trust deed had a specific condition otherwise."
+    },
+    {
+      "id": "ch10_q20",
+      "text": "In a Cross-Purchase Partnership Insurance plan involving two partners (A and B), how are the policies structured?",
+      "options": [
+        "A and B both buy policies on their own lives.",
+        "The partnership firm buys one joint policy.",
+        "Partner A buys a policy on Partner B's life, and Partner B buys a policy on Partner A's life.",
+        "The government provides free insurance to both."
+      ],
+      "correct_index": 2,
+      "explanation": "In a cross-purchase agreement, each partner insures the life of the other. If one dies, the surviving partner gets the tax-free death benefit to buy out the deceased's share of the business."
+    },
+    {
+      "id": "ch10_q21",
+      "text": "What is the primary purpose of creating an irrevocable trust under the MWP Act?",
+      "options": [
+        "To evade income tax legally.",
+        "To allow the husband to take massive loans against the policy.",
+        "To ensure the insurance agent gets a higher commission.",
+        "To ensure the financial security of the wife and children, protecting the funds from the husband's business risks."
+      ],
+      "correct_index": 3,
+      "explanation": "An irrevocable trust under the MWP Act ensures that no matter how much debt the husband falls into, the life insurance money is ring-fenced exclusively for his family."
+    },
+    {
+      "id": "ch10_q22",
+      "text": "For an Employer-Employee scheme, who requires an 'Insurable Interest' in the life of the employee?",
+      "options": [
+        "The Employer",
+        "The Bank",
+        "The Medical Examiner",
+        "The Creditors"
+      ],
+      "correct_index": 0,
+      "explanation": "The employer must have a valid insurable interest in the employee (like losing the employee's services or the financial investment in their training) to legitimately buy a policy on them."
+    },
+    {
+      "id": "ch10_q23",
+      "text": "In the event of the Keyman's death, how is the claim amount taxed in the hands of the company?",
+      "options": [
+        "It is totally tax-free under Section 10(10D).",
+        "It is treated as taxable business income/profit.",
+        "It is taxed as capital gains.",
+        "It is taxed only if it exceeds Rs. 1 Crore."
+      ],
+      "correct_index": 1,
+      "explanation": "Since the premium was initially deducted as a business expense, the claim payout is added back to the company's revenue and taxed as normal business income."
+    },
+    {
+      "id": "ch10_q24",
+      "text": "Which of the following policies typically has a premium that remains constant while the Sum Assured decreases over time?",
+      "options": [
+        "Term with Return of Premium",
+        "Whole Life Assurance",
+        "Mortgage Redemption Insurance (MRI)",
+        "Unit Linked Insurance Plan (ULIP)"
+      ],
+      "correct_index": 2,
+      "explanation": "MRI is a decreasing term plan. To simplify payments, insurers often average out the cost so the policyholder pays a level (constant) premium even though the risk cover decreases every year."
+    },
+    {
+      "id": "ch10_q25",
+      "text": "Under the MWP Act, can a policyholder change the beneficiaries from his wife to his business partners later on?",
+      "options": [
+        "Yes, at any time before maturity.",
+        "Yes, but he must pay a penalty fee.",
+        "Yes, if his wife signs a No Objection Certificate.",
+        "No, the trust is irrevocable and the beneficiaries cannot be changed to outsiders."
+      ],
+      "correct_index": 3,
+      "explanation": "Once created, an MWP trust is completely irrevocable. The policyholder permanently gives up the right to change the beneficiaries to anyone outside the defined scope (wife/children)."
+    }
+  ]
+}

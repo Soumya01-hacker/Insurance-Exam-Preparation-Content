@@ -1,0 +1,81 @@
+{
+  "chapterId": "life_insurance_products_1",
+  "title": "Chapter 8: Life Insurance Products – I",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🎯 Most Demanding Topics",
+      "cards": [
+        {
+          "title": "Product Categories",
+          "content": "• Term Insurance (Pure Risk Cover)\n• Endowment Plans (Protection + Savings)\n• Whole Life Policies (Estate Creation)\n• Riders (Add-on Benefits)",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ Core Insurance Products",
+      "cards": [
+        {
+          "title": "1. Term Insurance",
+          "content": "Simplest & Cheapest. Highest risk cover for lowest premium. NO maturity/savings benefit. (If you survive, nothing is paid).",
+          "color": "red"
+        },
+        {
+          "title": "2. Endowment Insurance",
+          "content": "Term Insurance + Pure Endowment. Benefit paid on EITHER death OR survival (maturity). Good for targeted savings.",
+          "color": "green"
+        },
+        {
+          "title": "3. Whole Life Insurance",
+          "content": "Covers entire life (up to 100 years). Best for 'Estate Creation' and leaving a legacy for heirs.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "➕ Riders (Add-on Benefits)",
+      "cards": [
+        {
+          "title": "Optional Benefits",
+          "content": "Additional covers like Accidental Death, Critical Illness, Waiver of Premium (WOP). Nominal extra cost.",
+          "color": "orange"
+        },
+        {
+          "title": "Important Rule",
+          "content": "Premium for all health/critical illness riders cannot exceed 30% of the base policy premium.",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Repeated Themes)",
+      "items": [
+        "Highest coverage @ Lowest premium: Term Insurance.",
+        "Maturity benefit absent in: Term Insurance.",
+        "Legacy/Estate creation policy: Whole Life.",
+        "Endowment combo: Term Insurance + Pure Endowment."
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Practice MCQs",
+      "cards": [
+        {
+          "title": "Q1. Agent recommendation for lowest premium/high cover?",
+          "content": "Answer: Term Insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Q2. What is a 'Rider'?",
+          "content": "Answer: An add-on benefit attached to the base policy for extra premium.",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}
