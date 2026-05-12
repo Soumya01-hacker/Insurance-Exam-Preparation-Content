@@ -1,5 +1,5 @@
 {
-  "version": "11.0.0",
+  "version": "12.0.0",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 10,
+      "total_chapters": 24,
       "crash_course": {
         "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/short_notes/ic38_life_full_notes.json",
         "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_life_short_notes.pdf",
@@ -194,13 +194,135 @@
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
           ]
+        },
+        {
+          "name": "SECTION 2: LIFE INSURANCE (11-19)",
+          "chapters": [
+            {
+              "id": "what_life_insurance_involves",
+              "title": "What Life Insurance Involves",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/what_life_insurance_involves.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/what_life_insurance_involves.json"
+            },
+            {
+              "id": "financial_planning",
+              "title": "Financial Planning",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/financial_planning.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/financial_planning.json"
+            },
+            {
+              "id": "life_insurance_products_traditional",
+              "title": "Life Insurance Products: Traditional",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_traditional.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_traditional.json"
+            },
+            {
+              "id": "life_insurance_products_non_traditional",
+              "title": "Life insurance products: Non-Traditional",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_non_traditional.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_non_traditional.json"
+            },
+            {
+              "id": "applications_of_life_insurance",
+              "title": "Applications of Life Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/applications_of_life_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json"
+            },
+            {
+              "id": "pricing_and_valuation_in_life_insurance",
+              "title": "Pricing and Valuation in Life Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/pricing_and_valuation_in_life_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/pricing_and_valuation_in_life_insurance.json"
+            },
+            {
+              "id": "life_insurance_documentation",
+              "title": "Life Insurance Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_documentation.json"
+            },
+            {
+              "id": "life_insurance_underwriting",
+              "title": "Life Insurance Underwriting",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_underwriting.json"
+            },
+            {
+              "id": "life_insurance_claims",
+              "title": "Life Insurance Claims",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_claims.json"
+            }
+          ]
+        },
+        {
+          "name": "SECTION 3: HEALTH INSURANCE (20-24)",
+          "chapters": [
+            {
+              "id": "introduction_to_health_insurance",
+              "title": "Introduction to Health Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
+            },
+            {
+              "id": "health_insurance_documentation",
+              "title": "Health Insurance Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
+            },
+            {
+              "id": "health_insurance_products",
+              "title": "Health Insurance Products",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
+            },
+            {
+              "id": "health_insurance_underwriting",
+              "title": "Health Insurance Underwriting",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
+            },
+            {
+              "id": "health_insurance_claims",
+              "title": "Health Insurance Claims",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+            }
+          ]
         }
       ]
     },
     {
       "id": "ic38_general",
       "name": "IC-38 General Insurance",
-      "total_chapters": 10,
+      "total_chapters": 21,
       "crash_course": {
         "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_general_full_notes.pdf",
         "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_general_short_notes.pdf",
@@ -334,13 +456,111 @@
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
           ]
+        },
+        {
+          "name": "SECTION 2: HEALTH INSURANCE (11-15)",
+          "chapters": [
+            {
+              "id": "introduction_to_health_insurance",
+              "title": "Introduction to Health Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
+            },
+            {
+              "id": "health_insurance_documentation",
+              "title": "Health Insurance Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
+            },
+            {
+              "id": "health_insurance_products",
+              "title": "Health Insurance Products",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
+            },
+            {
+              "id": "health_insurance_underwriting",
+              "title": "Health Insurance Underwriting",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
+            },
+            {
+              "id": "health_insurance_claims",
+              "title": "Health Insurance Claims",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+            }
+          ]
+        },
+        {
+          "name": "SECTION 3: GENERAL INSURANCE (16-21)",
+          "chapters": [
+            {
+              "id": "general_insurance_documentation",
+              "title": "General Insurance Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/general_insurance_documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_documentation.json"
+            },
+            {
+              "id": "underwriting_and_rate_making",
+              "title": "Underwriting and Rate Making",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rate_making.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rate_making.json"
+            },
+            {
+              "id": "personal_and_retail_insurance",
+              "title": "Personal and Retail Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/personal_and_retail_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
+            },
+            {
+              "id": "commercial_insurance",
+              "title": "Commercial Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/commercial_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
+            },
+            {
+              "id": "general_insurance_claims",
+              "title": "General Insurance Claims",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/general_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_claims.json"
+            },
+            {
+              "id": "annexures_specimen",
+              "title": "Annexures - Specimen Proposal forms and Claims Forms for filling up",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/annexures_specimen.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/annexures_specimen.json"
+            }
+          ]
         }
       ]
     },
     {
       "id": "ic38_health",
       "name": "IC-38 Health Insurance",
-      "total_chapters": 10,
+      "total_chapters": 15,
       "crash_course": {
         "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_health_full_notes.pdf",
         "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_health_short_notes.pdf",
@@ -472,6 +692,51 @@
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
+            }
+          ]
+        },
+        {
+          "name": "SECTION 2: HEALTH INSURANCE (11-15)",
+          "chapters": [
+            {
+              "id": "introduction_to_health_insurance",
+              "title": "Introduction to Health Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
+            },
+            {
+              "id": "health_insurance_documentation",
+              "title": "Health Insurance Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
+            },
+            {
+              "id": "health_insurance_products",
+              "title": "Health Insurance Products",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
+            },
+            {
+              "id": "health_insurance_underwriting",
+              "title": "Health Insurance Underwriting",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
+            },
+            {
+              "id": "health_insurance_claims",
+              "title": "Health Insurance Claims",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
             }
           ]
         }
