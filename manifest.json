@@ -1,5 +1,5 @@
 {
-  "version": "12.2.0",
+  "version": "12.2.1",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -514,6 +514,10 @@
           {
             "id": "lecture_general_04_commercial_insurance",
             "url": "https://youtu.be/7yQKKshhPM4"
+          },
+          {
+            "id": "lecture_general_05_general_insurance_claims",
+            "url": "https://youtu.be/eYe3w7disJ4"
           }
         ]
       },
@@ -815,6 +819,10 @@
         {
           "id": "lecture_general_04_commercial_insurance",
           "url": "https://youtu.be/7yQKKshhPM4"
+        },
+        {
+          "id": "lecture_general_05_general_insurance_claims",
+          "url": "https://youtu.be/eYe3w7disJ4"
         }
       ]
     },
