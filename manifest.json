@@ -1,5 +1,5 @@
 {
-  "version": "12.0.1",
+  "version": "12.0.2",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -26,6 +26,10 @@
           {
             "id": "v_ch3",
             "url": "https://youtu.be/SQ6wXI_yCg8"
+          },
+          {
+            "id": "v_ch4",
+            "url": "https://youtu.be/zBRYrXvgx1Q"
           }
         ]
       },
@@ -332,6 +336,10 @@
         {
           "id": "v_ch3",
           "url": "https://youtu.be/SQ6wXI_yCg8"
+        },
+        {
+          "id": "v_ch4",
+          "url": "https://youtu.be/zBRYrXvgx1Q"
         }
       ]
     },
@@ -354,6 +362,10 @@
           {
             "id": "v_ch3",
             "url": "https://youtu.be/SQ6wXI_yCg8"
+          },
+          {
+            "id": "v_ch4",
+            "url": "https://youtu.be/zBRYrXvgx1Q"
           }
         ]
       },
@@ -591,6 +603,10 @@
         {
           "id": "v_ch3",
           "url": "https://youtu.be/SQ6wXI_yCg8"
+        },
+        {
+          "id": "v_ch4",
+          "url": "https://youtu.be/zBRYrXvgx1Q"
         }
       ]
     },
@@ -613,6 +629,10 @@
           {
             "id": "v_ch3",
             "url": "https://youtu.be/SQ6wXI_yCg8"
+          },
+          {
+            "id": "v_ch4",
+            "url": "https://youtu.be/zBRYrXvgx1Q"
           }
         ]
       },
@@ -797,6 +817,10 @@
         {
           "id": "v_ch3",
           "url": "https://youtu.be/SQ6wXI_yCg8"
+        },
+        {
+          "id": "v_ch4",
+          "url": "https://youtu.be/zBRYrXvgx1Q"
         }
       ]
     }
