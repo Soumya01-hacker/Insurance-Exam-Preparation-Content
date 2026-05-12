@@ -10,7 +10,7 @@
     {
       "id": "ic38_life",
       "name": "IC-38 Life Insurance",
-      "total_chapters": 21,
+      "total_chapters": 10,
       "crash_course": {
         "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/short_notes/ic38_life_full_notes.json",
         "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_life_short_notes.pdf",
@@ -111,593 +111,87 @@
       ],
       "sections": [
         {
-          "name": "SECTION 1: COMMON CHAPTERS (1-5)",
+          "name": "COMMON CHAPTERS",
           "chapters": [
             {
               "id": "introduction_to_insurance",
               "title": "Introduction to Insurance",
-              "topics": [
-                "History",
-                "Risk Management",
-                "Social Security"
-              ],
-              "detailed_topics": [
-                "History & Evolution of Insurance (3000 BC to modern era)",
-                "Insurance through the ages — Babylonian, Greeks, Chinese traders",
-                "Modern concepts — Lloyd's Coffee House, Amicable Society 1706",
-                "History of Insurance in India — Oriental Life, LIC, GIC",
-                "Malhotra Committee 1993 & formation of IRDAI 2000",
-                "How Insurance Works — Asset, Risk, Peril, Pooling, Insurer, Insured",
-                "Primary & Secondary Burden of Risk",
-                "Risk Management Techniques — Avoidance, Retention, Reduction, Financing",
-                "Insurance vs Assurance distinction",
-                "Insurance as a Tool for Managing Risk",
-                "3 Thumb Rules of Insurance",
-                "Role of Insurance in Society & Social Security Schemes",
-                "Govt Schemes — RKBY, RSBY, PMJBY, PMSBY"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
-              "note_images": [
-                "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/images/introduction_to_insurance_chart.webp"
-              ],
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
+            },
+            {
+              "id": "core_elements_of_insurance",
+              "title": "Core Elements of Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
+            },
+            {
+              "id": "principles_of_insurance",
+              "title": "Principles of Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
+            },
+            {
+              "id": "features_of_insurance_contracts",
+              "title": "Features of Insurance Contracts",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
+            },
+            {
+              "id": "underwriting_and_rating",
+              "title": "Underwriting and Rating",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
+            },
+            {
+              "id": "claims_processing",
+              "title": "Claims Processing",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
+            },
+            {
+              "id": "documentation",
+              "title": "Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json"
             },
             {
               "id": "customer_service",
               "title": "Customer Service",
-              "topics": [
-                "SERVQUAL",
-                "Communication",
-                "Ethics"
-              ],
-              "detailed_topics": [
-                "Why Customer Service — importance in insurance",
-                "Quality of Service — SERVQUAL Model (5 dimensions)",
-                "Reliability, Responsiveness, Assurance, Empathy, Tangibles",
-                "Customer Lifetime Value — definition & importance",
-                "Agent's Role — Point of Sale (Best Advice)",
-                "Named Peril vs All Risk Policies",
-                "Proposal Stage — agent's responsibility",
-                "Acceptance Stage — Cover Note, Policy Delivery",
-                "Policy Renewal — agent's role",
-                "Claim Stage — agent's role",
-                "Grievance Redressal — IGMS, Ombudsman, Consumer Protection Act",
-                "Communication Process — Sender, Message, Encoding, Channel, Decoding, Feedback",
-                "Barriers to Effective Communication",
-                "Non-Verbal Communication — Body Language, First Impression Tips",
-                "Active Listening — 5 elements (Attention, Demonstrating, Feedback, Non-judgemental, Responding)",
-                "Empathetic Listening",
-                "Ethical Behaviour — Characteristics & Code of Ethics"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
-              "note_images": [
-                "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/images/customer_service_chart.webp"
-              ],
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
               "title": "Grievance Redressal Mechanism",
-              "topics": [
-                "IGMS",
-                "Ombudsman",
-                "Consumer Forums"
-              ],
-              "detailed_topics": [
-                "IGMS — Integrated Grievance Management System",
-                "How to register complaint on IGMS portal",
-                "Consumer Protection Act 1986 — definitions",
-                "Consumer, Defect, Complaint, Consumer Dispute — definitions",
-                "District Commission — jurisdiction up to Rs. 50 Lakhs (2021 Rules)",
-                "State Commission — jurisdiction Rs. 50 Lakhs to Rs. 2 Crore",
-                "National Commission — jurisdiction above Rs. 2 Crore",
-                "Procedure for filing complaint — no fee, no advocate needed",
-                "Consumer Forum Orders — 5 types of orders",
-                "Nature of insurance complaints — 5 categories",
-                "Insurance Ombudsman Rules 2017",
-                "Who can complain to Ombudsman & conditions",
-                "Time limit — within 1 year of insurer rejection",
-                "Ombudsman Recommendations — 15 days acceptance rule",
-                "Ombudsman Award — max Rs. 30 lakh, within 3 months",
-                "Award binding on insurer — comply within 30 days"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
-              "id": "regulatory_aspects_of_insurance_agents",
-              "title": "Regulatory Aspects of Insurance Agents",
-              "topics": [
-                "IRDAI Act",
-                "Agent Licensing",
-                "Code of Conduct"
-              ],
-              "detailed_topics": [
-                "Key Definitions — Agent, Composite Agent, Mono-line Insurer, Designated Official",
-                "Centralised List of Agents & Blacklisted Agents",
-                "Appointment of Insurance Agent — Form I-A process",
-                "Appointment letter issued within 15 days",
-                "Composite Insurance Agent — Form I-B",
-                "Insurance Agency Examination — eligibility & pass certificate (valid 12 months)",
-                "Disqualification conditions — Section 42(3) of Insurance Act",
-                "Code of Conduct — 13 DO's for agents",
-                "Code of Conduct — 11 DON'Ts for agents",
-                "Multilevel Marketing — strictly prohibited",
-                "Penalty — Rs. 10,000 for agent violation",
-                "Penalty — Rs. 1 Crore for insurer violation",
-                "Suspension of Agent — 11 grounds listed",
-                "Cancellation of Agency — procedure",
-                "Effect of suspension/cancellation",
-                "Resignation/Surrender — Cessation Certificate (Form I-C) within 15 days",
-                "90-day cooling period before joining new insurer",
-                "General conditions — max 1 Life + 1 General + 1 Health insurer"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_of_insurance_agents.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_of_insurance_agents.json"
-            },
-            {
-              "id": "legal_principles_of_insurance",
-              "title": "Legal Principles of an Insurance Contract",
-              "topics": [
-                "Contract Law",
-                "Good Faith",
-                "Indemnity"
-              ],
-              "detailed_topics": [
-                "Insurance Contract — definition & nature",
-                "Indian Contract Act 1872 — governs all insurance contracts",
-                "Elements of a Valid Contract — 6 elements",
-                "Offer & Acceptance — proposal becomes policy",
-                "Consideration — premium vs promise to indemnify",
-                "Consensus Ad-Idem — agreement in same sense",
-                "Free Consent — Coercion, Undue Influence, Fraud, Misrepresentation, Mistake",
-                "Capacity of Parties — minors cannot enter insurance contracts",
-                "Legality — object must be lawful",
-                "Uberrima Fides — Utmost Good Faith (most important principle)",
-                "Caveat Emptor vs Utmost Good Faith distinction",
-                "Material Information — what must be disclosed",
-                "Breach of Utmost Good Faith — policy voidable",
-                "Insurable Interest — definition & importance",
-                "Gambling vs Insurance distinction",
-                "Proximate Cause — nearest cause of loss",
-                "Contract of Adhesion — take it or leave it",
-                "Indemnity — restore to same position, not profit",
-                "Subrogation — insurer steps into insured's shoes",
-                "Contribution — multiple policies proportional sharing"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/legal_principles_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/legal_principles_of_insurance.json"
-            }
-          ]
-        },
-        {
-          "name": "SECTION 2: LIFE INSURANCE SPECIFIC (6-16)",
-          "chapters": [
-            {
-              "id": "what_life_insurance_involves",
-              "title": "What Life Insurance Involves",
-              "topics": [
-                "Nature of Life Insurance",
-                "Assignment",
-                "Nomination"
-              ],
-              "detailed_topics": [
-                "Nature & scope of Life Insurance",
-                "Insurable Interest in Life Insurance — self, spouse, dependents",
-                "Contract of Life Insurance — features",
-                "Assignment of Policy — Absolute & Conditional",
-                "Nomination — Section 39 of Insurance Act",
-                "Difference between Assignment & Nomination",
-                "Revival of Lapsed Policy — ordinary, special, loan methods",
-                "Surrender of Policy — surrender value calculation",
-                "Loans against Life Insurance Policy",
-                "Free Look Period — 15 days",
-                "Duplicate Policy issuance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/what_life_insurance_involves.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/what_life_insurance_involves.json"
-            },
-            {
-              "id": "financial_planning",
-              "title": "Financial Planning",
-              "topics": [
-                "Life Cycle",
-                "Tax Benefits",
-                "Time Value"
-              ],
-              "detailed_topics": [
-                "Concept & need for Financial Planning",
-                "Life Cycle approach — Young, Middle-aged, Retired",
-                "Income, Expenses, Savings & Investment pyramid",
-                "Risk & Return — inverse relationship",
-                "Time Value of Money — present & future value",
-                "Compounding concept",
-                "Role of Life Insurance in Financial Planning",
-                "Difference between Savings & Insurance",
-                "Tax Benefits — Section 80C (premium deduction)",
-                "Tax Benefits — Section 10(10D) (maturity tax free)",
-                "Section 80D — Health Insurance premium deduction"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/financial_planning.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/financial_planning.json"
-            },
-            {
-              "id": "life_insurance_products_1",
-              "title": "Life Insurance Products – I",
-              "topics": [
-                "Term Insurance",
-                "Endowment",
-                "Bonus"
-              ],
-              "detailed_topics": [
-                "Term Insurance — pure protection, no maturity benefit",
-                "Return of Premium (ROP) Term Plans",
-                "Whole Life Insurance — coverage till death",
-                "Endowment Plans — protection + savings",
-                "Money Back Plans — periodic survival benefits",
-                "Children Plans — education & marriage goals",
-                "Jeevan Saral, Jeevan Anand (LIC products overview)",
-                "Participating vs Non-Participating Plans",
-                "Bonus types — Reversionary Bonus, Terminal Bonus",
-                "With-profit & Without-profit policies"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_1.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_1.json"
-            },
-            {
-              "id": "life_insurance_products_2",
-              "title": "Life Insurance Products – II",
-              "topics": [
-                "ULIPs",
-                "Pension",
-                "Micro Insurance"
-              ],
-              "detailed_topics": [
-                "Unit Linked Insurance Plans (ULIPs) — structure & features",
-                "Fund types in ULIPs — Equity, Debt, Balanced",
-                "ULIP charges — Premium Allocation, Policy Admin, Mortality, Fund Management",
-                "Pension / Annuity Plans — Immediate & Deferred Annuity",
-                "Types of Annuity — Life Annuity, Joint Life, Annuity Certain",
-                "Group Insurance Plans — employer-employee schemes",
-                "Group Term Insurance",
-                "Micro Insurance Plans — low premium, rural focus",
-                "Social Security Schemes — PMJBY (Rs. 2 lakh cover at Rs. 330/year)",
-                "PMSBY — Accident cover (Rs. 2 lakh at Rs. 12/year)",
-                "Riders / Add-on Benefits",
-                "Accidental Death Benefit Rider",
-                "Critical Illness Rider",
-                "Waiver of Premium Rider",
-                "Disability Benefit Rider"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_2.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_2.json"
-            },
-            {
-              "id": "applications_of_life_insurance",
-              "title": "Applications of Life Insurance",
-              "topics": [
-                "Keyman",
-                "Partnership",
-                "Estate Planning"
-              ],
-              "detailed_topics": [
-                "Keyman Insurance — protecting key employee in business",
-                "Partnership Insurance — buy-sell agreement on partner's death",
-                "Proprietorship Insurance",
-                "Mortgage / Home Loan Protection Plans",
-                "Credit Life Insurance",
-                "Estate Planning using Life Insurance",
-                "Business Continuation Plans",
-                "HUF (Hindu Undivided Family) insurance applications",
-                "NRI Life Insurance — special features"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/applications_of_life_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json"
-            },
-            {
-              "id": "pricing_and_valuation",
-              "title": "Pricing and Valuation in Life Insurance",
-              "topics": [
-                "Mortality Tables",
-                "Premium",
-                "Bonus"
-              ],
-              "detailed_topics": [
-                "Premium calculation — basic concept",
-                "Mortality Tables — how death rates are measured",
-                "Indian Assured Lives Mortality (IALM) table",
-                "Net Premium vs Gross Premium",
-                "Loading — expense loading, profit loading",
-                "Natural Premium vs Level Premium",
-                "Policy Reserve / Policy Value",
-                "Actuarial Valuation — purpose & frequency",
-                "Role of Actuary in Life Insurance",
-                "Solvency Margin — IRDAI requirements",
-                "Bonus declaration process",
-                "Reversionary Bonus — Simple vs Compound",
-                "Terminal Bonus"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/pricing_and_valuation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/pricing_and_valuation.json"
-            },
-            {
-              "id": "documentation_proposal_stage",
-              "title": "Documentation – Proposal Stage",
-              "topics": [
-                "Proposal Form",
-                "KYC",
-                "e-Insurance"
-              ],
-              "detailed_topics": [
-                "Proposal Form — purpose & importance",
-                "Types of questions — personal, medical, financial, lifestyle",
-                "Duty of Disclosure at proposal stage",
-                "Role of Agent at Proposal Stage — explain every question",
-                "Medical Examination — when required",
-                "Age Proof documents — acceptable types",
-                "Income Proof — salary slips, ITR",
-                "Identity Proof & Address Proof — KYC documents",
-                "IRDAI e-Insurance Policy Regulations 2016",
-                "e-Proposal Form requirements",
-                "e-Insurance Account (e-IA) — how to open",
-                "Insurance Repository System",
-                "Anti-Money Laundering (AML) Guidelines",
-                "Know Your Customer (KYC) — mandatory norms",
-                "FATF — Financial Action Task Force guidelines"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation_proposal_stage.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_proposal_stage.json"
-            },
-            {
-              "id": "documentation_policy_condition_1",
-              "title": "Documentation – Policy Condition I",
-              "topics": [
-                "Policy Document",
-                "Grace Period",
-                "Assignment"
-              ],
-              "detailed_topics": [
-                "Policy Document — structure & contents",
-                "Schedule of the Policy — what it contains",
-                "Policy Conditions — general & specific",
-                "Warranties in insurance contract",
-                "Endorsements — types & purpose",
-                "Premium Payment — modes (monthly, quarterly, half-yearly, annual)",
-                "Grace Period — 15 days for monthly, 30 days for others",
-                "Lapsation of Policy — consequences",
-                "Reinstatement / Revival of policy",
-                "Loan on Policy — how calculated",
-                "Assignment — Section 38 procedure",
-                "Notice of Assignment to insurer"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation_policy_condition_1.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_policy_condition_1.json"
-            },
-            {
-              "id": "documentation_policy_condition_2",
-              "title": "Documentation – Policy Condition II",
-              "topics": [
-                "Nomination",
-                "Surrender",
-                "Free Look"
-              ],
-              "detailed_topics": [
-                "Nomination — Section 39 of Insurance Act",
-                "Types of Nominees — beneficial, appointee",
-                "Change of Nomination procedure",
-                "Free Look Period — 15 days to return policy",
-                "Surrender Value — Guaranteed vs Special",
-                "Paid-up Policy — reduced paid-up value",
-                "Extended Term Insurance option",
-                "Automatic Premium Loan (APL)",
-                "Alteration of Policy — change in plan, term, sum assured",
-                "Duplicate Policy — when & how issued",
-                "Lost Policy — declaration process",
-                "Policy Illustration — IRDAI guidelines"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation_policy_condition_2.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_policy_condition_2.json"
-            },
-            {
-              "id": "underwriting",
-              "title": "Underwriting",
-              "topics": [
-                "Risk Selection",
-                "Medical",
-                "Reinsurance"
-              ],
-              "detailed_topics": [
-                "Underwriting — definition, purpose & need",
-                "Factors affecting Underwriting — Age, Health, Occupation, Habits, Lifestyle",
-                "Standard Lives vs Sub-standard Lives vs Declined Lives",
-                "Moral Hazard in Life Insurance",
-                "Physical Hazard — occupation, hobbies",
-                "Extra Premium — how charged for sub-standard lives",
-                "Exclusion Clause in policy",
-                "Lien — temporary exclusion",
-                "Medical Underwriting — medical test parameters",
-                "Non-Medical Underwriting — limits & conditions",
-                "Financial Underwriting — income multiple concept",
-                "Group Underwriting — master policy concept",
-                "Reinsurance — why and how life insurers use it",
-                "Treaty Reinsurance vs Facultative Reinsurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting.json"
-            },
-            {
-              "id": "payments_under_life_policy",
-              "title": "Payments Under a Life Insurance Policy",
-              "topics": [
-                "Death Claims",
-                "Maturity",
-                "Repudiation"
-              ],
-              "detailed_topics": [
-                "Types of Claims — Death Claim, Maturity Claim, Survival Benefit",
-                "Death Claim — documents required",
-                "Maturity Claim — documents required",
-                "Early Death Claims — within 3 years (Section 45), special investigation",
-                "Claim Investigation process",
-                "Nomination & Claim Payment to Nominee",
-                "Assignment & Claim Payment to Assignee",
-                "Claim by legal heirs — succession certificate",
-                "Accidental Death Benefit claim",
-                "Disability Rider claim",
-                "Critical Illness claim",
-                "Repudiation of Claim — valid grounds",
-                "Ex-Gratia payment",
-                "Unclaimed amounts — IRDAI guidelines",
-                "Senior Citizen Redressal — special provisions"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/payments_under_life_policy.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/payments_under_life_insurance_claims.json"
-            }
-          ]
-        },
-        {
-          "name": "SECTION 3: HEALTH INSURANCE MODULE (17-21)",
-          "chapters": [
-            {
-              "id": "health_insurance_introduction",
-              "title": "Chapter 17: Introduction to Health Insurance",
-              "topics": [
-                "Healthcare Levels",
-                "ESIS",
-                "TPAs"
-              ],
-              "detailed_topics": [
-                "What is Healthcare — definition",
-                "Determinants of Health — genetic, lifestyle, environment",
-                "Levels of Healthcare — Primary, Secondary, Tertiary",
-                "Types of Healthcare — Preventive, Promotive, Curative, Rehabilitative",
-                "Factors affecting Health Systems in India",
-                "Evolution of Health Insurance in India",
-                "Employees State Insurance Scheme (ESIS) — coverage & benefits",
-                "Central Government Health Scheme (CGHS)",
-                "Commercial Health Insurance — growth & market",
-                "Health Insurance Market — Public Sector, Private Sector",
-                "Pharmaceutical Industry role",
-                "TPAs (Third Party Administrators) — role in market",
-                "Intermediaries in Health Insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_introduction.json"
-            },
-            {
-              "id": "health_insurance_documentation",
-              "title": "Chapter 18: Insurance Documentation (Health)",
-              "topics": [
-                "Proposal Form",
-                "Policy Document",
-                "AML"
-              ],
-              "detailed_topics": [
-                "Proposal Form for Health Insurance",
-                "Standard Declaration Form",
-                "Nature of questions — personal, medical history, pre-existing conditions",
-                "Medical Questionnaire — detailed health declaration",
-                "Role of Intermediary — explain questions, duty of disclosure",
-                "Acceptance of Proposal — underwriting decision",
-                "Premium Receipt — definition & types",
-                "Payment of Premium in Advance",
-                "Methods of Premium Payment",
-                "Policy Document — structure for health policies",
-                "Conditions and Warranties in health policy",
-                "Endorsements — specimen endorsements",
-                "Interpretation of Policies",
-                "Renewal Notice — timing & importance",
-                "AML & KYC Guidelines for health insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
-            },
-            {
-              "id": "health_insurance_products",
-              "title": "Chapter 19: Health Insurance Products",
-              "topics": [
-                "Mediclaim",
-                "Top-up",
-                "Ayushman Bharat"
-              ],
-              "detailed_topics": [
-                "Classification of Health Insurance Products",
-                "Hospitalization Indemnity Policy (Mediclaim) — features",
-                "Standard Health Cover — IRDAI standardisation guidelines",
-                "Top-up Plans — how they work with base policy",
-                "Super Top-up Plans — aggregate deductible",
-                "Senior Citizen Health Plans — special features",
-                "Fixed Benefit Plans — Hospital Cash, Critical Illness",
-                "Critical Illness Policy — list of 36 critical illnesses",
-                "Hospital Daily Cash Policy",
-                "Long Term Care Insurance",
-                "Combi Products — Life + Health combined",
-                "Package Policies",
-                "Micro Insurance — health for poor sections",
-                "Rashtriya Swasthya Bima Yojana (RSBY)",
-                "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-                "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-                "Ayushman Bharat — PM-JAY scheme",
-                "Personal Accident Cover — death & disability",
-                "Overseas Travel Insurance — coverages",
-                "Group Health Insurance — employer-employee scheme",
-                "Key Terms in Health Policies — co-pay, deductible, sub-limit, waiting period"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
-            },
-            {
-              "id": "health_insurance_underwriting",
-              "title": "Chapter 20: Health Insurance Underwriting",
-              "topics": [
-                "PED",
-                "Exclusions",
-                "Moral Hazard"
-              ],
-              "detailed_topics": [
-                "Underwriting — definition & need in health insurance",
-                "Underwriting Basic Concepts",
-                "File and Use Guidelines — IRDAI product approval process",
-                "Other Health Insurance Regulations of IRDAI",
-                "Basic Principles & Tools for Underwriting",
-                "Individual Health Insurance Underwriting Process",
-                "Pre-existing Diseases — definition & waiting period (48 months)",
-                "Loading for pre-existing conditions",
-                "Exclusions — standard permanent exclusions",
-                "Group Health Insurance Underwriting — claims experience rating",
-                "Underwriting of Overseas Travel Insurance",
-                "Underwriting of Personal Accident Insurance",
-                "Moral Hazard in Health Insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
-            },
-            {
-              "id": "health_insurance_claims",
-              "title": "Chapter 21: Health Insurance Claims",
-              "topics": [
-                "Cashless",
-                "Reimbursement",
-                "Fraud"
-              ],
-              "detailed_topics": [
-                "Claims Management — importance & stakeholders",
-                "Role of Claims Management in Insurance Company",
-                "Cashless Claim Process — how it works at network hospital",
-                "Reimbursement Claim Process — steps & documents",
-                "Documentation required for Health Claims",
-                "Claims Reserving — IBNR (Incurred But Not Reported)",
-                "Role of TPA (Third Party Administrator) in claims",
-                "Pre-authorization process",
-                "Discharge Summary — importance in claims",
-                "Challenges in Health Insurance Claims — fraud, over-treatment",
-                "Fraud control mechanisms",
-                "Personal Accident Claims — death, permanent disability, partial disability",
-                "Overseas Travel Insurance Claims",
-                "Grievance in Health Claims — escalation process"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+              "id": "regulatory_aspects_for_insurance_agents",
+              "title": "Regulatory Aspects for Insurance Agents",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
           ]
         }
@@ -706,7 +200,7 @@
     {
       "id": "ic38_general",
       "name": "IC-38 General Insurance",
-      "total_chapters": 16,
+      "total_chapters": 10,
       "crash_course": {
         "full_syllabus_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_general_full_notes.pdf",
         "short_notes": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/crash_course/ic38_general_short_notes.pdf",
@@ -757,472 +251,87 @@
       ],
       "sections": [
         {
-          "name": "Section I: Common Module (1-5)",
+          "name": "COMMON CHAPTERS",
           "chapters": [
             {
               "id": "introduction_to_insurance",
               "title": "Introduction to Insurance",
-              "topics": [
-                "History",
-                "Risk Management",
-                "Social Security"
-              ],
-              "detailed_topics": [
-                "History & Evolution of Insurance (3000 BC to modern era)",
-                "Insurance through the ages — Babylonian, Greeks, Chinese traders",
-                "Modern concepts — Lloyd's Coffee House, Amicable Society 1706",
-                "History of Insurance in India — Oriental Life, LIC, GIC",
-                "Malhotra Committee 1993 & formation of IRDAI 2000",
-                "How Insurance Works — Asset, Risk, Peril, Pooling, Insurer, Insured",
-                "Primary & Secondary Burden of Risk",
-                "Risk Management Techniques — Avoidance, Retention, Reduction, Financing",
-                "Insurance vs Assurance distinction",
-                "Insurance as a Tool for Managing Risk",
-                "3 Thumb Rules of Insurance",
-                "Role of Insurance in Society & Social Security Schemes",
-                "Govt Schemes — RKBY, RSBY, PMJBY, PMSBY"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
-              "note_images": [
-                "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/images/introduction_to_insurance_chart.webp"
-              ],
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
+            },
+            {
+              "id": "core_elements_of_insurance",
+              "title": "Core Elements of Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
+            },
+            {
+              "id": "principles_of_insurance",
+              "title": "Principles of Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
+            },
+            {
+              "id": "features_of_insurance_contracts",
+              "title": "Features of Insurance Contracts",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
+            },
+            {
+              "id": "underwriting_and_rating",
+              "title": "Underwriting and Rating",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
+            },
+            {
+              "id": "claims_processing",
+              "title": "Claims Processing",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
+            },
+            {
+              "id": "documentation",
+              "title": "Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json"
             },
             {
               "id": "customer_service",
               "title": "Customer Service",
-              "topics": [
-                "SERVQUAL",
-                "Communication",
-                "Ethics"
-              ],
-              "detailed_topics": [
-                "Why Customer Service — importance in insurance",
-                "Quality of Service — SERVQUAL Model (5 dimensions)",
-                "Reliability, Responsiveness, Assurance, Empathy, Tangibles",
-                "Customer Lifetime Value — definition & importance",
-                "Agent's Role — Point of Sale (Best Advice)",
-                "Named Peril vs All Risk Policies",
-                "Proposal Stage — agent's responsibility",
-                "Acceptance Stage — Cover Note, Policy Delivery",
-                "Policy Renewal — agent's role",
-                "Claim Stage — agent's role",
-                "Grievance Redressal — IGMS, Ombudsman, Consumer Protection Act",
-                "Communication Process — Sender, Message, Encoding, Channel, Decoding, Feedback",
-                "Barriers to Effective Communication",
-                "Non-Verbal Communication — Body Language, First Impression Tips",
-                "Active Listening — 5 elements (Attention, Demonstrating, Feedback, Non-judgemental, Responding)",
-                "Empathetic Listening",
-                "Ethical Behaviour — Characteristics & Code of Ethics"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
-              "note_images": [
-                "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/images/customer_service_chart.webp"
-              ],
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
               "title": "Grievance Redressal Mechanism",
-              "topics": [
-                "IGMS",
-                "Ombudsman",
-                "Consumer Forums"
-              ],
-              "detailed_topics": [
-                "IGMS — Integrated Grievance Management System",
-                "How to register complaint on IGMS portal",
-                "Consumer Protection Act 1986 — definitions",
-                "Consumer, Defect, Complaint, Consumer Dispute — definitions",
-                "District Commission — jurisdiction up to Rs. 50 Lakhs (2021 Rules)",
-                "State Commission — jurisdiction Rs. 50 Lakhs to Rs. 2 Crore",
-                "National Commission — jurisdiction above Rs. 2 Crore",
-                "Procedure for filing complaint — no fee, no advocate needed",
-                "Consumer Forum Orders — 5 types of orders",
-                "Nature of insurance complaints — 5 categories",
-                "Insurance Ombudsman Rules 2017",
-                "Who can complain to Ombudsman & conditions",
-                "Time limit — within 1 year of insurer rejection",
-                "Ombudsman Recommendations — 15 days acceptance rule",
-                "Ombudsman Award — max Rs. 30 lakh, within 3 months",
-                "Award binding on insurer — comply within 30 days"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
-              "id": "regulatory_aspects_of_insurance_agents",
-              "title": "Regulatory Aspects of Insurance Agents",
-              "topics": [
-                "IRDAI Act",
-                "Agent Licensing",
-                "Code of Conduct"
-              ],
-              "detailed_topics": [
-                "Key Definitions — Agent, Composite Agent, Mono-line Insurer, Designated Official",
-                "Centralised List of Agents & Blacklisted Agents",
-                "Appointment of Insurance Agent — Form I-A process",
-                "Appointment letter issued within 15 days",
-                "Composite Insurance Agent — Form I-B",
-                "Insurance Agency Examination — eligibility & pass certificate (valid 12 months)",
-                "Disqualification conditions — Section 42(3) of Insurance Act",
-                "Code of Conduct — 13 DO's for agents",
-                "Code of Conduct — 11 DON'Ts for agents",
-                "Multilevel Marketing — strictly prohibited",
-                "Penalty — Rs. 10,000 for agent violation",
-                "Penalty — Rs. 1 Crore for insurer violation",
-                "Suspension of Agent — 11 grounds listed",
-                "Cancellation of Agency — procedure",
-                "Effect of suspension/cancellation",
-                "Resignation/Surrender — Cessation Certificate (Form I-C) within 15 days",
-                "90-day cooling period before joining new insurer",
-                "General conditions — max 1 Life + 1 General + 1 Health insurer"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_of_insurance_agents.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_of_insurance_agents.json"
-            },
-            {
-              "id": "legal_principles_of_insurance",
-              "title": "Legal Principles of Insurance",
-              "topics": [
-                "Contract Law",
-                "Good Faith",
-                "Indemnity"
-              ],
-              "detailed_topics": [
-                "Insurance Contract — definition & nature",
-                "Indian Contract Act 1872 — governs all insurance contracts",
-                "Elements of a Valid Contract — 6 elements",
-                "Offer & Acceptance — proposal becomes policy",
-                "Consideration — premium vs promise to indemnify",
-                "Consensus Ad-Idem — agreement in same sense",
-                "Free Consent — Coercion, Undue Influence, Fraud, Misrepresentation, Mistake",
-                "Capacity of Parties — minors cannot enter insurance contracts",
-                "Legality — object must be lawful",
-                "Uberrima Fides — Utmost Good Faith (most important principle)",
-                "Caveat Emptor vs Utmost Good Faith distinction",
-                "Material Information — what must be disclosed",
-                "Breach of Utmost Good Faith — policy voidable",
-                "Insurable Interest — definition & importance",
-                "Gambling vs Insurance distinction",
-                "Proximate Cause — nearest cause of loss",
-                "Contract of Adhesion — take it or leave it",
-                "Indemnity — restore to same position, not profit",
-                "Subrogation — insurer steps into insured's shoes",
-                "Contribution — multiple policies proportional sharing"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/legal_principles_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/legal_principles_of_insurance.json"
-            }
-          ]
-        },
-        {
-          "name": "Section II: Health Module (17-21)",
-          "chapters": [
-            {
-              "id": "health_insurance_introduction",
-              "title": "Chapter 17: Introduction to Health Insurance",
-              "topics": [
-                "Healthcare Levels",
-                "ESIS",
-                "TPAs"
-              ],
-              "detailed_topics": [
-                "What is Healthcare — definition",
-                "Determinants of Health — genetic, lifestyle, environment",
-                "Levels of Healthcare — Primary, Secondary, Tertiary",
-                "Types of Healthcare — Preventive, Promotive, Curative, Rehabilitative",
-                "Factors affecting Health Systems in India",
-                "Evolution of Health Insurance in India",
-                "Employees State Insurance Scheme (ESIS) — coverage & benefits",
-                "Central Government Health Scheme (CGHS)",
-                "Commercial Health Insurance — growth & market",
-                "Health Insurance Market — Public Sector, Private Sector",
-                "Pharmaceutical Industry role",
-                "TPAs (Third Party Administrators) — role in market",
-                "Intermediaries in Health Insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_introduction.json"
-            },
-            {
-              "id": "health_insurance_documentation",
-              "title": "Chapter 18: Insurance Documentation (Health)",
-              "topics": [
-                "Proposal Form",
-                "Policy Document",
-                "AML"
-              ],
-              "detailed_topics": [
-                "Proposal Form for Health Insurance",
-                "Standard Declaration Form",
-                "Nature of questions — personal, medical history, pre-existing conditions",
-                "Medical Questionnaire — detailed health declaration",
-                "Role of Intermediary — explain questions, duty of disclosure",
-                "Acceptance of the Proposal — underwriting decision",
-                "Premium Receipt — definition & types",
-                "Payment of Premium in Advance",
-                "Methods of Premium Payment",
-                "Policy Document — structure for health policies",
-                "Conditions and Warranties in health policy",
-                "Endorsements — specimen endorsements",
-                "Interpretation of Policies",
-                "Renewal Notice — timing & importance",
-                "AML & KYC Guidelines for health insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
-            },
-            {
-              "id": "health_insurance_products",
-              "title": "Chapter 19: Health Insurance Products",
-              "topics": [
-                "Mediclaim",
-                "Top-up",
-                "Ayushman Bharat"
-              ],
-              "detailed_topics": [
-                "Classification of Health Insurance Products",
-                "Hospitalization Indemnity Policy (Mediclaim) — features",
-                "Standard Health Cover — IRDAI standardisation guidelines",
-                "Top-up Plans — how they work with base policy",
-                "Super Top-up Plans — aggregate deductible",
-                "Senior Citizen Health Plans — special features",
-                "Fixed Benefit Plans — Hospital Cash, Critical Illness",
-                "Critical Illness Policy — list of 36 critical illnesses",
-                "Hospital Daily Cash Policy",
-                "Long Term Care Insurance",
-                "Combi Products — Life + Health combined",
-                "Package Policies",
-                "Micro Insurance — health for poor sections",
-                "Rashtriya Swasthya Bima Yojana (RSBY)",
-                "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-                "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-                "Ayushman Bharat — PM-JAY scheme",
-                "Personal Accident Cover — death & disability",
-                "Overseas Travel Insurance — coverages",
-                "Group Health Insurance — employer-employee scheme",
-                "Key Terms in Health Policies — co-pay, deductible, sub-limit, waiting period"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
-            },
-            {
-              "id": "health_insurance_underwriting",
-              "title": "Chapter 20: Health Insurance Underwriting",
-              "topics": [
-                "PED",
-                "Exclusions",
-                "Moral Hazard"
-              ],
-              "detailed_topics": [
-                "Underwriting — definition & need in health insurance",
-                "Underwriting Basic Concepts",
-                "File and Use Guidelines — IRDAI product approval process",
-                "Other Health Insurance Regulations of IRDAI",
-                "Basic Principles & Tools for Underwriting",
-                "Individual Health Insurance Underwriting Process",
-                "Pre-existing Diseases — definition & waiting period (48 months)",
-                "Loading for pre-existing conditions",
-                "Exclusions — standard permanent exclusions",
-                "Group Health Insurance Underwriting — claims experience rating",
-                "Underwriting of Overseas Travel Insurance",
-                "Underwriting of Personal Accident Insurance",
-                "Moral Hazard in Health Insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
-            },
-            {
-              "id": "health_insurance_claims",
-              "title": "Chapter 21: Health Insurance Claims",
-              "topics": [
-                "Cashless",
-                "Reimbursement",
-                "Fraud"
-              ],
-              "detailed_topics": [
-                "Claims Management — importance & stakeholders",
-                "Role of Claims Management in Insurance Company",
-                "Cashless Claim Process — how it works at network hospital",
-                "Reimbursement Claim Process — steps & documents",
-                "Documentation required for Health Claims",
-                "Claims Reserving — IBNR (Incurred But Not Reported)",
-                "Role of TPA (Third Party Administrator) in claims",
-                "Pre-authorization process",
-                "Discharge Summary — importance in claims",
-                "Challenges in Health Insurance Claims — fraud, over-treatment",
-                "Fraud control mechanisms",
-                "Personal Accident Claims — death, permanent disability, partial disability",
-                "Overseas Travel Insurance Claims",
-                "Grievance in Health Claims — escalation process"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
-            }
-          ]
-        },
-        {
-          "name": "Section III: General Specialized (11-16)",
-          "chapters": [
-            {
-              "id": "principles_of_general_insurance",
-              "title": "Chapter 22: Principles of General Insurance",
-              "topics": [
-                "Risk Classification",
-                "Indemnity",
-                "Subrogation"
-              ],
-              "detailed_topics": [
-                "Elements of Insurance — definition & exposure to risk",
-                "Degree of Risk Exposure",
-                "Basis of Risk Classification",
-                "Hazard — types (Physical Hazard, Moral Hazard)",
-                "Mathematical Principle of Insurance — Risk Pooling",
-                "Conditions for Insuring a Risk — 6 conditions",
-                "The Insurance Contract — legal aspects",
-                "Indemnity in General Insurance",
-                "Uberrima Fides — Utmost Good Faith",
-                "Insurable Interest in General Insurance",
-                "Proximate Cause",
-                "Contribution — when multiple policies exist",
-                "Subrogation — insurer's right after claim"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_general_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_general_insurance.json"
-            },
-            {
-              "id": "documentation_general_insurance",
-              "title": "Chapter 23: Documentation (General Insurance)",
-              "topics": [
-                "Proposal Form",
-                "Cover Note",
-                "Warranties"
-              ],
-              "detailed_topics": [
-                "Proposal Forms — role & importance",
-                "Role of Intermediary in proposal",
-                "Duty of Intermediary towards client",
-                "Acceptance of the Proposal — cover note",
-                "Premium Receipt",
-                "Cover Notes — temporary cover before policy",
-                "Certificate of Insurance",
-                "Policy Document — structure & contents",
-                "Warranties — express & implied",
-                "Endorsements — how to make changes",
-                "Interpretation of Policies",
-                "Renewal Notice — 30 days before expiry"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation_general.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation_general_insurance.json"
-            },
-            {
-              "id": "theory_and_practice_of_premium_rating",
-              "title": "Chapter 24: Theory and Practice of Premium Rating",
-              "topics": [
-                "Rating Factors",
-                "Average Clause",
-                "Co-insurance"
-              ],
-              "detailed_topics": [
-                "Underwriting Basics — definition & purpose",
-                "Rate Making Basics — how premiums are calculated",
-                "Rating Factors — what affects premium",
-                "Hazard — Moral Hazard & Physical Hazard",
-                "Addressing Physical Hazards — risk inspection",
-                "Short Period Scales — pro-rata vs short period",
-                "Minimum Premium concept",
-                "Sum Insured — how to decide correct sum",
-                "Under-insurance & Average Clause",
-                "Co-insurance — sharing risk between insurers"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/theory_and_practice_of_premium_rating.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/theory_and_practice_of_premium_rating.json"
-            },
-            {
-              "id": "personal_and_retail_insurance",
-              "title": "Chapter 25: Personal and Retail Insurance",
-              "topics": [
-                "Motor",
-                "Householder's",
-                "NCB"
-              ],
-              "detailed_topics": [
-                "Retail Insurance Products — overview",
-                "Householder's Insurance — coverages & sum insured",
-                "Shopkeeper's Insurance — coverages",
-                "Motor Insurance — types of covers",
-                "Own Damage (OD) Cover — what it covers",
-                "Third Party Liability — mandatory by law",
-                "Third Party Property Damage — Motor Vehicles Act",
-                "Motor Insurance Exclusions",
-                "Comprehensive vs Third Party Only policy",
-                "No Claim Bonus (NCB) — discount on renewal",
-                "Motor Insurance Sum Insured — IDV (Insured Declared Value)",
-                "Personal Accident Cover for owner-driver"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/personal_and_retail_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
-            },
-            {
-              "id": "commercial_insurance",
-              "title": "Chapter 26: Commercial Insurance",
-              "topics": [
-                "Fire",
-                "Marine",
-                "Engineering"
-              ],
-              "detailed_topics": [
-                "Fire Insurance — Standard Fire & Special Perils Policy",
-                "Variants — Market Value vs Reinstatement Value Policy",
-                "Declaration Policy & Floater Policies",
-                "Business Interruption Insurance — loss of profit",
-                "Burglary Insurance — risks covered",
-                "Cash / Money Insurance — coverage",
-                "Fidelity Guarantee Insurance",
-                "Bankers Indemnity Insurance",
-                "Jewellers Block Policy",
-                "Engineering Insurance — types (Contractors All Risk, Erection All Risk, Machinery Breakdown)",
-                "Marine Insurance — overview",
-                "Marine Cargo Insurance — voyage & open policies",
-                "Types of Marine Policies — Specific, Open, Floating",
-                "Marine Cargo Clauses — A, B, C",
-                "Liability Policies — statutory & voluntary",
-                "Public Liability Insurance",
-                "Product Liability Insurance",
-                "Professional Indemnity Insurance",
-                "Employer's Liability — Workmen's Compensation"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/commercial_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
-            },
-            {
-              "id": "claims_procedure_general",
-              "title": "Chapter 27: Claims Procedure (General Insurance)",
-              "topics": [
-                "Surveyors",
-                "Salvage",
-                "ADR"
-              ],
-              "detailed_topics": [
-                "Claims Settlement Process — importance",
-                "Limitation / Notice of Loss — immediate reporting",
-                "Investigation & Assessment process",
-                "Surveyors & Loss Assessors — IRDAI licensing",
-                "Claim Forms — what is required",
-                "Loss Assessment & Claim Settlement",
-                "Important aspects in insurance claims",
-                "Categories of Claim — partial loss, total loss",
-                "Discharge Voucher — full & final settlement",
-                "Post Settlement Action",
-                "Salvage — insurer's right after total loss claim",
-                "Recoveries — subrogation recovery",
-                "Disputes related to Claims",
-                "Alternate Dispute Resolution (ADR) mechanisms",
-                "Time limits for claim settlement — IRDAI guidelines"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_procedure_general.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_procedure_general_insurance.json"
+              "id": "regulatory_aspects_for_insurance_agents",
+              "title": "Regulatory Aspects for Insurance Agents",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
           ]
         }
@@ -1282,308 +391,87 @@
       ],
       "sections": [
         {
-          "name": "Section I: Common Module (1-5)",
+          "name": "COMMON CHAPTERS",
           "chapters": [
             {
               "id": "introduction_to_insurance",
               "title": "Introduction to Insurance",
-              "topics": [
-                "History",
-                "Risk Management",
-                "Social Security"
-              ],
-              "detailed_topics": [
-                "History & Evolution of Insurance (3000 BC to modern era)",
-                "Insurance through the ages — Babylonian, Greeks, Chinese traders",
-                "Modern concepts — Lloyd's Coffee House, Amicable Society 1706",
-                "History of Insurance in India — Oriental Life, LIC, GIC",
-                "Malhotra Committee 1993 & formation of IRDAI 2000",
-                "How Insurance Works — Asset, Risk, Peril, Pooling, Insurer, Insured",
-                "Primary & Secondary Burden of Risk",
-                "Risk Management Techniques — Avoidance, Retention, Reduction, Financing",
-                "Insurance vs Assurance distinction",
-                "Insurance as a Tool for Managing Risk",
-                "3 Thumb Rules of Insurance",
-                "Role of Insurance in Society & Social Security Schemes",
-                "Govt Schemes — RKBY, RSBY, PMJBY, PMSBY"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
-              "note_images": [
-                "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/images/introduction_to_insurance_chart.webp"
-              ],
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
+            },
+            {
+              "id": "core_elements_of_insurance",
+              "title": "Core Elements of Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
+            },
+            {
+              "id": "principles_of_insurance",
+              "title": "Principles of Insurance",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
+            },
+            {
+              "id": "features_of_insurance_contracts",
+              "title": "Features of Insurance Contracts",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
+            },
+            {
+              "id": "underwriting_and_rating",
+              "title": "Underwriting and Rating",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
+            },
+            {
+              "id": "claims_processing",
+              "title": "Claims Processing",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
+            },
+            {
+              "id": "documentation",
+              "title": "Documentation",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json"
             },
             {
               "id": "customer_service",
               "title": "Customer Service",
-              "topics": [
-                "SERVQUAL",
-                "Communication",
-                "Ethics"
-              ],
-              "detailed_topics": [
-                "Why Customer Service — importance in insurance",
-                "Quality of Service — SERVQUAL Model (5 dimensions)",
-                "Reliability, Responsiveness, Assurance, Empathy, Tangibles",
-                "Customer Lifetime Value — definition & importance",
-                "Agent's Role — Point of Sale (Best Advice)",
-                "Named Peril vs All Risk Policies",
-                "Proposal Stage — agent's responsibility",
-                "Acceptance Stage — Cover Note, Policy Delivery",
-                "Policy Renewal — agent's role",
-                "Claim Stage — agent's role",
-                "Grievance Redressal — IGMS, Ombudsman, Consumer Protection Act",
-                "Communication Process — Sender, Message, Encoding, Channel, Decoding, Feedback",
-                "Barriers to Effective Communication",
-                "Non-Verbal Communication — Body Language, First Impression Tips",
-                "Active Listening — 5 elements (Attention, Demonstrating, Feedback, Non-judgemental, Responding)",
-                "Empathetic Listening",
-                "Ethical Behaviour — Characteristics & Code of Ethics"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
-              "note_images": [
-                "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/images/customer_service_chart.webp"
-              ],
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
               "title": "Grievance Redressal Mechanism",
-              "topics": [
-                "IGMS",
-                "Ombudsman",
-                "Consumer Forums"
-              ],
-              "detailed_topics": [
-                "IGMS — Integrated Grievance Management System",
-                "How to register complaint on IGMS portal",
-                "Consumer Protection Act 1986 — definitions",
-                "Consumer, Defect, Complaint, Consumer Dispute — definitions",
-                "District Commission — jurisdiction up to Rs. 50 Lakhs (2021 Rules)",
-                "State Commission — jurisdiction Rs. 50 Lakhs to Rs. 2 Crore",
-                "National Commission — jurisdiction above Rs. 2 Crore",
-                "Procedure for filing complaint — no fee, no advocate needed",
-                "Consumer Forum Orders — 5 types of orders",
-                "Nature of insurance complaints — 5 categories",
-                "Insurance Ombudsman Rules 2017",
-                "Who can complain to Ombudsman & conditions",
-                "Time limit — within 1 year of insurer rejection",
-                "Ombudsman Recommendations — 15 days acceptance rule",
-                "Ombudsman Award — max Rs. 30 lakh, within 3 months",
-                "Award binding on insurer — comply within 30 days"
-              ],
+              "topics": [],
+              "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
-              "id": "regulatory_aspects_of_insurance_agents",
-              "title": "Regulatory Aspects of Insurance Agents",
-              "topics": [
-                "IRDAI Act",
-                "Agent Licensing",
-                "Code of Conduct"
-              ],
-              "detailed_topics": [
-                "Key Definitions — Agent, Composite Agent, Mono-line Insurer, Designated Official",
-                "Centralised List of Agents & Blacklisted Agents",
-                "Appointment of Insurance Agent — Form I-A process",
-                "Appointment letter issued within 15 days",
-                "Composite Insurance Agent — Form I-B",
-                "Insurance Agency Examination — eligibility & pass certificate (valid 12 months)",
-                "Disqualification conditions — Section 42(3) of Insurance Act",
-                "Code of Conduct — 13 DO's for agents",
-                "Code of Conduct — 11 DON'Ts for agents",
-                "Multilevel Marketing — strictly prohibited",
-                "Penalty — Rs. 10,000 for agent violation",
-                "Penalty — Rs. 1 Crore for insurer violation",
-                "Suspension of Agent — 11 grounds listed",
-                "Cancellation of Agency — procedure",
-                "Effect of suspension/cancellation",
-                "Resignation/Surrender — Cessation Certificate (Form I-C) within 15 days",
-                "90-day cooling period before joining new insurer",
-                "General conditions — max 1 Life + 1 General + 1 Health insurer"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_of_insurance_agents.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_of_insurance_agents.json"
-            },
-            {
-              "id": "legal_principles_of_insurance",
-              "title": "Legal Principles of Insurance",
-              "topics": [
-                "Contract Law",
-                "Good Faith",
-                "Indemnity"
-              ],
-              "detailed_topics": [
-                "Insurance Contract — definition & nature",
-                "Indian Contract Act 1872 — governs all insurance contracts",
-                "Elements of a Valid Contract — 6 elements",
-                "Offer & Acceptance — proposal becomes policy",
-                "Consideration — premium vs promise to indemnify",
-                "Consensus Ad-Idem — agreement in same sense",
-                "Free Consent — Coercion, Undue Influence, Fraud, Misrepresentation, Mistake",
-                "Capacity of Parties — minors cannot enter insurance contracts",
-                "Legality — object must be lawful",
-                "Uberrima Fides — Utmost Good Faith (most important principle)",
-                "Caveat Emptor vs Utmost Good Faith distinction",
-                "Material Information — what must be disclosed",
-                "Breach of Utmost Good Faith — policy voidable",
-                "Insurable Interest — definition & importance",
-                "Gambling vs Insurance distinction",
-                "Proximate Cause — nearest cause of loss",
-                "Contract of Adhesion — take it or leave it",
-                "Indemnity — restore to same position, not profit",
-                "Subrogation — insurer steps into insured's shoes",
-                "Contribution — multiple policies proportional sharing"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/legal_principles_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/legal_principles_of_insurance.json"
-            }
-          ]
-        },
-        {
-          "name": "Section II: Health Module (17-21)",
-          "chapters": [
-            {
-              "id": "health_insurance_introduction",
-              "title": "Chapter 17: Introduction to Health Insurance",
-              "topics": [
-                "Healthcare Levels",
-                "ESIS",
-                "TPAs"
-              ],
-              "detailed_topics": [
-                "What is Healthcare — definition",
-                "Determinants of Health — genetic, lifestyle, environment",
-                "Levels of Healthcare — Primary, Secondary, Tertiary",
-                "Types of Healthcare — Preventive, Promotive, Curative, Rehabilitative",
-                "Factors affecting Health Systems in India",
-                "Evolution of Health Insurance in India",
-                "Employees State Insurance Scheme (ESIS) — coverage & benefits",
-                "Central Government Health Scheme (CGHS)",
-                "Commercial Health Insurance — growth & market",
-                "Health Insurance Market — Public Sector, Private Sector",
-                "Pharmaceutical Industry role",
-                "TPAs (Third Party Administrators) — role in market",
-                "Intermediaries in Health Insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_introduction.json"
-            },
-            {
-              "id": "health_insurance_documentation",
-              "title": "Chapter 18: Insurance Documentation (Health)",
-              "topics": [
-                "Proposal Form",
-                "Policy Document",
-                "AML"
-              ],
-              "detailed_topics": [
-                "Proposal Form for Health Insurance",
-                "Standard Declaration Form",
-                "Nature of questions — personal, medical history, pre-existing conditions",
-                "Medical Questionnaire — detailed health declaration",
-                "Role of Intermediary — explain questions, duty of disclosure",
-                "Acceptance of the Proposal — underwriting decision",
-                "Premium Receipt — definition & types",
-                "Payment of Premium in Advance",
-                "Methods of Premium Payment",
-                "Policy Document — structure for health policies",
-                "Conditions and Warranties in health policy",
-                "Endorsements — specimen endorsements",
-                "Interpretation of Policies",
-                "Renewal Notice — timing & importance",
-                "AML & KYC Guidelines for health insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
-            },
-            {
-              "id": "health_insurance_products",
-              "title": "Chapter 19: Health Insurance Products",
-              "topics": [
-                "Mediclaim",
-                "Top-up",
-                "Ayushman Bharat"
-              ],
-              "detailed_topics": [
-                "Classification of Health Insurance Products",
-                "Hospitalization Indemnity Policy (Mediclaim) — features",
-                "Standard Health Cover — IRDAI standardisation guidelines",
-                "Top-up Plans — how they work with base policy",
-                "Super Top-up Plans — aggregate deductible",
-                "Senior Citizen Health Plans — special features",
-                "Fixed Benefit Plans — Hospital Cash, Critical Illness",
-                "Critical Illness Policy — list of 36 critical illnesses",
-                "Hospital Daily Cash Policy",
-                "Long Term Care Insurance",
-                "Combi Products — Life + Health combined",
-                "Package Policies",
-                "Micro Insurance — health for poor sections",
-                "Rashtriya Swasthya Bima Yojana (RSBY)",
-                "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-                "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-                "Ayushman Bharat — PM-JAY scheme",
-                "Personal Accident Cover — death & disability",
-                "Overseas Travel Insurance — coverages",
-                "Group Health Insurance — employer-employee scheme",
-                "Key Terms in Health Policies — co-pay, deductible, sub-limit, waiting period"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
-            },
-            {
-              "id": "health_insurance_underwriting",
-              "title": "Chapter 20: Health Insurance Underwriting",
-              "topics": [
-                "PED",
-                "Exclusions",
-                "Moral Hazard"
-              ],
-              "detailed_topics": [
-                "Underwriting — definition & need in health insurance",
-                "Underwriting Basic Concepts",
-                "File and Use Guidelines — IRDAI product approval process",
-                "Other Health Insurance Regulations of IRDAI",
-                "Basic Principles & Tools for Underwriting",
-                "Individual Health Insurance Underwriting Process",
-                "Pre-existing Diseases — definition & waiting period (48 months)",
-                "Loading for pre-existing conditions",
-                "Exclusions — standard permanent exclusions",
-                "Group Health Insurance Underwriting — claims experience rating",
-                "Underwriting of Overseas Travel Insurance",
-                "Underwriting of Personal Accident Insurance",
-                "Moral Hazard in Health Insurance"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
-            },
-            {
-              "id": "health_insurance_claims",
-              "title": "Chapter 21: Health Insurance Claims",
-              "topics": [
-                "Cashless",
-                "Reimbursement",
-                "Fraud"
-              ],
-              "detailed_topics": [
-                "Claims Management — importance & stakeholders",
-                "Role of Claims Management in Insurance Company",
-                "Cashless Claim Process — how it works at network hospital",
-                "Reimbursement Claim Process — steps & documents",
-                "Documentation required for Health Claims",
-                "Claims Reserving — IBNR (Incurred But Not Reported)",
-                "Role of TPA (Third Party Administrator) in claims",
-                "Pre-authorization process",
-                "Discharge Summary — importance in claims",
-                "Challenges in Health Insurance Claims — fraud, over-treatment",
-                "Fraud control mechanisms",
-                "Personal Accident Claims — death, permanent disability, partial disability",
-                "Overseas Travel Insurance Claims",
-                "Grievance in Health Claims — escalation process"
-              ],
-              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+              "id": "regulatory_aspects_for_insurance_agents",
+              "title": "Regulatory Aspects for Insurance Agents",
+              "topics": [],
+              "detailed_topics": [],
+              "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
           ]
         }
