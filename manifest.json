@@ -1,5 +1,5 @@
 {
-  "version": "12.2.6",
+  "version": "12.2.7",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -74,6 +74,10 @@
           {
             "id": "lecture_life_15_applications_of_life_insurance",
             "url": "https://youtu.be/hvaKQbRQquU"
+          },
+          {
+            "id": "lecture_life_16_pricing_and_valuation",
+            "url": "https://youtu.be/uez4cundO20"
           },
           {
             "id": "lecture_health_01_introduction_to_health_insurance",
@@ -448,6 +452,10 @@
         {
           "id": "lecture_life_15_applications_of_life_insurance",
           "url": "https://youtu.be/hvaKQbRQquU"
+        },
+        {
+          "id": "lecture_life_16_pricing_and_valuation",
+          "url": "https://youtu.be/uez4cundO20"
         },
         {
           "id": "lecture_health_01_introduction_to_health_insurance",
