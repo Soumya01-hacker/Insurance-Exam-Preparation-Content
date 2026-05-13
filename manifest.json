@@ -1,5 +1,5 @@
 {
-  "version": "12.2.4",
+  "version": "12.2.5",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -66,6 +66,10 @@
           {
             "id": "lecture_life_13_life_insurance_products_traditional",
             "url": "https://youtu.be/P1U5w5LHlRg"
+          },
+          {
+            "id": "lecture_life_14_life_insurance_products_non_traditional",
+            "url": "https://youtu.be/1tIGlAVc0pY"
           },
           {
             "id": "lecture_health_01_introduction_to_health_insurance",
@@ -432,6 +436,10 @@
         {
           "id": "lecture_life_13_life_insurance_products_traditional",
           "url": "https://youtu.be/P1U5w5LHlRg"
+        },
+        {
+          "id": "lecture_life_14_life_insurance_products_non_traditional",
+          "url": "https://youtu.be/1tIGlAVc0pY"
         },
         {
           "id": "lecture_health_01_introduction_to_health_insurance",
