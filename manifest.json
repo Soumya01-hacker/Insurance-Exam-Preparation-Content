@@ -1,5 +1,5 @@
 {
-  "version": "12.3.1",
+  "version": "12.3.2",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -202,8 +202,27 @@
             {
               "id": "introduction_to_insurance",
               "title": "Introduction to Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "History and Evolution of Insurance",
+                "Risk Management Techniques",
+                "Role of Insurance in Society",
+                "Insurance as a Financial Tool"
+              ],
+              "detailed_topics": [
+                "Life Insurance \u2013 History and Evolution",
+                "History of Insurance Through the Ages",
+                "Modern Concepts of Insurance",
+                "History of Insurance in India",
+                "Life Insurance Industry Overview",
+                "How Insurance Works",
+                "Risk Avoidance, Risk Retention, Risk Reduction and Control",
+                "Risk Financing",
+                "Insurance vs Assurance",
+                "Insurance as a Tool for Managing Risk",
+                "Considerations Before Opting for Insurance",
+                "Role of Insurance in Society",
+                "Insurance and Social Security"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json",
               "short_notes_url": "short_notes/introduction_to_insurance.json",
@@ -213,40 +232,137 @@
             {
               "id": "core_elements_of_insurance",
               "title": "Core Elements of Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition & Exposure to Risk",
+                "Risk Classification & Types of Hazards",
+                "Mathematical Principle of Insurance (Risk Pooling)",
+                "Conditions for Insuring a Risk"
+              ],
+              "detailed_topics": [
+                "Definition of Insurance",
+                "Exposure to Risk",
+                "Degree of Risk Exposure",
+                "Basis of Risk Classification",
+                "Hazard \u2013 Definition and Types",
+                "Physical Hazard",
+                "Moral Hazard",
+                "Morale Hazard",
+                "Mathematical Principle of Insurance \u2013 Risk Pooling",
+                "Law of Large Numbers",
+                "Conditions for Insuring a Risk",
+                "The Insurance Contract Overview",
+                "Risk Transfer Mechanism in Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
             },
             {
               "id": "principles_of_insurance",
               "title": "Principles of Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Utmost Good Faith & Indemnity",
+                "Insurable Interest & Subrogation",
+                "Contribution & Proximate Cause",
+                "Application of Principles in Claims"
+              ],
+              "detailed_topics": [
+                "Principle of Utmost Good Faith (Uberrima Fides)",
+                "Principle of Insurable Interest",
+                "Principle of Indemnity",
+                "Principle of Subrogation",
+                "Principle of Contribution",
+                "Principle of Proximate Cause",
+                "Application of Indemnity Principle",
+                "Exceptions to the Principle of Indemnity",
+                "Doctrine of Subrogation in Practice",
+                "Contribution in Co-Insurance",
+                "Inter-relation Between Insurance Principles"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
             },
             {
               "id": "features_of_insurance_contracts",
               "title": "Features of Insurance Contracts",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Special Features of Insurance Contracts",
+                "Policy Document, Warranties & Endorsements",
+                "Conditions and Interpretation of Policies",
+                "Renewal Notice & Cover Notes"
+              ],
+              "detailed_topics": [
+                "Aleatory Nature of Insurance Contracts",
+                "Contract of Adhesion",
+                "Unilateral Contract Feature",
+                "Personal Nature of Insurance Contract",
+                "Conditional Contract",
+                "Policy Document \u2013 Structure and Components",
+                "Warranties in Insurance Contracts",
+                "Express and Implied Conditions",
+                "Endorsements \u2013 Types and Uses",
+                "Proposal Form and Acceptance",
+                "Premium Receipt and Cover Notes",
+                "Certificate of Insurance",
+                "Renewal Notice",
+                "Interpretation of Insurance Policies"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
             },
             {
               "id": "underwriting_and_rating",
               "title": "Underwriting and Rating",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Underwriting Basics & Purpose",
+                "Rate Making & Rating Factors",
+                "Hazard Assessment in Underwriting",
+                "Sum Insured & Premium Determination"
+              ],
+              "detailed_topics": [
+                "Definition of Underwriting",
+                "Purpose and Need for Underwriting",
+                "Equity Among Risks",
+                "Underwriting Basic Concepts",
+                "Rate Making Basics",
+                "Rating Factors",
+                "Physical Hazard and Moral Hazard in Underwriting",
+                "Addressing Physical Hazards",
+                "Short Period Scales",
+                "Minimum Premium",
+                "Sum Insured \u2013 Determination Methods",
+                "Deciding the Sum Insured",
+                "File and Use Guidelines",
+                "Selection Process in Underwriting",
+                "Risk Classification"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
             },
             {
               "id": "claims_processing",
               "title": "Claims Processing",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Settlement Process",
+                "Investigation, Survey & Loss Assessment",
+                "Salvage, Recoveries & Discharge Vouchers",
+                "Dispute Resolution in Claims"
+              ],
+              "detailed_topics": [
+                "Concept of Claims in Insurance",
+                "Importance of Settling Claims Fairly",
+                "Intimation and Notice of Loss",
+                "Investigation and Assessment Process",
+                "Role of Surveyors and Loss Assessors",
+                "Claim Forms \u2013 Types and Usage",
+                "Loss Assessment and Claim Settlement",
+                "Categories of Claims",
+                "Discharge Vouchers",
+                "Post-Settlement Action",
+                "Salvage in Insurance Claims",
+                "Recoveries in Claims",
+                "Disputes Related to Claims",
+                "Alternative Dispute Resolution Mechanisms"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
             },
@@ -261,24 +377,81 @@
             {
               "id": "customer_service",
               "title": "Customer Service",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Quality of Service in Insurance",
+                "Insurance Agent's Role in Customer Service",
+                "Communication & Ethical Behaviour",
+                "Grievance Handling & Consumer Protection"
+              ],
+              "detailed_topics": [
+                "General Concepts of Customer Service",
+                "Why Customer Service Matters in Insurance",
+                "Quality of Service Standards",
+                "Customer Service and Insurance Industry",
+                "Insurance Agent's Role in Providing Great Customer Service",
+                "The Point of Sale (PoS)",
+                "Best Advice Principle",
+                "The Proposal Stage",
+                "Acceptance Stage",
+                "The Claim Stage",
+                "Grievance Redressal Overview",
+                "Integrated Grievance Management System (IGMS)",
+                "The Consumer Protection Act, 1986",
+                "The Insurance Ombudsman",
+                "Communication Process",
+                "Non-Verbal Communication",
+                "Ethical Behaviour in Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
               "title": "Grievance Redressal Mechanism",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Consumer Courts & Insurance Ombudsman",
+                "Integrated Grievance Management System (IGMS)",
+                "Consumer Protection Act, 1986",
+                "Dispute Resolution Process"
+              ],
+              "detailed_topics": [
+                "Consumer Courts \u2013 Structure and Jurisdiction",
+                "Insurance Ombudsman \u2013 Role and Function",
+                "Integrated Grievance Management System (IGMS)",
+                "The Consumer Protection Act, 1986",
+                "Filing a Complaint with the Ombudsman",
+                "Time Limits for Grievance Filing",
+                "IRDAI's Role in Grievance Redressal",
+                "Policyholder Rights and Remedies",
+                "Internal Complaint Handling Process of Insurers",
+                "Bima Bharosa \u2013 IRDAI Grievance Portal"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
               "title": "Regulatory Aspects for Insurance Agents",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Appointment & Licensing of Insurance Agents",
+                "Code of Conduct for Agents",
+                "Disqualification & Cancellation of Agency",
+                "IRDAI Regulations for Insurance Agents"
+              ],
+              "detailed_topics": [
+                "Definitions under IRDAI Regulations",
+                "Appointment of Insurance Agent by the Insurer",
+                "Appointment of Composite Insurance Agent",
+                "Insurance Agency Examination Requirements",
+                "Disqualification to Act as an Insurance Agent",
+                "Code of Conduct for Insurance Agents",
+                "Suspension of Appointment of an Agent",
+                "Procedure for Cancellation of Agency",
+                "Effect of Suspension/Cancellation of Agency Appointment",
+                "Procedure for Resignation/Surrender of Appointment by Agent",
+                "General Conditions for Appointment of Agents by the Insurer",
+                "Renewal of Insurance Agent License"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
@@ -290,72 +463,247 @@
             {
               "id": "what_life_insurance_involves",
               "title": "What Life Insurance Involves",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Human Life Value (HLV) Concept",
+                "Principle of Risk Pooling & Mutuality",
+                "Level Premiums in Life Insurance",
+                "The Life Insurance Contract"
+              ],
+              "detailed_topics": [
+                "Life Insurance Business Overview",
+                "Components of Life Insurance",
+                "The Asset \u2013 Human Life Value (HLV)",
+                "Calculating Human Life Value",
+                "The Risk in Life Insurance",
+                "Level Premiums \u2013 Concept and Rationale",
+                "The Principle of Risk Pooling",
+                "Mutuality in Life Insurance",
+                "The Life Insurance Contract \u2013 Key Features",
+                "Difference Between Life Insurance and General Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/what_life_insurance_involves.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/what_life_insurance_involves.json"
             },
             {
               "id": "financial_planning",
               "title": "Financial Planning",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Individual Life Cycle & Financial Needs",
+                "Types of Financial Planning",
+                "Investment Parameters & Risk Profile",
+                "Retirement Planning & Insurance Planning"
+              ],
+              "detailed_topics": [
+                "Definition of Financial Planning",
+                "Types of Goals \u2013 Short, Medium and Long Term",
+                "Individual's Life Cycle Stages",
+                "Individual Financial Needs",
+                "Financial Products Overview",
+                "Risk Profile and Investments",
+                "Role of Financial Planning",
+                "When to Start Financial Planning",
+                "Cash Planning",
+                "Insurance Planning",
+                "Investment Planning",
+                "Investment Parameters \u2013 Safety, Liquidity, Returns",
+                "Retirement Planning",
+                "Tax Planning and Life Insurance",
+                "Emergency Fund Planning"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/financial_planning.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/financial_planning.json"
             },
             {
               "id": "life_insurance_products_traditional",
               "title": "Life Insurance Products: Traditional",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Term Insurance Plans & Variants",
+                "Whole Life Insurance",
+                "Endowment Assurance Plans",
+                "Riders in Traditional Life Insurance"
+              ],
+              "detailed_topics": [
+                "Overview of Life Insurance Products",
+                "Purpose of Life Insurance Products and Needs Covered",
+                "Riders in Life Insurance Products",
+                "Term Insurance Plans \u2013 Features and Benefits",
+                "Variants of Term Assurance \u2013 Level, Decreasing, Increasing",
+                "Whole Life Insurance \u2013 Features",
+                "Endowment Assurance \u2013 Features",
+                "Money Back Policies",
+                "Dividend Method of Profit Participation",
+                "With-Profit and Without-Profit Policies",
+                "Children's Plans",
+                "Joint Life Insurance Plans"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_traditional.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_traditional.json"
             },
             {
               "id": "life_insurance_products_non_traditional",
               "title": "Life insurance products: Non-Traditional",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Unit Linked Insurance Plans (ULIPs)",
+                "Limitations of Traditional Products",
+                "Annuity & Pension Products",
+                "Comparison \u2013 Traditional vs Non-Traditional"
+              ],
+              "detailed_topics": [
+                "Overview of Non-Traditional Life Insurance Products",
+                "Limitations of Traditional Products",
+                "Shift from Traditional to Non-Traditional Products",
+                "Appeal of Non-Traditional Products",
+                "Needs Met by Non-Traditional Products",
+                "Unit Linked Insurance Plans (ULIPs) \u2013 Features",
+                "Fund Options in ULIPs",
+                "Variable Life Insurance",
+                "Universal Life Insurance",
+                "Annuity Plans and Pension Products",
+                "Group Insurance Products",
+                "Comparison \u2013 Traditional vs Non-Traditional Products"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_non_traditional.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_non_traditional.json"
             },
             {
               "id": "applications_of_life_insurance",
               "title": "Applications of Life Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Married Women's Property (MWP) Act",
+                "Keyman Insurance",
+                "Mortgage Redemption Insurance (MRI)",
+                "Business Continuity & Estate Planning"
+              ],
+              "detailed_topics": [
+                "Married Women's Property Act \u2013 Overview",
+                "Beneficiaries under MWP Act",
+                "Features and Benefits of MWP Act Policies",
+                "Keyman Insurance \u2013 Definition and Purpose",
+                "Insurable Losses in Keyman Insurance",
+                "Tax Benefits in Keyman Insurance",
+                "Mortgage Redemption Insurance (MRI) \u2013 Concept",
+                "How MRI Works",
+                "Buy-Sell Agreement Insurance",
+                "Business Continuity and Life Insurance",
+                "Estate Planning and Life Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/applications_of_life_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json"
             },
             {
               "id": "pricing_and_valuation_in_life_insurance",
               "title": "Pricing and Valuation in Life Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Components of Life Insurance Premium",
+                "Mortality, Interest & Expense Loading",
+                "Determination of Surplus & Bonus",
+                "Types of Reversionary Bonuses"
+              ],
+              "detailed_topics": [
+                "Insurance Pricing \u2013 Basic Elements",
+                "Definition of Premium",
+                "Rebates in Life Insurance",
+                "Determining the Premium",
+                "Components of Premium \u2013 Mortality, Interest and Expenses",
+                "Mortality Tables and Their Use",
+                "Interest Rate Assumptions",
+                "Guiding Principles for Determining Amount of Loading",
+                "Expenses and Reserves",
+                "Determination of Surplus and Bonus",
+                "Ways of Valuing Assets",
+                "Allocating the Surplus",
+                "Types of Reversionary Bonuses",
+                "Terminal Bonus",
+                "Actuarial Valuation Basics"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/pricing_and_valuation_in_life_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/pricing_and_valuation_in_life_insurance.json"
             },
             {
               "id": "life_insurance_documentation",
               "title": "Life Insurance Documentation",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Proposal Stage Documentation & KYC/AML",
+                "Policy Document & First Premium Receipt",
+                "Grace Period, Revival & Non-Forfeiture",
+                "Nomination, Assignment & Free-Look Period"
+              ],
+              "detailed_topics": [
+                "Life Insurance \u2013 Proposal Stage Documentation",
+                "Prospectus and Proposal Form",
+                "Different Reports Required at Proposal Stage",
+                "Anti-Money Laundering (AML) Guidelines",
+                "Know Your Customer (KYC) Requirements",
+                "Free-Look Period",
+                "First Premium Receipt",
+                "Policy Document \u2013 Structure",
+                "Policy Document \u2013 Standard Provisions",
+                "Policy Document \u2013 Specific Policy Provisions",
+                "Grace Period",
+                "Policy Revival Measures",
+                "Non-Forfeiture Provisions",
+                "Special Policy Provisions and Endorsements",
+                "Nomination \u2013 Provisions and Procedure",
+                "Assignment \u2013 Types and Conditions for Valid Assignment",
+                "Nomination vs Assignment",
+                "Duplicate Policy Issue",
+                "Policy Alteration"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_documentation.json"
             },
             {
               "id": "life_insurance_underwriting",
               "title": "Life Insurance Underwriting",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Risk Classification & Selection Process",
+                "Non-Medical vs Medical Underwriting",
+                "Rating Factors & Occupational Hazards",
+                "Agent's Role as Primary Underwriter"
+              ],
+              "detailed_topics": [
+                "Purpose of Underwriting in Life Insurance",
+                "Equity Among Risks",
+                "Risk Classification in Life Insurance",
+                "Selection Process in Life Insurance",
+                "Fraud Monitoring in Underwriting",
+                "Role of Agent as Primary Underwriter",
+                "Methods of Underwriting",
+                "Non-Medical Underwriting",
+                "Conditions for Non-Medical Underwriting",
+                "Rating Factors in Life Insurance Underwriting",
+                "Sources of Occupational Hazards",
+                "Medical Underwriting Process",
+                "Medical Factors Influencing Underwriter's Decision",
+                "Extra Premium and Exclusions in Life Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_underwriting.json"
             },
             {
               "id": "life_insurance_claims",
               "title": "Life Insurance Claims",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Types of Claims in Life Insurance",
+                "Death Claim Procedure",
+                "Survival Benefit & Rider Benefit Payments",
+                "Surrender of Policy"
+              ],
+              "detailed_topics": [
+                "Types of Claims in Life Insurance",
+                "Concept of Claims \u2013 Risk Event and Claim",
+                "Ascertaining Whether a Claim Event Has Occurred",
+                "Survival Benefit Payments",
+                "Surrender of Policy",
+                "Rider Benefit Claims",
+                "Death Claim \u2013 Procedure",
+                "Forms to Be Submitted for Death Claim",
+                "Claim Procedure for Life Insurance Policy",
+                "Role of Agent in Claims Processing",
+                "Early Claims and Investigation",
+                "Claims Under MWP Act",
+                "Maturity Claim Process"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_claims.json"
             }
@@ -367,40 +715,157 @@
             {
               "id": "introduction_to_health_insurance",
               "title": "Introduction to Health Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition of Health & Levels of Healthcare",
+                "Evolution of Health Insurance in India",
+                "Health Insurance Market Infrastructure",
+                "Government Health Schemes \u2013 ESI & CGHS"
+              ],
+              "detailed_topics": [
+                "What is Health Care",
+                "Definition of Health",
+                "Determinants of Health",
+                "Levels of Healthcare",
+                "Types of Health Care",
+                "Factors Affecting Health Systems in India",
+                "Evolution of Health Insurance in India",
+                "Employees State Insurance (ESI) Scheme",
+                "Central Government Health Scheme (CGHS)",
+                "Commercial Health Insurance",
+                "Health Insurance Market Overview",
+                "Public Health Sector Infrastructure",
+                "Private Sector Healthcare Providers",
+                "Pharmaceutical Industry Role",
+                "Insurance Providers in Health Market",
+                "Intermediaries in Health Insurance",
+                "Insurance Selling and Servicing Activities",
+                "Financial Product Distribution",
+                "Other Important Organizations in Health Insurance Market"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
             },
             {
               "id": "health_insurance_documentation",
               "title": "Health Insurance Documentation",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Proposal Form & Medical Questionnaire",
+                "Acceptance & Underwriting Process",
+                "Policy Document & Endorsements",
+                "AML, KYC & Renewal Notice"
+              ],
+              "detailed_topics": [
+                "Proposal Forms in Health Insurance",
+                "Standard Form of Declaration",
+                "Nature of Questions in a Proposal Form",
+                "Elements of Proposal",
+                "Medical Questionnaire",
+                "Role of Intermediary in Health Insurance",
+                "Duty of an Intermediary towards Prospect",
+                "Acceptance of the Proposal \u2013 Underwriting",
+                "Note on Underwriting and Processing of Proposals",
+                "Premium Receipts \u2013 Definition and Types",
+                "Payment of Premium in Advance",
+                "Method of Payment of Premium",
+                "Policy Document in Health Insurance",
+                "Conditions and Warranties",
+                "Endorsements \u2013 Specimen Examples",
+                "Interpretation of Health Insurance Policies",
+                "Renewal Notice",
+                "Anti-Money Laundering (AML) Guidelines",
+                "Know Your Customer (KYC) Guidelines"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
               "title": "Health Insurance Products",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Classification of Health Insurance Products",
+                "Hospitalization, Top-Up & Senior Citizen Plans",
+                "Critical Illness, Hospital Cash & Combi Products",
+                "Government Schemes & Group Health Cover"
+              ],
+              "detailed_topics": [
+                "Classification of Health Insurance Products",
+                "Definition and Features of Health Policies",
+                "Broad Classification of Health Insurance Products",
+                "IRDAI Guidelines on Standardization in Health Insurance",
+                "Hospitalization Indemnity Products",
+                "Top-Up Covers / High Deductible Insurance Plans",
+                "Senior Citizen Policy",
+                "Fixed Benefit Covers",
+                "Hospital Cash Plans",
+                "Critical Illness Policies",
+                "Hospital Daily Cash Policy",
+                "Long-Term Care Insurance",
+                "Combi-Products",
+                "Package Policies",
+                "Micro Insurance for Poor Sections",
+                "Rashtriya Swasthya Bima Yojana (RSBY)",
+                "Pradhan Mantri Suraksha Bima Yojana",
+                "Pradhan Mantri Jan-Dhan Yojana",
+                "Personal Accident and Disability Cover",
+                "Overseas Travel Insurance",
+                "Group Health Cover",
+                "Ayushman Bharat \u2013 PM-JAY",
+                "Key Terms in Health Policies"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
               "title": "Health Insurance Underwriting",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition & Need for Health Underwriting",
+                "Underwriting Process & Tools",
+                "Group Health & Overseas Travel Underwriting",
+                "IRDAI File and Use Guidelines"
+              ],
+              "detailed_topics": [
+                "What is Underwriting \u2013 Definition",
+                "Need for Underwriting in Health Insurance",
+                "Underwriting Basic Concepts",
+                "File and Use Guidelines \u2013 IRDAI",
+                "Other Health Insurance Regulations of IRDAI",
+                "Basic Principles of Insurance and Tools for Underwriting",
+                "Underwriting Process in Health Insurance",
+                "Factors Considered in Health Underwriting",
+                "Pre-existing Diseases and Waiting Periods",
+                "Group Health Insurance Underwriting",
+                "Underwriting of Overseas Travel Insurance",
+                "Underwriting of Personal Accident Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
               "title": "Health Insurance Claims",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Management & Stakeholders",
+                "Claims Process & Documentation",
+                "Cashless vs Reimbursement Claims",
+                "Role of Third-Party Administrators (TPA)"
+              ],
+              "detailed_topics": [
+                "Claims Management in Insurance",
+                "Stakeholders in the Claim Process",
+                "Role of Claims Management in Insurance Company",
+                "Management of Health Insurance Claims",
+                "Challenges in Health Insurance Claims",
+                "Claims Process in Health Insurance",
+                "Documentation of Health Insurance Claims",
+                "Claims Reserving",
+                "Role of Third-Party Administrators (TPA)",
+                "Cashless Claim Process",
+                "Reimbursement Claim Process",
+                "Claims Management in Personal Accident Insurance",
+                "Claims in Overseas Travel Insurance",
+                "Fraud Detection in Health Insurance Claims"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
             }
@@ -640,8 +1105,27 @@
             {
               "id": "introduction_to_insurance",
               "title": "Introduction to Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "History and Evolution of Insurance",
+                "Risk Management Techniques",
+                "Role of Insurance in Society",
+                "Insurance as a Financial Tool"
+              ],
+              "detailed_topics": [
+                "Life Insurance \u2013 History and Evolution",
+                "History of Insurance Through the Ages",
+                "Modern Concepts of Insurance",
+                "History of Insurance in India",
+                "Life Insurance Industry Overview",
+                "How Insurance Works",
+                "Risk Avoidance, Risk Retention, Risk Reduction and Control",
+                "Risk Financing",
+                "Insurance vs Assurance",
+                "Insurance as a Tool for Managing Risk",
+                "Considerations Before Opting for Insurance",
+                "Role of Insurance in Society",
+                "Insurance and Social Security"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json",
               "short_notes_url": "short_notes/introduction_to_insurance.json",
@@ -651,40 +1135,137 @@
             {
               "id": "core_elements_of_insurance",
               "title": "Core Elements of Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition & Exposure to Risk",
+                "Risk Classification & Types of Hazards",
+                "Mathematical Principle of Insurance (Risk Pooling)",
+                "Conditions for Insuring a Risk"
+              ],
+              "detailed_topics": [
+                "Definition of Insurance",
+                "Exposure to Risk",
+                "Degree of Risk Exposure",
+                "Basis of Risk Classification",
+                "Hazard \u2013 Definition and Types",
+                "Physical Hazard",
+                "Moral Hazard",
+                "Morale Hazard",
+                "Mathematical Principle of Insurance \u2013 Risk Pooling",
+                "Law of Large Numbers",
+                "Conditions for Insuring a Risk",
+                "The Insurance Contract Overview",
+                "Risk Transfer Mechanism in Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
             },
             {
               "id": "principles_of_insurance",
               "title": "Principles of Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Utmost Good Faith & Indemnity",
+                "Insurable Interest & Subrogation",
+                "Contribution & Proximate Cause",
+                "Application of Principles in Claims"
+              ],
+              "detailed_topics": [
+                "Principle of Utmost Good Faith (Uberrima Fides)",
+                "Principle of Insurable Interest",
+                "Principle of Indemnity",
+                "Principle of Subrogation",
+                "Principle of Contribution",
+                "Principle of Proximate Cause",
+                "Application of Indemnity Principle",
+                "Exceptions to the Principle of Indemnity",
+                "Doctrine of Subrogation in Practice",
+                "Contribution in Co-Insurance",
+                "Inter-relation Between Insurance Principles"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
             },
             {
               "id": "features_of_insurance_contracts",
               "title": "Features of Insurance Contracts",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Special Features of Insurance Contracts",
+                "Policy Document, Warranties & Endorsements",
+                "Conditions and Interpretation of Policies",
+                "Renewal Notice & Cover Notes"
+              ],
+              "detailed_topics": [
+                "Aleatory Nature of Insurance Contracts",
+                "Contract of Adhesion",
+                "Unilateral Contract Feature",
+                "Personal Nature of Insurance Contract",
+                "Conditional Contract",
+                "Policy Document \u2013 Structure and Components",
+                "Warranties in Insurance Contracts",
+                "Express and Implied Conditions",
+                "Endorsements \u2013 Types and Uses",
+                "Proposal Form and Acceptance",
+                "Premium Receipt and Cover Notes",
+                "Certificate of Insurance",
+                "Renewal Notice",
+                "Interpretation of Insurance Policies"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
             },
             {
               "id": "underwriting_and_rating",
               "title": "Underwriting and Rating",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Underwriting Basics & Purpose",
+                "Rate Making & Rating Factors",
+                "Hazard Assessment in Underwriting",
+                "Sum Insured & Premium Determination"
+              ],
+              "detailed_topics": [
+                "Definition of Underwriting",
+                "Purpose and Need for Underwriting",
+                "Equity Among Risks",
+                "Underwriting Basic Concepts",
+                "Rate Making Basics",
+                "Rating Factors",
+                "Physical Hazard and Moral Hazard in Underwriting",
+                "Addressing Physical Hazards",
+                "Short Period Scales",
+                "Minimum Premium",
+                "Sum Insured \u2013 Determination Methods",
+                "Deciding the Sum Insured",
+                "File and Use Guidelines",
+                "Selection Process in Underwriting",
+                "Risk Classification"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
             },
             {
               "id": "claims_processing",
               "title": "Claims Processing",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Settlement Process",
+                "Investigation, Survey & Loss Assessment",
+                "Salvage, Recoveries & Discharge Vouchers",
+                "Dispute Resolution in Claims"
+              ],
+              "detailed_topics": [
+                "Concept of Claims in Insurance",
+                "Importance of Settling Claims Fairly",
+                "Intimation and Notice of Loss",
+                "Investigation and Assessment Process",
+                "Role of Surveyors and Loss Assessors",
+                "Claim Forms \u2013 Types and Usage",
+                "Loss Assessment and Claim Settlement",
+                "Categories of Claims",
+                "Discharge Vouchers",
+                "Post-Settlement Action",
+                "Salvage in Insurance Claims",
+                "Recoveries in Claims",
+                "Disputes Related to Claims",
+                "Alternative Dispute Resolution Mechanisms"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
             },
@@ -699,24 +1280,81 @@
             {
               "id": "customer_service",
               "title": "Customer Service",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Quality of Service in Insurance",
+                "Insurance Agent's Role in Customer Service",
+                "Communication & Ethical Behaviour",
+                "Grievance Handling & Consumer Protection"
+              ],
+              "detailed_topics": [
+                "General Concepts of Customer Service",
+                "Why Customer Service Matters in Insurance",
+                "Quality of Service Standards",
+                "Customer Service and Insurance Industry",
+                "Insurance Agent's Role in Providing Great Customer Service",
+                "The Point of Sale (PoS)",
+                "Best Advice Principle",
+                "The Proposal Stage",
+                "Acceptance Stage",
+                "The Claim Stage",
+                "Grievance Redressal Overview",
+                "Integrated Grievance Management System (IGMS)",
+                "The Consumer Protection Act, 1986",
+                "The Insurance Ombudsman",
+                "Communication Process",
+                "Non-Verbal Communication",
+                "Ethical Behaviour in Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
               "title": "Grievance Redressal Mechanism",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Consumer Courts & Insurance Ombudsman",
+                "Integrated Grievance Management System (IGMS)",
+                "Consumer Protection Act, 1986",
+                "Dispute Resolution Process"
+              ],
+              "detailed_topics": [
+                "Consumer Courts \u2013 Structure and Jurisdiction",
+                "Insurance Ombudsman \u2013 Role and Function",
+                "Integrated Grievance Management System (IGMS)",
+                "The Consumer Protection Act, 1986",
+                "Filing a Complaint with the Ombudsman",
+                "Time Limits for Grievance Filing",
+                "IRDAI's Role in Grievance Redressal",
+                "Policyholder Rights and Remedies",
+                "Internal Complaint Handling Process of Insurers",
+                "Bima Bharosa \u2013 IRDAI Grievance Portal"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
               "title": "Regulatory Aspects for Insurance Agents",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Appointment & Licensing of Insurance Agents",
+                "Code of Conduct for Agents",
+                "Disqualification & Cancellation of Agency",
+                "IRDAI Regulations for Insurance Agents"
+              ],
+              "detailed_topics": [
+                "Definitions under IRDAI Regulations",
+                "Appointment of Insurance Agent by the Insurer",
+                "Appointment of Composite Insurance Agent",
+                "Insurance Agency Examination Requirements",
+                "Disqualification to Act as an Insurance Agent",
+                "Code of Conduct for Insurance Agents",
+                "Suspension of Appointment of an Agent",
+                "Procedure for Cancellation of Agency",
+                "Effect of Suspension/Cancellation of Agency Appointment",
+                "Procedure for Resignation/Surrender of Appointment by Agent",
+                "General Conditions for Appointment of Agents by the Insurer",
+                "Renewal of Insurance Agent License"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
@@ -728,40 +1366,157 @@
             {
               "id": "introduction_to_health_insurance",
               "title": "Introduction to Health Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition of Health & Levels of Healthcare",
+                "Evolution of Health Insurance in India",
+                "Health Insurance Market Infrastructure",
+                "Government Health Schemes \u2013 ESI & CGHS"
+              ],
+              "detailed_topics": [
+                "What is Health Care",
+                "Definition of Health",
+                "Determinants of Health",
+                "Levels of Healthcare",
+                "Types of Health Care",
+                "Factors Affecting Health Systems in India",
+                "Evolution of Health Insurance in India",
+                "Employees State Insurance (ESI) Scheme",
+                "Central Government Health Scheme (CGHS)",
+                "Commercial Health Insurance",
+                "Health Insurance Market Overview",
+                "Public Health Sector Infrastructure",
+                "Private Sector Healthcare Providers",
+                "Pharmaceutical Industry Role",
+                "Insurance Providers in Health Market",
+                "Intermediaries in Health Insurance",
+                "Insurance Selling and Servicing Activities",
+                "Financial Product Distribution",
+                "Other Important Organizations in Health Insurance Market"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
             },
             {
               "id": "health_insurance_documentation",
               "title": "Health Insurance Documentation",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Proposal Form & Medical Questionnaire",
+                "Acceptance & Underwriting Process",
+                "Policy Document & Endorsements",
+                "AML, KYC & Renewal Notice"
+              ],
+              "detailed_topics": [
+                "Proposal Forms in Health Insurance",
+                "Standard Form of Declaration",
+                "Nature of Questions in a Proposal Form",
+                "Elements of Proposal",
+                "Medical Questionnaire",
+                "Role of Intermediary in Health Insurance",
+                "Duty of an Intermediary towards Prospect",
+                "Acceptance of the Proposal \u2013 Underwriting",
+                "Note on Underwriting and Processing of Proposals",
+                "Premium Receipts \u2013 Definition and Types",
+                "Payment of Premium in Advance",
+                "Method of Payment of Premium",
+                "Policy Document in Health Insurance",
+                "Conditions and Warranties",
+                "Endorsements \u2013 Specimen Examples",
+                "Interpretation of Health Insurance Policies",
+                "Renewal Notice",
+                "Anti-Money Laundering (AML) Guidelines",
+                "Know Your Customer (KYC) Guidelines"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
               "title": "Health Insurance Products",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Classification of Health Insurance Products",
+                "Hospitalization, Top-Up & Senior Citizen Plans",
+                "Critical Illness, Hospital Cash & Combi Products",
+                "Government Schemes & Group Health Cover"
+              ],
+              "detailed_topics": [
+                "Classification of Health Insurance Products",
+                "Definition and Features of Health Policies",
+                "Broad Classification of Health Insurance Products",
+                "IRDAI Guidelines on Standardization in Health Insurance",
+                "Hospitalization Indemnity Products",
+                "Top-Up Covers / High Deductible Insurance Plans",
+                "Senior Citizen Policy",
+                "Fixed Benefit Covers",
+                "Hospital Cash Plans",
+                "Critical Illness Policies",
+                "Hospital Daily Cash Policy",
+                "Long-Term Care Insurance",
+                "Combi-Products",
+                "Package Policies",
+                "Micro Insurance for Poor Sections",
+                "Rashtriya Swasthya Bima Yojana (RSBY)",
+                "Pradhan Mantri Suraksha Bima Yojana",
+                "Pradhan Mantri Jan-Dhan Yojana",
+                "Personal Accident and Disability Cover",
+                "Overseas Travel Insurance",
+                "Group Health Cover",
+                "Ayushman Bharat \u2013 PM-JAY",
+                "Key Terms in Health Policies"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
               "title": "Health Insurance Underwriting",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition & Need for Health Underwriting",
+                "Underwriting Process & Tools",
+                "Group Health & Overseas Travel Underwriting",
+                "IRDAI File and Use Guidelines"
+              ],
+              "detailed_topics": [
+                "What is Underwriting \u2013 Definition",
+                "Need for Underwriting in Health Insurance",
+                "Underwriting Basic Concepts",
+                "File and Use Guidelines \u2013 IRDAI",
+                "Other Health Insurance Regulations of IRDAI",
+                "Basic Principles of Insurance and Tools for Underwriting",
+                "Underwriting Process in Health Insurance",
+                "Factors Considered in Health Underwriting",
+                "Pre-existing Diseases and Waiting Periods",
+                "Group Health Insurance Underwriting",
+                "Underwriting of Overseas Travel Insurance",
+                "Underwriting of Personal Accident Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
               "title": "Health Insurance Claims",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Management & Stakeholders",
+                "Claims Process & Documentation",
+                "Cashless vs Reimbursement Claims",
+                "Role of Third-Party Administrators (TPA)"
+              ],
+              "detailed_topics": [
+                "Claims Management in Insurance",
+                "Stakeholders in the Claim Process",
+                "Role of Claims Management in Insurance Company",
+                "Management of Health Insurance Claims",
+                "Challenges in Health Insurance Claims",
+                "Claims Process in Health Insurance",
+                "Documentation of Health Insurance Claims",
+                "Claims Reserving",
+                "Role of Third-Party Administrators (TPA)",
+                "Cashless Claim Process",
+                "Reimbursement Claim Process",
+                "Claims Management in Personal Accident Insurance",
+                "Claims in Overseas Travel Insurance",
+                "Fraud Detection in Health Insurance Claims"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
             }
@@ -773,40 +1528,147 @@
             {
               "id": "general_insurance_documentation",
               "title": "General Insurance Documentation",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Proposal Forms & Role of Intermediary",
+                "Cover Notes & Certificate of Insurance",
+                "Policy Document, Warranties & Endorsements",
+                "Renewal Notice & AML/KYC"
+              ],
+              "detailed_topics": [
+                "Proposal Forms in General Insurance",
+                "Role of Intermediary in Documentation",
+                "Duty of Intermediary towards Prospect",
+                "Acceptance of the Proposal",
+                "Premium Receipt",
+                "Cover Notes",
+                "Certificate of Insurance",
+                "Policy Document \u2013 Components",
+                "Warranties in General Insurance",
+                "Endorsements \u2013 Types and Examples",
+                "Interpretation of General Insurance Policies",
+                "Renewal Notice",
+                "Anti-Money Laundering (AML) Guidelines",
+                "Know Your Customer (KYC) in General Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/general_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_documentation.json"
             },
             {
               "id": "underwriting_and_rate_making",
               "title": "Underwriting and Rate Making",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Rate Making Basics & Rating Factors",
+                "Physical & Moral Hazard Assessment",
+                "Sum Insured Determination Methods",
+                "Short Period Scales & Minimum Premium"
+              ],
+              "detailed_topics": [
+                "Definition of Underwriting in General Insurance",
+                "Rate Making Basics",
+                "Rating Factors in General Insurance",
+                "Physical Hazard \u2013 Definition and Addressing",
+                "Moral Hazard in General Insurance",
+                "Minimum Premium",
+                "Short Period Scales",
+                "Sum Insured \u2013 Market Value vs Reinstatement Value",
+                "Deciding the Sum Insured",
+                "File and Use Guidelines",
+                "Underwriting for Different Lines of Business",
+                "Risk Inspection and Survey",
+                "Renewal Underwriting"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rate_making.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rate_making.json"
             },
             {
               "id": "personal_and_retail_insurance",
               "title": "Personal and Retail Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Motor Insurance \u2013 Coverages & Exclusions",
+                "Householder's & Shopkeeper's Insurance",
+                "Third-Party Insurance (Legal Requirement)",
+                "Personal Accident & Travel Insurance"
+              ],
+              "detailed_topics": [
+                "Retail Insurance Products Overview",
+                "Householder's Insurance \u2013 Coverage and Sum Insured",
+                "Shopkeeper's Insurance \u2013 Features and Premium",
+                "Motor Insurance \u2013 Comprehensive vs Third-Party",
+                "Motor Insurance Coverages",
+                "Third-Party Insurance \u2013 Legal Requirement",
+                "Motor Insurance Exclusions",
+                "Motor Insurance Sum Insured and Premium",
+                "Personal Accident Insurance",
+                "Domestic and Overseas Travel Insurance",
+                "Home Insurance Products",
+                "Two-Wheeler Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/personal_and_retail_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
             },
             {
               "id": "commercial_insurance",
               "title": "Commercial Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Fire & Property Insurance Variants",
+                "Marine & Engineering Insurance",
+                "Burglary, Fidelity & Money Insurance",
+                "Business Interruption & Liability Policies"
+              ],
+              "detailed_topics": [
+                "Property / Fire Insurance \u2013 Overview",
+                "Variants of Fire Policy",
+                "Market Value vs Reinstatement Value Policies",
+                "Declaration Policy",
+                "Floater Policies",
+                "Business Interruption Insurance \u2013 Coverages",
+                "Burglary Insurance \u2013 Risks Covered",
+                "Cash Cover and Money Insurance",
+                "Coverage of Money Insurance and Exclusions",
+                "Fidelity Guarantee Insurance",
+                "Bankers Indemnity Insurance",
+                "Jewelers' Block Policy",
+                "Engineering Insurance \u2013 Types",
+                "Marine Insurance \u2013 Overview",
+                "Marine Cargo Insurance",
+                "Different Types of Marine Policies",
+                "Liability Policies \u2013 Statutory Liability",
+                "Types of Liability Policies",
+                "Directors and Officers (D&O) Liability",
+                "Product Liability Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/commercial_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
             },
             {
               "id": "general_insurance_claims",
               "title": "General Insurance Claims",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Settlement Process",
+                "Surveyors, Loss Assessors & Claim Forms",
+                "Salvage, Recoveries & Discharge Vouchers",
+                "Dispute Resolution in General Insurance Claims"
+              ],
+              "detailed_topics": [
+                "Claims Settlement Process in General Insurance",
+                "Importance of Settling Claims Fairly",
+                "Intimation and Notice of Loss",
+                "Investigation and Assessment Process",
+                "Role of Surveyors and Loss Assessors",
+                "Claim Forms \u2013 Types and Usage",
+                "Loss Assessment and Claim Settlement",
+                "Important Aspects in Insurance Claims",
+                "Categories of Claims",
+                "Discharge Vouchers",
+                "Post-Settlement Action",
+                "Salvage in General Insurance",
+                "Recoveries and Subrogation in Claims",
+                "Disputes Related to Claims",
+                "Other Dispute Resolution Mechanisms",
+                "Motor Claims Process",
+                "Fire Claims Process",
+                "Marine Claims Process"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/general_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_claims.json"
             },
@@ -1018,8 +1880,27 @@
             {
               "id": "introduction_to_insurance",
               "title": "Introduction to Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "History and Evolution of Insurance",
+                "Risk Management Techniques",
+                "Role of Insurance in Society",
+                "Insurance as a Financial Tool"
+              ],
+              "detailed_topics": [
+                "Life Insurance \u2013 History and Evolution",
+                "History of Insurance Through the Ages",
+                "Modern Concepts of Insurance",
+                "History of Insurance in India",
+                "Life Insurance Industry Overview",
+                "How Insurance Works",
+                "Risk Avoidance, Risk Retention, Risk Reduction and Control",
+                "Risk Financing",
+                "Insurance vs Assurance",
+                "Insurance as a Tool for Managing Risk",
+                "Considerations Before Opting for Insurance",
+                "Role of Insurance in Society",
+                "Insurance and Social Security"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json",
               "short_notes_url": "short_notes/introduction_to_insurance.json",
@@ -1029,40 +1910,137 @@
             {
               "id": "core_elements_of_insurance",
               "title": "Core Elements of Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition & Exposure to Risk",
+                "Risk Classification & Types of Hazards",
+                "Mathematical Principle of Insurance (Risk Pooling)",
+                "Conditions for Insuring a Risk"
+              ],
+              "detailed_topics": [
+                "Definition of Insurance",
+                "Exposure to Risk",
+                "Degree of Risk Exposure",
+                "Basis of Risk Classification",
+                "Hazard \u2013 Definition and Types",
+                "Physical Hazard",
+                "Moral Hazard",
+                "Morale Hazard",
+                "Mathematical Principle of Insurance \u2013 Risk Pooling",
+                "Law of Large Numbers",
+                "Conditions for Insuring a Risk",
+                "The Insurance Contract Overview",
+                "Risk Transfer Mechanism in Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
             },
             {
               "id": "principles_of_insurance",
               "title": "Principles of Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Utmost Good Faith & Indemnity",
+                "Insurable Interest & Subrogation",
+                "Contribution & Proximate Cause",
+                "Application of Principles in Claims"
+              ],
+              "detailed_topics": [
+                "Principle of Utmost Good Faith (Uberrima Fides)",
+                "Principle of Insurable Interest",
+                "Principle of Indemnity",
+                "Principle of Subrogation",
+                "Principle of Contribution",
+                "Principle of Proximate Cause",
+                "Application of Indemnity Principle",
+                "Exceptions to the Principle of Indemnity",
+                "Doctrine of Subrogation in Practice",
+                "Contribution in Co-Insurance",
+                "Inter-relation Between Insurance Principles"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
             },
             {
               "id": "features_of_insurance_contracts",
               "title": "Features of Insurance Contracts",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Special Features of Insurance Contracts",
+                "Policy Document, Warranties & Endorsements",
+                "Conditions and Interpretation of Policies",
+                "Renewal Notice & Cover Notes"
+              ],
+              "detailed_topics": [
+                "Aleatory Nature of Insurance Contracts",
+                "Contract of Adhesion",
+                "Unilateral Contract Feature",
+                "Personal Nature of Insurance Contract",
+                "Conditional Contract",
+                "Policy Document \u2013 Structure and Components",
+                "Warranties in Insurance Contracts",
+                "Express and Implied Conditions",
+                "Endorsements \u2013 Types and Uses",
+                "Proposal Form and Acceptance",
+                "Premium Receipt and Cover Notes",
+                "Certificate of Insurance",
+                "Renewal Notice",
+                "Interpretation of Insurance Policies"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
             },
             {
               "id": "underwriting_and_rating",
               "title": "Underwriting and Rating",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Underwriting Basics & Purpose",
+                "Rate Making & Rating Factors",
+                "Hazard Assessment in Underwriting",
+                "Sum Insured & Premium Determination"
+              ],
+              "detailed_topics": [
+                "Definition of Underwriting",
+                "Purpose and Need for Underwriting",
+                "Equity Among Risks",
+                "Underwriting Basic Concepts",
+                "Rate Making Basics",
+                "Rating Factors",
+                "Physical Hazard and Moral Hazard in Underwriting",
+                "Addressing Physical Hazards",
+                "Short Period Scales",
+                "Minimum Premium",
+                "Sum Insured \u2013 Determination Methods",
+                "Deciding the Sum Insured",
+                "File and Use Guidelines",
+                "Selection Process in Underwriting",
+                "Risk Classification"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
             },
             {
               "id": "claims_processing",
               "title": "Claims Processing",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Settlement Process",
+                "Investigation, Survey & Loss Assessment",
+                "Salvage, Recoveries & Discharge Vouchers",
+                "Dispute Resolution in Claims"
+              ],
+              "detailed_topics": [
+                "Concept of Claims in Insurance",
+                "Importance of Settling Claims Fairly",
+                "Intimation and Notice of Loss",
+                "Investigation and Assessment Process",
+                "Role of Surveyors and Loss Assessors",
+                "Claim Forms \u2013 Types and Usage",
+                "Loss Assessment and Claim Settlement",
+                "Categories of Claims",
+                "Discharge Vouchers",
+                "Post-Settlement Action",
+                "Salvage in Insurance Claims",
+                "Recoveries in Claims",
+                "Disputes Related to Claims",
+                "Alternative Dispute Resolution Mechanisms"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
             },
@@ -1077,24 +2055,81 @@
             {
               "id": "customer_service",
               "title": "Customer Service",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Quality of Service in Insurance",
+                "Insurance Agent's Role in Customer Service",
+                "Communication & Ethical Behaviour",
+                "Grievance Handling & Consumer Protection"
+              ],
+              "detailed_topics": [
+                "General Concepts of Customer Service",
+                "Why Customer Service Matters in Insurance",
+                "Quality of Service Standards",
+                "Customer Service and Insurance Industry",
+                "Insurance Agent's Role in Providing Great Customer Service",
+                "The Point of Sale (PoS)",
+                "Best Advice Principle",
+                "The Proposal Stage",
+                "Acceptance Stage",
+                "The Claim Stage",
+                "Grievance Redressal Overview",
+                "Integrated Grievance Management System (IGMS)",
+                "The Consumer Protection Act, 1986",
+                "The Insurance Ombudsman",
+                "Communication Process",
+                "Non-Verbal Communication",
+                "Ethical Behaviour in Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
             },
             {
               "id": "grievance_redressal_mechanism",
               "title": "Grievance Redressal Mechanism",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Consumer Courts & Insurance Ombudsman",
+                "Integrated Grievance Management System (IGMS)",
+                "Consumer Protection Act, 1986",
+                "Dispute Resolution Process"
+              ],
+              "detailed_topics": [
+                "Consumer Courts \u2013 Structure and Jurisdiction",
+                "Insurance Ombudsman \u2013 Role and Function",
+                "Integrated Grievance Management System (IGMS)",
+                "The Consumer Protection Act, 1986",
+                "Filing a Complaint with the Ombudsman",
+                "Time Limits for Grievance Filing",
+                "IRDAI's Role in Grievance Redressal",
+                "Policyholder Rights and Remedies",
+                "Internal Complaint Handling Process of Insurers",
+                "Bima Bharosa \u2013 IRDAI Grievance Portal"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
               "title": "Regulatory Aspects for Insurance Agents",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Appointment & Licensing of Insurance Agents",
+                "Code of Conduct for Agents",
+                "Disqualification & Cancellation of Agency",
+                "IRDAI Regulations for Insurance Agents"
+              ],
+              "detailed_topics": [
+                "Definitions under IRDAI Regulations",
+                "Appointment of Insurance Agent by the Insurer",
+                "Appointment of Composite Insurance Agent",
+                "Insurance Agency Examination Requirements",
+                "Disqualification to Act as an Insurance Agent",
+                "Code of Conduct for Insurance Agents",
+                "Suspension of Appointment of an Agent",
+                "Procedure for Cancellation of Agency",
+                "Effect of Suspension/Cancellation of Agency Appointment",
+                "Procedure for Resignation/Surrender of Appointment by Agent",
+                "General Conditions for Appointment of Agents by the Insurer",
+                "Renewal of Insurance Agent License"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
             }
@@ -1106,40 +2141,157 @@
             {
               "id": "introduction_to_health_insurance",
               "title": "Introduction to Health Insurance",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition of Health & Levels of Healthcare",
+                "Evolution of Health Insurance in India",
+                "Health Insurance Market Infrastructure",
+                "Government Health Schemes \u2013 ESI & CGHS"
+              ],
+              "detailed_topics": [
+                "What is Health Care",
+                "Definition of Health",
+                "Determinants of Health",
+                "Levels of Healthcare",
+                "Types of Health Care",
+                "Factors Affecting Health Systems in India",
+                "Evolution of Health Insurance in India",
+                "Employees State Insurance (ESI) Scheme",
+                "Central Government Health Scheme (CGHS)",
+                "Commercial Health Insurance",
+                "Health Insurance Market Overview",
+                "Public Health Sector Infrastructure",
+                "Private Sector Healthcare Providers",
+                "Pharmaceutical Industry Role",
+                "Insurance Providers in Health Market",
+                "Intermediaries in Health Insurance",
+                "Insurance Selling and Servicing Activities",
+                "Financial Product Distribution",
+                "Other Important Organizations in Health Insurance Market"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
             },
             {
               "id": "health_insurance_documentation",
               "title": "Health Insurance Documentation",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Proposal Form & Medical Questionnaire",
+                "Acceptance & Underwriting Process",
+                "Policy Document & Endorsements",
+                "AML, KYC & Renewal Notice"
+              ],
+              "detailed_topics": [
+                "Proposal Forms in Health Insurance",
+                "Standard Form of Declaration",
+                "Nature of Questions in a Proposal Form",
+                "Elements of Proposal",
+                "Medical Questionnaire",
+                "Role of Intermediary in Health Insurance",
+                "Duty of an Intermediary towards Prospect",
+                "Acceptance of the Proposal \u2013 Underwriting",
+                "Note on Underwriting and Processing of Proposals",
+                "Premium Receipts \u2013 Definition and Types",
+                "Payment of Premium in Advance",
+                "Method of Payment of Premium",
+                "Policy Document in Health Insurance",
+                "Conditions and Warranties",
+                "Endorsements \u2013 Specimen Examples",
+                "Interpretation of Health Insurance Policies",
+                "Renewal Notice",
+                "Anti-Money Laundering (AML) Guidelines",
+                "Know Your Customer (KYC) Guidelines"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
               "title": "Health Insurance Products",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Classification of Health Insurance Products",
+                "Hospitalization, Top-Up & Senior Citizen Plans",
+                "Critical Illness, Hospital Cash & Combi Products",
+                "Government Schemes & Group Health Cover"
+              ],
+              "detailed_topics": [
+                "Classification of Health Insurance Products",
+                "Definition and Features of Health Policies",
+                "Broad Classification of Health Insurance Products",
+                "IRDAI Guidelines on Standardization in Health Insurance",
+                "Hospitalization Indemnity Products",
+                "Top-Up Covers / High Deductible Insurance Plans",
+                "Senior Citizen Policy",
+                "Fixed Benefit Covers",
+                "Hospital Cash Plans",
+                "Critical Illness Policies",
+                "Hospital Daily Cash Policy",
+                "Long-Term Care Insurance",
+                "Combi-Products",
+                "Package Policies",
+                "Micro Insurance for Poor Sections",
+                "Rashtriya Swasthya Bima Yojana (RSBY)",
+                "Pradhan Mantri Suraksha Bima Yojana",
+                "Pradhan Mantri Jan-Dhan Yojana",
+                "Personal Accident and Disability Cover",
+                "Overseas Travel Insurance",
+                "Group Health Cover",
+                "Ayushman Bharat \u2013 PM-JAY",
+                "Key Terms in Health Policies"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
               "title": "Health Insurance Underwriting",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Definition & Need for Health Underwriting",
+                "Underwriting Process & Tools",
+                "Group Health & Overseas Travel Underwriting",
+                "IRDAI File and Use Guidelines"
+              ],
+              "detailed_topics": [
+                "What is Underwriting \u2013 Definition",
+                "Need for Underwriting in Health Insurance",
+                "Underwriting Basic Concepts",
+                "File and Use Guidelines \u2013 IRDAI",
+                "Other Health Insurance Regulations of IRDAI",
+                "Basic Principles of Insurance and Tools for Underwriting",
+                "Underwriting Process in Health Insurance",
+                "Factors Considered in Health Underwriting",
+                "Pre-existing Diseases and Waiting Periods",
+                "Group Health Insurance Underwriting",
+                "Underwriting of Overseas Travel Insurance",
+                "Underwriting of Personal Accident Insurance"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
               "title": "Health Insurance Claims",
-              "topics": [],
-              "detailed_topics": [],
+              "topics": [
+                "Claims Management & Stakeholders",
+                "Claims Process & Documentation",
+                "Cashless vs Reimbursement Claims",
+                "Role of Third-Party Administrators (TPA)"
+              ],
+              "detailed_topics": [
+                "Claims Management in Insurance",
+                "Stakeholders in the Claim Process",
+                "Role of Claims Management in Insurance Company",
+                "Management of Health Insurance Claims",
+                "Challenges in Health Insurance Claims",
+                "Claims Process in Health Insurance",
+                "Documentation of Health Insurance Claims",
+                "Claims Reserving",
+                "Role of Third-Party Administrators (TPA)",
+                "Cashless Claim Process",
+                "Reimbursement Claim Process",
+                "Claims Management in Personal Accident Insurance",
+                "Claims in Overseas Travel Insurance",
+                "Fraud Detection in Health Insurance Claims"
+              ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
             }
