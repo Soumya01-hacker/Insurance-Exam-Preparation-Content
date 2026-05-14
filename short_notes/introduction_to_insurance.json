@@ -1,0 +1,190 @@
+{
+  "chapterId": "note_introduction_to_insurance",
+  "title": "Chapter 1: Introduction to Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "timeline",
+      "title": "📜 History of Insurance (Must Remember!)",
+      "items": [
+        {
+          "year": "1688",
+          "text": "Lloyd's Coffee House, London — Birthplace of modern insurance business. Traders pooled money to cover marine losses."
+        },
+        {
+          "year": "1850",
+          "text": "Triton Insurance Company Limited established in Kolkata — First Non-Life (General) Insurance Company of India."
+        },
+        {
+          "year": "1938",
+          "text": "Insurance Act, 1938 — First legislation enacted to regulate and control insurance business in India. Still in force today (with amendments)."
+        },
+        {
+          "year": "1956",
+          "text": "LIC (Life Insurance Corporation of India) established in September 1956 — 245 private insurance companies were merged to form LIC."
+        },
+        {
+          "year": "2000",
+          "text": "IRDA (Insurance Regulatory and Development Authority) established in April 2000 — Supreme regulator of the insurance industry in India."
+        },
+        {
+          "year": "2014",
+          "text": "IRDA renamed to IRDAI (Insurance Regulatory and Development Authority of India) — 'of India' added to the name."
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📖 Key Terminology",
+      "cards": [
+        {
+          "title": "Insurer",
+          "content": "The Insurance Company — the entity that provides insurance coverage and accepts the risk.",
+          "color": "blue"
+        },
+        {
+          "title": "Insured",
+          "content": "The Customer / Policyholder — the person whose life or property is insured.",
+          "color": "blue"
+        },
+        {
+          "title": "Risk / Peril",
+          "content": "Risk means danger or threat. Peril means hazard or jeokhim (jोखिम). These terms are used interchangeably in insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Premium",
+          "content": "The amount periodically paid by the insured to the insurer in exchange for insurance coverage.",
+          "color": "blue"
+        },
+        {
+          "title": "Life Insurance (Jeevan Bima)",
+          "content": "Insurance that covers the risk to human life. Main purpose: financial protection for the family if something happens to the insured.",
+          "color": "blue"
+        },
+        {
+          "title": "Non-Life Insurance (General Insurance)",
+          "content": "Insurance covering everything other than life — property, vehicles, marine, health, etc.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💡 The Concept of Insurance — Origin & How It Works",
+      "cards": [
+        {
+          "title": "Historical Origin (Sea Trade Concept)",
+          "content": "Ancient traders travelled via sea routes. Ships could sink or be looted by pirates. Before every voyage, all traders pooled a small amount of money. If anyone faced a loss, that pool was given to the affected person's family. Modern insurance is based on this exact same concept.",
+          "color": "blue"
+        },
+        {
+          "title": "How Insurance Works Today",
+          "content": "Multiple insured persons (customers) pay a certain amount (premium) to the insurer (company) every month. This money is pooled together. If any one insured faces a loss, the insurer pays them or their family a certain sum of money from this pool.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance = Risk Transfer",
+          "content": "When you take a life insurance policy, you transfer your personal risk to the insurer. Hence insurance is also called Risk Transfer.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance = Risk Transfer through Risk Pooling",
+          "content": "All insured persons pool their premiums with the insurer. This pooling is called Risk Pooling. Transferring risk through this pooling mechanism = Insurance. This is another official name for insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance = A Method of Risk Management",
+          "content": "Insurance is a tool for managing financial risk. It does NOT remove the risk — it only manages the financial consequence of a loss.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance = Sharing the Losses of FEW by MANY",
+          "content": "In insurance, loss happens to only a few people, but the financial burden is shared by many (all premium payers). So: Insurance = Sharing the Losses of FEW by MANY. CAUTION: 'Sharing the Losses of MANY by FEW' is WRONG — do not get confused.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔢 Numerical — Annual Contribution Calculation",
+      "cards": [
+        {
+          "title": "Standard Numerical Formula",
+          "content": "Total Annual Loss = Number of losses per year × Value per asset. Annual Contribution per person = Total Annual Loss ÷ Total number of insured persons. Example: 400 houses, each worth ₹20,000; 4 houses burn per year. Total Loss = 4 × ₹20,000 = ₹80,000. Contribution per owner = ₹80,000 ÷ 400 = ₹200.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ What Insurance Does NOT Do (Common Misconceptions)",
+      "cards": [
+        {
+          "title": "Insurance does NOT protect assets",
+          "content": "Insurance does not physically protect your property or assets from damage.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance does NOT prevent loss",
+          "content": "Insurance cannot stop a loss from happening. It only compensates after the loss occurs.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance does NOT reduce the possibility of loss",
+          "content": "Insurance does not reduce the chances of a loss occurring.",
+          "color": "blue"
+        },
+        {
+          "title": "What Insurance DOES do ✅",
+          "content": "Insurance pays compensation when there is an actual loss of assets or life. It gives peace of mind and enables effective life and business planning. It is NOT a money-making tool.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔑 Risk Management Techniques",
+      "cards": [
+        {
+          "title": "1. Risk Avoidance",
+          "content": "Avoiding the activity altogether to eliminate the risk entirely. Example: Not travelling by sea to avoid the risk of shipwreck.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Loss Prevention",
+          "content": "Taking measures to reduce the chances of occurrence of a risk. Example: Installing fire alarms to reduce risk of fire damage.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Risk Retention",
+          "content": "An individual decides to bear the risk and its financial effects themselves without transferring it to anyone. They accept and absorb potential losses personally.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Risk Transfer (The BEST method)",
+          "content": "Transferring the financial burden of a risk to an Insurance Company by paying a premium. This is what insurance is — the best and most practical method of risk management.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "LIC started in India → September 1956.",
+        "Modern insurance originated → Lloyd's Coffee House, London (1688).",
+        "IRDAI = Insurance Regulatory and Development Authority of India → Established April 2000. Renamed from IRDA in 2014.",
+        "IRDAI is the ONLY regulator of the insurance industry in India — NOT RBI, NOT GIC, NOT LIC.",
+        "First form of insurance in the world → Marine Insurance.",
+        "First Non-Life Insurance Company of India → Triton Insurance Company Limited, 1850, Kolkata.",
+        "First legislation to regulate insurance in India → Insurance Act, 1938.",
+        "Insurance = Risk Transfer through Risk Pooling.",
+        "Insurance = Sharing the Losses of FEW by MANY (not Many by Few — trap question!).",
+        "Insurance pays AFTER loss — it does NOT prevent, protect, or reduce the chance of loss.",
+        "Risk Retention = bearing the risk yourself. Risk Transfer = buying insurance.",
+        "Annual Contribution formula: Total Loss ÷ Number of Insured Persons."
+      ]
+    }
+  ]
+}
