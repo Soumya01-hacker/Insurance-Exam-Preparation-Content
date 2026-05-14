@@ -1,5 +1,5 @@
 {
-  "version": "12.3.0",
+  "version": "12.3.1",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -205,7 +205,10 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json",
+              "short_notes_url": "short_notes/introduction_to_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "core_elements_of_insurance",
@@ -640,7 +643,10 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json",
+              "short_notes_url": "short_notes/introduction_to_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "core_elements_of_insurance",
@@ -1015,7 +1021,10 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_insurance.json",
+              "short_notes_url": "short_notes/introduction_to_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "core_elements_of_insurance",
