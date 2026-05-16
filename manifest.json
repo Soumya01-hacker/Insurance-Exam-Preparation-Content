@@ -254,7 +254,10 @@
                 "Risk Transfer Mechanism in Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json",
+              "short_notes_url": "short_notes/core_elements_of_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "principles_of_insurance",

@@ -1,0 +1,188 @@
+{
+  "chapter_id": "core_elements_of_insurance",
+  "chapter_title": "Chapter 2: Core Elements of Insurance",
+  "pass_marks": 6,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch02C_q01",
+      "text": "Which among the following CANNOT be termed as an Asset?",
+      "options": [
+        "Car",
+        "Human Life",
+        "Air and Sunlight",
+        "House"
+      ],
+      "correct_index": 2,
+      "explanation": "Air and Sunlight are natural gifts freely provided by nature to every person equally. No individual can claim personal ownership of air or sunlight — they have no insurable personal economic value. Car, Human Life, and House all have economic value and can generate benefits, so they qualify as assets."
+    },
+    {
+      "id": "ch02C_q02",
+      "text": "The property or thing insured under an insurance policy is called the ________ of Insurance.",
+      "options": [
+        "Subject Matter",
+        "Insurable Interest",
+        "Policy",
+        "None of these"
+      ],
+      "correct_index": 0,
+      "explanation": "The property or thing that is insured under an insurance policy is called the Subject Matter of Insurance. For example, if a car is insured, the car is the Subject Matter. If a life insurance policy is taken, the human life is the Subject Matter."
+    },
+    {
+      "id": "ch02C_q03",
+      "text": "Which one of the following does NOT represent an Insurable Risk?",
+      "options": [
+        "Fire",
+        "Stolen Goods",
+        "Burglary",
+        "Loss of goods due to ship capsizing"
+      ],
+      "correct_index": 1,
+      "explanation": "Stolen Goods (goods that have ALREADY been stolen) do NOT represent an insurable risk. Insurance covers future uncertainty — events that may or may not happen. You cannot insure a loss that has already occurred. Fire, Burglary, and loss due to ship capsizing are all future-oriented risks that can be insured."
+    },
+    {
+      "id": "ch02C_q04",
+      "text": "The term 'Risk' in insurance includes ________.",
+      "options": [
+        "Damage to Machinery and Property",
+        "Impact on Health and Life of a person",
+        "Leakage of Toxic Products into the Atmosphere",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "The term 'Risk' in insurance encompasses all three: (1) Damage to Machinery and Property (physical assets), (2) Impact on Health and Life of a person (human risk), and (3) Leakage of Toxic Products into the Atmosphere (environmental/liability risk). All of these represent potential losses that insurance is designed to address."
+    },
+    {
+      "id": "ch02C_q05",
+      "text": "Risk is evaluated on the basis of ________ Theory.",
+      "options": [
+        "Variability",
+        "Contingency",
+        "Probability",
+        "All of the above"
+      ],
+      "correct_index": 2,
+      "explanation": "Risk is evaluated on the basis of Probability Theory. Since Risk is evaluated on the chance of loss, probability — the mathematical likelihood that a loss will occur — forms the scientific basis for measuring, pricing, and managing risk in insurance."
+    },
+    {
+      "id": "ch02C_q06",
+      "text": "Which among the following scenarios MOST needs Insurance?",
+      "options": [
+        "The sole bread winner of the family might die untimely",
+        "A person may lose their wallet",
+        "Stock prices may fall drastically",
+        "A house may lose value due to Natural Wear and Tear"
+      ],
+      "correct_index": 0,
+      "explanation": "Insurance is most critically needed when the sole bread winner (only earning member) of a family dies prematurely. This creates a severe and sudden financial crisis for the entire family. Losing a wallet, stock price fluctuations, and natural wear and tear are either minor or uninsurable situations."
+    },
+    {
+      "id": "ch02C_q07",
+      "text": "Which among the following is a method of Risk Management?",
+      "options": [
+        "Bank Fixed Deposit",
+        "Insurance",
+        "Equity Shares",
+        "Real Estate"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance is the primary and most practical method of Risk Management. It allows individuals and organizations to transfer the financial burden of risk to an insurance company by paying a premium. Bank FDs, Shares, and Real Estate are savings or investment instruments — not risk management tools."
+    },
+    {
+      "id": "ch02C_q08",
+      "text": "Which of the following can EASILY be compensated through Insurance?",
+      "options": [
+        "Primary Burden of Risk",
+        "Secondary Burden of Risk",
+        "Guarantee",
+        "All of the above"
+      ],
+      "correct_index": 0,
+      "explanation": "The Primary Burden of Risk represents direct, measurable financial losses — such as factory fire damage or hospitalization costs. Because these can be quantified in monetary terms, they can be easily assessed and compensated through insurance. The Secondary Burden of Risk (fear, anxiety, mental pressure) is intangible and cannot be directly measured or compensated."
+    },
+    {
+      "id": "ch02C_q09",
+      "text": "Which among the following is a Secondary Burden of Risk?",
+      "options": [
+        "Business Interruption Cost",
+        "Goods Damaged Cost",
+        "Setting aside reserves as provision for potential future losses",
+        "Hospitalization Cost as a result of Heart Attack"
+      ],
+      "correct_index": 2,
+      "explanation": "Setting aside reserves (saving money in advance) as a provision against potential future losses represents the Secondary Burden of Risk. It reflects the mental anxiety and financial caution caused by the uncertainty of future events. Options A, B, and D are all direct, measurable financial losses — categorized as Primary Burden of Risk."
+    },
+    {
+      "id": "ch02C_q10",
+      "text": "________ is NOT a Tangible Good.",
+      "options": [
+        "House",
+        "Insurance",
+        "Mobile Phone",
+        "Pair of Jeans"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance is NOT a tangible good. A tangible good is something physical that can be seen, touched, and felt — like a house, mobile phone, or clothing. Insurance is an intangible product — it is a contract, a promise of financial compensation. You cannot physically touch or hold an insurance policy."
+    },
+    {
+      "id": "ch02C_q11",
+      "text": "In India, which Insurance is Mandatory?",
+      "options": [
+        "Motor Third Party Liability Insurance",
+        "Fire Insurance",
+        "Health Insurance",
+        "Personal Accident Insurance"
+      ],
+      "correct_index": 0,
+      "explanation": "Motor Third Party Liability Insurance is the only mandatory (compulsory) insurance in India. Under the Motor Vehicles Act, every vehicle owner must have at least a Third Party Liability policy before driving on public roads. Fire, Health, and Personal Accident Insurance are voluntary — not legally required."
+    },
+    {
+      "id": "ch02C_q12",
+      "text": "Earthquake and Floods are examples of which type of Risk?",
+      "options": [
+        "Catastrophic Risk",
+        "Dynamic Risk",
+        "Marginal Risk",
+        "Speculative Risk"
+      ],
+      "correct_index": 0,
+      "explanation": "Earthquake and Floods are examples of Catastrophic Risk — large-scale disasters that affect a huge number of people simultaneously, causing widespread destruction. These events are catastrophic in nature because they impact entire communities, cities, or regions at one time."
+    },
+    {
+      "id": "ch02C_q13",
+      "text": "Mr. A wants insurance cover but drinks alcohol frequently. What kind of Hazard would you categorize this as?",
+      "options": [
+        "Physical Hazard",
+        "Moral Hazard",
+        "Mental Hazard",
+        "Social Hazard"
+      ],
+      "correct_index": 1,
+      "explanation": "Frequent alcohol consumption represents a character defect or behavioral issue — it is categorized as Moral Hazard. Moral Hazard arises from dishonesty or negative character traits in the insured person that increase the risk of loss or fraudulent claims. Physical Hazard refers to external physical conditions, not behavioral patterns."
+    },
+    {
+      "id": "ch02C_q14",
+      "text": "Both parents of a proposer died in their early 30s due to heart disease. What type of Hazard does this represent?",
+      "options": [
+        "Physical Hazard",
+        "Moral Hazard",
+        "Mental Hazard",
+        "Social Hazard"
+      ],
+      "correct_index": 0,
+      "explanation": "A family medical history where both parents died young due to heart disease represents a Physical Hazard. Physical Hazard refers to a physical or medical condition that increases the chance of loss. A hereditary predisposition to heart disease increases the mortality risk for the proposer — this is a physical (medical/genetic) factor, not a behavioral one."
+    },
+    {
+      "id": "ch02C_q15",
+      "text": "Lung Cancer is a Risk. What can be the Peril in case of death of a Policyholder?",
+      "options": [
+        "Smoking",
+        "Daily Jogging",
+        "Laziness",
+        "Procrastination"
+      ],
+      "correct_index": 0,
+      "explanation": "If Lung Cancer is the Risk (the event causing death), then Smoking is the Peril — because smoking is the factor that significantly increases the probability of developing lung cancer. A Peril is anything that increases the chance of loss (risk). Daily Jogging, Laziness, and Procrastination do not cause lung cancer."
+    }
+  ]
+}

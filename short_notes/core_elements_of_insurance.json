@@ -1,0 +1,177 @@
+{
+  "chapterId": "core_elements_of_insurance",
+  "title": "Chapter 2: Core Elements of Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📦 Asset — Definition and Features",
+      "cards": [
+        {
+          "title": "What is an Asset?",
+          "content": "An Asset (also called property or 'sampatti' in Hindi) is any item that has two features: (1) It has an Economic Value — it is worth something in monetary terms. (2) It provides a Benefit or Income — it generates value for its owner. Examples: House, Car, Human Life, Plant and Machinery.",
+          "color": "blue"
+        },
+        {
+          "title": "What is the Subject Matter of Insurance?",
+          "content": "The property or thing that is insured under an insurance policy is called the Subject Matter of Insurance. For example, if you insure your car, your car is the Subject Matter. If you take life insurance, your human life is the Subject Matter.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT an Asset?",
+          "content": "Air and Sunlight are NOT assets. They are natural gifts freely available to everyone — rich or poor — by nature. No individual can personally own air or sunlight, so they have no insurable economic value. This is a very common exam question — the answer will always be Air, Sunlight, or both.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT a Tangible Good?",
+          "content": "A Tangible Good is something physical that can be touched, seen, and felt — like a house, mobile phone, or pair of jeans. Insurance is NOT a tangible good — it is an intangible product. You cannot touch or physically hold an insurance policy — it is a promise and a contract.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Risk — Definition, Types, and Burden",
+      "cards": [
+        {
+          "title": "What is Risk?",
+          "content": "Risk is defined as the Chance of Loss — the probability or possibility that a loss may occur. Risk plays a very important role in the field of insurance because insurance exists specifically to manage risk.",
+          "color": "blue"
+        },
+        {
+          "title": "Difference Between Risk and Peril",
+          "content": "Risk = Chance of Loss (the event that may cause a loss). Peril = The situation or factor that INCREASES the chance of that loss occurring. Example: Heart Attack is the Risk. Cigarette Smoking is the Peril — because smoking increases the probability of a heart attack. Other perils: Fire, Earthquake, Flood, Lightning, Burglary.",
+          "color": "blue"
+        },
+        {
+          "title": "What is Natural Wear and Tear?",
+          "content": "Natural Wear and Tear refers to the gradual, natural deterioration of a person or object over time — for example, a person ageing, a machine becoming old, or a car losing value with use. Natural Wear and Tear is NOT a risk and is NOT covered under any insurance policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Risk is Evaluated on the Basis of — Probability Theory",
+          "content": "Risk is evaluated on the basis of Probability Theory. Risk means 'chance of loss' and chance means probability — how likely is it that the loss will occur? This probabilistic approach allows insurers to price risk accurately and maintain financial stability.",
+          "color": "blue"
+        },
+        {
+          "title": "Which scenario MOST needs Insurance?",
+          "content": "Insurance is most critically needed when: The sole bread winner of the family might die untimely. This is an extreme financial emergency — without the primary earner, the entire family loses its income source. Other scenarios (losing a wallet, stock prices falling, house ageing) do not require insurance as urgently.",
+          "color": "blue"
+        },
+        {
+          "title": "Which Insurance is Mandatory in India?",
+          "content": "Motor Third Party Liability Insurance is the ONLY mandatory insurance in India. By law, every vehicle owner must have at least a Third Party Liability policy before driving on public roads. Fire Insurance, Health Insurance, and Personal Accident Insurance are NOT mandatory.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Three Categories of Loss (Degree of Loss)",
+      "cards": [
+        {
+          "title": "1. Critical Loss",
+          "content": "Critical losses are serious losses that affect an individual, household, or a business organization. They can be measured in monetary terms and can be compensated through insurance. Examples: Factory fire causing 1 crore rupees loss, or a kidney transplant surgery required after a major accident.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Catastrophic Loss",
+          "content": "Catastrophic losses affect a very large number of people simultaneously — massive, large-scale disasters. Examples: Earthquake, Floods, Terrorist Attacks. These cause widespread destruction affecting entire communities or regions. Earthquake and Floods are classic examples of Catastrophic Risk.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Marginal Loss",
+          "content": "Marginal losses are very small losses with minimal impact — minor inconveniences that do not cause major financial harm. Examples: A minor dent in a car, catching a cold, or a small scratch on property. These are typically NOT insured or not worth insuring.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Two Burdens of Risk",
+      "cards": [
+        {
+          "title": "Primary Burden of Risk",
+          "content": "The Primary Burden of Risk is the direct, measurable financial loss that results from a risk event. It affects an individual, household, or business organization. It CAN be easily measured and CAN be easily compensated through insurance. Examples: Fire damage to factory machinery, hospitalization costs after a heart attack.",
+          "color": "blue"
+        },
+        {
+          "title": "Secondary Burden of Risk",
+          "content": "The Secondary Burden of Risk is the indirect, non-financial burden — the mental pressure, fear, anxiety, or worry that comes from being in a risky situation. It CANNOT be directly measured or compensated through insurance. Example: Setting aside reserves (savings) as a provision for meeting potential future losses — this represents the psychological burden and financial caution caused by uncertainty.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔥 Hazard — Physical and Moral",
+      "cards": [
+        {
+          "title": "What is a Hazard?",
+          "content": "A Hazard is a condition or factor that increases the chance of loss (increases risk). Note: Risk, Peril, and Hazard are related but distinct terms. Hazard increases the probability that a peril will occur and cause a loss. There are two types: Physical Hazard and Moral Hazard.",
+          "color": "blue"
+        },
+        {
+          "title": "Physical Hazard",
+          "content": "Physical Hazard is a physical condition that increases the chance of loss. Examples: Faulty (incorrect) electrical wiring in a building — increases the chance of fire. A person who frequently participates in water sports — increased risk of drowning. A family history of heart disease in both parents dying in their early 30s — increases health risk for the proposer.",
+          "color": "blue"
+        },
+        {
+          "title": "Moral Hazard",
+          "content": "Moral Hazard refers to dishonesty or character defect in the insured person. A dishonest person is likely to make fraudulent claims or misuse insurance benefits. Examples: A person who drinks alcohol frequently — represents a character defect, categorized as Moral Hazard. A person who may deliberately cause a loss to claim insurance money.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Distinction (Exam Trap)",
+          "content": "Physical Hazard = External, physical conditions that increase risk (wiring, health history, dangerous habits). Moral Hazard = Internal character or behavioral issues (dishonesty, fraud, frequent drinking). Frequent alcohol consumption = Moral Hazard (character issue). Family health history = Physical Hazard (physical/medical condition).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔁 Risk Pooling — The Foundation of Insurance",
+      "cards": [
+        {
+          "title": "What is Risk Pooling?",
+          "content": "Risk Pooling means grouping all similar types of risk together in one place (the insurer). When many people transfer their individual risks to the insurer by paying premiums, those similar risks are 'pooled' together. The insurer uses this pool to compensate those who suffer actual losses.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurable Risk vs Non-Insurable Risk",
+          "content": "Insurable Risk: Events that COULD happen in the future — Fire, Burglary, Ship capsizing and causing loss of goods. These can be insured. Non-Insurable (NOT insurable): Stolen Goods — goods that have ALREADY been stolen. You cannot insure something after the loss has already occurred. Insurance covers future uncertainty, not past events.",
+          "color": "blue"
+        },
+        {
+          "title": "What does 'Term Risk' Include?",
+          "content": "The term 'Risk' in insurance includes: (1) Damage to Machinery and Property, (2) Impact on the Health and Life of a Person, (3) Leakage of Toxic Products into the Atmosphere. All three represent potential losses that insurance can address. The correct answer in MCQs = All of the Above.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "Asset = Economic Value + Benefit to owner.",
+        "NOT an asset = Air and Sunlight (natural gifts, freely available to all).",
+        "Subject Matter of Insurance = The property or thing that is insured.",
+        "Risk = Chance of Loss. Peril = Factor that INCREASES the chance of loss.",
+        "Example: Heart Attack (Risk), Smoking (Peril). Lung Cancer (Risk), Smoking (Peril).",
+        "Natural Wear and Tear = NOT a risk, NOT covered by insurance.",
+        "Risk is evaluated on the basis of PROBABILITY THEORY.",
+        "3 Categories of Loss: Critical (serious, measurable, insurable), Catastrophic (mass disaster — earthquake, floods), Marginal (very small, minimal impact).",
+        "Earthquake and Floods = Catastrophic Risk.",
+        "Primary Burden of Risk = Direct, measurable financial loss. Can be compensated through insurance.",
+        "Secondary Burden of Risk = Mental pressure, fear, anxiety. CANNOT be directly insured.",
+        "Physical Hazard = Physical conditions increasing risk (bad wiring, health history).",
+        "Moral Hazard = Dishonesty or character defect (frequent drinking, fraud tendency).",
+        "Frequent alcohol consumption = MORAL Hazard. Family health history (heart disease) = PHYSICAL Hazard.",
+        "Mandatory Insurance in India = Motor Third Party Liability Insurance ONLY.",
+        "Insurance is NOT a Tangible Good — it is intangible (cannot be physically touched).",
+        "Stolen Goods CANNOT be insured — insurance covers future risk, not past loss.",
+        "Risk Transfer through Risk Pooling = INSURANCE (same as Chapter 1)."
+      ]
+    }
+  ]
+}

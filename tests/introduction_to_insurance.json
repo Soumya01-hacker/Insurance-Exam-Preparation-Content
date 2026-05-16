@@ -1,12 +1,12 @@
 {
   "chapter_id": "introduction_to_insurance",
   "chapter_title": "Chapter 1: Introduction to Insurance",
-  "pass_marks": 9,
+  "pass_marks": 6,
   "total_questions": 15,
   "duration_minutes": 18,
   "questions": [
     {
-      "id": "test_introduction_to_insurance_q01",
+      "id": "ch01C_q01",
       "text": "Which among the following is the oldest (first) form of insurance in the world?",
       "options": [
         "Life Insurance",
@@ -18,7 +18,7 @@
       "explanation": "Marine Insurance is historically the first and oldest form of modern insurance. It originated from sea traders who pooled money before voyages to cover losses caused by shipwrecks or pirates."
     },
     {
-      "id": "test_introduction_to_insurance_q02",
+      "id": "ch01C_q02",
       "text": "The origin of modern insurance business can be traced to which of the following?",
       "options": [
         "New York Stock Exchange, USA",
@@ -30,7 +30,7 @@
       "explanation": "The origin of modern insurance business is traced to Lloyd's Coffee House in London. It became the meeting place for merchants and underwriters to arrange marine insurance."
     },
     {
-      "id": "test_introduction_to_insurance_q03",
+      "id": "ch01C_q03",
       "text": "LIC (Life Insurance Corporation of India) was established in which year?",
       "options": [
         "March 1955",
@@ -42,7 +42,7 @@
       "explanation": "LIC was established in September 1956. It was formed by merging 245 private life insurance companies that existed in India at the time."
     },
     {
-      "id": "test_introduction_to_insurance_q04",
+      "id": "ch01C_q04",
       "text": "Insurance is primarily a mechanism for ________ risk.",
       "options": [
         "Eliminating",
@@ -54,7 +54,7 @@
       "explanation": "The fundamental concept of insurance is Risk Transfer. The insured transfers their financial risk to the insurer by paying a premium. Insurance does not eliminate or reduce the possibility of risk — it only transfers the financial burden."
     },
     {
-      "id": "test_introduction_to_insurance_q05",
+      "id": "ch01C_q05",
       "text": "Risk Transfer through Risk Pooling is called ________.",
       "options": [
         "Loss Prevention",
@@ -66,7 +66,7 @@
       "explanation": "When insured persons pool their premiums with the insurer and transfer their risk, this process is called Risk Transfer through Risk Pooling — which is another name for Insurance."
     },
     {
-      "id": "test_introduction_to_insurance_q06",
+      "id": "ch01C_q06",
       "text": "Insurance is the method of sharing the losses of ________ by ________.",
       "options": [
         "Many by Few",
@@ -78,7 +78,7 @@
       "explanation": "In insurance, loss actually occurs to only a few people, but that financial loss is shared by many (all premium payers). Hence Insurance = Sharing the Losses of FEW by MANY. The reverse (Many by Few) is a common trap — it is incorrect."
     },
     {
-      "id": "test_introduction_to_insurance_q07",
+      "id": "ch01C_q07",
       "text": "Which of the following statements about insurance is TRUE?",
       "options": [
         "Insurance protects the assets from damage",
@@ -90,7 +90,7 @@
       "explanation": "Insurance does NOT protect assets, prevent loss, or reduce the possibility of loss. It only pays financial compensation AFTER a loss has occurred. The correct statement is: Insurance pays when there is loss of assets."
     },
     {
-      "id": "test_introduction_to_insurance_q08",
+      "id": "ch01C_q08",
       "text": "IRDAI (Insurance Regulatory and Development Authority of India) was established in which month and year?",
       "options": [
         "March 2000",
@@ -102,7 +102,7 @@
       "explanation": "IRDAI was established in April 2000. It is the supreme regulatory body that controls and regulates the insurance industry in India."
     },
     {
-      "id": "test_introduction_to_insurance_q09",
+      "id": "ch01C_q09",
       "text": "IRDA was renamed as IRDAI (by adding 'of India') in which year?",
       "options": [
         "2010",
@@ -114,7 +114,7 @@
       "explanation": "IRDA (Insurance Regulatory and Development Authority) was renamed as IRDAI (Insurance Regulatory and Development Authority of India) in the year 2014, when 'of India' was added to its name."
     },
     {
-      "id": "test_introduction_to_insurance_q10",
+      "id": "ch01C_q10",
       "text": "Which among the following is the Regulator of the Insurance Industry in India?",
       "options": [
         "LIC of India",
@@ -126,7 +126,7 @@
       "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) is the sole regulator of the insurance industry in India. RBI regulates banking, not insurance. LIC and GIC are insurance companies, not regulators."
     },
     {
-      "id": "test_introduction_to_insurance_q11",
+      "id": "ch01C_q11",
       "text": "What is the name of the first Non-Life (General) Insurance Company of India?",
       "options": [
         "National Insurance Company Limited",
@@ -138,7 +138,7 @@
       "explanation": "Triton Insurance Company Limited was the first Non-Life Insurance Company of India. It was established in 1850 in Kolkata."
     },
     {
-      "id": "test_introduction_to_insurance_q12",
+      "id": "ch01C_q12",
       "text": "Name the first legislation (Act) made to regulate insurance business in India.",
       "options": [
         "The Life Insurance Contract Act, 1912",
@@ -150,7 +150,7 @@
       "explanation": "The Insurance Act, 1938 is the first and primary legislation to regulate and control insurance business in India. It is still in force today with amendments. It is the backbone of Indian insurance regulation."
     },
     {
-      "id": "test_introduction_to_insurance_q13",
+      "id": "ch01C_q13",
       "text": "Measures taken to reduce the chances of occurrence of a risk are known as ________.",
       "options": [
         "Risk Transfer",
@@ -162,7 +162,7 @@
       "explanation": "Loss Prevention refers to measures taken to reduce the probability or chances of a risk/loss occurring. For example, installing fire sprinklers to reduce fire risk. This is different from Risk Avoidance (stopping the activity entirely)."
     },
     {
-      "id": "test_introduction_to_insurance_q14",
+      "id": "ch01C_q14",
       "text": "In insurance context, Risk Retention indicates a situation where ________.",
       "options": [
         "Possibility of loss or damage is not there",
@@ -174,7 +174,7 @@
       "explanation": "Risk Retention means an individual consciously decides to accept and bear the financial consequences of a risk on their own, without transferring it to an insurer. It is the opposite of Risk Transfer."
     },
     {
-      "id": "test_introduction_to_insurance_q15",
+      "id": "ch01C_q15",
       "text": "Out of 400 houses, each valued at ₹20,000 — on average 4 houses get burnt every year. What should be the annual contribution of each house owner to cover this loss?",
       "options": [
         "₹100",
