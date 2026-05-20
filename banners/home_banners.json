@@ -1,0 +1,31 @@
+{
+  "banners": [
+    {
+      "id": "banner_1",
+      "title": "Crack IC-38 in 30 Days!",
+      "subtitle": "Complete study plan with chapter-wise mock tests",
+      "gradient_start": "1E3A8A",
+      "gradient_end": "2563EB",
+      "icon": "school",
+      "action_target": "/study-material"
+    },
+    {
+      "id": "banner_2",
+      "title": "Free Mock Tests Available",
+      "subtitle": "Practice with real exam pattern questions",
+      "gradient_start": "059669",
+      "gradient_end": "10B981",
+      "icon": "assignment",
+      "action_target": "/test-series"
+    },
+    {
+      "id": "banner_3",
+      "title": "Video Lectures — Watch & Learn",
+      "subtitle": "Expert-curated IC-38 video tips",
+      "gradient_start": "7C3AED",
+      "gradient_end": "8B5CF6",
+      "icon": "play_circle",
+      "action_target": "/video-lectures"
+    }
+  ]
+}
