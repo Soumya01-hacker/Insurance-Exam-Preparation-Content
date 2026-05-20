@@ -1,0 +1,18 @@
+{
+  "notifications": [
+    {
+      "id": "notif_1",
+      "title": "Welcome to InsurePrep!",
+      "message": "Start preparing for your IC-38 exam with our updated Chapter-wise practice tests and full length mock tests.",
+      "timestamp": "2026-05-20T12:00:00.000Z",
+      "type": "info"
+    },
+    {
+      "id": "notif_2",
+      "title": "New Mock Tests Added",
+      "message": "We have uploaded 3 new premium Full Syllabus Mock Tests to match the latest IRDAI guidelines.",
+      "timestamp": "2026-05-20T18:30:00.000Z",
+      "type": "update"
+    }
+  ]
+}
