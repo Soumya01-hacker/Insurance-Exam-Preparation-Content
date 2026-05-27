@@ -1,0 +1,190 @@
+{
+  "chapterId": "underwriting_and_rating",
+  "title": "Chapter 5 (Common Section): Underwriting and Rating",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📝 What is Underwriting?",
+      "cards": [
+        {
+          "title": "Definition of Underwriting",
+          "content": "Underwriting (called 'Bima Lekhan' in Hindi) is the process by which an insurance company decides: (1) Whether to accept a risk or not, (2) At what premium rate to accept the risk, and (3) On what terms and conditions. In simple words — it is the process of determining the price of insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Primary Underwriter / Field Underwriter",
+          "content": "The PRIMARY UNDERWRITER or FIELD UNDERWRITER is the INSURANCE AGENT. The agent is the first person who collects all necessary information from the customer and fills the Proposal Form. After the agent, the Proposal Form goes to the insurance company's Underwriter for further evaluation.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Three Steps of the Underwriting Process",
+      "cards": [
+        {
+          "title": "Step 1 — Identify Risk Frequency and Severity",
+          "content": "The underwriter checks: (1) How FREQUENTLY does the risk occur? (2) What is the AMOUNT (severity) of loss that can happen? These two factors — probability and severity of risk — are the foundation of the underwriting decision.",
+          "color": "blue"
+        },
+        {
+          "title": "Step 2 — Decide Coverage Terms and Conditions",
+          "content": "The underwriter determines what will be COVERED under the policy and what the terms, conditions, and exclusions will be. This shapes the scope of the insurance product offered to the customer.",
+          "color": "blue"
+        },
+        {
+          "title": "Step 3 — Fix the Premium Rate",
+          "content": "After analysing risk probability and coverage, the underwriter fixes the PREMIUM RATE for that particular risk. Higher risk = higher premium. Lower risk = lower premium (or discount).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📂 Sources of Information for Underwriting",
+      "cards": [
+        {
+          "title": "Three Sources of Underwriting Information",
+          "content": "The underwriter gets information from: (1) PROPOSAL FORM — filled by the insurance agent, (2) RISK SURVEYS — physical inspection of the subject matter to be insured, (3) HISTORICAL CLAIM EXPERIENCE DATA — past claim records of the person or property to be insured.",
+          "color": "blue"
+        },
+        {
+          "title": "Two Main Objectives of Underwriting",
+          "content": "(1) To IDENTIFY the risk — understand what type of risk it is, (2) To KNOW THE LEVEL of risk — determine how high or low the risk is. These two objectives determine the premium amount and whether insurance should be accepted.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏛️ Product Filing with IRDAI",
+      "cards": [
+        {
+          "title": "IRDAI Product Approval Process",
+          "content": "Before any insurance company can launch a new insurance product in the market, it must: (1) Submit the product to IRDAI for approval, (2) IRDAI verifies the product meets all guidelines, (3) IRDAI issues a UNIQUE IDENTIFICATION NUMBER (UIN) to the product, (4) Only after receiving the UIN can the product be launched in the market.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Premium Calculation — Rate Making",
+      "cards": [
+        {
+          "title": "Premium Formula",
+          "content": "PREMIUM = SUM INSURED × RATE. Sum Insured = decided by the INSURED (policyholder) — it is the amount of coverage they want. Rate = price per unit of insurance coverage. Premium = the product of these two values.",
+          "color": "blue"
+        },
+        {
+          "title": "Who Decides the Sum Insured?",
+          "content": "The SUM INSURED is decided by the INSURED (the policyholder/customer). It depends on how much coverage the insured wants to take — 2 lakh, 10 lakh, 1 crore etc. It is the insured's choice, not the insurer's.",
+          "color": "blue"
+        },
+        {
+          "title": "Two Factors Affecting Rate Making",
+          "content": "(1) PROBABILITY of Risk — how likely is the risk to occur? (2) SEVERITY of Risk — if the risk occurs, how large will the loss be? Both probability AND severity together determine the insurance rate. This is the most important exam point of rate making.",
+          "color": "blue"
+        },
+        {
+          "title": "Pure Premium",
+          "content": "Pure Premium is the amount that is JUST SUFFICIENT to pay for the expected losses only — based on past loss experience. It covers only the expected claims cost, with no profit margin, no expenses, no commission added to it. Formula: Pure Premium = based on previous loss experience data.",
+          "color": "blue"
+        },
+        {
+          "title": "Final Premium = Pure Premium + Loadings",
+          "content": "The FINAL PREMIUM is arrived at by adding multiple components to the Pure Premium: (1) Loss Expenses and Survey Fee, (2) Agency Commission, (3) Management Expenses, (4) Profit Margin. All these are added to pure premium to form the total (final) premium.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Discounts and Loadings",
+      "cards": [
+        {
+          "title": "Discount in Premium",
+          "content": "A DISCOUNT is applied to the premium for POSITIVE features of risk. When the risk is low, well-managed, or safer than average, a discount is offered. Example: Good health, no previous claims, fire safety systems in a building.",
+          "color": "blue"
+        },
+        {
+          "title": "Loading in Premium",
+          "content": "LOADING is added to the premium for NEGATIVE features of risk. When the risk is higher than normal, additional loading is charged. Example: A person with pre-existing health conditions, an older vehicle, dangerous occupation.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Medical Underwriting — Special Concepts",
+      "cards": [
+        {
+          "title": "Why Hereditary History Matters in Medical Underwriting",
+          "content": "In medical underwriting, the hereditary/family history of the insured is important because CERTAIN DISEASES CAN BE PASSED FROM PARENTS TO CHILDREN. If parents had hereditary diseases, the children may carry higher risk of the same diseases, affecting their insurance premium or acceptability.",
+          "color": "blue"
+        },
+        {
+          "title": "What Negatively Affects Insurability",
+          "content": "Substance Abuse (drugs, banned substances etc.) is the key factor that NEGATIVELY affects a person's insurability. It places the person in a moral hazard category and insurance companies may decline or postpone the risk.",
+          "color": "blue"
+        },
+        {
+          "title": "Cases That Are Declined or Postponed",
+          "content": "Life insurers are likely to DECLINE or POSTPONE insurance for persons suffering from serious diseases like AIDS/HIV. Such cases carry extremely high mortality risk. A healthy 18-year-old or a housewife with no income will NOT be declined.",
+          "color": "blue"
+        },
+        {
+          "title": "Health Insurance Underwriting — Key Information Needed",
+          "content": "For underwriting a HEALTH INSURANCE policy, the underwriter must know: (1) Age of the person, (2) Medical history and current health condition, (3) Fitness level, (4) Family/Hereditary history. Causes of fire or port/road conditions are irrelevant for health insurance underwriting.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🪪 KYC — Know Your Customer",
+      "cards": [
+        {
+          "title": "What are KYC Documents?",
+          "content": "KYC stands for KNOW YOUR CUSTOMER. KYC documents include: (1) Photograph, (2) Address Proof, (3) Proof of Identity. All three together form the KYC documentation for insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Objective of KYC Guidelines",
+          "content": "The main objectives of KYC guidelines are to PREVENT: (1) Identity Theft, (2) Financial Fraud, (3) Money Laundering. All three are equally important objectives. KYC exists to keep the insurance system safe and transparent.",
+          "color": "blue"
+        },
+        {
+          "title": "Why Age Proof is Taken",
+          "content": "Age proof is collected to: (1) Assess the risk profile of the insured, (2) Fix the correct premium (older age = higher premium), (3) Determine the sum assured correctly. Age proof CANNOT tell the premium paying capacity of a person — that is NOT one of its purposes.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 5 (Quick Memory)",
+      "items": [
+        "Underwriting = process of deciding whether to accept risk and at what premium.",
+        "Primary Underwriter / Field Underwriter = INSURANCE AGENT.",
+        "3 Steps of Underwriting: (1) Identify risk frequency & severity, (2) Decide coverage terms, (3) Fix premium rate.",
+        "3 Sources of Underwriting Info: Proposal Form, Risk Survey, Historical Claim Experience Data.",
+        "2 Main Objectives: Identify the risk + Know the level of risk.",
+        "New product must get IRDAI approval + UIN number before launch.",
+        "Premium = Sum Insured × Rate.",
+        "Sum Insured is decided by the INSURED (customer), not the insurer.",
+        "2 Factors in Rate Making = PROBABILITY of risk + SEVERITY of risk.",
+        "Pure Premium = sufficient amount to pay losses only (based on past loss experience).",
+        "Final Premium = Pure Premium + Loss expenses + Agency commission + Management expenses + Profit margin.",
+        "Discount = for POSITIVE features of risk (lower risk).",
+        "Loading = for NEGATIVE features of risk (higher risk).",
+        "Hereditary history matters in medical underwriting because diseases can pass from parents to children.",
+        "Substance abuse NEGATIVELY affects insurability.",
+        "AIDS/HIV cases are likely to be DECLINED or POSTPONED by life insurers.",
+        "KYC = Photo + Address Proof + Identity Proof.",
+        "KYC objectives = Prevent identity theft + financial fraud + money laundering.",
+        "Age proof does NOT reveal premium paying capacity."
+      ]
+    }
+  ]
+}

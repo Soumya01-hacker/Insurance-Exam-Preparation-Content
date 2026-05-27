@@ -347,7 +347,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/underwriting_and_rating.json"
             },
             {
               "id": "claims_processing",
@@ -1305,7 +1306,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/underwriting_and_rating.json"
             },
             {
               "id": "claims_processing",
@@ -2127,7 +2129,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/underwriting_and_rating.json"
             },
             {
               "id": "claims_processing",
