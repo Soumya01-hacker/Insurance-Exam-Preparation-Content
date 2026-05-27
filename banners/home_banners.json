@@ -11,22 +11,24 @@
       "icon": "play_circle"
     },
     {
-      "id": "default_2",
-      "title": "Free Mock Tests Available",
-      "subtitle": "Practice with real exam pattern",
+      "id": "banner_custom_2",
+      "title": "Crack IC-38 in First Attempt",
+      "subtitle": "Start your journey today",
+      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_2.png",
+      "action_target": "/study-material",
       "gradient_start": "059669",
       "gradient_end": "10B981",
-      "icon": "assignment",
-      "action_target": "/test-series"
+      "icon": "school"
     },
     {
-      "id": "default_3",
-      "title": "Short Notes — Quick Revision",
-      "subtitle": "Read before the exam",
+      "id": "banner_custom_3",
+      "title": "Become a Certified Agent",
+      "subtitle": "Join the top professionals",
+      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_3.png",
+      "action_target": "/test-series",
       "gradient_start": "7C3AED",
       "gradient_end": "8B5CF6",
-      "icon": "book",
-      "action_target": "/study-material"
+      "icon": "star"
     }
   ]
 }
