@@ -1,0 +1,188 @@
+{
+  "chapter_id": "pricing_and_valuation_in_life_insurance",
+  "chapter_title": "Chapter 6: Pricing and Valuation of Life Insurance (Life Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch6_q01",
+      "text": "What does 'Policy Lapse' mean?",
+      "options": [
+        "The policyholder completes the premium payment for the policy",
+        "The policyholder stops paying the premium for the policy",
+        "The policy has reached maturity",
+        "The policy is withdrawn from the market by the insurer"
+      ],
+      "correct_index": 1,
+      "explanation": "Policy Lapse means the policy STOPS because the policyholder has STOPPED PAYING the premium. When premium is not paid even within the grace period after the due date, the policy lapses and the insurance cover ceases."
+    },
+    {
+      "id": "ch6_q02",
+      "text": "What does the term 'Premium' denote in relation to a life insurance policy?",
+      "options": [
+        "The sum assured amount paid on maturity",
+        "The price paid by the insured for purchasing the policy",
+        "The bonus declared by the insurer",
+        "The surrender value received on early exit"
+      ],
+      "correct_index": 1,
+      "explanation": "Premium is the PRICE paid by the insured for purchasing a life insurance policy. Since life insurance is a product, the premium is its price. It can be paid monthly, quarterly, half-yearly, or yearly as per the insured's choice."
+    },
+    {
+      "id": "ch6_q03",
+      "text": "Premium in an insurance contract deals with which element of a valid contract?",
+      "options": [
+        "Offer and Acceptance",
+        "Consideration",
+        "Free Consent",
+        "Capacity to Contract"
+      ],
+      "correct_index": 1,
+      "explanation": "Premium is the CONSIDERATION in a valid insurance contract. In contract law, consideration means something of value exchanged between parties. The premium (money paid by insured) is the insured's consideration for the insurer's promise to pay on death or maturity."
+    },
+    {
+      "id": "ch6_q04",
+      "text": "Which of the following is NOT a factor in determining the Life Insurance Premium?",
+      "options": [
+        "Mortality Rate",
+        "Rebate",
+        "Reserves",
+        "Management Expenses"
+      ],
+      "correct_index": 1,
+      "explanation": "REBATE (Discount) is NOT a factor used in determining the life insurance premium. Mortality rate, reserves, and management expenses are all genuine components considered when calculating the premium. Rebate is given after the premium is calculated — it has no role in the calculation itself."
+    },
+    {
+      "id": "ch6_q05",
+      "text": "What is meant by 'Policy Withdrawal' or Surrender?",
+      "options": [
+        "Policyholder stops paying the premium without getting any amount back",
+        "Surrender of the policy in return for the acquired Surrender Value",
+        "Policy transferred to another person",
+        "Policyholder extends the policy term"
+      ],
+      "correct_index": 1,
+      "explanation": "Policy Withdrawal (Surrender) means voluntarily closing the policy early and receiving the SURRENDER VALUE in return. The surrender value is the amount due to the policyholder based on premiums paid, as per the policy terms. This is a voluntary exit before maturity."
+    },
+    {
+      "id": "ch6_q06",
+      "text": "Which of the following correctly defines 'Surplus' in life insurance?",
+      "options": [
+        "Excess Liabilities over Assets",
+        "Excessive Turnover of the insurer",
+        "Excess value of Liabilities over Assets",
+        "Excess value of Assets over Liabilities"
+      ],
+      "correct_index": 3,
+      "explanation": "Surplus in life insurance means EXCESS VALUE OF ASSETS OVER LIABILITIES — i.e., when the insurer's total assets exceed total liabilities. This represents the extra/profit the insurer has. Options A and C describe a deficit, not a surplus."
+    },
+    {
+      "id": "ch6_q07",
+      "text": "Which of the following is NOT a component of ULIP Premium?",
+      "options": [
+        "Policy Allocation Charge",
+        "Investment Risk Premium",
+        "Mortality Charge",
+        "Social Security Charge"
+      ],
+      "correct_index": 3,
+      "explanation": "SOCIAL SECURITY CHARGE is NOT a component of ULIP premium or any insurance premium. ULIP premiums include Policy Allocation Charge, Investment Risk Premium (mortality charge), and fund management charges. Social security is a government welfare concept unrelated to insurance product pricing."
+    },
+    {
+      "id": "ch6_q08",
+      "text": "Life insurance companies may offer a rebate to the buyer on the premium based on:",
+      "options": [
+        "Sum Assured chosen by the buyer",
+        "Type of policy chosen",
+        "Term of the plan chosen",
+        "Mode of payment chosen"
+      ],
+      "correct_index": 0,
+      "explanation": "Life insurance companies offer a REBATE on the premium based on the SUM ASSURED chosen by the buyer. A higher sum assured generally qualifies for a rebate on the per-unit premium rate. This is the standard basis for offering premium rebates in life insurance."
+    },
+    {
+      "id": "ch6_q09",
+      "text": "Which of the following statements is CORRECT regarding interest rate and life insurance premium?",
+      "options": [
+        "Higher the interest rate assumed, higher the premium",
+        "Lower the interest rate assumed, lower the premium",
+        "Higher the interest rate assumed, lower the premium",
+        "Interest rate has no impact on premium"
+      ],
+      "correct_index": 2,
+      "explanation": "Interest rate and premium have an INVERSE relationship. Higher the interest rate assumed by the insurer → LOWER the premium charged. This is because higher investment returns mean the insurer needs less premium to fund future claims. Every buyer prefers higher interest rate as it means lower premium."
+    },
+    {
+      "id": "ch6_q10",
+      "text": "Which of the following is the value at which a life insurer has purchased its assets?",
+      "options": [
+        "Discounted Future Value",
+        "Discounted Present Value",
+        "Market Value",
+        "Book Value"
+      ],
+      "correct_index": 3,
+      "explanation": "BOOK VALUE is the value at which the life insurer originally PURCHASED its assets. It is recorded in the insurer's books at the acquisition price and does not fluctuate with market changes. This is a direct IC-38 exam question."
+    },
+    {
+      "id": "ch6_q11",
+      "text": "What is the full form of 'SV' as commonly used in life insurance?",
+      "options": [
+        "Summary Valuation",
+        "Selected Value",
+        "Surrender Value",
+        "Stamp Value"
+      ],
+      "correct_index": 2,
+      "explanation": "SV stands for SURRENDER VALUE in life insurance. It is the amount the policyholder receives when they voluntarily terminate (surrender) their policy before its maturity date. The surrender value depends on the premiums paid and the policy's terms."
+    },
+    {
+      "id": "ch6_q12",
+      "text": "The formula for calculating Premium is:",
+      "options": [
+        "Sum Insured × Rate",
+        "Sum Insured ÷ Rate",
+        "Sum Insured + Rate ÷ 1000",
+        "Rate ÷ Sum Insured"
+      ],
+      "correct_index": 0,
+      "explanation": "The correct formula for premium calculation is: PREMIUM = SUM INSURED × RATE. Sum Insured is the policy amount and Rate is the applicable premium rate per unit based on age, plan, and term. This formula is directly tested in IC-38."
+    },
+    {
+      "id": "ch6_q13",
+      "text": "Discounts are applied on the premium for which of the following reasons?",
+      "options": [
+        "Positive Features of the Risk",
+        "Negative Features of the Risk",
+        "Neither positive nor negative features",
+        "Both positive and negative features"
+      ],
+      "correct_index": 0,
+      "explanation": "Discounts (rebates) are applied on premium due to POSITIVE FEATURES of the risk — such as lower mortality risk, healthy lifestyle, non-smoker status, or high sum assured. Positive features reduce the risk for the insurer, allowing a reduction in premium."
+    },
+    {
+      "id": "ch6_q14",
+      "text": "Loadings are applied to the premium for which of the following reasons?",
+      "options": [
+        "Positive Features of the Risk",
+        "Negative Features of the Risk",
+        "Neither positive nor negative features",
+        "Both positive and negative features"
+      ],
+      "correct_index": 1,
+      "explanation": "Loading (extra charge added to the standard premium) is applied due to NEGATIVE FEATURES of the risk — such as smoking, hazardous occupation, pre-existing illness, or adverse family history. These negative features increase the risk, requiring an additional premium charge."
+    },
+    {
+      "id": "ch6_q15",
+      "text": "Voluntary early termination of an insurance contract by the policyholder is called:",
+      "options": [
+        "Revival",
+        "Surrender",
+        "Lapse",
+        "Nomination"
+      ],
+      "correct_index": 1,
+      "explanation": "SURRENDER is the voluntary early termination of an insurance contract by the policyholder before its maturity. On surrender, the policyholder receives the Surrender Value. Lapse is involuntary (due to non-payment of premium). Revival is restarting a lapsed policy."
+    }
+  ]
+}

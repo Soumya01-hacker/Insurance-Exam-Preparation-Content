@@ -1,0 +1,175 @@
+{
+  "chapterId": "pricing_and_valuation_in_life_insurance",
+  "title": "Chapter 6: Pricing and Valuation of Life Insurance (Life Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "💰 Premium — Definition and Formula",
+      "cards": [
+        {
+          "title": "What is Premium?",
+          "content": "Premium denotes the PRICE paid by the insured for purchasing a life insurance policy. Life insurance is a product, and like any product, it has a price — that price is called the PREMIUM. It can be paid in different modes: Monthly, Quarterly, Half-Yearly, or Yearly — the choice depends on the insured.",
+          "color": "blue"
+        },
+        {
+          "title": "Premium Formula",
+          "content": "The formula for calculating Premium is: PREMIUM = SUM INSURED × RATE. Sum Insured means the policy amount (insurance money). Rate means the premium rate applicable to the insured's age, term, and plan. This formula is directly tested in IC-38 exams.",
+          "color": "blue"
+        },
+        {
+          "title": "Premium — Considered Under Which Element of Contract?",
+          "content": "Premium is calculated under the element of CONSIDERATION in a valid insurance contract. 'Consideration' in contract law means something of value exchanged between parties. Many factors are considered to calculate the correct premium — hence it falls under the 'Consideration' element.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Factors Considered in Setting Life Insurance Premium",
+      "cards": [
+        {
+          "title": "Factors That ARE Used in Premium Calculation",
+          "content": "The following factors are considered when setting a life insurance premium: (1) Mortality Rate — the death rate applicable to the insured's age group. (2) Management Expenses — the operating costs of the insurance company. (3) Interest Rate — the expected return on investments made by the insurer from premium collections. (4) Bonus Loading — additional charge for anticipated bonuses. (5) Reserves — funds kept aside for future claims.",
+          "color": "blue"
+        },
+        {
+          "title": "Factor NOT Used in Premium Calculation — REBATE",
+          "content": "REBATE (Discount) is NOT a factor in determining life insurance premium. Mortality rate, management expenses, reserves, and interest rates are all used — but rebate has no connection with how the base premium is calculated. This is a key exam trap — always remember rebate is NOT a premium factor.",
+          "color": "blue"
+        },
+        {
+          "title": "Interest Rate and Premium — Relationship",
+          "content": "Interest Rate and Premium have an INVERSE (negative) relationship. Higher the interest rate assumed → LOWER the premium. Lower the interest rate assumed → HIGHER the premium. Every buyer prefers a higher interest rate because it means paying a lower premium. This is a direct exam question.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📉 Discount (Rebate) and Loading on Premium",
+      "cards": [
+        {
+          "title": "When is a Discount (Rebate) Applied on Premium?",
+          "content": "Discounts are applied on the premium due to POSITIVE FEATURES of the risk. If the risk has positive characteristics (e.g., lower-than-average mortality risk, healthy lifestyle, non-smoker, high sum assured), the insurer may offer a rebate/discount on the premium to the buyer.",
+          "color": "blue"
+        },
+        {
+          "title": "On What Basis Does Insurer Offer Rebate?",
+          "content": "Life insurance companies may offer a REBATE to the buyer based on the SUM ASSURED CHOSEN by the buyer. If the buyer chooses a higher sum assured, the insurer may offer a rebate on the per-unit premium. This is the basis for rebate — not the policy type, term, or mode of payment.",
+          "color": "blue"
+        },
+        {
+          "title": "When is Loading Applied on Premium?",
+          "content": "Loading (extra charge added to the premium) is applied due to NEGATIVE FEATURES of the risk. If the risk has negative characteristics (e.g., smoker, hazardous occupation, pre-existing illness, poor family history), the insurer adds a loading to the standard premium to cover the extra risk.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Policy Lapse and Surrender",
+      "cards": [
+        {
+          "title": "What is Policy Lapse?",
+          "content": "Policy Lapse means the policy STOPS because the policyholder has STOPPED PAYING the premium. When the policyholder does not pay the premium even within the grace period after the due date, the policy lapses. A lapsed policy has no active insurance cover until it is revived.",
+          "color": "blue"
+        },
+        {
+          "title": "What is Policy Surrender?",
+          "content": "Surrender is a VOLUNTARY TERMINATION of the insurance contract by the POLICYHOLDER before the policy matures. When the policyholder surrenders the policy, the insurance company pays back the SURRENDER VALUE — the amount due based on the premiums paid so far. This is the policyholder's choice to exit the policy early.",
+          "color": "blue"
+        },
+        {
+          "title": "SV — Full Form",
+          "content": "SV in life insurance stands for SURRENDER VALUE. It is the amount the policyholder receives when they voluntarily terminate (surrender) their policy before maturity. The full form SV = Surrender Value is a direct exam question.",
+          "color": "blue"
+        },
+        {
+          "title": "GSV — Guaranteed Surrender Value",
+          "content": "GSV stands for Guaranteed Surrender Value. As per Indian law, if a policyholder has paid premiums CONTINUOUSLY FOR AT LEAST 3 YEARS, they are legally entitled to a Guaranteed Surrender Value. The amount depends on the total premiums paid over those 3 years. Policy must be in force for minimum 3 years to get GSV.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💹 Surplus — Definition",
+      "cards": [
+        {
+          "title": "What is Surplus in Life Insurance?",
+          "content": "Surplus in life insurance means EXCESS VALUE OF ASSETS OVER LIABILITIES. If an insurer's total assets (property, investments, premiums collected) are MORE than their total liabilities (claims to be paid, expenses), the excess amount is called SURPLUS. This is the profit/excess of the insurance company. Correct exam answer: 'Excess value of assets over liabilities.'",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏦 Valuation of Assets by Insurance Companies",
+      "cards": [
+        {
+          "title": "Three Ways Insurance Companies Value Their Assets",
+          "content": "Insurance companies use three methods to value their assets: (1) Book Value — the value at which the asset was originally PURCHASED by the insurer. (2) Market Value — the current value of the asset in the MARKETPLACE at that point in time. (3) Discounted Present Value — a value calculated based on FUTURE EXPECTED INCOME from the asset, brought back to the present using a discount rate.",
+          "color": "blue"
+        },
+        {
+          "title": "Book Value — Definition",
+          "content": "Book Value is the value at which the LIFE INSURER HAS PURCHASED its assets. It is the original purchase price recorded in the insurer's books of accounts. It does not change with market fluctuations — it stays fixed at the original acquisition price.",
+          "color": "blue"
+        },
+        {
+          "title": "Market Value — Definition",
+          "content": "Market Value is the CURRENT VALUE of the insurer's assets in the marketplace. It reflects what the asset would fetch if sold at that particular point in time. Market value changes constantly with market conditions.",
+          "color": "blue"
+        },
+        {
+          "title": "Discounted Present Value — Definition",
+          "content": "Discounted Present Value is the value calculated according to the FUTURE EXPECTED INCOME from an asset, discounted back to the present using an appropriate discount rate. It represents what future cash flows are worth today.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📦 ULIP Premium — Components",
+      "cards": [
+        {
+          "title": "Components of ULIP Premium",
+          "content": "ULIP (Unit Linked Insurance Plan) is a market-based product. Its premium has the following components: (1) Policy Allocation Charge — charged for allocating units in the fund. (2) Investment Risk Premium — charge for the investment risk carried by the plan. (3) Mortality Charge — charge for providing the life cover. These three are valid ULIP premium components.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT a Component of ULIP Premium?",
+          "content": "SOCIAL SECURITY CHARGE is NOT a component of ULIP premium or any insurance premium. Social security is a government welfare concept and has no connection with ULIP pricing or any insurance product premium structure.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 6: Pricing and Valuation of Life Insurance",
+      "items": [
+        "Premium = Price paid by the insured for purchasing the policy.",
+        "Premium Formula = SUM INSURED × RATE.",
+        "Premium is under the element of CONSIDERATION in a valid contract.",
+        "Factors in premium calculation: Mortality Rate, Management Expenses, Interest Rate, Bonus Loading, Reserves.",
+        "REBATE is NOT a factor in determining premium — key exam trap.",
+        "Higher Interest Rate → LOWER Premium. Lower Interest Rate → HIGHER Premium.",
+        "Discount on premium = due to POSITIVE features of risk.",
+        "Loading on premium = due to NEGATIVE features of risk.",
+        "Rebate offered by insurer is based on SUM ASSURED chosen by buyer.",
+        "Policy Lapse = policyholder STOPS paying premium → policy stops.",
+        "SV = Surrender Value. Surrender = voluntary early termination of policy by policyholder.",
+        "GSV = Guaranteed Surrender Value. Requires minimum 3 YEARS of continuous premium payment.",
+        "Surplus = EXCESS VALUE OF ASSETS OVER LIABILITIES.",
+        "Three asset valuation methods: Book Value, Market Value, Discounted Present Value.",
+        "Book Value = value at which insurer PURCHASED the asset (original purchase price).",
+        "Market Value = current value of asset in the marketplace.",
+        "Discounted Present Value = future income discounted to present.",
+        "ULIP premium components: Allocation Charge + Investment Risk Premium + Mortality Charge.",
+        "Social Security Charge is NOT a component of ULIP or any insurance premium.",
+        "LIC of India's Central Office is located in MUMBAI."
+      ]
+    }
+  ]
+}
