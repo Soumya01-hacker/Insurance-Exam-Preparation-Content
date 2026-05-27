@@ -1,0 +1,188 @@
+{
+  "chapter_id": "health_ch3_products",
+  "chapter_title": "Chapter 3: Health Insurance Products (Health Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch3_q01",
+      "text": "The most common duration of cover for Pre-Hospitalization expenses in a health insurance policy is:",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "correct_index": 1,
+      "explanation": "The most common pre-hospitalization cover period is 30 DAYS prior to hospital admission. Post-hospitalization is typically covered for 60 days. This pair — 30 days pre, 60 days post — is very frequently tested in IC-38 exams."
+    },
+    {
+      "id": "ch3_q02",
+      "text": "Which of the following statements is CORRECT regarding a Hospitalization Expenses Policy?",
+      "options": [
+        "Only hospitalization expenses are covered",
+        "Hospitalization as well as pre and post hospitalization expenses are covered",
+        "Hospitalization and pre/post expenses are covered, plus lump sum is paid on insured's death",
+        "Pre and post hospitalization is covered only from the second year if first year is claim-free"
+      ],
+      "correct_index": 1,
+      "explanation": "A standard hospitalization expenses policy covers hospitalization AND pre-hospitalization (30 days) AND post-hospitalization (60 days) expenses. It does NOT pay a lump sum on death, and coverage is available from year one — not conditional on a claim-free first year."
+    },
+    {
+      "id": "ch3_q03",
+      "text": "Health Insurance deals with which of the following?",
+      "options": [
+        "Mortality only",
+        "Morbidity only",
+        "Both Morbidity and Mortality",
+        "Neither Morbidity nor Mortality"
+      ],
+      "correct_index": 1,
+      "explanation": "Health Insurance deals ONLY with MORBIDITY — the number of diseases or incidence of illness. It does NOT deal with Mortality (death rate), which is the domain of Life Insurance. This distinction is core to the IC-38 health section."
+    },
+    {
+      "id": "ch3_q04",
+      "text": "What is the full form of PPN in the context of health insurance hospitals?",
+      "options": [
+        "Primary Provider Network",
+        "Preferred Provider Network",
+        "Premium Payment Network",
+        "Pre-approved Provider Network"
+      ],
+      "correct_index": 1,
+      "explanation": "PPN stands for Preferred Provider Network. It is a list of hospitals empanelled by the insurer where the insured can avail cashless treatment facilities. The insurer has a pre-negotiated arrangement with these hospitals."
+    },
+    {
+      "id": "ch3_q05",
+      "text": "Which of the following groups CANNOT be given a Group Health Insurance Policy?",
+      "options": [
+        "Employer taking policy for employees",
+        "Bank taking policy for its customers",
+        "Shopkeeper taking policy for his customers",
+        "Employer extending group policy to family members of employees"
+      ],
+      "correct_index": 2,
+      "explanation": "A Shopkeeper CANNOT take a Group Health Insurance Policy for his customers because customers of a shopkeeper are not a registered or recognized group — they are random, unrelated individuals. All valid groups for group insurance must be formally registered or institutionally recognized."
+    },
+    {
+      "id": "ch3_q06",
+      "text": "What is the PRIMARY factor on which health insurance premium calculation depends?",
+      "options": [
+        "Health Condition",
+        "Affordability of the proposer",
+        "Age of the proposer",
+        "Occupation of the proposer"
+      ],
+      "correct_index": 2,
+      "explanation": "The PRIMARY factor in calculating health insurance premium is AGE. While health condition and other factors are also considered, age is the foremost determinant because risk of illness increases with age. The word 'primarily' in the question points to age."
+    },
+    {
+      "id": "ch3_q07",
+      "text": "Domiciliary Hospitalization means:",
+      "options": [
+        "Treatment taken as an outpatient in the hospital",
+        "Treatment taken as an inpatient in the hospital",
+        "Treatment taken both as outpatient and inpatient",
+        "Treatment taken at home as the patient cannot be moved to hospital"
+      ],
+      "correct_index": 3,
+      "explanation": "Domiciliary Hospitalization means medical treatment is provided to the patient AT HOME because the patient CANNOT be moved to a hospital or nursing home. It is treated equivalent to hospitalization for claim purposes under health insurance."
+    },
+    {
+      "id": "ch3_q08",
+      "text": "Under a Group Health Insurance Policy for a bank, which of the following can be covered?",
+      "options": [
+        "Employees of the bank",
+        "Deposit holders",
+        "Registered members",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "A bank's Group Health Insurance Policy can cover its Employees, Deposit Holders, and Registered Members. All three categories are recognized and eligible. Hence, the correct answer is 'All of the above'."
+    },
+    {
+      "id": "ch3_q09",
+      "text": "Health insurance agrees to pay hospitalization expenses to the extent of:",
+      "options": [
+        "Agreed Sum Insured",
+        "Market Value",
+        "Reinstatement Value",
+        "None of the above"
+      ],
+      "correct_index": 0,
+      "explanation": "Health insurance pays hospitalization expenses up to the AGREED SUM INSURED. This is the maximum limit selected at the time of taking the policy. Market value and reinstatement value are concepts used in general insurance for property, not in health insurance."
+    },
+    {
+      "id": "ch3_q10",
+      "text": "Apart from Room and Nursing charges, health insurance also covers expenses incurred on:",
+      "options": [
+        "Operation Theater Charges",
+        "Doctors, Anesthetist, Physician Fees and Medicines",
+        "Diagnostic Tests",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "In addition to Room and Nursing charges, health insurance covers Operation Theater Charges, Doctors/Anesthetist/Physician fees, Medicines, and Diagnostic Tests. All of these are standard inclusions. Correct answer is 'All of the above'."
+    },
+    {
+      "id": "ch3_q11",
+      "text": "Pre and Post Hospitalization coverage in a health insurance policy is for which duration?",
+      "options": [
+        "Prior to admission: 30 days; Post hospitalization: 60 days",
+        "Prior to admission: 45 days; Post hospitalization: 45 days",
+        "Prior to admission: 60 days; Post hospitalization: 30 days",
+        "Prior to admission: 15 days; Post hospitalization: 30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "Standard health insurance covers pre-hospitalization expenses for 30 days BEFORE admission and post-hospitalization expenses for 60 days AFTER discharge. This 30/60 day formula is a key exam fact in IC-38."
+    },
+    {
+      "id": "ch3_q12",
+      "text": "What is the special feature of a Family Floater Policy?",
+      "options": [
+        "The total sum insured floats among family members only",
+        "Husband, wife, children, parents, parents-in-law can be covered only",
+        "Both — sum insured floats AND family members including parents-in-law can be covered",
+        "Only the proposer and spouse are covered under the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "A Family Floater Policy has TWO special features: (1) The total sum insured floats among all family members, and (2) Husband, wife, children, parents, and parents-in-law can all be covered. Both points together are the complete and correct answer."
+    },
+    {
+      "id": "ch3_q13",
+      "text": "The Grace Period for renewal beyond the expiry date of a health insurance policy is:",
+      "options": [
+        "15 days",
+        "21 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 2,
+      "explanation": "The Grace Period for renewal of a health insurance policy beyond its expiry date is 30 DAYS — the same as in life insurance. During this period, the policy remains active and valid for claims."
+    },
+    {
+      "id": "ch3_q14",
+      "text": "As per IRDAI regulations regarding health insurance, which statement is TRUE?",
+      "options": [
+        "Lifetime cover is not mandatory",
+        "Lifetime cover is mandatory",
+        "Lifetime cover is optional for insurers",
+        "Lifetime cover is available only for individual policies"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI regulations, Lifetime Health Insurance Cover is MANDATORY. Insurers MUST offer lifelong renewability. They cannot deny renewal based on age or claims history. This is a consumer protection regulation."
+    },
+    {
+      "id": "ch3_q15",
+      "text": "Critical Illness Policy in India is generally sold as:",
+      "options": [
+        "A standalone health insurance product",
+        "An add-on rider along with a Life Insurance Policy",
+        "A group health insurance product",
+        "A government-sponsored scheme"
+      ],
+      "correct_index": 1,
+      "explanation": "In India, Critical Illness Policy is generally sold as an ADD-ON RIDER attached to a Life Insurance Policy. It is not commonly sold as a standalone product. On diagnosis of a listed critical illness, a lump sum amount is paid to the insured."
+    }
+  ]
+}

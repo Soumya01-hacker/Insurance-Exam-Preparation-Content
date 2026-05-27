@@ -1,0 +1,193 @@
+{
+  "chapterId": "health_ch3_products",
+  "title": "Chapter 3: Health Insurance Products (Health Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📦 Types of Health Insurance Policies — Classification",
+      "cards": [
+        {
+          "title": "Three Broad Categories of Health Insurance Policies",
+          "content": "Health Insurance policies are classified based on the NUMBER OF PEOPLE covered: (1) Personal / Individual Policy — covers one individual only. (2) Family Floater Policy — covers the whole family under a single shared sum insured. (3) Group Health Insurance Policy — covers members of a registered group (employees, bank customers, society members, etc.).",
+          "color": "blue"
+        },
+        {
+          "title": "What Does Health Insurance Provide?",
+          "content": "Health Insurance companies provide coverage for both INPATIENT and OUTPATIENT healthcare expenses. Inpatient = patient formally admitted to hospital. Outpatient = patient not admitted; visits for consultation, dental, optical, routine checkup, etc.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Pre-Hospitalization, Hospitalization, Post-Hospitalization",
+      "cards": [
+        {
+          "title": "Pre-Hospitalization Expenses",
+          "content": "Pre-Hospitalization expenses are medical costs incurred BEFORE the patient is admitted to the hospital — such as doctor consultation fees and diagnostic tests done in the lead-up to admission. Most insurers cover pre-hospitalization expenses for 30 DAYS prior to hospital admission. This is the most commonly tested period.",
+          "color": "blue"
+        },
+        {
+          "title": "Hospitalization Expenses",
+          "content": "Hospitalization expenses are covered from the day of admission itself. These include Room & Nursing Charges, Operation Theater Charges, Doctor/Surgeon/Anesthetist/Physician Fees, Medicines, and Diagnostic Tests. All are covered under a standard health policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Post-Hospitalization Expenses",
+          "content": "Post-Hospitalization expenses are medical costs incurred AFTER the patient is discharged from the hospital — such as follow-up consultations, medicines, and tests. Most insurers cover post-hospitalization expenses for 60 DAYS after discharge from the hospital.",
+          "color": "blue"
+        },
+        {
+          "title": "Quick Memory Formula",
+          "content": "PRE-Hospitalization = 30 days BEFORE admission. POST-Hospitalization = 60 days AFTER discharge. This is a very frequently tested pair in IC-38 exams.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💊 Critical Illness Policy",
+      "cards": [
+        {
+          "title": "What is a Critical Illness Policy?",
+          "content": "A Critical Illness Policy covers very serious, life-threatening diseases that result in huge financial losses. Examples of critical illnesses typically covered: Cancer, Heart Attack (Myocardial Infarction), Stroke, Kidney Failure, Major Organ Transplant, and Permanent Disability. The insurer pays a LUMP SUM AMOUNT upon diagnosis of the listed critical illness — regardless of actual medical expenses.",
+          "color": "blue"
+        },
+        {
+          "title": "How is Critical Illness Policy Sold in India?",
+          "content": "In India, Critical Illness Policy is generally sold as an ADD-ON RIDER along with a Life Insurance Policy. It is NOT sold as a standalone product in most cases — it is attached to a base life insurance plan as an edge rider.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🌍 Overseas Travel Insurance",
+      "cards": [
+        {
+          "title": "What is Overseas Travel Insurance?",
+          "content": "Overseas Travel Insurance is specially designed for individuals who travel OUTSIDE INDIA. It provides coverage for medical emergencies that occur abroad. Countries like the USA and Canada have extremely high medical costs — Overseas Travel Insurance covers the insured in such countries. This insurance is not for domestic travel.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👨👩👧 Family Floater Policy — Special Features",
+      "cards": [
+        {
+          "title": "Key Feature 1 — Sum Insured Floats",
+          "content": "The defining feature of a Family Floater Policy is that the TOTAL SUM INSURED FLOATS among all family members. This means any one family member can use the entire sum insured, or multiple members can share it in a policy year.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Feature 2 — Who is Covered?",
+          "content": "Under a Family Floater Policy, the following family members can be covered: Husband (Proposer), Wife (Spouse), Children (dependent), Parents, and Parents-in-law. Extended relatives such as Maternal Uncle, Aunt, Cousins, siblings-in-law are NOT covered.",
+          "color": "blue"
+        },
+        {
+          "title": "Exam Answer — Family Floater Features",
+          "content": "When asked 'What is the special feature of a Family Floater Policy?', the correct answer is: BOTH (1) Total sum insured floats among family members AND (2) Husband, wife, children, parents, parents-in-law can be covered. Both points together are the correct answer.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👥 Group Health Insurance Policy",
+      "cards": [
+        {
+          "title": "Who Can Take Group Health Insurance?",
+          "content": "Group Health Insurance can be taken by: (1) An Employer for his Employees. (2) A Bank for its Customers (deposit holders, credit card holders). (3) A registered Society or Association for its registered Members. Additionally, an employer's group policy can be EXTENDED to include family members of employees.",
+          "color": "blue"
+        },
+        {
+          "title": "Who CANNOT Take Group Health Insurance?",
+          "content": "A SHOPKEEPER CANNOT take Group Health Insurance for his customers. This is because a shopkeeper's customers are NOT a registered, recognized group — customers change from visit to visit, there is no formal membership or registration. All valid groups must be formally registered/recognized.",
+          "color": "blue"
+        },
+        {
+          "title": "What is Covered in a Bank Group Policy?",
+          "content": "When a Bank takes a Group Health Insurance Policy, the following can be covered under it: Employees of the bank, Deposit Holders, and Registered Members. All three categories can be included — the exam answer is 'All of the above'.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏨 Domiciliary Hospitalization",
+      "cards": [
+        {
+          "title": "What is Domiciliary Hospitalization?",
+          "content": "Domiciliary Hospitalization means treatment given to the patient AT HOME because the patient CANNOT BE MOVED to a hospital or nursing home. The patient is treated at their residence as if they were hospitalized. This is NOT outpatient treatment — it is treatment at home in lieu of hospitalization.",
+          "color": "blue"
+        },
+        {
+          "title": "When is Domiciliary Hospitalization Covered?",
+          "content": "Domiciliary Hospitalization is covered under the health insurance policy when: The patient CANNOT be removed to a hospital or nursing home due to lack of accommodation OR because the patient's condition does not permit movement. The minimum period of medical treatment for domiciliary hospitalization claim is 3 DAYS.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Premium Calculation and PPN",
+      "cards": [
+        {
+          "title": "Primary Factor for Premium Calculation",
+          "content": "When calculating premium in a health insurance policy, the PRIMARY factor considered is AGE. While health condition and affordability are also factors, the question specifically uses the word 'primarily' — and age is the primary determinant of health insurance premium.",
+          "color": "blue"
+        },
+        {
+          "title": "PPN — Preferred Provider Network",
+          "content": "PPN stands for PREFERRED PROVIDER NETWORK. It is a list of hospitals prepared by the insurer where the insured can go for cashless treatment. These hospitals have a pre-agreed arrangement with the insurer for direct billing. Full form must be memorized: Preferred Provider Network.",
+          "color": "blue"
+        },
+        {
+          "title": "Sum Insured — Hospitalization Expenses",
+          "content": "Health insurance agrees to pay hospitalization expenses to the extent of the AGREED SUM INSURED. The sum insured is the maximum limit up to which the insurer will pay in a policy year. Not market value, not reinstatement value.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Grace Period and IRDAI Mandate",
+      "cards": [
+        {
+          "title": "Grace Period for Health Insurance Renewal",
+          "content": "The Grace Period for renewal of a health insurance policy beyond its expiry date is 30 DAYS. This is the same as the grace period for life insurance policies. During the grace period, the policy is considered active and claims are valid.",
+          "color": "blue"
+        },
+        {
+          "title": "IRDAI Mandate — Lifetime Health Cover",
+          "content": "As per IRDAI regulations, Lifetime Health Insurance Cover is MANDATORY. This means insurers MUST offer health insurance coverage to policyholders for their entire lifetime — they cannot refuse to renew a policy on grounds of age or earlier claims. The correct answer to 'Is lifetime cover mandatory?' is YES — it is mandatory.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 3: Health Insurance Products",
+      "items": [
+        "Three types of health policies: Individual, Family Floater, Group Health Insurance.",
+        "Pre-Hospitalization = 30 days BEFORE admission. Post-Hospitalization = 60 days AFTER discharge.",
+        "Critical Illness Policy = Lump sum paid on diagnosis. Sold as a RIDER with Life Insurance in India.",
+        "Overseas Travel Insurance = for medical emergencies OUTSIDE INDIA.",
+        "Family Floater = Sum insured FLOATS among family members. Covers spouse, children, parents, parents-in-law.",
+        "Shopkeeper CANNOT take Group Health Insurance for customers — not a recognized/registered group.",
+        "Bank Group Policy covers: Employees + Deposit Holders + Registered Members = All of the above.",
+        "Domiciliary Hospitalization = treatment at HOME because patient CANNOT be moved to hospital.",
+        "Minimum period for domiciliary hospitalization claim = 3 DAYS.",
+        "PRIMARY factor for health insurance premium calculation = AGE.",
+        "PPN = Preferred Provider Network = list of hospitals approved by the insurer.",
+        "Health insurance pays hospitalization expenses up to the AGREED SUM INSURED.",
+        "Grace period for health insurance renewal = 30 DAYS.",
+        "As per IRDAI, lifetime health cover is MANDATORY.",
+        "Health insurance covers: OT charges + Doctor fees + Medicines + Diagnostic tests = All of the above.",
+        "Employer's group policy CAN be extended to cover family members of employees."
+      ]
+    }
+  ]
+}
