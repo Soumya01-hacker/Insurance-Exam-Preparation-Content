@@ -1,34 +1,34 @@
 {
   "banners": [
     {
-      "id": "promo_video_1",
-      "title": "Pass IC-38 Exam Easily!",
-      "subtitle": "Watch this strategy video",
-      "image_url": "https://img.youtube.com/vi/O7rKKAFIM1g/hqdefault.jpg",
-      "action_target": "https://youtu.be/O7rKKAFIM1g",
-      "gradient_start": "1E3A8A",
-      "gradient_end": "2563EB",
-      "icon": "play_circle"
-    },
-    {
-      "id": "banner_custom_2",
-      "title": "Crack IC-38 in First Attempt",
-      "subtitle": "Start your journey today",
+      "id": "banner_career",
+      "title": "IRDAI Licensed Agent Banein",
+      "subtitle": "IC-38 Pass Karo — Career Shuru Karo",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_2.png",
       "action_target": "/study-material",
-      "gradient_start": "059669",
-      "gradient_end": "10B981",
+      "gradient_start": "0F172A",
+      "gradient_end": "1E3A8A",
       "icon": "school"
     },
     {
-      "id": "banner_custom_3",
-      "title": "Become a Certified Agent",
-      "subtitle": "Join the top professionals",
+      "id": "banner_study",
+      "title": "IC-38 Complete Preparation",
+      "subtitle": "Notes + Mock Tests + Video — Sab Ek Jagah",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_3.png",
       "action_target": "/test-series",
-      "gradient_start": "7C3AED",
-      "gradient_end": "8B5CF6",
-      "icon": "star"
+      "gradient_start": "1E1B4B",
+      "gradient_end": "4338CA",
+      "icon": "assignment"
+    },
+    {
+      "id": "banner_video",
+      "title": "IC-38 Exam Strategy Guide",
+      "subtitle": "Expert Tips — Pehli Baar Me Pass",
+      "image_url": "https://img.youtube.com/vi/O7rKKAFIM1g/hqdefault.jpg",
+      "action_target": "https://youtu.be/O7rKKAFIM1g",
+      "gradient_start": "7C2D12",
+      "gradient_end": "DC2626",
+      "icon": "play_circle"
     }
   ]
 }
