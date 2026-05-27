@@ -1,0 +1,227 @@
+{
+  "chapterId": "commercial_insurance",
+  "title": "Chapter 4 (General Section): Commercial Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🔥 Fire Insurance Policy",
+      "cards": [
+        {
+          "title": "What is Fire Insurance?",
+          "content": "Fire Insurance is a policy that provides coverage to PROPERTY against damage caused by fire. It is suitable for: (1) Commercial establishments (factories, shops, offices), (2) Individual property owners, (3) Financial institutions that have a financial interest in the property. Any person or entity with an insurable interest in a property can take a fire insurance policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Four Variants of Fire Policy (Exam Fact)",
+          "content": "The four variants of a Fire Insurance Policy are: (1) Market Value Basis Policy — pays current market value of damaged property. (2) Reinstatement Value Policy — pays cost to restore/rebuild the property to its original condition. (3) Declaration Policy — suitable for businesses with fluctuating stock values. (4) Floater Policy — covers goods/stock at multiple locations under one policy. Exam Tip: These are ONLY fire policy variants — not variants of other policies.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT Covered in Fire Policy — Even as Add-On?",
+          "content": "Fire insurance can cover Flood, Earthquake, and regular Fire as ADD-ON covers. However, WAR DAMAGE (bombing during war/war situation) CANNOT be added as an add-on cover in any fire insurance policy. This is an absolute exclusion — no matter what. Exam Answer: 'Which CANNOT be an add-on in fire insurance?' = Bombing due to War.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📉 Business Interruption Insurance (Consequential Loss Policy)",
+      "cards": [
+        {
+          "title": "What is Business Interruption Insurance?",
+          "content": "Business Interruption Insurance is also called the Consequential Loss Policy. It provides coverage on GROSS PROFIT of a business. If a factory or business suffers physical damage (e.g., due to fire) and as a result business operations stop and profits are lost, this policy covers that loss of profit. Exam Answer: 'What does consequential loss / business interruption policy cover?' = Loss of Profit due to damage to factory.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT Covered by Consequential Loss Policy?",
+          "content": "Consequential Loss Policy covers ONLY loss of profit due to physical damage. It does NOT cover: Loss of goodwill, Material wear and tear of machinery, Losses due to foreign exchange fluctuations. These are completely separate matters unrelated to business interruption from physical loss.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔒 Burglary Insurance Policy",
+      "cards": [
+        {
+          "title": "What is Burglary Insurance?",
+          "content": "Burglary Insurance provides coverage for LOSS caused by THEFT in business premises such as factories, shops, offices, warehouses, and godowns where goods or stock are kept. It specifically relates to theft of business property from commercial establishments.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does Burglary Premium Depend On?",
+          "content": "The premium for burglary insurance depends on ALL THREE factors: (1) Security Measures — what security systems, guards, or locks are in place. (2) Location of the Premises — the area where the property is situated. (3) Nature of the Property being insured — what type of goods/items are stored. Exam Answer = All of the above.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💵 Money Insurance Policy",
+      "cards": [
+        {
+          "title": "What is Money Insurance Policy?",
+          "content": "Money Insurance Policy is designed to cover losses related to CASH and CASH EQUIVALENTS in hand, such as: Cash, Cheques, Postal Orders, Postal Stamps. It provides coverage for money that is physically in possession — either being transported or kept on premises. It does NOT cover money that is deposited in banks, post offices, or invested in mutual funds — only cash/cash forms physically in hand.",
+          "color": "blue"
+        },
+        {
+          "title": "Two Sections of Money Insurance Policy",
+          "content": "Money Insurance Policy is divided into two sections: (1) Transit Section — covers money while it is being transported (in transit) from one place to another. (2) Premises Section — covers money while it is kept on the business premises (e.g., in a safe or cash register).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🤝 Fidelity Guarantee Insurance",
+      "cards": [
+        {
+          "title": "What is Fidelity Guarantee Insurance?",
+          "content": "Fidelity Guarantee Insurance provides coverage to EMPLOYERS against financial losses caused by the FRAUD and DISHONESTY of their own EMPLOYEES. Example: An employee embezzles company funds or commits internal fraud — the employer's financial loss from that fraud is covered by this policy. Exam Tip: If the question says 'employer insures against dishonest acts of employees' — Answer = Fidelity Guarantee Insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Four Types of Fidelity Guarantee Insurance",
+          "content": "The four types of Fidelity Guarantee Insurance are: (1) Individual Policy — covers a specific named employee. (2) Collective Floating Policy — covers a group of named employees. (3) Positions Policy — covers whoever holds a specific job position (regardless of the person). (4) Blanket Policy — covers all employees of the organisation without naming them.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏦 Bankers Indemnity Insurance",
+      "cards": [
+        {
+          "title": "What is Bankers Indemnity Insurance?",
+          "content": "Bankers Indemnity Insurance is a comprehensive insurance policy SPECIFICALLY designed for BANKS, NBFCs (Non-Banking Financial Companies), and other financial institutions that deal in money and securities. It provides protection against risks specific to banking operations — such as fraud, forgery, robbery, burglary, and employee dishonesty in the context of money and securities handling.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💎 Jewellers Block Policy",
+      "cards": [
+        {
+          "title": "What is Jewellers Block Policy?",
+          "content": "Jewellers Block Policy is a comprehensive insurance policy designed specifically for JEWELLERS. It provides coverage for jewellery and precious items against various risks such as fire, burglary, theft, and accidental damage — both on the business premises and during transit. It is a combined policy offering broad coverage to the jewellery business.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚙️ Engineering Insurance",
+      "cards": [
+        {
+          "title": "What is Engineering Insurance?",
+          "content": "Engineering Insurance covers risks associated with engineering, construction, and industrial machinery. It includes the following policies: (1) CAR — Contractors All Risk Policy: covers construction projects against all risks. (2) Contractors Plant and Machinery Policy: covers machinery used at construction sites. (3) EAR — Erection All Risk Policy: covers risks during erection/installation of plant/machinery. (4) Machinery Breakdown Policy: covers sudden breakdown of machines.",
+          "color": "blue"
+        },
+        {
+          "title": "CAR Full Form (Exam Fact)",
+          "content": "In Engineering Insurance, CAR stands for CONTRACTORS ALL RISK. Exam Trap: Options like 'Companies All Risk', 'Motor Car', 'Companies All Requirements' are wrong. The correct expansion is always Contractors All Risk.",
+          "color": "blue"
+        },
+        {
+          "title": "Contractors All Risk Policy is a Variant of ________?",
+          "content": "The Contractors All Risk (CAR) Policy is a variant of ENGINEERING INSURANCE — not fire, life, or marine insurance. Any question asking which category CAR or EAR belongs to — the answer is always Engineering Insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏭 Industrial All Risk Policy",
+      "cards": [
+        {
+          "title": "What is Industrial All Risk Policy?",
+          "content": "Industrial All Risk Policy is specifically designed to provide comprehensive coverage to INDUSTRIAL PROPERTIES — especially industries where both MANUFACTURING and STORING take place. It is a broad policy covering multiple risks under a single package for industrial establishments.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚢 Marine Insurance — Two Categories",
+      "cards": [
+        {
+          "title": "What is Marine Insurance?",
+          "content": "Marine Insurance is divided into two main categories: (1) Marine CARGO Policy, and (2) Marine HULL Policy. Both serve different purposes in the marine/shipping industry.",
+          "color": "blue"
+        },
+        {
+          "title": "Marine Cargo Policy",
+          "content": "Marine Cargo Policy covers GOODS/CARGO being transported from one place to another — whether by sea, air, or land. It is also called a VOYAGE POLICY because it provides coverage during the journey (voyage) of goods. Coverage is for the subject matter (goods) during transit.",
+          "color": "blue"
+        },
+        {
+          "title": "Marine Hull Policy",
+          "content": "Marine Hull Policy covers the BODY OF THE SHIP (the vessel itself). 'Hull' means the body/structure of a ship. Marine Hull provides two types of cover: (1) Voyage-based — coverage for a specific single voyage/journey. (2) Time-based — coverage for a specific time period regardless of voyages made.",
+          "color": "blue"
+        },
+        {
+          "title": "Hull = Body of Ship (Exam Fact)",
+          "content": "Exam Question: 'What refers to the body of a ship?' — Answer = HULL. This is a direct and frequently tested one-word answer. Always remember: Hull = Ship's body/structure.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Liability Policies",
+      "cards": [
+        {
+          "title": "Public Liability Policy",
+          "content": "Public Liability Policy provides coverage when the insured's activities cause damage to a THIRD PARTY's property OR cause personal injury to a third party. Example: A factory accidentally leaks chemicals that damage a neighbour's property — covered under Public Liability Policy. It protects the insured from claims made by the general public/third parties.",
+          "color": "blue"
+        },
+        {
+          "title": "Product Liability Policy",
+          "content": "Product Liability Policy provides coverage when the PRODUCT manufactured or sold by the insured causes DEATH, BODILY INJURY, or ILLNESS to a third party. Example: A food company's product causes food poisoning — third party's claim is covered under Product Liability Policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Employees' Compensation Policy",
+          "content": "Employees' Compensation Policy is a type of LIABILITY INSURANCE. It provides coverage to employees who suffer injury, disability, or death in the course of their employment. Exam Trap: When asked which category Employees' Compensation Policy belongs to — Answer = Liability Insurance (NOT fire, marine, or engineering).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "✈️ Aviation Insurance",
+      "cards": [
+        {
+          "title": "Aviation Insurance",
+          "content": "Aviation Insurance covers LOSS AND DAMAGE to AIRCRAFT. If a question asks which policy provides coverage for damage or loss to an aircraft — the answer is always AVIATION INSURANCE. It is a specialised commercial insurance product for aircraft owners and operators.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 4 Quick Memory",
+      "items": [
+        "Fire Policy Variants = Market Value, Reinstatement Value, Declaration Policy, Floater Policy.",
+        "Fire Policy Add-On NOT allowed = Bombing due to War. Flood + Earthquake + Fire = allowed as add-ons.",
+        "Consequential Loss Policy = Business Interruption = covers GROSS PROFIT loss. NOT goodwill, NOT wear and tear, NOT forex loss.",
+        "Burglary premium depends on = Security measures + Location + Nature of property = ALL of the above.",
+        "Money Insurance = Cash in hand, cheques, postal orders, stamps. NOT bank deposits, NOT mutual funds.",
+        "Money Insurance = 2 sections: Transit Section + Premises Section.",
+        "Fidelity Guarantee = Employer insures against FRAUD and DISHONESTY of EMPLOYEES.",
+        "Fidelity Guarantee types = Individual, Collective Floating, Positions Policy, Blanket Policy.",
+        "Bankers Indemnity = comprehensive cover for BANKS, NBFCs, financial institutions.",
+        "CAR = Contractors All Risk = Engineering Insurance (NOT fire, NOT life, NOT marine).",
+        "Hull = BODY OF THE SHIP. Marine Hull = covers the ship itself.",
+        "Marine Cargo = covers GOODS in transit = also called Voyage Policy.",
+        "Public Liability = 3rd party property damage OR personal injury by insured's activities.",
+        "Product Liability = 3rd party death/injury/illness caused by insured's PRODUCT.",
+        "Employees' Compensation Policy = belongs to LIABILITY INSURANCE category.",
+        "Aviation Insurance = covers loss/damage to AIRCRAFT.",
+        "Industrial All Risk = covers industrial properties where manufacturing AND storing happens."
+      ]
+    }
+  ]
+}

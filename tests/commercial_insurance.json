@@ -1,0 +1,188 @@
+{
+  "chapter_id": "commercial_insurance",
+  "chapter_title": "Chapter 4 (General Section): Commercial Insurance",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch04G_q01",
+      "text": "What does CAR stand for in Engineering Insurance?",
+      "options": [
+        "Motor Car",
+        "Contractors All Risk",
+        "Companies All Risk",
+        "Companies All Requirements"
+      ],
+      "correct_index": 1,
+      "explanation": "In Engineering Insurance, CAR stands for Contractors All Risk. The Contractors All Risk (CAR) Policy is a comprehensive engineering insurance policy that covers construction projects against all risks of physical loss or damage during the construction period. It is a variant of Engineering Insurance — not fire, life, or marine insurance."
+    },
+    {
+      "id": "ch04G_q02",
+      "text": "An employer insures himself against the dishonest acts of his employees under ________.",
+      "options": [
+        "Employees' Compensation Policy",
+        "Public Liability Insurance Policy",
+        "Fidelity Guarantee Insurance Policy",
+        "Declaration Policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Fidelity Guarantee Insurance Policy provides coverage to employers against financial losses suffered due to fraud and dishonesty of their own employees. If an employee commits fraud, embezzlement, or theft causing financial loss to the employer, the Fidelity Guarantee Policy compensates the employer. This is its primary and defining purpose."
+    },
+    {
+      "id": "ch04G_q03",
+      "text": "The term 'Hull' refers to ________.",
+      "options": [
+        "The body of the ship",
+        "The cargo inside the ship",
+        "The engine of the ship",
+        "The route of the ship"
+      ],
+      "correct_index": 0,
+      "explanation": "In marine insurance, 'Hull' refers to the physical body or structure of the ship itself — the outer shell and framework of the vessel. A Marine Hull Policy insures the ship's body/structure against damage. This is a direct and frequently tested fact: Hull = Body of the Ship."
+    },
+    {
+      "id": "ch04G_q04",
+      "text": "Which policy covers loss and damage to an Aircraft?",
+      "options": [
+        "Statutory Liability Policy",
+        "Property Insurance",
+        "Aviation Insurance",
+        "Money Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Aviation Insurance is the specialised policy that covers loss and damage to aircraft. Whenever a question involves an aircraft being damaged, lost, or destroyed, the answer is always Aviation Insurance. It is a specific commercial insurance product designed for aircraft owners, operators, and airlines."
+    },
+    {
+      "id": "ch04G_q05",
+      "text": "Fire Insurance Policy CANNOT cover damage to property — even as an add-on cover — due to ________.",
+      "options": [
+        "Flood",
+        "Earthquake",
+        "Fire",
+        "Bombing due to War"
+      ],
+      "correct_index": 3,
+      "explanation": "Flood, Earthquake, and standard Fire damage can all be included as add-on covers in a Fire Insurance Policy. However, damage caused by Bombing during a War situation is an absolute exclusion in fire insurance — it cannot be added as an add-on cover under any circumstances. War-related perils are universally excluded from standard insurance policies."
+    },
+    {
+      "id": "ch04G_q06",
+      "text": "The Consequential Loss Policy (Business Interruption Insurance) covers ________.",
+      "options": [
+        "Loss of profit due to damage to factory",
+        "Loss of goodwill",
+        "Material wear and tear in machinery",
+        "Losses due to foreign exchange fluctuations"
+      ],
+      "correct_index": 0,
+      "explanation": "The Consequential Loss Policy (also called Business Interruption Policy) provides coverage specifically for LOSS OF PROFIT that results from physical damage to a factory or business premises. For example, if a fire damages a factory and production stops, the resulting loss of profit is covered. Loss of goodwill, machinery wear and tear, and forex losses are NOT covered."
+    },
+    {
+      "id": "ch04G_q07",
+      "text": "The premium in a Burglary Insurance Policy depends upon ________.",
+      "options": [
+        "Security measures at the premises",
+        "Location of the premises",
+        "Nature of the property being insured",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "The premium for burglary insurance is determined by three key factors: (1) Security Measures — what safety systems, locks, guards are in place, (2) Location of the Premises — the area and neighbourhood, and (3) Nature of the Property — what type of goods or items are stored. All three together influence the burglary risk and hence the premium. Answer = All of the Above."
+    },
+    {
+      "id": "ch04G_q08",
+      "text": "The Contractors All Risk (CAR) Policy is a variant of ________.",
+      "options": [
+        "Fire Insurance",
+        "Life Insurance",
+        "Engineering Insurance",
+        "Marine Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "The Contractors All Risk (CAR) Policy is a variant of Engineering Insurance. Engineering Insurance covers all risks related to construction, erection, and machinery. CAR specifically covers construction projects. It is NOT a variant of fire, life, or marine insurance — even though construction sites do face fire and other risks."
+    },
+    {
+      "id": "ch04G_q09",
+      "text": "Employees' Compensation Policy is a type of ________.",
+      "options": [
+        "Liability Insurance",
+        "Fire Insurance",
+        "Marine Cargo Insurance",
+        "Engineering Insurance"
+      ],
+      "correct_index": 0,
+      "explanation": "Employees' Compensation Policy falls under the category of Liability Insurance. It provides coverage for employers in respect of their legal liability to pay compensation to employees who suffer injury, disability, or death in the course of employment. Since it deals with legal liability, it is classified as a Liability Insurance product."
+    },
+    {
+      "id": "ch04G_q10",
+      "text": "Money Insurance Policy covers ________.",
+      "options": [
+        "Cash in hand, cheques, and postal orders",
+        "Money invested in mutual funds",
+        "Money lying in the savings bank account",
+        "Money deposited with the post office"
+      ],
+      "correct_index": 0,
+      "explanation": "Money Insurance Policy covers cash and cash equivalents that are physically in possession — such as cash in hand, cheques, postal orders, and postal stamps. It does NOT cover money that is deposited or invested elsewhere (bank, mutual funds, post office). The key is that coverage applies only to money physically held on premises or in transit."
+    },
+    {
+      "id": "ch04G_q11",
+      "text": "Which of the following is a variant of a Fire Insurance Policy?",
+      "options": [
+        "Contractors All Risk Policy",
+        "Reinstatement Value Policy",
+        "Voyage Policy",
+        "Blanket Policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinstatement Value Policy is one of the four variants of a Fire Insurance Policy. The four fire policy variants are: Market Value Basis Policy, Reinstatement Value Policy, Declaration Policy, and Floater Policy. Contractors All Risk is engineering insurance, Voyage Policy is marine insurance, and Blanket Policy is a type of Fidelity Guarantee Insurance."
+    },
+    {
+      "id": "ch04G_q12",
+      "text": "Fidelity Guarantee Insurance provides coverage against ________.",
+      "options": [
+        "Damage to goods during transit",
+        "Fraud and dishonesty of employees causing financial loss to the employer",
+        "Loss of profit due to business interruption",
+        "Third party property damage"
+      ],
+      "correct_index": 1,
+      "explanation": "Fidelity Guarantee Insurance is specifically designed to protect employers from financial losses arising out of fraud, dishonesty, or breach of trust committed by their own employees. It does not cover transit losses (Marine), business interruption (Consequential Loss), or third-party property damage (Public Liability)."
+    },
+    {
+      "id": "ch04G_q13",
+      "text": "Bankers Indemnity Insurance Policy is designed to provide comprehensive cover to ________.",
+      "options": [
+        "Individual property owners",
+        "Banks, NBFCs, and financial institutions dealing in money",
+        "Construction contractors",
+        "Jewellers and gem traders"
+      ],
+      "correct_index": 1,
+      "explanation": "Bankers Indemnity Insurance is a specialised policy drafted exclusively for Banks, Non-Banking Financial Companies (NBFCs), and other institutions that deal in money and securities. It provides comprehensive protection for the unique risks these institutions face — including fraud, forgery, robbery, and employee dishonesty in the context of monetary operations."
+    },
+    {
+      "id": "ch04G_q14",
+      "text": "Under a Public Liability Policy, coverage is provided when ________.",
+      "options": [
+        "The insured's product causes illness to a third party",
+        "The insured's activities cause damage to third party's property or personal injury to a third party",
+        "An employee of the insured gets injured at work",
+        "The insured's factory machinery breaks down"
+      ],
+      "correct_index": 1,
+      "explanation": "A Public Liability Policy covers the insured's legal liability when their activities cause damage to a THIRD PARTY's property OR cause personal injury to a third party. This is distinct from Product Liability (which covers product-caused harm), Employees' Compensation (which covers employee injuries), or Engineering Insurance (which covers machinery breakdown)."
+    },
+    {
+      "id": "ch04G_q15",
+      "text": "Marine Cargo Policy is also known as ________.",
+      "options": [
+        "Hull Policy",
+        "Voyage Policy",
+        "Declaration Policy",
+        "Floater Policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Marine Cargo Policy is also called a Voyage Policy because it provides coverage for goods traveling from one place to another — i.e., during a voyage. It covers the cargo (goods) during transit by sea, air, or land. Hull Policy covers the ship's body. Declaration Policy and Floater Policy are variants of Fire Insurance — not marine."
+    }
+  ]
+}
