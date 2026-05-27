@@ -1,0 +1,188 @@
+{
+  "chapter_id": "general_insurance_claims",
+  "chapter_title": "Chapter 5 (General Section): General Insurance Claims",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch05G_q01",
+      "text": "Intimation of Loss to the insurer should be made ________.",
+      "options": [
+        "At the exact time of the loss",
+        "After 15 days of the loss",
+        "As soon as reasonably possible",
+        "Any time after the loss at the insured's convenience"
+      ],
+      "correct_index": 2,
+      "explanation": "The policy conditions require that any loss must be intimated to the insurer AS SOON AS REASONABLY POSSIBLE. This means the insured must notify the insurer promptly after the loss, without unreasonable delay. It is not required at the exact moment of loss (which may be impractical), but it must not be delayed indefinitely either."
+    },
+    {
+      "id": "ch05G_q02",
+      "text": "Investigation of the loss in an insurance claim is done by ________.",
+      "options": [
+        "An unlicensed surveyor",
+        "A Licensed and Qualified Surveyor",
+        "The insured's representative",
+        "Any person with a degree in engineering"
+      ],
+      "correct_index": 1,
+      "explanation": "The investigation of a loss in an insurance claim must be done by a Licensed and Qualified Surveyor — a professional who is licensed by IRDAI to assess insurance losses. An unlicensed surveyor, the insured's own representative, or simply a person with an engineering degree are not qualified or authorised to carry out an official loss assessment."
+    },
+    {
+      "id": "ch05G_q03",
+      "text": "For a Personal Accident Claim, the report of ________ is necessary.",
+      "options": [
+        "Surveyor",
+        "Doctor",
+        "Police",
+        "Insurance Company Officer"
+      ],
+      "correct_index": 1,
+      "explanation": "In case of a Personal Accident Claim, the DOCTOR'S REPORT is the most important and necessary document. Since the claim involves physical injury to a person, medical evidence is required to establish the nature, cause, and severity of the injury. The doctor's report confirms these medical facts and is mandatory for processing the claim."
+    },
+    {
+      "id": "ch05G_q04",
+      "text": "As per the Insurance Act, Independent Surveyors are required for claims equal to and above ________.",
+      "options": [
+        "₹40,000",
+        "₹15,000",
+        "₹20,000",
+        "₹5,000"
+      ],
+      "correct_index": 2,
+      "explanation": "According to the Insurance Act, an independent licensed professional surveyor is required for loss assessment when the claim amount is ₹20,000 or above. For claims below this threshold, the insurance company's own internal officer can carry out the investigation. This ₹20,000 limit is a directly tested exam fact."
+    },
+    {
+      "id": "ch05G_q05",
+      "text": "Claims made outside India under Travel Insurance policies are assessed by ________.",
+      "options": [
+        "Indian Surveyors",
+        "Local Surveyors in that foreign country",
+        "The Insurer's own employees",
+        "The Claims Settling Agent named in the policy"
+      ],
+      "correct_index": 3,
+      "explanation": "For claims made outside India — such as under a Travel Insurance policy — the assessment is done by the CLAIMS SETTLING AGENT NAMED IN THE POLICY. Indian surveyors, local surveyors of the foreign country, and the insurer's own employees are not the correct channels. The policy document itself will specify the claims settling agent responsible for handling overseas claims."
+    },
+    {
+      "id": "ch05G_q06",
+      "text": "In case of a Fire Claim, the report from the Fire Brigade is ________.",
+      "options": [
+        "Not required",
+        "Optional for the insured",
+        "Necessary",
+        "A part of the Police Report"
+      ],
+      "correct_index": 2,
+      "explanation": "In case of a fire claim, the Fire Brigade Report is NECESSARY. The fire brigade is typically the first authority at the scene and their official report documents the cause, spread, and extent of fire damage. It is a mandatory document for processing fire insurance claims — it is not optional, and it is a separate document from any police report."
+    },
+    {
+      "id": "ch05G_q07",
+      "text": "What does TAT stand for in the context of insurance claims?",
+      "options": [
+        "Time and Turn",
+        "Till a Time",
+        "Time and Tide",
+        "Turnaround Time"
+      ],
+      "correct_index": 3,
+      "explanation": "TAT stands for Turnaround Time. In the context of insurance claims management, TAT refers to the total time taken by the insurance company to process, assess, and settle a claim once all required documents are received. It is a key performance metric for measuring the efficiency and speed of an insurer's claims settlement process."
+    },
+    {
+      "id": "ch05G_q08",
+      "text": "After the payment of loss, the SALVAGE belongs to ________.",
+      "options": [
+        "The Surveyor",
+        "The Insured",
+        "The Insurer",
+        "The Local Authorities"
+      ],
+      "correct_index": 2,
+      "explanation": "Once the insurance company has paid the full claim for a total loss, the SALVAGE — the remains or leftover goods after the loss — belongs to the INSURER. This is a consequence of the principle of subrogation. The insurer pays the full loss, so they take over whatever value remains in the damaged goods or property."
+    },
+    {
+      "id": "ch05G_q09",
+      "text": "Arbitration is a claim settlement process done by ________.",
+      "options": [
+        "In the court of law",
+        "By a group of surveyors",
+        "By an Arbitrator chosen by both the parties involved",
+        "By insurance company's own employees"
+      ],
+      "correct_index": 2,
+      "explanation": "Arbitration is a private dispute resolution mechanism. It is conducted by an ARBITRATOR who is mutually agreed upon and chosen by BOTH parties — the insured and the insurer. It does not happen in a court of law, is not conducted by surveyors, and is not carried out by the insurance company's own employees. The arbitrator's decision is binding on both parties."
+    },
+    {
+      "id": "ch05G_q10",
+      "text": "Settlement of a claim is made only after obtaining a ________ under the policy.",
+      "options": [
+        "Claim Form",
+        "Survey Report",
+        "Police Report",
+        "Discharge Slip"
+      ],
+      "correct_index": 3,
+      "explanation": "The settlement of an insurance claim is made ONLY after obtaining a DISCHARGE SLIP signed by the insured. The discharge slip confirms that the insured has accepted the claim settlement amount and agrees not to make any further claims for the same incident. It formally closes the claim and protects the insurer from future claims on the same matter."
+    },
+    {
+      "id": "ch05G_q11",
+      "text": "The BIGGEST ADVERTISEMENT for an insurance company is ________.",
+      "options": [
+        "Launching new insurance products",
+        "Offering low premium rates",
+        "Settling claims professionally",
+        "Having a large agent network"
+      ],
+      "correct_index": 2,
+      "explanation": "Settling claims professionally and efficiently is considered the BIGGEST ADVERTISEMENT for an insurance company. It demonstrates the company's credibility, trustworthiness, and ability to honour its promise to the insured. A company that settles claims promptly and fairly builds the best reputation in the market — far more effectively than any conventional advertising."
+    },
+    {
+      "id": "ch05G_q12",
+      "text": "For large or complex claims, the insurance company appoints ________.",
+      "options": [
+        "The insured's own representative",
+        "An internal officer of the insurer",
+        "An independent licensed professional surveyor",
+        "A government inspector"
+      ],
+      "correct_index": 2,
+      "explanation": "For large or complex claims — especially those of ₹20,000 and above — the insurance company appoints an INDEPENDENT LICENSED PROFESSIONAL SURVEYOR who specialises in loss assessment. This external expert provides an unbiased, professional evaluation of the cause and quantum of loss. For smaller claims, the insurer's own internal officer handles the investigation."
+    },
+    {
+      "id": "ch05G_q13",
+      "text": "A Claim Form is designed to collect which of the following information?",
+      "options": [
+        "Date and Time of Loss only",
+        "Cause of Loss only",
+        "Complete information — including circumstances, date, time, cause, and extent of loss",
+        "Only the insured's personal details"
+      ],
+      "correct_index": 2,
+      "explanation": "A Claim Form is intended to capture COMPLETE information about the loss event. This includes: the circumstances under which the loss occurred, the date of loss, the time of loss, the cause of loss, and the full extent of the loss suffered. Partial information is not sufficient — the form must cover all these aspects for the insurer to properly assess the claim."
+    },
+    {
+      "id": "ch05G_q14",
+      "text": "Which of the following BEST describes Arbitration in insurance claims?",
+      "options": [
+        "A method of settling disputes arising out of insurance contracts through a mutually chosen arbitrator",
+        "A method of settling claims in a civil court of law",
+        "A process where the insurer's employees decide the claim amount",
+        "A survey process conducted by licensed surveyors"
+      ],
+      "correct_index": 0,
+      "explanation": "Arbitration is defined as the method of settling DISPUTES arising out of insurance contracts. It is an out-of-court process where both the insured and the insurer mutually choose and agree upon an Arbitrator who hears both sides and makes a binding decision. It is faster and less formal than court proceedings and is a commonly used mechanism for resolving insurance claim disputes."
+    },
+    {
+      "id": "ch05G_q15",
+      "text": "For which type of claim is a Police Report particularly important?",
+      "options": [
+        "Fire Claim",
+        "Personal Accident Claim",
+        "Motor Theft or Accident Claim",
+        "Marine Cargo Claim"
+      ],
+      "correct_index": 2,
+      "explanation": "A Police Report (FIR — First Information Report) is particularly important for Motor Insurance claims involving theft or road accidents. In such cases, the FIR filed with the police forms part of the mandatory claim documentation. For fire claims, the fire brigade report is required; for personal accident claims, the doctor's report is required. For marine cargo claims, a survey report is needed."
+    }
+  ]
+}

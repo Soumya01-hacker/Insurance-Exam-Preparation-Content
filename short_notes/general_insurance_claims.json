@@ -1,0 +1,152 @@
+{
+  "chapterId": "general_insurance_claims",
+  "title": "Chapter 5 (General Section): General Insurance Claims",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📌 Claims — Overview and Purpose",
+      "cards": [
+        {
+          "title": "What is a Claim in General Insurance?",
+          "content": "In common language, a Claim means COMPENSATION. The main objective of any insurance contract is the insurer's promise to provide PROTECTION and compensate the insured in case of a loss. Settling claims professionally is considered the BIGGEST ADVERTISEMENT for an insurance company — it reflects the company's credibility and trustworthiness.",
+          "color": "blue"
+        },
+        {
+          "title": "When to Intimate a Loss?",
+          "content": "According to policy conditions, a loss must be intimated to the insurer AS SOON AS REASONABLY POSSIBLE. It is NOT required at the exact moment of loss, not after 15 days, and not at any random time — the insured must inform the insurer promptly and without unreasonable delay. Exam Answer: Intimation of loss = As soon as reasonably possible.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔍 Investigation of Loss — Surveyors",
+      "cards": [
+        {
+          "title": "Small Claims — Who Investigates?",
+          "content": "For SMALL CLAIM amounts, the investigation to determine the cause and extent of loss is done by the OFFICER OF THE INSURER (the insurance company's own internal officer). No external surveyor is required for minor claims.",
+          "color": "blue"
+        },
+        {
+          "title": "Large Claims — Independent Licensed Surveyor",
+          "content": "For LARGER CLAIMS, an INDEPENDENT LICENSED PROFESSIONAL SURVEYOR who specialises in loss assessment is appointed. This surveyor is an external professional — not an employee of the insurance company. They provide an unbiased, expert assessment of the loss.",
+          "color": "blue"
+        },
+        {
+          "title": "Threshold for Independent Surveyor — ₹20,000 (Insurance Act)",
+          "content": "According to the Insurance Act, claims of ₹20,000 and ABOVE require an INDEPENDENT LICENSED SURVEYOR to assess the loss. Claims below ₹20,000 can be assessed internally by the insurer's own officer. This is a direct, frequently tested exam fact. Exam Answer: Independent surveyor required for claims = ₹20,000 and above.",
+          "color": "blue"
+        },
+        {
+          "title": "Investigation Done By — Key Answer",
+          "content": "Investigation of loss must be done by a LICENSED AND QUALIFIED SURVEYOR. It is NOT done by: an unlicensed surveyor, the insured's representative, or any person with just an engineering degree. The surveyor must be licensed by IRDAI to carry out loss assessment work.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Claim Form — Information Required",
+      "cards": [
+        {
+          "title": "What Information Goes in a Claim Form?",
+          "content": "A Claim Form is designed to collect COMPLETE information about the loss. It must include: (1) Circumstances of the loss — how it happened. (2) Date of Loss. (3) Time of Loss. (4) Cause of Loss — what caused the damage. (5) Extent of Loss — how much damage was done. All this information is mandatory for the insurer to assess and process the claim.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📄 Special Reports Required for Specific Claim Types",
+      "cards": [
+        {
+          "title": "Personal Accident Claim — Doctor's Report",
+          "content": "For a PERSONAL ACCIDENT CLAIM, the report of a DOCTOR is necessary. Since the claim involves physical injury to a person, medical evidence is essential. The doctor's report confirms the nature, severity, and cause of the injury. Exam Answer: 'For personal accident claim, whose report is necessary?' = Doctor's Report.",
+          "color": "blue"
+        },
+        {
+          "title": "Fire Claim — Fire Brigade Report",
+          "content": "For a FIRE CLAIM, the report from the FIRE BRIGADE is NECESSARY. The fire brigade is typically the first authority at the scene of a fire and their report officially documents the cause, spread, and extent of the fire damage. This report is mandatory — it is NOT optional, NOT part of the police report; it is its own essential document.",
+          "color": "blue"
+        },
+        {
+          "title": "Claims Outside India — Travel Insurance",
+          "content": "For claims made OUTSIDE INDIA (such as under Travel Insurance), the claim is assessed by the CLAIMS SETTLING AGENT NAMED IN THE POLICY. It is NOT handled by Indian surveyors, local surveyors of that country, or the insurer's own employees. The policy itself will name the specific claims settling agent responsible for that geography.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📑 Discharge Slip — Claim Settlement",
+      "cards": [
+        {
+          "title": "What is a Discharge Slip?",
+          "content": "A Discharge Slip is a document signed by the INSURED confirming that: (1) The claim has been settled to their satisfaction, and (2) They will NOT make any future claims on the same incident. The settlement of any claim is made ONLY AFTER the discharge slip has been obtained and signed. The discharge slip formally closes the claim. Exam Answer: 'Settlement of claim is made only after obtaining a _____ under the policy.' = Discharge Slip.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Salvage — Who Owns It?",
+      "cards": [
+        {
+          "title": "Who Does Salvage Belong To?",
+          "content": "SALVAGE refers to the remains or leftover goods/property after a loss has been paid by the insurer. Once the insurer has paid the full claim (compensated the insured for the total loss), the INSURER gets ownership of whatever salvage (remains) are left. This is part of the principle of subrogation. Exam Answer: 'After payment of loss, salvage belongs to ___' = INSURER.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Arbitration — Dispute Resolution",
+      "cards": [
+        {
+          "title": "What is Arbitration?",
+          "content": "Arbitration is the method of settling DISPUTES that arise out of insurance contracts when the insured and the insurer cannot agree on the claim settlement. It is NOT done in a court of law, NOT done by surveyors. Arbitration is done by an ARBITRATOR who is mutually chosen/agreed upon by BOTH PARTIES (insured and insurer). The arbitrator's decision is binding on both parties.",
+          "color": "blue"
+        },
+        {
+          "title": "Arbitration vs Court",
+          "content": "Arbitration is a private, out-of-court dispute settlement mechanism. It is faster, less formal, and less expensive than going to court. Both parties choose an arbitrator together and agree to be bound by the decision. This is very different from filing a case in a civil court.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏱️ TAT — Turnaround Time",
+      "cards": [
+        {
+          "title": "What is TAT?",
+          "content": "TAT stands for TURNAROUND TIME. In the context of insurance claims, TAT refers to the time taken by the insurance company to process and settle a claim from the point of receiving all documents. It is a measure of the insurer's efficiency in claims settlement. Exam Answer: 'TAT full form' = Turnaround Time.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 5 Quick Memory",
+      "items": [
+        "Claim = COMPENSATION in general insurance.",
+        "Biggest advertisement of insurance company = Professional Claims Settlement.",
+        "Loss intimation timing = As SOON AS REASONABLY POSSIBLE (not at exact time, not after 15 days).",
+        "Small claims investigation = Officer of the Insurer (internal).",
+        "Large claims investigation = Independent Licensed Professional Surveyor (external).",
+        "Independent surveyor required for claims = ₹20,000 AND ABOVE (as per Insurance Act).",
+        "Surveyor must be = Licensed and Qualified. NOT unlicensed, NOT insured's rep, NOT just an engineer.",
+        "Claim form must contain = Date + Time + Cause + Extent of Loss + Circumstances.",
+        "Personal Accident Claim report required = DOCTOR'S REPORT.",
+        "Fire Claim report required = FIRE BRIGADE REPORT (necessary, not optional).",
+        "Claims outside India (Travel Insurance) assessed by = CLAIMS SETTLING AGENT NAMED IN POLICY.",
+        "Settlement of claim = only after obtaining DISCHARGE SLIP signed by insured.",
+        "Discharge Slip = insured confirms claim settled, will not claim again for same incident.",
+        "Salvage (remains after loss paid) belongs to = INSURER.",
+        "Arbitration = done by ARBITRATOR chosen by BOTH PARTIES (not in court, not by surveyors).",
+        "TAT = TURNAROUND TIME."
+      ]
+    }
+  ]
+}
