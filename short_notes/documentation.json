@@ -1,0 +1,148 @@
+{
+  "chapterId": "documentation",
+  "title": "Chapter 7 (Common Section): Documentation",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📋 Prospectus — Insurance Product Document",
+      "cards": [
+        {
+          "title": "What is a Prospectus?",
+          "content": "A Prospectus is a document that contains complete information about an insurance plan or product. Whenever an insurance company launches a new insurance product, all details about that product are published in the Prospectus. Think of it like a school/college brochure — it tells you everything about what is being offered.",
+          "color": "blue"
+        },
+        {
+          "title": "What is included in a Prospectus?",
+          "content": "The Prospectus contains: (1) UIN — Unique Identification Number allotted by IRDAI to the product. (2) Benefits the policyholder will receive. (3) Whether the plan is Participatory (with-profits) or Non-Participatory (without-profits). (4) Terms, Conditions, Warranties, Exceptions, and Entitlements of the plan.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT in the Prospectus? (Exam Trap)",
+          "content": "The name of the Insurance Ombudsman (Lokpal) is NOT part of the insurance prospectus. The exam often gives options like UIN, benefits, exceptions, and 'name of Ombudsman' — the Ombudsman's name is not published in a product prospectus. Always pick that as the incorrect item.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Proposal Form — First Step of Insurance Contract",
+      "cards": [
+        {
+          "title": "What is a Proposal Form?",
+          "content": "A Proposal Form is the very first legal document filled out when a person wants to take an insurance policy. It initiates the process of forming an insurance contract between the insurer (insurance company) and the insured (customer). Filling the proposal form is called Primary Underwriting or Field Underwriting.",
+          "color": "blue"
+        },
+        {
+          "title": "Who is a Primary Underwriter?",
+          "content": "When the proposal form is filled, the process of evaluating and accepting or rejecting the risk is called Primary Underwriting. The Insurance Agent who assists in filling the proposal form is called the Primary Underwriter or Field Underwriter. This is a commonly tested fact in IC-38 exams.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Principles While Filling Proposal Form",
+          "content": "Two key principles must be followed when filling the proposal form: (1) Principle of Utmost Good Faith — both insurer and insured must share complete, true, and accurate information. (2) Duty of Disclosure — the insured must disclose all material facts relevant to the insurance contract. This duty applies BEFORE inception of the policy AND CONTINUOUSLY throughout the policy period.",
+          "color": "blue"
+        },
+        {
+          "title": "What Information is in the Proposal Form?",
+          "content": "The proposal form contains: (1) Details of the person being insured. (2) Type of insurance (subject matter). (3) Duration and term of the insurance. (4) Risks to be covered. (5) Details of the Nominee. It does NOT contain: amount expected to be claimed (future claim amount) OR details of the proposer's neighbours.",
+          "color": "blue"
+        },
+        {
+          "title": "IRDAI Proposal Processing Time (Exam Fact)",
+          "content": "According to IRDAI guidelines, an insurance company must process a submitted proposal form within 15 days. If asked 'how many days should the company process the proposal' — the answer is always 15 days.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🪪 KYC — Know Your Customer",
+      "cards": [
+        {
+          "title": "What is KYC?",
+          "content": "KYC stands for Know Your Customer. It is the process by which an insurance company verifies the identity of the person buying insurance. KYC documents are a mandatory part of the proposal form submission.",
+          "color": "blue"
+        },
+        {
+          "title": "KYC Documents Required",
+          "content": "KYC requires four types of proofs: (1) Proof of Identity — Driving Licence, Passport, Voter ID, PAN Card. (2) Proof of Address — Driving Licence, Passport, Telephone Bill, Electricity Bill, Bank Passbook. (3) Income Proof — shows financial status. (4) Age Proof — very important for premium calculation. Plus Photographs of the proposer. If asked 'What are KYC documents?' — answer is ALL OF THE ABOVE (photo + address + age proof).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🎂 Age Proof — Standard vs Non-Standard",
+      "cards": [
+        {
+          "title": "Standard Age Proof (Government-Issued)",
+          "content": "Standard Age Proof is issued by a public/government authority. It includes: Birth Certificate (issued by Municipality or Government Body), School Leaving Certificate or College Certificate, Passport, PAN Card, Defence ID Card (for defence personnel), Marriage Certificate issued by appropriate authority. These are considered RELIABLE and ACCEPTED by insurance companies without any loading on premium.",
+          "color": "blue"
+        },
+        {
+          "title": "Non-Standard Age Proof (Not Government-Issued)",
+          "content": "Non-Standard Age Proof is NOT issued by a public authority. It includes: Horoscope (Janampatri), Ration Card, Self-declared Affidavit, Village Panchayat Certificate. These are considered LESS RELIABLE — the insurance company may charge an extra premium (loading) when these are used as age proof. Exam Trap: Ration Card is NON-Standard, not Standard.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏛️ Insurance Policy — The Main Contract Document",
+      "cards": [
+        {
+          "title": "What is an Insurance Policy Document?",
+          "content": "The Insurance Policy is the formal document that serves as EVIDENCE of the insurance contract between the insured and the insurer. Once a proposal is accepted and premium is paid, the company issues a Policy Document. This is your legal proof that the insurance contract exists. Exam Question: 'Document that provides evidence of the contract of insurance is called ___' — Answer: Policy.",
+          "color": "blue"
+        },
+        {
+          "title": "What is a Cover Note?",
+          "content": "A Cover Note is a TEMPORARY document issued by the insurance company (used mostly in General/Non-Life Insurance) to the policyholder until the final Policy Document is prepared and delivered. Validity of Cover Note: Fortnightly (15 days), and in very rare cases up to 60 days maximum. Once the final policy is issued, the Cover Note becomes invalid.",
+          "color": "blue"
+        },
+        {
+          "title": "What is a Warranty?",
+          "content": "A Warranty is a condition that is: (1) Expressly stated (written) in the insurance policy, AND (2) Must also be communicated verbally to the client by the agent. So warranty is BOTH written in the policy AND needs to be explained to the customer. If asked 'What is a warranty?' — the answer includes BOTH options (A and B together).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚫 Anti-Money Laundering — PMLA 2002",
+      "cards": [
+        {
+          "title": "What is Money Laundering?",
+          "content": "Money Laundering is the process by which criminals convert their illegal (black) money into legal (white) money by introducing it into the formal economy. It includes: (1) Hiding the origin/source of illegal money. (2) Turning illegal money into legal money. (3) Bringing illegal money into the mainstream economy. Exam Tip: If all three options are given — the answer is ALL OF THE ABOVE.",
+          "color": "blue"
+        },
+        {
+          "title": "PMLA 2002 — Key Facts",
+          "content": "To combat money laundering, India enacted the Prevention of Money Laundering Act (PMLA) 2002. Important facts: (1) The Act was passed in 2002 but came into EFFECT in 2005. (2) IRDAI also has guidelines to ensure insurance money is legal. (3) Punishment under PMLA: Rigorous Imprisonment of 3 to 7 years PLUS fine of up to ₹5 lakh — or both. Exam Trap: The answer is BOTH imprisonment AND fine (All of the above).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 7 Quick Memory",
+      "items": [
+        "Prospectus = Complete product information. Contains: UIN, benefits, participatory/non-participatory, terms & conditions. Does NOT contain: Ombudsman's name.",
+        "Proposal Form is the FIRST document. Filling it = Primary Underwriting. Insurance Agent = Field Underwriter / Primary Underwriter.",
+        "Principle of Utmost Good Faith + Duty of Disclosure = Most important when filling proposal form.",
+        "Duty of Disclosure = applies BEFORE inception AND CONTINUOUSLY throughout the policy period.",
+        "Proposal processing time as per IRDAI = 15 days.",
+        "Proposal Form does NOT contain: neighbour's details, amount expected to be claimed.",
+        "KYC = Photo + Address Proof + Age Proof + Identity Proof + Income Proof. Answer = All of the above.",
+        "Standard Age Proof = Govt-issued: Passport, PAN, Birth Certificate, School Certificate, Defence ID, Marriage Certificate.",
+        "Non-Standard Age Proof = Horoscope, Ration Card, Affidavit, Village Panchayat Certificate.",
+        "Cover Note = Temporary document. Valid 15 days (fortnight), max 60 days. Only for general/non-life insurance.",
+        "Policy = Evidence of insurance contract (permanent, final document).",
+        "Warranty = Written in policy + Must be communicated verbally. Both A and B.",
+        "Money Laundering = hiding origin + converting illegal to legal + bringing into economy = ALL of the above.",
+        "PMLA 2002 passed in 2002, effective from 2005. Punishment = 3-7 years jail + fine up to ₹5 lakh = BOTH."
+      ]
+    }
+  ]
+}

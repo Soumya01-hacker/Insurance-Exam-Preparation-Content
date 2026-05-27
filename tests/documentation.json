@@ -1,0 +1,188 @@
+{
+  "chapter_id": "documentation",
+  "chapter_title": "Chapter 7 (Common Section): Documentation",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch07_q01",
+      "text": "Which of the following is NOT usually a part of an Insurance Prospectus?",
+      "options": [
+        "Name of the Insurance Ombudsman",
+        "Scope of Benefits",
+        "Entitlements under the plan",
+        "Exceptions under the plan"
+      ],
+      "correct_index": 0,
+      "explanation": "The Insurance Prospectus contains complete product information such as UIN, benefits, entitlements, exceptions, terms and conditions, and whether the plan is participatory or non-participatory. However, the name of the Insurance Ombudsman is NOT part of the insurance prospectus. It is a document specific to the product, not a regulatory complaint mechanism."
+    },
+    {
+      "id": "ch07_q02",
+      "text": "Which of the following is NOT relevant in respect of the Proposal Form?",
+      "options": [
+        "Principle of Utmost Good Faith",
+        "Amount Expected to be Claimed",
+        "Duty to Disclose Material Facts",
+        "Confidentiality of details given"
+      ],
+      "correct_index": 1,
+      "explanation": "The Proposal Form requires the principle of Utmost Good Faith, Duty to Disclose material facts, and confidentiality of the proposer's personal details. However, 'Amount Expected to be Claimed' is NOT relevant to the proposal form — claims are a future matter that arises only after a loss event. This information has no place in the proposal form."
+    },
+    {
+      "id": "ch07_q03",
+      "text": "The process of filling the Proposal Form is known as ________.",
+      "options": [
+        "Secondary Underwriting",
+        "Field Underwriting or Primary Underwriting",
+        "Risk Assessment",
+        "Policy Issuance"
+      ],
+      "correct_index": 1,
+      "explanation": "When the proposal form is filled, the process is called Primary Underwriting or Field Underwriting. The Insurance Agent who assists the customer in filling the proposal form is called the Primary Underwriter or Field Underwriter, as they are the first point of risk assessment on the ground."
+    },
+    {
+      "id": "ch07_q04",
+      "text": "The Duty of Disclosure in an insurance contract arises ________.",
+      "options": [
+        "Prior to inception of the policy only",
+        "After inception of the policy only",
+        "Before inception and continuously during the policy period",
+        "There is no such duty"
+      ],
+      "correct_index": 2,
+      "explanation": "The Duty of Disclosure is not a one-time obligation. It applies from before the policy is taken (at the time of filling the proposal form) and continues throughout the entire duration of the policy. Any new material facts that arise during the policy period must also be disclosed to the insurer."
+    },
+    {
+      "id": "ch07_q05",
+      "text": "According to IRDAI guidelines, an insurance company must process a submitted proposal form within ________.",
+      "options": [
+        "No time limit",
+        "1 week",
+        "1 day",
+        "15 days"
+      ],
+      "correct_index": 3,
+      "explanation": "As per IRDAI guidelines, once a proposal form is submitted to the insurance company, the company is required to process the proposal within 15 days. This is a frequently tested fact in IC-38 exams and must be remembered precisely."
+    },
+    {
+      "id": "ch07_q06",
+      "text": "Which of the following is an example of NON-Standard Age Proof?",
+      "options": [
+        "Passport",
+        "PAN Card",
+        "School Leaving Certificate",
+        "Ration Card"
+      ],
+      "correct_index": 3,
+      "explanation": "Standard Age Proof includes government-issued documents like Passport, PAN Card, Birth Certificate, and School Leaving Certificate. A Ration Card is considered Non-Standard Age Proof because it is not issued by a recognised public authority for the purpose of age verification and is therefore less reliable for insurance purposes."
+    },
+    {
+      "id": "ch07_q07",
+      "text": "Which of the following documents is NOT an example of Standard Age Proof?",
+      "options": [
+        "Birth Certificate issued by Municipality",
+        "Passport",
+        "Horoscope",
+        "PAN Card"
+      ],
+      "correct_index": 2,
+      "explanation": "A Horoscope (Janampatri) is classified as Non-Standard Age Proof because it is not issued by any government or public authority and cannot be independently verified. Standard Age Proof must be issued by a public authority — such as Birth Certificate, Passport, PAN Card, or School Certificate."
+    },
+    {
+      "id": "ch07_q08",
+      "text": "The validity of a Cover Note is usually for a period of ________.",
+      "options": [
+        "Fortnight (15 days), rarely up to 60 days",
+        "Up to 30 days",
+        "Up to 90 days",
+        "Up to 100 days"
+      ],
+      "correct_index": 0,
+      "explanation": "A Cover Note is a temporary insurance document issued until the final policy document is ready. Its standard validity is 15 days (a fortnight). In very rare and exceptional circumstances, it may extend up to 60 days, but never beyond that. Once the final policy document is issued, the Cover Note ceases to be valid."
+    },
+    {
+      "id": "ch07_q09",
+      "text": "A document that serves as evidence of the contract of insurance is called ________.",
+      "options": [
+        "Cover Note",
+        "Endorsement",
+        "Policy",
+        "Certificate of Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Policy document is the formal, legal evidence of the insurance contract between the insurer and the insured. It is the final and permanent document issued after the proposal is accepted and the first premium is paid. The Cover Note is only temporary and does not serve as the main evidence of the contract."
+    },
+    {
+      "id": "ch07_q10",
+      "text": "A Warranty in an insurance policy means ________.",
+      "options": [
+        "A condition expressly stated in the policy",
+        "A condition that must be communicated verbally to the client",
+        "Both A and B",
+        "None of the above"
+      ],
+      "correct_index": 2,
+      "explanation": "A Warranty is a condition that is: (1) expressly stated in writing in the insurance policy, and (2) also needs to be communicated verbally by the agent to the client. Both elements together define what a warranty is in the context of insurance documentation. Hence, the correct answer includes both A and B."
+    },
+    {
+      "id": "ch07_q11",
+      "text": "What does the term 'Money Laundering' mean?",
+      "options": [
+        "Process of hiding the origin of money",
+        "Turning illegal money into legal money",
+        "Bringing illegal money into the economy",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Money Laundering refers to the entire process criminals use to make their illegally earned money appear legitimate. This includes: hiding where the money came from, converting black money to white money, and introducing it into the mainstream financial economy. All three options describe aspects of money laundering — hence All of the Above is correct."
+    },
+    {
+      "id": "ch07_q12",
+      "text": "The Prevention of Money Laundering Act (PMLA) 2002 provides for a punishment of ________.",
+      "options": [
+        "Rigorous imprisonment of 3 to 7 years",
+        "Fine of up to ₹5 lakh",
+        "None",
+        "Both A and B"
+      ],
+      "correct_index": 3,
+      "explanation": "Under PMLA 2002, which came into effect in 2005, a person found guilty of money laundering can face: rigorous imprisonment of 3 to 7 years AND/OR a fine of up to ₹5 lakh. Both punishments can be applied together. The correct answer is therefore Both A and B."
+    },
+    {
+      "id": "ch07_q13",
+      "text": "What are KYC documents in the context of insurance?",
+      "options": [
+        "Photograph only",
+        "Address proof only",
+        "Age proof only",
+        "All of the above — Photograph, Address Proof, and Age Proof"
+      ],
+      "correct_index": 3,
+      "explanation": "KYC (Know Your Customer) requires multiple documents: Photograph of the proposer, Proof of Identity (Passport, Voter ID, PAN), Proof of Address (Electricity Bill, Passport, Bank Passbook), Income Proof, and Age Proof. When the question asks broadly about KYC documents, the answer is All of the Above — covering all these categories together."
+    },
+    {
+      "id": "ch07_q14",
+      "text": "A completed Proposal Form broadly gives information about all EXCEPT ________.",
+      "options": [
+        "Details of the Insured",
+        "Details of the Subject Matter",
+        "Details of the Neighbours",
+        "Details of the Nominee"
+      ],
+      "correct_index": 2,
+      "explanation": "A completed Proposal Form contains details of the insured (proposer), the subject matter (what is being insured), the nominee (who receives the benefit), and the type and term of coverage. The details of the proposer's neighbours are completely irrelevant to an insurance contract and are never included in a proposal form."
+    },
+    {
+      "id": "ch07_q15",
+      "text": "Which of the following is an example of Standard Age Proof?",
+      "options": [
+        "Horoscope",
+        "Village Panchayat Certificate",
+        "Ration Card",
+        "Passport"
+      ],
+      "correct_index": 3,
+      "explanation": "Standard Age Proof is issued by a recognised government or public authority. A Passport is a government-issued document and is therefore a Standard Age Proof. Horoscope, Village Panchayat Certificate, and Ration Card are all examples of Non-Standard Age Proof as they are not issued by a public authority with official verification of birth date."
+    }
+  ]
+}
