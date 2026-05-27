@@ -1,0 +1,188 @@
+{
+  "chapter_id": "what_life_insurance_involves",
+  "chapter_title": "Chapter 1 (Life Section): What Life Insurance Involves",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch01L_q01",
+      "text": "Which of the following is NOT an element of Life Insurance business?",
+      "options": [
+        "Assets",
+        "Risk",
+        "Principle of Mutuality",
+        "Subsidy"
+      ],
+      "correct_index": 3,
+      "explanation": "Assets, Risk, and Principle of Mutuality are all core elements of Life Insurance business. Subsidy means a financial grant given by the government — it has no connection whatsoever to insurance business. Hence, Subsidy is the correct answer."
+    },
+    {
+      "id": "ch01L_q02",
+      "text": "Who devised the concept of Human Life Value (HLV)?",
+      "options": [
+        "Prof. Adam Smith",
+        "Prof. Warren Buffett",
+        "Prof. S.S. Huebner",
+        "Prof. John Maynard Keynes"
+      ],
+      "correct_index": 2,
+      "explanation": "The concept of Human Life Value (HLV) was introduced by Professor S.S. Huebner. HLV is a traditional method used to determine how much life insurance coverage is needed by an individual based on their income-generating capacity."
+    },
+    {
+      "id": "ch01L_q03",
+      "text": "Which among the following CANNOT be termed as an Asset?",
+      "options": [
+        "Car",
+        "Human Life",
+        "Air",
+        "House"
+      ],
+      "correct_index": 2,
+      "explanation": "Air is a natural gift freely available to everyone — rich or poor. It has no personal economic value and cannot be owned by any individual. Therefore, Air cannot be categorized as an asset. Car, Human Life, and House all have economic value and can be insured."
+    },
+    {
+      "id": "ch01L_q04",
+      "text": "Which of the following CANNOT be categorized under 'Risk' in life insurance?",
+      "options": [
+        "Dying Too Young",
+        "Dying Too Early",
+        "Natural Wear and Tear",
+        "Living with Disability"
+      ],
+      "correct_index": 2,
+      "explanation": "Natural Wear and Tear refers to the gradual deterioration of a person or object over time due to natural ageing — it is a predictable, natural process and is NOT considered a risk. Dying Too Young, Dying Too Early, and Living with Disability are all risk categories covered under Life Insurance."
+    },
+    {
+      "id": "ch01L_q05",
+      "text": "Which of the following statements is CORRECT regarding Life and General Insurance policies?",
+      "options": [
+        "Life Insurance policies are contracts of Indemnity while General Insurance policies are contracts of Assurance",
+        "Life Insurance policies are contracts of Assurance while General Insurance policies are contracts of Indemnity",
+        "Both Life and General Insurance are contracts of Indemnity",
+        "Both Life and General Insurance are contracts of Assurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Life Insurance policies are Contracts of Assurance — the event (death) is certain, only the timing is uncertain, so the insurer assures payment. General Insurance policies (motor, health, fire) are Contracts of Indemnity — they compensate for actual loss suffered and expire yearly. Reversing these is a very common exam trap."
+    },
+    {
+      "id": "ch01L_q06",
+      "text": "Which among the following methods is a traditional method that helps to determine the insurance needed by an individual?",
+      "options": [
+        "Risk Pooling Method",
+        "Probability Theory",
+        "Human Life Value (HLV)",
+        "Needs Analysis Method"
+      ],
+      "correct_index": 2,
+      "explanation": "Human Life Value (HLV) is the traditional method used to determine how much life insurance coverage an individual needs. It is based on a person's current income, age, number of dependents, and future income potential. It was introduced by Prof. S.S. Huebner."
+    },
+    {
+      "id": "ch01L_q07",
+      "text": "Which of the following is the MOST appropriate explanation for why young people are charged a lesser Life Insurance premium compared to older people?",
+      "options": [
+        "Young people have more assets",
+        "Young people have more liabilities",
+        "Mortality is related to Age",
+        "Young people earn less income"
+      ],
+      "correct_index": 2,
+      "explanation": "Mortality (death rate) is directly related to Age. As a person grows older, they move closer to death, meaning the mortality risk increases with age. Therefore, older individuals are charged higher premiums because they carry a greater mortality risk, while younger individuals pay lower premiums."
+    },
+    {
+      "id": "ch01L_q08",
+      "text": "Which of the following is NOT an advantage of a Cash Value Insurance Contract?",
+      "options": [
+        "Safe and Secure Investment",
+        "Inculcates Saving Discipline",
+        "Lower Yields",
+        "Income Tax Advantage"
+      ],
+      "correct_index": 2,
+      "explanation": "Lower Yields is a DISADVANTAGE of cash value insurance contracts, not an advantage. Life insurance policies typically offer lower returns compared to market-linked investments. Safe Investment, Saving Discipline, and Income Tax Advantage are all genuine benefits of life insurance contracts."
+    },
+    {
+      "id": "ch01L_q09",
+      "text": "Which of the following is an advantage of a Cash Value Insurance Contract?",
+      "options": [
+        "Returns subjected to the eroding effect of inflation",
+        "Low accumulation in early years",
+        "Lower Yields",
+        "Secure Investment"
+      ],
+      "correct_index": 3,
+      "explanation": "Secure Investment is a genuine advantage of Cash Value Insurance Contracts. The money invested through insurance premiums is protected and safe. Options A, B, and C describe disadvantages or limitations of insurance as an investment vehicle."
+    },
+    {
+      "id": "ch01L_q10",
+      "text": "During which stage of life will an individual appreciate their past savings the MOST?",
+      "options": [
+        "Post-Retirement",
+        "Earner (Working Stage)",
+        "Learner (Student Stage)",
+        "Just Married"
+      ],
+      "correct_index": 0,
+      "explanation": "Post-Retirement is the stage when a person has no active income. All living expenses must be met from savings accumulated during their working years. This is when past savings are most valued and needed to sustain daily life and meet medical or emergency expenses."
+    },
+    {
+      "id": "ch01L_q11",
+      "text": "Pooling of Risk in insurance means ________.",
+      "options": [
+        "Premium collected and deposited in a pool",
+        "All similar risks are pooled together",
+        "Premium is pooled to make claims",
+        "Contribution of the insurance company"
+      ],
+      "correct_index": 1,
+      "explanation": "Pooling of Risk means all similar types of risks are grouped (pooled) together by the insurer. For example, all individuals with life insurance policies have pooled their life risks together with the insurer. When a loss occurs to any one insured, it is compensated from this pool of premiums."
+    },
+    {
+      "id": "ch01L_q12",
+      "text": "Who CANNOT be covered under a Family Floater Policy?",
+      "options": [
+        "Children",
+        "Spouse",
+        "Parents-in-law",
+        "Maternal Uncle"
+      ],
+      "correct_index": 3,
+      "explanation": "A Family Floater Policy can only cover the proposer, their Spouse, Dependent Children, Parents, and Parents-in-law. Extended family members such as Maternal Uncle, Aunt, Cousins, or any other relative cannot be included in a Family Floater Policy."
+    },
+    {
+      "id": "ch01L_q13",
+      "text": "The younger the age of an individual, their liabilities will be ________.",
+      "options": [
+        "Lower",
+        "Higher",
+        "Smarter",
+        "Superior"
+      ],
+      "correct_index": 0,
+      "explanation": "At a younger age, a person typically has fewer financial responsibilities — no home loan, fewer dependents, less family obligations. Therefore, liabilities (financial responsibilities) are LOWER when age is younger. As age increases, liabilities such as education expenses, home loans, and family needs tend to grow."
+    },
+    {
+      "id": "ch01L_q14",
+      "text": "Mr. Shant is in his early 20s and has just started earning. His Risk Appetite is expected to be ________.",
+      "options": [
+        "High",
+        "Low",
+        "Normal",
+        "Neutral"
+      ],
+      "correct_index": 0,
+      "explanation": "A person in their early 20s who has just started earning has LOW liabilities, a LONG investment horizon, and sufficient time to recover from financial setbacks. Per IC-38 syllabus (Financial Planning chapter), young age corresponds to an Aggressive risk profile, which means HIGH risk appetite. Note: Some transcripts incorrectly state LOW — the correct and syllabus-verified answer is HIGH."
+    },
+    {
+      "id": "ch01L_q15",
+      "text": "The timing of death is uncertain. So when should one take Life Insurance?",
+      "options": [
+        "At the time of uncertainty",
+        "At an Early Age",
+        "Any time in life",
+        "At the time when the advisor takes the decision"
+      ],
+      "correct_index": 1,
+      "explanation": "Since the timing of death cannot be predicted, one should take Life Insurance at an Early Age. Taking insurance early ensures lower premium rates (as mortality risk is lower at young age), longer coverage period, and immediate protection for the family in case of any unforeseen event."
+    }
+  ]
+}
