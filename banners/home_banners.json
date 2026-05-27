@@ -1,6 +1,16 @@
 {
   "banners": [
     {
+      "id": "banner_irdai_career",
+      "title": "",
+      "subtitle": "",
+      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_irdai.png",
+      "action_target": "",
+      "gradient_start": "0F172A",
+      "gradient_end": "1E3A8A",
+      "icon": "school"
+    },
+    {
       "id": "banner_female_success",
       "title": "",
       "subtitle": "",
