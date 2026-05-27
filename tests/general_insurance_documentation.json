@@ -1,0 +1,188 @@
+{
+  "chapter_id": "general_insurance_documentation",
+  "chapter_title": "Chapter 1 (General Section): General Insurance Documentation",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch01G_q01",
+      "text": "The first stage of documentation in the insurance process is ________.",
+      "options": [
+        "Policy Document",
+        "Cover Note",
+        "Proposal Form",
+        "Certificate of Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "The Proposal Form is the FIRST stage of documentation. It is the form through which the insured informs the insurer about themselves and the subject matter they wish to insure. All other documents — Cover Note, Policy Document, Certificate — come after the proposal form is submitted and processed."
+    },
+    {
+      "id": "ch01G_q02",
+      "text": "The maximum limit of liability of the Insurer under the policy is called ________.",
+      "options": [
+        "Sum Insured",
+        "Premium",
+        "Surrender Value",
+        "Amount of Loss"
+      ],
+      "correct_index": 0,
+      "explanation": "The Sum Insured is the maximum amount that the insurer is legally obligated to pay under an insurance policy. The insurer will not pay more than this amount regardless of the actual loss suffered. It is the ceiling of the insurer's liability."
+    },
+    {
+      "id": "ch01G_q03",
+      "text": "The consideration or price paid by the Insured under the insurance contract is called ________.",
+      "options": [
+        "Claim Amount",
+        "Surrender Value",
+        "Maturity Amount",
+        "Premium"
+      ],
+      "correct_index": 3,
+      "explanation": "Premium is the consideration (price) paid by the Insured to the Insurer in exchange for insurance coverage. It is the cost of the insurance contract. Premium payments keep the policy active and in force."
+    },
+    {
+      "id": "ch01G_q04",
+      "text": "A document which provides evidence of a Contract of Insurance is called ________.",
+      "options": [
+        "Policy Document",
+        "Cover Note",
+        "Proposal Form",
+        "Warranty"
+      ],
+      "correct_index": 0,
+      "explanation": "The Policy Document is the formal, official document that provides evidence that a contract of insurance exists between the insurer and the insured. It contains all terms, conditions, exclusions, and coverage details of the insurance contract."
+    },
+    {
+      "id": "ch01G_q05",
+      "text": "A Material Fact is significant in insurance because it ________.",
+      "options": [
+        "Increases the premium automatically",
+        "Reduces the insurer's liability",
+        "Influences the decision of the Underwriter",
+        "Makes the policy non-cancellable"
+      ],
+      "correct_index": 2,
+      "explanation": "A Material Fact is any information about the insured subject that is important enough to influence the Underwriter's decision — whether to accept the risk, and on what terms and at what premium. Concealing or misrepresenting a material fact can void the insurance contract."
+    },
+    {
+      "id": "ch01G_q06",
+      "text": "A Fire Insurance Proposal seeks to know ________.",
+      "options": [
+        "Process of manufacturing",
+        "Details of material stored",
+        "Construction of the building",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "A Fire Insurance Proposal requires information about all three: (1) Process of manufacturing (what activities happen on the premises), (2) Details of material stored (combustible materials increase fire risk), and (3) Construction of the building (brick, wood, etc. affects fire susceptibility). All three are essential for underwriting a fire insurance risk."
+    },
+    {
+      "id": "ch01G_q07",
+      "text": "Premium CANNOT be received by which of the following modes?",
+      "options": [
+        "In Cash",
+        "By Cheque",
+        "By Promissory Note",
+        "By Credit Card"
+      ],
+      "correct_index": 2,
+      "explanation": "Premium can be received by Cash, Cheque, Online transfer, and Credit Card. However, a Promissory Note (a written promise to pay at a future date) is NOT an accepted mode of premium payment. Insurance requires actual payment, not a promise of future payment."
+    },
+    {
+      "id": "ch01G_q08",
+      "text": "The Certificate of Motor Insurance must ________.",
+      "options": [
+        "Be kept at home always",
+        "Be submitted to IRDAI",
+        "Be kept in the car always",
+        "Be kept in a bank locker"
+      ],
+      "correct_index": 2,
+      "explanation": "The Certificate of Motor Insurance must always be kept inside the vehicle (car). It must be available for inspection by police or road transport authorities at any time. Keeping it at home, in a locker, or anywhere else is not sufficient — the law requires it to be present in the vehicle."
+    },
+    {
+      "id": "ch01G_q09",
+      "text": "A Warranty in an insurance policy is ________.",
+      "options": [
+        "A condition expressly stated in the policy only",
+        "A condition that has to be complied with only",
+        "Both: a condition expressly stated in the policy AND must be complied with",
+        "None of the above"
+      ],
+      "correct_index": 2,
+      "explanation": "A Warranty is both: (A) a condition expressly stated in the policy document itself, AND (B) a condition that must be literally complied with for the validity of the insurance contract. Both aspects apply simultaneously — it is written in the policy AND must be followed."
+    },
+    {
+      "id": "ch01G_q10",
+      "text": "The Renewal Notice for Motor Insurance is issued by ________.",
+      "options": [
+        "The Insured (policyholder)",
+        "The Insurer, before expiry of the policy",
+        "IRDAI",
+        "The Insurance Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "The Renewal Notice for Motor Insurance is issued by the Insurer (insurance company). It is sent to the policyholder BEFORE the expiry of the existing policy to remind them to renew. This ensures continuous coverage without any gap in protection."
+    },
+    {
+      "id": "ch01G_q11",
+      "text": "As per IRDAI guidelines, an insurance company must process an insurance proposal within ________.",
+      "options": [
+        "7 Days",
+        "15 Days",
+        "30 Days",
+        "45 Days"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI guidelines, an insurance company must process (accept or reject) an insurance proposal within 15 Days. This timeframe ensures that prospective policyholders receive a timely response and are not left without coverage unnecessarily."
+    },
+    {
+      "id": "ch01G_q12",
+      "text": "A Cover Note is issued when ________.",
+      "options": [
+        "The insured fails to pay premium",
+        "Preparation of the policy document is pending",
+        "The policy has been cancelled",
+        "A claim has been made"
+      ],
+      "correct_index": 1,
+      "explanation": "A Cover Note is a temporary insurance document issued when the actual policy document has not yet been prepared (preparation is pending). It serves as proof that insurance coverage has started even before the formal policy document is ready. It is commonly used in Marine and Motor Insurance."
+    },
+    {
+      "id": "ch01G_q13",
+      "text": "An Insurance Agent acts as an Intermediary and is also known as ________.",
+      "options": [
+        "Secondary Underwriter",
+        "Primary Underwriter",
+        "Chief Actuary",
+        "Risk Manager"
+      ],
+      "correct_index": 1,
+      "explanation": "An Insurance Agent acts as an Intermediary between the Insurer and the Insured. The agent is also called a Primary Underwriter because they perform the initial assessment of the prospective insured's risk before the proposal is forwarded to the insurance company for formal underwriting."
+    },
+    {
+      "id": "ch01G_q14",
+      "text": "The process of scrutinizing the proposal and deciding about its acceptance is known as ________.",
+      "options": [
+        "Endorsement",
+        "Renewal",
+        "Underwriting",
+        "Documentation"
+      ],
+      "correct_index": 2,
+      "explanation": "Underwriting is the formal process in which the insurance company carefully examines (scrutinizes) the proposal form and all related information, and decides whether to accept or reject the risk, and on what terms and at what premium rate."
+    },
+    {
+      "id": "ch01G_q15",
+      "text": "If an insured wants to make changes to the terms and conditions of an existing insurance policy, the process is called ________.",
+      "options": [
+        "Warranty",
+        "Renewal",
+        "Cover Note",
+        "Endorsement"
+      ],
+      "correct_index": 3,
+      "explanation": "Endorsement is the process of making modifications, additions, or deletions to the terms and conditions of an existing insurance policy. It allows changes to be made within the limits permitted by the insurer without cancelling and reissuing the entire policy."
+    }
+  ]
+}

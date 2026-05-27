@@ -1,0 +1,161 @@
+{
+  "chapterId": "general_insurance_documentation",
+  "title": "Chapter 1 (General Section): General Insurance Documentation",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📋 Types of Forms and Documents in Insurance",
+      "cards": [
+        {
+          "title": "Complete List of Insurance Documents",
+          "content": "The key documents used in the insurance process are: (1) Proposal Form, (2) Acceptance of Proposal, (3) Premium Receipt, (4) Cover Note, (5) Certificate of Insurance, (6) Policy Document, (7) Warranties, (8) Endorsement, (9) Interpretation of Policies, (10) Renewal Notice.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Proposal Form — First Stage of Documentation",
+      "cards": [
+        {
+          "title": "What is a Proposal Form?",
+          "content": "The Proposal Form is the FIRST stage of documentation. It is the form through which the insured informs the insurer about themselves and the subject matter they wish to insure. Without a properly completed proposal form, no insurance contract can begin.",
+          "color": "blue"
+        },
+        {
+          "title": "Elements Included in a Proposal Form",
+          "content": "A proposal form typically contains: (1) Proposer's full name, (2) Address and contact details, (3) Proposer's profession/occupation, (4) Sum Insured, (5) Previous and present insurance details, (6) Loss experience history, (7) Declaration by the insured (signed at the end).",
+          "color": "blue"
+        },
+        {
+          "title": "Declaration in Proposal Form",
+          "content": "The Insurance Company usually adds a Declaration at the END of the Proposal Form. This declaration is signed by the Insured (proposer). It confirms that all information provided is true and complete.",
+          "color": "blue"
+        },
+        {
+          "title": "Role of Agent in Proposal Stage",
+          "content": "An Insurance Agent acts as an Intermediary between the Insurer and the Insured. The agent is also known as the Primary Underwriter — they perform the first-level assessment of the risk before the proposal reaches the insurance company.",
+          "color": "blue"
+        },
+        {
+          "title": "Material Fact",
+          "content": "Material Fact refers to all information about the subject matter being insured that is important for the underwriting decision. A material fact is significant because it INFLUENCES the decision of the Underwriter — whether to accept the risk, and at what premium rate.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔍 Underwriting Process",
+      "cards": [
+        {
+          "title": "What is Underwriting?",
+          "content": "Underwriting is the process of scrutinizing (carefully examining) the proposal and deciding whether to accept or reject it, and at what terms and premium. It is done by the insurance company after receiving the proposal from the agent.",
+          "color": "blue"
+        },
+        {
+          "title": "Time Limit for Processing Proposal",
+          "content": "As per IRDAI guidelines, an Insurance Company must process an insurance proposal within 15 Days. This is a specific number frequently tested in exams — do not confuse with 7, 30, or 45 days.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💵 Premium — Key Facts",
+      "cards": [
+        {
+          "title": "Definition of Premium",
+          "content": "Premium is the consideration (price) paid by the Insured to the Insurer for insuring the subject matter of insurance under a contract. It is the price of insurance coverage.",
+          "color": "blue"
+        },
+        {
+          "title": "Maximum Limit of Insurer's Liability",
+          "content": "The maximum amount that the insurer is liable to pay under a policy is called the Sum Insured. This is the ceiling of the insurer's obligation — they will not pay more than the Sum Insured under any circumstances.",
+          "color": "blue"
+        },
+        {
+          "title": "How Premium Can Be Paid",
+          "content": "Premium can be paid by: Cash, Online/Digital transfer, Cheque, or Credit Card. Premium CANNOT be paid by Promissory Note. A promissory note is a written promise to pay, which is not accepted as a valid mode of premium payment.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📄 Key Insurance Documents — Cover Note, Certificate, Policy",
+      "cards": [
+        {
+          "title": "Cover Note",
+          "content": "A Cover Note is a temporary document issued when the preparation of the policy document is still pending (not yet ready). It serves as proof that insurance coverage has begun. Cover Notes are generally used in Marine Insurance and Motor Insurance businesses.",
+          "color": "blue"
+        },
+        {
+          "title": "Certificate of Insurance",
+          "content": "A Certificate of Insurance is a document that shows that an insurance policy has been written and is in force. It is proof of the existence of an insurance policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Certificate of Motor Insurance — Where to Keep It?",
+          "content": "The Certificate of Motor Insurance must always be kept in the car (vehicle). It must be available for inspection by police or road transport authorities at any time. It is NOT sufficient to keep it at home or in a bank locker.",
+          "color": "blue"
+        },
+        {
+          "title": "Policy Document",
+          "content": "The Policy Document is the formal, official document that provides EVIDENCE of the Contract of Insurance. It contains all the terms and conditions of the insurance coverage. It is more comprehensive than the Cover Note or Certificate.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📌 Warranty and Endorsement",
+      "cards": [
+        {
+          "title": "Warranty",
+          "content": "A Warranty is a condition expressly stated in the Policy Document itself. It must be literally complied with for the validity of the contract to be maintained. A Warranty is not a separate document — it is written within the policy document or cover note. Both conditions must apply: it must be in the policy AND it must be complied with.",
+          "color": "blue"
+        },
+        {
+          "title": "Endorsement",
+          "content": "Endorsement is the process of making modifications or changes to the terms and conditions of an existing insurance policy. If the insured wants to alter any aspect of their policy (within permitted limits), this change is done through an endorsement.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔔 Renewal Notice",
+      "cards": [
+        {
+          "title": "Renewal Notice for Motor Insurance",
+          "content": "The Renewal Notice for Motor Insurance is issued by the Insurer (insurance company). It is sent to the policyholder BEFORE the expiry of the existing policy, reminding them to renew their coverage. If not renewed, the policy lapses and the vehicle has no coverage.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "First stage of documentation = Proposal Form.",
+        "Declaration at END of Proposal Form = Signed by the Insured.",
+        "Agent = Intermediary between Insurer and Insured = Primary Underwriter.",
+        "Underwriting = Process of scrutinizing proposal and deciding acceptance.",
+        "Material Fact = Influences the decision of the Underwriter.",
+        "Premium = Consideration paid by Insured to Insurer.",
+        "Sum Insured = Maximum limit of the insurer's liability under the policy.",
+        "Premium CANNOT be paid by Promissory Note. Can be paid by Cash, Cheque, Online, Credit Card.",
+        "Cover Note = Temporary document issued when policy preparation is pending. Used in Marine and Motor Insurance.",
+        "Policy Document = Formal evidence of contract of insurance.",
+        "Certificate of Motor Insurance = Must be kept IN THE CAR at all times.",
+        "Warranty = Condition stated inside the policy; must be complied with.",
+        "Endorsement = Process of making changes to an existing policy.",
+        "Renewal Notice = Issued by Insurer, before expiry of policy.",
+        "Insurance company must process proposal within 15 Days (as per IRDAI guidelines).",
+        "Fire Proposal requires: Process of manufacturing + Details of material stored + Construction of building — ALL of the above."
+      ]
+    }
+  ]
+}
