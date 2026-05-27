@@ -1,0 +1,188 @@
+{
+  "chapter_id": "life_insurance_products_non_traditional",
+  "chapter_title": "Chapter 4 (Life Section): Life Insurance Products — Non-Traditional",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "L_ch04_q01",
+      "text": "Which of the following is a NON-TRADITIONAL life insurance product?",
+      "options": [
+        "Term Insurance",
+        "Universal Life Insurance",
+        "Endowment Insurance",
+        "Whole Life Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Universal Life Insurance is a NON-TRADITIONAL life insurance product. Term Insurance, Endowment Insurance, and Whole Life Insurance are all TRADITIONAL products. Non-traditional products invest in markets for higher growth and provide insurance simultaneously."
+    },
+    {
+      "id": "L_ch04_q02",
+      "text": "Universal Life Insurance was first introduced in which country and in which year?",
+      "options": [
+        "United Kingdom in 1985",
+        "India in 1956",
+        "United States (USA) in 1979",
+        "Germany in 1975"
+      ],
+      "correct_index": 2,
+      "explanation": "Universal Life Insurance was first introduced in the UNITED STATES (USA) in 1979. This is a critical fact for the IRDAI IC-38 exam. In India, Universal Life Insurance is regulated and sold under the name Variable Insurance Products (VIP)."
+    },
+    {
+      "id": "L_ch04_q03",
+      "text": "As per IRDAI regulations, all Universal Life Insurance products in India are known as:",
+      "options": [
+        "ULIP",
+        "Variable Insurance Products (VIP)",
+        "Both ULIP and Variable Insurance Products",
+        "None of the above"
+      ],
+      "correct_index": 1,
+      "explanation": "As per IRDAI regulations, all Universal Life Insurance products in India are known as VARIABLE INSURANCE PRODUCTS (VIP). ULIP is a separate non-traditional product (introduced from the UK), while VIP is the Indian equivalent of Universal Life Insurance from the USA."
+    },
+    {
+      "id": "L_ch04_q04",
+      "text": "Which of the following is an INCORRECT statement about Variable Life Insurance?",
+      "options": [
+        "Variable Life Insurance is a permanent life insurance policy",
+        "Variable Life Insurance is a TEMPORARY life insurance policy",
+        "The policy has a cash value account",
+        "The policy provides a minimum death benefit guarantee"
+      ],
+      "correct_index": 1,
+      "explanation": "The INCORRECT statement is that 'Variable Life Insurance is a temporary life insurance policy.' Variable Life Insurance is a PERMANENT life insurance policy — it is not temporary. It has a cash value account and guarantees a minimum death benefit."
+    },
+    {
+      "id": "L_ch04_q05",
+      "text": "In Variable Life Insurance, if the cash value becomes ZERO, what happens to the policy?",
+      "options": [
+        "It is converted into a term insurance policy",
+        "It remains continuous",
+        "It is surrendered with partial refund",
+        "It is terminated (the policy ends)"
+      ],
+      "correct_index": 3,
+      "explanation": "In Variable Life Insurance, if the cash value drops to ZERO, the policy gets TERMINATED — it comes to an end. The policy does not convert to another type or remain continuous once the cash value is fully depleted."
+    },
+    {
+      "id": "L_ch04_q06",
+      "text": "Which of the following is NOT a characteristic of Variable Life Insurance?",
+      "options": [
+        "Cash value is not guaranteed",
+        "Policy owner selects where the savings reserve is invested",
+        "Flexible premium payments",
+        "Minimum death benefit is guaranteed"
+      ],
+      "correct_index": 2,
+      "explanation": "FLEXIBLE PREMIUM PAYMENTS is NOT a characteristic of Variable Life Insurance. Flexible premium is a feature of UNIVERSAL LIFE INSURANCE. Variable Life Insurance has a fixed premium structure. Its features include: non-guaranteed cash value, policyholder-selected investments, and a guaranteed minimum death benefit."
+    },
+    {
+      "id": "L_ch04_q07",
+      "text": "Who is MOST LIKELY to purchase Variable Life Insurance?",
+      "options": [
+        "People seeking fixed guaranteed returns",
+        "People who are risk-averse and not comfortable with equity",
+        "Knowledgeable people who are comfortable with equity investments",
+        "Young people in general"
+      ],
+      "correct_index": 2,
+      "explanation": "Variable Life Insurance is most suitable for KNOWLEDGEABLE individuals who are COMFORTABLE WITH EQUITY (stock market investments). Since the cash value is linked to market performance and is not guaranteed, financial awareness and comfort with market risk is essential."
+    },
+    {
+      "id": "L_ch04_q08",
+      "text": "ULIP (Unit Linked Insurance Plan) was first introduced in which country?",
+      "options": [
+        "USA",
+        "India",
+        "United Kingdom (UK)",
+        "France"
+      ],
+      "correct_index": 2,
+      "explanation": "ULIP (Unit Linked Insurance Plan) was first introduced in the UNITED KINGDOM (UK). It is now the most popular non-traditional life insurance product in India, as it combines market-linked investment growth with life insurance protection."
+    },
+    {
+      "id": "L_ch04_q09",
+      "text": "In a ULIP, the INVESTMENT RISK is borne by:",
+      "options": [
+        "The Insurer (Insurance Company)",
+        "The Insured (Policyholder)",
+        "IRDAI",
+        "Both Insurer and Insured equally"
+      ],
+      "correct_index": 1,
+      "explanation": "In ULIP, the INVESTMENT RISK is entirely borne by the INSURED (policyholder/customer). If the market goes up, the insured benefits. If the market falls, the insured bears the loss. The insurance company does NOT guarantee unit values and has no responsibility for market performance."
+    },
+    {
+      "id": "L_ch04_q10",
+      "text": "The units in a ULIP can be purchased through:",
+      "options": [
+        "Single Premium only",
+        "Regular Premium only",
+        "Either Single Premium or Regular Premium",
+        "Neither — units are assigned free of charge"
+      ],
+      "correct_index": 2,
+      "explanation": "Units in a ULIP can be purchased by paying EITHER a Single Premium (lump sum) OR Regular Premium (periodic payments). The flexibility of both payment modes is a feature of ULIP plans."
+    },
+    {
+      "id": "L_ch04_q11",
+      "text": "The special feature of ULIP that allows a policyholder to move their investment from one fund to another is called:",
+      "options": [
+        "Transfer",
+        "Switching",
+        "Assignment",
+        "Loan"
+      ],
+      "correct_index": 1,
+      "explanation": "SWITCHING is the special feature in ULIP that allows the policyholder to CHANGE from one fund type to another — for example, from an equity fund to a debt fund or vice versa. This provides flexibility to manage investments based on market conditions and personal goals."
+    },
+    {
+      "id": "L_ch04_q12",
+      "text": "Which of the following is INCORRECT regarding ULIP?",
+      "options": [
+        "The unit holder can choose between different types of funds",
+        "The life insurer provides a guarantee on unit values",
+        "Units can be purchased by single premium and by regular premium",
+        "ULIP policy structure is transparent regarding insurance and expense components"
+      ],
+      "correct_index": 1,
+      "explanation": "The INCORRECT statement is that 'the life insurer provides a guarantee on unit values.' In ULIP, NO guarantee is provided on unit values because the investment is market-linked. The insured bears all investment risk. The other three statements are correct features of ULIP."
+    },
+    {
+      "id": "L_ch04_q13",
+      "text": "As per IRDAI norms, which of the following non-traditional life insurance products are PERMITTED in India?",
+      "options": [
+        "ULIP only",
+        "Variable Insurance Products only",
+        "Both ULIP and Variable Insurance Products",
+        "Neither — only traditional products are permitted"
+      ],
+      "correct_index": 2,
+      "explanation": "IRDAI permits BOTH non-traditional products in India: (1) UNIT LINKED INSURANCE PLANS (ULIP) and (2) VARIABLE INSURANCE PRODUCTS (VIP — which are the Indian equivalent of Universal Life Insurance). Both can be sold and purchased in the Indian market."
+    },
+    {
+      "id": "L_ch04_q14",
+      "text": "Non-traditional products are also known as:",
+      "options": [
+        "Unbundled Products",
+        "Bundled Products",
+        "ULIP",
+        "Annuity Products"
+      ],
+      "correct_index": 0,
+      "explanation": "Non-traditional products are also known as UNBUNDLED PRODUCTS because the protection and saving components are SEPARATED and shown transparently. Traditional products are called BUNDLED products because the two elements are mixed together and not separately visible."
+    },
+    {
+      "id": "L_ch04_q15",
+      "text": "What does UNBUNDLING of a life insurance product refer to?",
+      "options": [
+        "Combining both protection and saving elements together",
+        "Adding more riders to an existing plan",
+        "Converting a term plan into a whole life plan",
+        "Separation of the protection element and the saving element"
+      ],
+      "correct_index": 3,
+      "explanation": "UNBUNDLING refers to the SEPARATION of the PROTECTION ELEMENT and the SAVING ELEMENT in a life insurance product, making each component's cost and value clearly visible and transparent. This is the defining characteristic of non-traditional (unbundled) products."
+    }
+  ]
+}

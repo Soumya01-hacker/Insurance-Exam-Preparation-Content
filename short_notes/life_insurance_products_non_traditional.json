@@ -1,0 +1,135 @@
+{
+  "chapterId": "life_insurance_products_non_traditional",
+  "title": "Chapter 4 (Life Section): Life Insurance Products — Non-Traditional",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🔄 Traditional vs Non-Traditional — Key Difference",
+      "cards": [
+        {
+          "title": "Why Non-Traditional Plans Were Created",
+          "content": "In traditional plans, the saving part grows slowly. The young generation has an AGGRESSIVE risk profile and wants to grow their money FASTER. Understanding this need, NON-TRADITIONAL plans were created — they invest money in MARKETS for higher growth AND also provide insurance cover simultaneously.",
+          "color": "blue"
+        },
+        {
+          "title": "Bundled vs Unbundled Products",
+          "content": "Traditional Plans = BUNDLED Products (protection and saving components are mixed together, not separately visible). Non-Traditional Plans = UNBUNDLED Products (protection and saving are SEPARATED and TRANSPARENT — you can see exactly how much goes to insurance and how much to investment).",
+          "color": "blue"
+        },
+        {
+          "title": "3 Advantages of Non-Traditional over Traditional",
+          "content": "(1) INFLATION BEATING RETURNS — market-linked returns beat inflation over time. (2) TRANSPARENCY — charges and components are clearly visible. (3) FLEXIBILITY — premium payment, fund choice, and death benefit can be adjusted. All three are reasons why people prefer non-traditional products.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🌍 Universal Life Insurance",
+      "cards": [
+        {
+          "title": "Origin of Universal Life Insurance",
+          "content": "Universal Life Insurance was first introduced in the UNITED STATES (USA) in 1979. This is a frequently asked exam fact — country: USA, year: 1979.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Features of Universal Life Insurance",
+          "content": "(1) It is a PERMANENT life insurance policy (not temporary). (2) Has FLEXIBLE PREMIUM payment — insured can vary the premium. (3) Has FLEXIBLE FACE AMOUNT — sum assured can be adjusted. (4) Has FLEXIBLE DEATH BENEFIT amounts. (5) Has a CASH VALUE component. All three — premium, face amount, and death benefit — are flexible.",
+          "color": "blue"
+        },
+        {
+          "title": "Universal Life Insurance in India — VIP",
+          "content": "In India, Universal Life Insurance products are regulated and sold under the name VARIABLE INSURANCE PRODUCTS (VIP). IRDAI uses this term for all universal life insurance products in the Indian market. So: Universal Life Insurance (USA) = Variable Insurance Products (India).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📈 Variable Life Insurance",
+      "cards": [
+        {
+          "title": "What is Variable Life Insurance?",
+          "content": "Variable Life Insurance is a type of WHOLE LIFE INSURANCE (permanent) in which: (1) The cash value is linked to market performance — NOT GUARANTEED. (2) The policyholder SELECTS where the savings reserve is invested. (3) A MINIMUM DEATH BENEFIT is GUARANTEED. If the cash value becomes ZERO, the policy gets TERMINATED.",
+          "color": "blue"
+        },
+        {
+          "title": "Features of Variable Life Insurance",
+          "content": "(1) Permanent life insurance — NOT temporary. (2) Has a Cash Value Account — but its value is NOT guaranteed. (3) Policyholder selects the investment fund. (4) Minimum death benefit is GUARANTEED. (5) FLEXIBLE PREMIUM is NOT a feature of Variable Life Insurance (unlike Universal Life).",
+          "color": "blue"
+        },
+        {
+          "title": "Who Buys Variable Life Insurance?",
+          "content": "Variable Life Insurance is most likely to be purchased by KNOWLEDGEABLE people who are COMFORTABLE WITH EQUITY (stock market investments). It requires financial awareness because the cash value depends on market performance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔗 ULIP — Unit Linked Insurance Plans",
+      "cards": [
+        {
+          "title": "Origin of ULIP",
+          "content": "ULIP (Unit Linked Insurance Plan) was first introduced in the UNITED KINGDOM (UK). It is currently the MOST POPULAR non-traditional plan — replacing many traditional plans as people prefer market-linked returns combined with insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Features of ULIP",
+          "content": "(1) Investment is made in MARKETS through UNITS — hence called 'Unit Linked'. (2) Units can be purchased by SINGLE PREMIUM payment OR REGULAR PREMIUM payment. (3) Policyholder can choose between DIFFERENT TYPES OF FUNDS (equity, debt, balanced). (4) Policy structure is TRANSPARENT — all charges are visible. (5) Insurer provides NO GUARANTEE on unit values — market risk is borne by the insured.",
+          "color": "blue"
+        },
+        {
+          "title": "Investment Risk in ULIP — WHO BEARS IT?",
+          "content": "In ULIP, the INVESTMENT RISK (market risk) is borne entirely by the INSURED (policyholder/customer). The insurance company has NO role in the market ups and downs. If the market goes up — insured gains. If it goes down — insured bears the loss. The insurer does NOT guarantee unit values.",
+          "color": "blue"
+        },
+        {
+          "title": "Fund Switching in ULIP",
+          "content": "SWITCHING is the special feature in ULIP that allows the policyholder to CHANGE from one fund to another. For example, moving from an equity fund to a debt fund. This feature gives the policyholder flexibility to manage their investment based on market conditions.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Non-Traditional Plans Permitted in India",
+      "cards": [
+        {
+          "title": "IRDAI Permitted Non-Traditional Plans in India",
+          "content": "As per IRDAI norms, the two non-traditional life insurance products PERMITTED in India are: (1) UNIT LINKED INSURANCE PLAN (ULIP) and (2) VARIABLE INSURANCE PRODUCTS (VIP). Both are allowed to be sold in the Indian market.",
+          "color": "blue"
+        },
+        {
+          "title": "Unbundling of Life Insurance Products",
+          "content": "UNBUNDLING means the SEPARATION of the PROTECTION ELEMENT and the SAVING ELEMENT from each other in a life insurance product. Non-traditional products are called 'unbundled' because each component's cost and value are clearly and separately visible to the customer.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 4 Life (Quick Memory)",
+      "items": [
+        "Traditional = BUNDLED products. Non-Traditional = UNBUNDLED products.",
+        "3 advantages of non-traditional over traditional: Inflation-beating returns + Transparency + Flexibility.",
+        "Universal Life Insurance: started in USA in 1979.",
+        "Universal Life Insurance features: PERMANENT policy + Flexible Premium + Flexible Face Amount + Flexible Death Benefit.",
+        "In India, Universal Life Insurance = VARIABLE INSURANCE PRODUCTS (VIP) — per IRDAI.",
+        "Variable Life Insurance: PERMANENT (not temporary), cash value NOT guaranteed, minimum death benefit IS guaranteed.",
+        "Variable Life Insurance: policyholder selects where savings are invested.",
+        "Variable Life Insurance does NOT have flexible premium (unlike Universal Life).",
+        "If cash value in Variable Life = ZERO → policy gets TERMINATED.",
+        "Variable Life Insurance is bought by KNOWLEDGEABLE people comfortable with EQUITY.",
+        "ULIP: introduced first in UK.",
+        "ULIP: most popular non-traditional plan today.",
+        "ULIP: investment risk borne by INSURED — insurer gives NO guarantee on unit values.",
+        "ULIP: units can be bought via SINGLE PREMIUM or REGULAR PREMIUM.",
+        "ULIP: SWITCHING = feature to change from one fund to another.",
+        "IRDAI permits 2 non-traditional plans in India: ULIP + Variable Insurance Products.",
+        "Unbundling = separation of protection element and saving element."
+      ]
+    }
+  ]
+}
