@@ -485,7 +485,8 @@
                 "Difference Between Life Insurance and General Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/what_life_insurance_involves.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/what_life_insurance_involves.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/what_life_insurance_involves.json",
+              "short_notes_url": "short_notes/what_life_insurance_involves.json"
             },
             {
               "id": "financial_planning",
