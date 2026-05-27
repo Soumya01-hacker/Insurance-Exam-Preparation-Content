@@ -1,0 +1,169 @@
+{
+  "chapterId": "financial_planning",
+  "title": "Chapter 2 (Life Section): Financial Planning",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📊 What is Financial Planning?",
+      "cards": [
+        {
+          "title": "Definition of Financial Planning",
+          "content": "Financial Planning is a process that involves three steps: (1) Identifying a person's life goals — what they want to achieve in life. (2) Translating those goals into Financial Goals — calculating how much money is needed. (3) Managing one's finances in a way that helps achieve those goals.",
+          "color": "blue"
+        },
+        {
+          "title": "Best Time to Start Financial Planning",
+          "content": "The best time to start Financial Planning is as soon as a person receives their first salary. Waiting until post-retirement, after becoming rich, or after marriage means losing valuable time for savings and investment growth.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧩 Five Elements of Financial Planning",
+      "cards": [
+        {
+          "title": "1. Investment",
+          "content": "Deciding how much money to invest and in which instruments — where to put money so that it grows over time.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Risk Management",
+          "content": "Managing the risks that are always present in life. Insurance is the primary tool for risk management — it provides financial protection against unforeseen events.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Retirement Planning",
+          "content": "Planning finances in advance so that after retirement (when active income stops), a person has enough money saved to live comfortably for the rest of their life.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Tax Planning",
+          "content": "Legally arranging finances to minimize tax burden. The objective of Tax Planning is maximum tax benefit, reduced tax burden through prudent investments, and full coverage of tax breaks. Tax Evasion (illegally avoiding tax) is NOT an objective — it is a crime.",
+          "color": "blue"
+        },
+        {
+          "title": "5. Financial Needs",
+          "content": "Fulfilling current financial needs alongside long-term goals. A person must balance present needs (food, housing, education) with future goals (retirement, wealth building).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💼 Three Types of Financial Products",
+      "cards": [
+        {
+          "title": "1. Transactional Products",
+          "content": "Products in which regular transactions (deposits and withdrawals) take place. Example: Bank Deposits, Savings Accounts, Fixed Deposits. These are used for day-to-day financial management and savings.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Contingency Products",
+          "content": "Products that provide financial protection at the time of an unforeseen event or emergency. Example: Life Insurance. These products address the need for protection Against Uncertainties — not for cash management or wealth creation.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Wealth Accumulation Products",
+          "content": "Products designed to grow wealth — create more money in less time. Examples: Shares (Equities), High Yielding Bonds, Real Estate. These carry higher risk but offer potential for higher returns.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance is NOT a Wealth Accumulation Product",
+          "content": "Insurance is a Contingency Product, not a Wealth Accumulation Product. Its primary purpose is protection against risk and uncertainty — not making money. Insurance Purchase is also NOT a strategy to maximize discretionary income.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Risk Profile and Investment Style — Four Life Stages",
+      "cards": [
+        {
+          "title": "Stage 1: Aggressive Risk Profile → Accumulation Investment Style",
+          "content": "Young Age. A person at this stage takes high risk and aims to accumulate maximum wealth quickly. Investment style is focused on wealth accumulation — putting money into high-growth assets.",
+          "color": "blue"
+        },
+        {
+          "title": "Stage 2: Progressive Risk Profile → Consolidation Investment Style",
+          "content": "Age around 30s. The person becomes slightly more cautious. They want safe and secure investments. Investment style shifts to Consolidation — building a strong, stable financial base.",
+          "color": "blue"
+        },
+        {
+          "title": "Stage 3: Secured Risk Profile → Spending Investment Style",
+          "content": "Middle Age. The person begins spending accumulated wealth — on children's education, home purchase, family needs. Investment style is focused on Spending (using accumulated wealth for life goals).",
+          "color": "blue"
+        },
+        {
+          "title": "Stage 4: Conservative Risk Profile → Gifting and Charity Investment Style",
+          "content": "Near Retirement. The person takes very little risk. They accumulate money to gift to children, grandchildren, or donate to charity. Investment style is focused on Gifting and Charity.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📈 Inflation — Key Concepts",
+      "cards": [
+        {
+          "title": "What is Inflation?",
+          "content": "Inflation is the rise in the general level of prices of goods and services in an economy over a period of time. When inflation occurs, the same amount of money buys fewer goods and services than before.",
+          "color": "blue"
+        },
+        {
+          "title": "Effects of Inflation — TRUE statements",
+          "content": "1. Inflation leads to a rise in prices. 2. Inflation means erosion (reduction) of money value. 3. Inflation plays havoc (is destructive) — when inflation is very high, it damages the economy and hurts ordinary people.",
+          "color": "blue"
+        },
+        {
+          "title": "INCORRECT Statement About Inflation (Exam Trap)",
+          "content": "WRONG: 'Inflation means more purchasing power.' This is FALSE. Inflation REDUCES purchasing power — money buys LESS when prices rise. If inflation rises, people become more careful with spending, not less. Never select 'more purchasing power' as an effect of inflation.",
+          "color": "blue"
+        },
+        {
+          "title": "Investment Horizon and Returns",
+          "content": "Greater Investment Horizon (longer time period of investment) = Larger Returns. This is a direct positive relationship. Investing for longer gives more time for compounding and growth.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Insurance Planning — What is Included and Excluded",
+      "cards": [
+        {
+          "title": "What is Part of Insurance Planning?",
+          "content": "Insurance Planning includes: Life Insurance, Protection of Assets (Property Insurance, Vehicle Insurance), Health Insurance. All types of insurance coverage for life, health, and assets fall under insurance planning.",
+          "color": "blue"
+        },
+        {
+          "title": "What does NOT form part of Insurance Planning?",
+          "content": "Housing Loans do NOT form part of Insurance Planning. A housing loan is a financial liability taken to purchase property — it is part of debt management or financial planning, but NOT insurance planning.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "Financial Planning = Identifying goals + Translating to financial goals + Managing finances.",
+        "Best time to start Financial Planning = As soon as one gets FIRST SALARY.",
+        "5 Elements: Investment, Risk Management, Retirement Planning, Tax Planning, Financial Needs.",
+        "Tax Evasion is NOT an objective of Tax Planning — it is illegal.",
+        "3 Financial Products: Transactional (Bank Deposits), Contingency (Life Insurance), Wealth Accumulation (Shares, Bonds, Real Estate).",
+        "Insurance = Contingency Product. Provides protection against uncertainties. NOT a wealth accumulation product.",
+        "4 Risk Profiles: Aggressive → Progressive → Secured → Conservative.",
+        "4 Investment Styles: Accumulation → Consolidation → Spending → Gifting and Charity.",
+        "Young age = Aggressive risk profile = Accumulation investment style.",
+        "Near retirement = Conservative risk profile = Gifting and Charity investment style.",
+        "Inflation = Rise in prices = EROSION of money value = LESS purchasing power (NOT more).",
+        "Greater Investment Horizon = Larger Returns.",
+        "Insurance Purchase is NOT a strategy to maximize discretionary income.",
+        "Housing Loans do NOT form part of Insurance Planning.",
+        "Contingency Products address UNCERTAINTIES — not cash needs or wealth creation."
+      ]
+    }
+  ]
+}

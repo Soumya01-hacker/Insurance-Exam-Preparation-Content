@@ -1,0 +1,188 @@
+{
+  "chapter_id": "financial_planning",
+  "chapter_title": "Chapter 2 (Life Section): Financial Planning",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch02L_q01",
+      "text": "Which among the following would you recommend in order to seek protection against unforeseen events?",
+      "options": [
+        "Insurance",
+        "Transactional Product like Bank FD",
+        "Shares",
+        "Debentures"
+      ],
+      "correct_index": 0,
+      "explanation": "Insurance is a Contingency Product designed specifically to provide financial protection against unforeseen (unexpected) events. Bank FDs, Shares, and Debentures are savings or investment instruments — they do not provide protection against life risks or emergencies."
+    },
+    {
+      "id": "ch02L_q02",
+      "text": "When is the BEST time to start Financial Planning?",
+      "options": [
+        "Post-Retirement",
+        "As soon as one gets their first salary",
+        "After Marriage",
+        "Only after one gets rich"
+      ],
+      "correct_index": 1,
+      "explanation": "The best time to start Financial Planning is as soon as a person receives their first salary. Starting early allows maximum time for investment growth, compounding, and building a strong financial foundation. Waiting until after marriage, retirement, or becoming rich means losing valuable time."
+    },
+    {
+      "id": "ch02L_q03",
+      "text": "Which among the following is NOT an objective of Tax Planning?",
+      "options": [
+        "Maximum Tax Benefit",
+        "Reduced Tax Burden through prudent investments",
+        "Tax Evasion",
+        "Full coverage of Tax Breaks"
+      ],
+      "correct_index": 2,
+      "explanation": "Tax Evasion (illegally hiding income or avoiding tax payment) is NOT an objective of Tax Planning — it is a criminal offense. Tax Planning involves legally arranging finances to minimize tax liability through permitted exemptions, deductions, and investments. Maximum benefit, reduced burden, and using tax breaks are all legal and valid objectives."
+    },
+    {
+      "id": "ch02L_q04",
+      "text": "An individual with an Aggressive risk profile is likely to follow which investment style?",
+      "options": [
+        "Consolidation",
+        "Spending",
+        "Accumulation",
+        "Gifting and Charity"
+      ],
+      "correct_index": 2,
+      "explanation": "An Aggressive risk profile corresponds to a young person who takes high risks to accumulate maximum wealth. The investment style for this profile is Accumulation — focusing on building wealth as quickly as possible through high-growth assets. Consolidation = Progressive, Spending = Secured, Gifting = Conservative."
+    },
+    {
+      "id": "ch02L_q05",
+      "text": "What is the relationship between Investment Horizon and Returns?",
+      "options": [
+        "Longer horizon, lower returns",
+        "Greater Investment Horizon, larger the Returns",
+        "Investment horizon has no effect on returns",
+        "Returns depend only on the amount invested"
+      ],
+      "correct_index": 1,
+      "explanation": "There is a direct positive relationship between Investment Horizon and Returns. The longer the period of investment, the more time the money has to compound and grow, resulting in larger returns. This is a fundamental principle of long-term investing."
+    },
+    {
+      "id": "ch02L_q06",
+      "text": "Which among the following can be categorized under Transactional Products?",
+      "options": [
+        "Bank Deposits",
+        "Life Insurance",
+        "Shares",
+        "Real Estate"
+      ],
+      "correct_index": 0,
+      "explanation": "Transactional Products are those in which regular transactions (deposits and withdrawals) take place. Bank Deposits (including savings accounts and fixed deposits) are classic examples. Life Insurance is a Contingency Product. Shares and Real Estate are Wealth Accumulation Products."
+    },
+    {
+      "id": "ch02L_q07",
+      "text": "Which among the following can be categorized under Contingency Products?",
+      "options": [
+        "Shares",
+        "Life Insurance",
+        "Bank Fixed Deposits",
+        "Real Estate"
+      ],
+      "correct_index": 1,
+      "explanation": "Contingency Products provide financial protection when an unforeseen event or emergency occurs. Life Insurance is the primary example of a Contingency Product — it pays out when an insured event (death, disability) happens. Shares and Real Estate are Wealth Accumulation Products. Bank FDs are Transactional Products."
+    },
+    {
+      "id": "ch02L_q08",
+      "text": "Which of the following can be categorized under Wealth Accumulation Products?",
+      "options": [
+        "Bank Deposits",
+        "Life Insurance",
+        "Government Bonds with low yield",
+        "Shares"
+      ],
+      "correct_index": 3,
+      "explanation": "Wealth Accumulation Products are designed to grow wealth — they aim to generate higher returns, though with higher risk. Shares (equities), high-yielding bonds, and real estate are classic Wealth Accumulation Products. Bank Deposits are Transactional and Life Insurance is a Contingency Product."
+    },
+    {
+      "id": "ch02L_q09",
+      "text": "__________ is the rise in the general level of prices of goods and services in an economy over a period of time.",
+      "options": [
+        "Deflation",
+        "Inflation",
+        "Stagflation",
+        "Recession"
+      ],
+      "correct_index": 1,
+      "explanation": "Inflation is defined as the sustained rise in the general price level of goods and services in an economy over time. As inflation rises, the purchasing power of money falls — the same money buys fewer goods. Deflation is the opposite (falling prices). Recession refers to economic contraction."
+    },
+    {
+      "id": "ch02L_q10",
+      "text": "Which of the following is NOT a strategy to maximize Discretionary Income?",
+      "options": [
+        "Debt Restructuring",
+        "Loan Transfer",
+        "Investment Restructuring",
+        "Insurance Purchase"
+      ],
+      "correct_index": 3,
+      "explanation": "Discretionary Income is the money left after paying for essential expenses and taxes. Strategies to maximize it include restructuring debt (Debt Restructuring), transferring loans to lower interest rates (Loan Transfer), and reorganizing investments (Investment Restructuring). Insurance Purchase is a risk management tool — its primary purpose is protection, not increasing discretionary income."
+    },
+    {
+      "id": "ch02L_q11",
+      "text": "Contingency Products typically address which type of need?",
+      "options": [
+        "Cash Requirement",
+        "Against Uncertainties",
+        "Wealth Creation",
+        "All of the above"
+      ],
+      "correct_index": 1,
+      "explanation": "Contingency Products (like Life Insurance) address the need for protection Against Uncertainties — unforeseen events like death, accident, disability, or medical emergency. They are NOT designed for routine cash management or wealth creation. They provide financial security when the unexpected happens."
+    },
+    {
+      "id": "ch02L_q12",
+      "text": "At young age, one tends to be ________.",
+      "options": [
+        "Progressive",
+        "Aggressive",
+        "Secured",
+        "Conservative"
+      ],
+      "correct_index": 1,
+      "explanation": "At young age, a person has low financial liabilities, a long investment horizon, and the ability to take financial risks. This results in an Aggressive risk profile — the person is willing to take higher risks for potentially higher returns. This corresponds to the Accumulation investment style."
+    },
+    {
+      "id": "ch02L_q13",
+      "text": "When one is near their Retirement years, the risk profile of an individual could be ________.",
+      "options": [
+        "Progressive",
+        "Aggressive",
+        "Secured",
+        "Conservative"
+      ],
+      "correct_index": 3,
+      "explanation": "As a person approaches retirement, their priorities shift from growth to preservation of wealth. They take very little risk to protect their accumulated savings. This results in a Conservative risk profile — corresponding to the Gifting and Charity investment style (passing wealth to children or donating to charity)."
+    },
+    {
+      "id": "ch02L_q14",
+      "text": "With reference to Inflation, which of the following statements is NOT correct?",
+      "options": [
+        "Inflation leads to rise in prices",
+        "Inflation means more purchasing power",
+        "Inflation means erosion of money value",
+        "Inflation plays havoc"
+      ],
+      "correct_index": 1,
+      "explanation": "The INCORRECT statement is: 'Inflation means more purchasing power.' This is FALSE. Inflation REDUCES purchasing power — when prices rise, the same amount of money buys fewer goods and services. Inflation: leads to price rise (TRUE), erodes money value (TRUE), and is destructive to the economy (TRUE). More purchasing power is the OPPOSITE of what inflation causes."
+    },
+    {
+      "id": "ch02L_q15",
+      "text": "Which of the following does NOT form part of Insurance Planning?",
+      "options": [
+        "Life Insurance",
+        "Housing Loans",
+        "Protection of Assets",
+        "Health Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance Planning covers Life Insurance, Health Insurance, and Protection of Assets (property, vehicle, etc.). Housing Loans are financial liabilities taken to purchase property — they are part of debt management and financial planning, but are NOT a component of Insurance Planning."
+    }
+  ]
+}

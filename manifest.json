@@ -282,7 +282,9 @@
                 "Inter-relation Between Insurance Principles"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "features_of_insurance_contracts",
@@ -310,7 +312,9 @@
                 "Interpretation of Insurance Policies"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "underwriting_and_rating",
@@ -339,7 +343,9 @@
                 "Risk Classification"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "claims_processing",
@@ -367,7 +373,9 @@
                 "Alternative Dispute Resolution Mechanisms"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "documentation",
@@ -375,7 +383,9 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "customer_service",
@@ -406,7 +416,9 @@
                 "Ethical Behaviour in Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "grievance_redressal_mechanism",
@@ -430,7 +442,9 @@
                 "Bima Bharosa \u2013 IRDAI Grievance Portal"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
@@ -520,7 +534,10 @@
                 "Emergency Fund Planning"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/financial_planning.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/financial_planning.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/financial_planning.json",
+              "total_questions": 15,
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/financial_planning.json"
             },
             {
               "id": "life_insurance_products_traditional",
@@ -546,7 +563,9 @@
                 "Joint Life Insurance Plans"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_traditional.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_traditional.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_traditional.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "life_insurance_products_non_traditional",
@@ -572,7 +591,9 @@
                 "Comparison \u2013 Traditional vs Non-Traditional Products"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_products_non_traditional.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_non_traditional.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_products_non_traditional.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "applications_of_life_insurance",
@@ -597,7 +618,9 @@
                 "Estate Planning and Life Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/applications_of_life_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "pricing_and_valuation_in_life_insurance",
@@ -626,7 +649,9 @@
                 "Actuarial Valuation Basics"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/pricing_and_valuation_in_life_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/pricing_and_valuation_in_life_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/pricing_and_valuation_in_life_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "life_insurance_documentation",
@@ -659,7 +684,9 @@
                 "Policy Alteration"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "life_insurance_underwriting",
@@ -687,7 +714,9 @@
                 "Extra Premium and Exclusions in Life Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_underwriting.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_underwriting.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "life_insurance_claims",
@@ -714,7 +743,9 @@
                 "Maturity Claim Process"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/life_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_claims.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/life_insurance_claims.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         },
@@ -752,7 +783,9 @@
                 "Other Important Organizations in Health Insurance Market"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_documentation",
@@ -785,7 +818,9 @@
                 "Know Your Customer (KYC) Guidelines"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_products",
@@ -822,7 +857,9 @@
                 "Key Terms in Health Policies"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_underwriting",
@@ -848,7 +885,9 @@
                 "Underwriting of Personal Accident Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_claims",
@@ -876,7 +915,9 @@
                 "Fraud Detection in Health Insurance Claims"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         }
@@ -1166,7 +1207,9 @@
                 "Risk Transfer Mechanism in Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "principles_of_insurance",
@@ -1191,7 +1234,9 @@
                 "Inter-relation Between Insurance Principles"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "features_of_insurance_contracts",
@@ -1219,7 +1264,9 @@
                 "Interpretation of Insurance Policies"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "underwriting_and_rating",
@@ -1248,7 +1295,9 @@
                 "Risk Classification"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "claims_processing",
@@ -1276,7 +1325,9 @@
                 "Alternative Dispute Resolution Mechanisms"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "documentation",
@@ -1284,7 +1335,9 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "customer_service",
@@ -1315,7 +1368,9 @@
                 "Ethical Behaviour in Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "grievance_redressal_mechanism",
@@ -1339,7 +1394,9 @@
                 "Bima Bharosa \u2013 IRDAI Grievance Portal"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
@@ -1365,7 +1422,9 @@
                 "Renewal of Insurance Agent License"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         },
@@ -1403,7 +1462,9 @@
                 "Other Important Organizations in Health Insurance Market"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_documentation",
@@ -1436,7 +1497,9 @@
                 "Know Your Customer (KYC) Guidelines"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_products",
@@ -1473,7 +1536,9 @@
                 "Key Terms in Health Policies"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_underwriting",
@@ -1499,7 +1564,9 @@
                 "Underwriting of Personal Accident Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_claims",
@@ -1527,7 +1594,9 @@
                 "Fraud Detection in Health Insurance Claims"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         },
@@ -1560,7 +1629,9 @@
                 "Know Your Customer (KYC) in General Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/general_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "underwriting_and_rate_making",
@@ -1587,7 +1658,9 @@
                 "Renewal Underwriting"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rate_making.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rate_making.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rate_making.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "personal_and_retail_insurance",
@@ -1613,7 +1686,9 @@
                 "Two-Wheeler Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/personal_and_retail_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/personal_and_retail_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "commercial_insurance",
@@ -1647,7 +1722,9 @@
                 "Product Liability Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/commercial_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/commercial_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "general_insurance_claims",
@@ -1679,7 +1756,9 @@
                 "Marine Claims Process"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/general_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_claims.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/general_insurance_claims.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "annexures_specimen",
@@ -1687,7 +1766,9 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/annexures_specimen.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/annexures_specimen.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/annexures_specimen.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         }
@@ -1941,7 +2022,9 @@
                 "Risk Transfer Mechanism in Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/core_elements_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/core_elements_of_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "principles_of_insurance",
@@ -1966,7 +2049,9 @@
                 "Inter-relation Between Insurance Principles"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/principles_of_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/principles_of_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "features_of_insurance_contracts",
@@ -1994,7 +2079,9 @@
                 "Interpretation of Insurance Policies"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "underwriting_and_rating",
@@ -2023,7 +2110,9 @@
                 "Risk Classification"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rating.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rating.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "claims_processing",
@@ -2051,7 +2140,9 @@
                 "Alternative Dispute Resolution Mechanisms"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "documentation",
@@ -2059,7 +2150,9 @@
               "topics": [],
               "detailed_topics": [],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "customer_service",
@@ -2090,7 +2183,9 @@
                 "Ethical Behaviour in Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/customer_service.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/customer_service.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "grievance_redressal_mechanism",
@@ -2114,7 +2209,9 @@
                 "Bima Bharosa \u2013 IRDAI Grievance Portal"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
@@ -2140,7 +2237,9 @@
                 "Renewal of Insurance Agent License"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         },
@@ -2178,7 +2277,9 @@
                 "Other Important Organizations in Health Insurance Market"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/introduction_to_health_insurance.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/introduction_to_health_insurance.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_documentation",
@@ -2211,7 +2312,9 @@
                 "Know Your Customer (KYC) Guidelines"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_products",
@@ -2248,7 +2351,9 @@
                 "Key Terms in Health Policies"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_underwriting",
@@ -2274,7 +2379,9 @@
                 "Underwriting of Personal Accident Insurance"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             },
             {
               "id": "health_insurance_claims",
@@ -2302,7 +2409,9 @@
                 "Fraud Detection in Health Insurance Claims"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         }
