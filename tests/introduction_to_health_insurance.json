@@ -1,0 +1,188 @@
+{
+  "chapter_id": "introduction_to_health_insurance",
+  "chapter_title": "Introduction to Health Insurance (Health Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "hi_q01",
+      "text": "Health Insurance in India is governed under which Act?",
+      "options": [
+        "Health Insurance Act, 2000",
+        "Insurance Act, 1938",
+        "IRDA Act, 1999",
+        "General Insurance Act, 1972"
+      ],
+      "correct_index": 1,
+      "explanation": "Health Insurance in India is governed under the Insurance Act, 1938 — the same Act that governs Life Insurance. There is no separate Health Insurance Act. This is a frequently asked exam question."
+    },
+    {
+      "id": "hi_q02",
+      "text": "Health Insurance primarily deals with which of the following?",
+      "options": [
+        "Mortality",
+        "Morbidity",
+        "Both Mortality and Morbidity",
+        "Neither Mortality nor Morbidity"
+      ],
+      "correct_index": 1,
+      "explanation": "Health Insurance deals ONLY with MORBIDITY — which means the number of diseases or incidence of illness. Life Insurance deals with MORTALITY (death rate). This distinction is a core IC-38 exam concept."
+    },
+    {
+      "id": "hi_q03",
+      "text": "Which of the following is NOT covered under a Family Floater Policy?",
+      "options": [
+        "Spouse",
+        "Dependent Children",
+        "Maternal Uncle",
+        "Parents-in-law"
+      ],
+      "correct_index": 2,
+      "explanation": "A Family Floater Policy covers only the proposer, Spouse, Dependent Children, Parents, and Parents-in-law. Maternal Uncle is an extended relative and CANNOT be included in a Family Floater Policy."
+    },
+    {
+      "id": "hi_q04",
+      "text": "Which of the following groups would NOT be eligible for a Group Health Insurance Policy?",
+      "options": [
+        "Employees of a company",
+        "Credit card holders of a bank",
+        "Members of a professional association",
+        "Group of unrelated individuals formed specifically to get group health insurance"
+      ],
+      "correct_index": 3,
+      "explanation": "Group Health Insurance requires members to be part of a legally registered/recognized category. A randomly formed group of unrelated individuals created solely for the purpose of getting insurance is NOT eligible. Such a group has no underlying legal or institutional bonding."
+    },
+    {
+      "id": "hi_q05",
+      "text": "TPA in health insurance stands for:",
+      "options": [
+        "Total Premium Amount",
+        "Third Party Agent",
+        "Third Party Administrator",
+        "Total Policy Amount"
+      ],
+      "correct_index": 2,
+      "explanation": "TPA stands for Third Party Administrator. TPA is a licensed intermediary that manages health insurance claims on behalf of the insurer. It is licensed by IRDAI."
+    },
+    {
+      "id": "hi_q06",
+      "text": "Who licenses TPA (Third Party Administrator) in India?",
+      "options": [
+        "Insurance Company",
+        "Central Government",
+        "Surveyor",
+        "IRDAI"
+      ],
+      "correct_index": 3,
+      "explanation": "TPA is licensed by IRDAI (Insurance Regulatory and Development Authority of India). It is NOT licensed by the insurance company or the government directly. This is a key exam point."
+    },
+    {
+      "id": "hi_q07",
+      "text": "In Cashless health insurance facility, how are the hospital bills settled?",
+      "options": [
+        "The insured pays at the hospital and claims reimbursement later",
+        "The insurer or TPA directly settles the bills with the network hospital",
+        "The insured deposits money with TPA before treatment",
+        "The government pays the bills on behalf of the insured"
+      ],
+      "correct_index": 1,
+      "explanation": "In the Cashless facility, the insurer or TPA directly settles the bills with the network hospital. The insured does not need to pay out-of-pocket at the time of treatment. This is the key advantage of cashless health insurance."
+    },
+    {
+      "id": "hi_q08",
+      "text": "A patient who visits a hospital for consultation and returns home the same day without being admitted is called:",
+      "options": [
+        "Inpatient",
+        "Outpatient",
+        "Day Patient",
+        "House Patient"
+      ],
+      "correct_index": 1,
+      "explanation": "An Outpatient visits the hospital for treatment or consultation and returns home the same day without being admitted. An Inpatient is formally admitted to the hospital. IC-38 specifically tests this distinction."
+    },
+    {
+      "id": "hi_q09",
+      "text": "Which of the following is NOT covered under Outpatient Cover in health insurance?",
+      "options": [
+        "Dental Treatment",
+        "Optical Services",
+        "Routine Health Checkup",
+        "Surgery"
+      ],
+      "correct_index": 3,
+      "explanation": "Surgery requires hospital admission and is covered under Inpatient/Hospitalization benefits — NOT under Outpatient cover. Dental treatment, optical services, and routine checkups do not require admission and are covered as outpatient services."
+    },
+    {
+      "id": "hi_q10",
+      "text": "What is the minimum hospitalization period required for a standard health insurance claim to be valid?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "48 hours",
+        "72 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "For a standard health insurance hospitalization claim, the patient must be admitted for a minimum of 24 hours. Procedures completed within 24 hours may be covered only under Day Care procedures, not regular hospitalization."
+    },
+    {
+      "id": "hi_q11",
+      "text": "PED in health insurance stands for:",
+      "options": [
+        "Post-Enrollment Disease",
+        "Pre-Existing Disease",
+        "Primary Emergency Disorder",
+        "Permanent Excluded Disease"
+      ],
+      "correct_index": 1,
+      "explanation": "PED stands for Pre-Existing Disease. It refers to any illness or medical condition that the insured already had before taking the health insurance policy. PED is considered during underwriting and is typically covered only after a waiting period."
+    },
+    {
+      "id": "hi_q12",
+      "text": "What is a Stand-Alone Health Insurance Company?",
+      "options": [
+        "A life insurance company that also sells health products",
+        "A health insurance company with only one office in India",
+        "A general insurance company that sells only health insurance products",
+        "A government-owned health insurer"
+      ],
+      "correct_index": 2,
+      "explanation": "A Stand-Alone Health Insurance Company is a General Insurance Company that exclusively sells health insurance products. It does not sell motor, fire, marine, or other general insurance. It focuses only on health. Examples include Star Health and Allied Insurance."
+    },
+    {
+      "id": "hi_q13",
+      "text": "The primary reason for the increasing trend of health insurance in India is:",
+      "options": [
+        "Increased Health Consciousness",
+        "Increased Longevity",
+        "Increase in Income",
+        "Government Mandate"
+      ],
+      "correct_index": 1,
+      "explanation": "The PRIMARY reason for the growth of health insurance in India, as per IC-38, is INCREASED LONGEVITY — people are living longer lives due to better medical facilities and improved living standards. Longer life means more healthcare expenses, creating greater need for health insurance."
+    },
+    {
+      "id": "hi_q14",
+      "text": "Which of the following is a Network Hospital?",
+      "options": [
+        "Hospital enlisted by the Insurer to provide medical services",
+        "Hospital enlisted by TPA to provide medical services",
+        "Both A and B are correct",
+        "Neither A nor B is correct"
+      ],
+      "correct_index": 2,
+      "explanation": "A Network Hospital is a hospital empanelled EITHER by the Insurer OR by the TPA to provide medical services to insured persons. Both definitions are correct — hence the answer is 'Both A and B are correct'."
+    },
+    {
+      "id": "hi_q15",
+      "text": "Moral Hazard by a health insurance company can result in:",
+      "options": [
+        "Higher Premiums",
+        "Adverse Selection",
+        "Policy Cancellation",
+        "Lower Claims"
+      ],
+      "correct_index": 1,
+      "explanation": "Moral hazard in health insurance results in ADVERSE SELECTION — meaning riskier-than-expected individuals end up being insured because the insurer fails to properly assess their risk. This is harmful to the insurer's portfolio and financial health."
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "chapterId": "introduction_to_health_insurance",
+  "title": "Introduction to Health Insurance (Health Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🏥 Health Insurance — Basics and Governing Law",
+      "cards": [
+        {
+          "title": "Governing Act",
+          "content": "Health Insurance in India is governed under the Insurance Act, 1938 — the same Act that governs Life Insurance. This is a frequently tested point. Do NOT confuse it with any separate health-specific Act.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does Health Insurance Deal With?",
+          "content": "Health Insurance deals ONLY with MORBIDITY. Morbidity means the number of diseases or incidence of illness in a population. Life Insurance deals with MORTALITY (death). Never mix these two. Exam trap: 'Health insurance deals with mortality' — this is WRONG.",
+          "color": "blue"
+        },
+        {
+          "title": "Three Main Expenses Covered",
+          "content": "Health Insurance covers three types of expenses: (1) Pre-Hospitalization Expenses — costs incurred before hospital admission (doctor visits, tests, etc.). (2) Hospitalization Expenses — costs during hospital stay. (3) Post-Hospitalization Expenses — costs after discharge (follow-up checkups, medicines). All three are covered under a standard health policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Minimum Hospitalization Requirement",
+          "content": "For a health insurance claim to be valid, the hospitalization must be for a MINIMUM of 24 hours. If a procedure is done and the patient is discharged within 24 hours, it may be covered only as a Day Care procedure — not under regular hospitalization.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👨👩👧 Types of Health Insurance Policies",
+      "cards": [
+        {
+          "title": "Individual / Personal Policy",
+          "content": "A personal health policy covers only one individual — the insured person. The sum insured is dedicated entirely to that one person.",
+          "color": "blue"
+        },
+        {
+          "title": "Family Floater Policy",
+          "content": "Under a Family Floater Policy, a single sum insured floats (is shared) among all family members. Who can be covered: Spouse, Dependent Children, Parents, and Parents-in-law ONLY. Extended relatives like Maternal Uncle, Aunt, Cousins — CANNOT be covered under a Family Floater.",
+          "color": "blue"
+        },
+        {
+          "title": "Group Health Insurance Policy",
+          "content": "Group Health Insurance covers a group of people who belong to a legally recognized/registered category — e.g., employees of a company, members of a professional association, credit card holders of a bank. An unregistered, random group of unrelated individuals is NOT eligible for a Group Health Insurance Policy.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💳 Cashless vs Reimbursement — Two Claims Facilities",
+      "cards": [
+        {
+          "title": "Cashless Facility",
+          "content": "In the Cashless facility, the insured does NOT need to pay money at the hospital at the time of treatment. The insurer (or TPA) directly settles the bills with the Network Hospital. The insured only needs to show their Smart ID Card at the network hospital.",
+          "color": "blue"
+        },
+        {
+          "title": "Reimbursement Facility",
+          "content": "In the Reimbursement facility, the insured first pays for the treatment from their own pocket. After discharge, they submit all documents and bills to the insurer or TPA and get the money reimbursed. It is a contract of INDEMNITY — meaning actual financial loss is compensated.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏨 Network Hospital, TPA, and Key Definitions",
+      "cards": [
+        {
+          "title": "What is a Network Hospital?",
+          "content": "A Network Hospital is a hospital that has been enlisted/empanelled EITHER by the Insurer OR by the TPA (Third Party Administrator) to provide medical services to insured persons. Both A and B are correct — a hospital listed by insurer or by TPA is called a network hospital.",
+          "color": "blue"
+        },
+        {
+          "title": "TPA — Third Party Administrator",
+          "content": "TPA stands for Third Party Administrator. TPA is a licensed entity that acts as an intermediary between the insured and the insurance company for health claims. TPA is licensed by IRDAI — NOT by the insurance company, not by the government, not by any surveyor. Key exam point: TPA is licensed by IRDAI.",
+          "color": "blue"
+        },
+        {
+          "title": "PED — Pre-Existing Disease",
+          "content": "PED stands for Pre-Existing Disease. It refers to any illness or medical condition that the insured already had before purchasing the health insurance policy. PED is considered during underwriting and is typically covered only after a waiting period.",
+          "color": "blue"
+        },
+        {
+          "title": "Stand-Alone Health Insurance Company",
+          "content": "A Stand-Alone Health Insurance Company is a General Insurance Company that sells ONLY health insurance products — no motor, no fire, no marine. It is not a life insurer selling health products. This is a specific category of insurer. Example: Star Health and Allied Insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧑⚕️ Inpatient vs Outpatient — Key Distinction",
+      "cards": [
+        {
+          "title": "Inpatient",
+          "content": "An Inpatient is a patient who is formally ADMITTED to the hospital and stays for treatment. Inpatient expenses are typically covered under hospitalization benefits in a health policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Outpatient",
+          "content": "An Outpatient is a patient who visits the hospital, gets treatment or consultation, and returns home the SAME DAY — without being admitted. Examples of outpatient cover: Dental treatment, Optical services, Routine health checkups. NOT covered as outpatient: Surgery (requires admission).",
+          "color": "blue"
+        },
+        {
+          "title": "Primary Care",
+          "content": "Primary Care is defined as the FIRST point of contact for a person seeking healthcare. For example, visiting a general physician when you first fall ill. It is NOT emergency care, NOT hospital-based secondary care.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📈 Why Health Insurance is Growing in India",
+      "cards": [
+        {
+          "title": "Main Reason — Increased Longevity",
+          "content": "The primary reason for the increase in health insurance in India is INCREASED LONGEVITY — people are living longer lives due to better medical facilities and improved standard of living. Longer lives = more health expenses = more need for health insurance. Note: While health consciousness and income increase also play a role, the primary reason tested in IC-38 is Increased Longevity.",
+          "color": "blue"
+        },
+        {
+          "title": "Dilemma of Old Age Person",
+          "content": "An old-age person faces two main dilemmas: (1) How much old-age pension/income will be needed? (2) Where and how to invest the available fund? Both are considered correct in IC-38 context — answer is 'Both are correct'.",
+          "color": "blue"
+        },
+        {
+          "title": "Health is NOT a Pension-Related Contingency",
+          "content": "Pension-related contingencies are: Longevity, Inflation, and Investment Risk. HEALTH is NOT a pension-related contingency because health problems can occur at any age and are not specifically tied to post-retirement pension planning.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Moral Hazard in Health Insurance",
+      "cards": [
+        {
+          "title": "What Happens Due to Moral Hazard?",
+          "content": "If a health insurance company encounters a situation of moral hazard (i.e., the applicant behaves dishonestly or conceals information), the selection made will become ADVERSE SELECTION. Moral hazard results in adverse selection against the insurer — meaning riskier-than-expected individuals end up getting insured.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Introduction to Health Insurance",
+      "items": [
+        "Health Insurance is governed under the Insurance Act, 1938 — same as Life Insurance.",
+        "Health Insurance deals with MORBIDITY (number of diseases). Life Insurance deals with MORTALITY (death).",
+        "Three expenses covered: Pre-Hospitalization, Hospitalization, Post-Hospitalization.",
+        "Minimum hospitalization required for a claim: 24 hours.",
+        "Family Floater covers: Spouse, Kids, Parents, Parents-in-law. NOT extended relatives like Maternal Uncle.",
+        "Unregistered group of unrelated individuals = NOT eligible for Group Health Insurance.",
+        "Cashless = insurer/TPA pays hospital directly. Reimbursement = insured pays first, then claims back.",
+        "Health Insurance is a CONTRACT OF INDEMNITY.",
+        "TPA = Third Party Administrator. TPA is licensed by IRDAI.",
+        "Network Hospital = hospital enlisted by Insurer OR TPA.",
+        "PED = Pre-Existing Disease. Covered only after a waiting period.",
+        "Stand-Alone Health Insurance Company = General insurer selling ONLY health products.",
+        "Outpatient does NOT include Surgery (surgery requires admission = inpatient).",
+        "Primary Care = FIRST point of contact for healthcare.",
+        "Main reason for health insurance growth in India = INCREASED LONGEVITY.",
+        "Health is NOT a pension-related contingency.",
+        "Moral hazard by health insurer results in ADVERSE SELECTION.",
+        "Smart ID Card for cashless treatment is issued by Insurer OR TPA — both are correct."
+      ]
+    }
+  ]
+}
