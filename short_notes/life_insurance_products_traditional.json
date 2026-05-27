@@ -1,0 +1,167 @@
+{
+  "chapterId": "life_insurance_products_traditional",
+  "title": "Chapter 3 (Life Section): Life Insurance Products — Traditional",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🔑 Two Elements in Every Life Insurance Product",
+      "cards": [
+        {
+          "title": "1. Protection Element",
+          "content": "The PROTECTION ELEMENT is the part of the policy that pays a DEATH BENEFIT to the family if the insured dies during the policy term. It is the 'insurance' part of the plan — covering the risk of death.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Saving Element",
+          "content": "The SAVING ELEMENT is the part of the policy that grows over time and is returned to the insured on SURVIVAL or MATURITY of the plan. It is the investment/wealth-building part of the plan.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📌 Plan 1 — Term Insurance Plans",
+      "cards": [
+        {
+          "title": "What is Term Insurance?",
+          "content": "Term Insurance is the simplest life insurance plan. The insured pays premium for a fixed term (e.g. 20 years). If the insured DIES during the term, the family gets the death benefit. If the insured SURVIVES, NO money is returned. It is pure protection — no savings.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Features of Term Insurance",
+          "content": "(1) ONLY Protection Element — NO saving element. (2) ONLY Death Benefit — NO maturity or survival benefit. (3) Premium is LOWEST compared to all other plans. (4) Best suited for LOW INCOME GROUP individuals. (5) Can be purchased as STAND-ALONE policy OR as a RIDER added to another plan. (6) Can be converted into a Whole Life Policy if it has a 'convert option'.",
+          "color": "blue"
+        },
+        {
+          "title": "Main Advantage of Term Insurance",
+          "content": "The MAIN ADVANTAGE of a term insurance plan is its PRICE — the premium is comparatively much cheaper than endowment or whole life plans. This makes it affordable for anyone who needs protection on a limited budget.",
+          "color": "blue"
+        },
+        {
+          "title": "Who Should Buy Term Insurance?",
+          "content": "Term insurance is best advised for: (1) Individuals from the LOW INCOME GROUP who need insurance coverage but cannot afford high premiums. (2) Anyone who wants maximum life cover at minimum cost.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Three Variants of Term Insurance",
+      "cards": [
+        {
+          "title": "1. Decreasing Term Insurance — MRI",
+          "content": "In Decreasing Term Insurance, the sum assured (coverage) DECREASES over time as the outstanding loan reduces. The most common example is MORTGAGE REPAYMENT INSURANCE (MRI). It is specifically designed for HOME LOAN BORROWERS. As EMIs are paid and the loan reduces, the premium and coverage also decrease proportionately.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Increasing Term Insurance",
+          "content": "In Increasing Term Insurance, the sum assured INCREASES over time — typically to keep pace with inflation. This ensures the coverage amount grows as cost of living increases.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Term Insurance with Return of Premium",
+          "content": "In this variant, if the insured SURVIVES the full term, the premiums paid are RETURNED at the end of the policy term. It combines term protection with a survival benefit (return of premiums paid).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏠 MRI — Mortgage Repayment Insurance (Decreasing Term)",
+      "cards": [
+        {
+          "title": "What is MRI?",
+          "content": "Mortgage Repayment Insurance (MRI) is a specially designed insurance for HOME LOAN BORROWERS. If the earning member dies during the loan tenure, the insurance company PAYS THE REMAINING LOAN AMOUNT to the bank and the house is given to the family. Also called LOAN PROTECTOR POLICY.",
+          "color": "blue"
+        },
+        {
+          "title": "Premium Behaviour in MRI",
+          "content": "Premium in MRI is HIGHER in initial years (when loan outstanding is high, risk is high). As EMIs are paid and the outstanding loan amount decreases, the PREMIUM ALSO DECREASES. This is why MRI is classified under DECREASING TERM INSURANCE.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📌 Plan 2 — Whole Life Insurance Plans",
+      "cards": [
+        {
+          "title": "What is Whole Life Insurance?",
+          "content": "Whole Life Insurance is a plan where RISK COVER CONTINUES FOR THE ENTIRE LIFE of the insured (till death), even after the premium payment term ends. The insured pays premium for a fixed term (e.g. 25 years) and gets MATURITY BENEFIT at the end of the term. The family gets DEATH BENEFIT upon death.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Features of Whole Life Insurance",
+          "content": "(1) Has BOTH Protection AND Saving elements. (2) Has BOTH Death Benefit AND Maturity/Survival Benefit. (3) Premium payment stops after the fixed term BUT risk cover continues till death. (4) Premium is HIGHER than term insurance. (5) Suitable for ALL income groups — not just low income. (6) Cover period is INDEFINITE (lifelong) — we don't know how long the person will live. (7) DOES NOT have Periodic Survival Benefit — that is only in money back plans.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📌 Plan 3 — Endowment Insurance Plans",
+      "cards": [
+        {
+          "title": "What is Endowment Insurance?",
+          "content": "Endowment means 'settlement'. Endowment plans are policies where the insured receives money at PERIODIC INTERVALS during the policy term AND also gets a final maturity benefit. The most popular type of endowment plan is the MONEY BACK PLAN.",
+          "color": "blue"
+        },
+        {
+          "title": "Money Back Plans — Periodic Survival Benefit",
+          "content": "In money back plans, the insured receives PERIODIC SURVIVAL BENEFIT or PERIODIC SURVIVAL CLAIM — money paid at EQUAL TIME INTERVALS (e.g., every 5 years) during the policy term. This helps meet financial needs at various life stages.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Features of Endowment Plans",
+          "content": "(1) Has BOTH Protection AND Saving elements. (2) Has BOTH Death Benefit AND Maturity AND Survival Benefit. (3) Premium is HIGHER than term insurance. (4) Best example: MONEY BACK INSURANCE POLICY. (5) Periodic Survival Benefit = money received at equal intervals during term.",
+          "color": "blue"
+        },
+        {
+          "title": "Pure Endowment Plan",
+          "content": "A PURE ENDOWMENT PLAN is a special type where the insured receives the maturity benefit ONLY IF they SURVIVE the policy term. There is NO death benefit — purely a savings instrument. It is best suited for persons who want insurance for SAVING PURPOSE ONLY.",
+          "color": "blue"
+        },
+        {
+          "title": "Loan Facility — Which Plans Allow It?",
+          "content": "Policyholders can take a LOAN only against ENDOWMENT POLICIES because they have a saving/cash value component. TERM INSURANCE and MORTGAGE INSURANCE do not allow policy loans because they have NO saving part.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Quick Comparison Table",
+      "cards": [
+        {
+          "title": "Term Insurance vs Whole Life vs Endowment",
+          "content": "Term Insurance: Protection only, death benefit only, LOWEST premium, no loan, best for low income. Whole Life: Protection + Saving, death + maturity benefit, HIGH premium, indefinite cover. Endowment (Money Back): Protection + Saving, death + maturity + periodic survival benefit, HIGH premium, loan allowed.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 3 Life (Quick Memory)",
+      "items": [
+        "2 elements in life insurance: PROTECTION (death benefit) + SAVING (maturity/survival benefit).",
+        "Term Insurance = ONLY protection, ONLY death benefit, LOWEST premium, NO loan.",
+        "Term insurance is best for LOW INCOME GROUP.",
+        "Main advantage of term insurance = LOW PRICE (cheapest premium).",
+        "Term insurance can be STAND-ALONE or a RIDER with another policy.",
+        "Term insurance with 'convert option' can be converted into WHOLE LIFE policy.",
+        "3 types of term insurance: Decreasing, Increasing, Return of Premium.",
+        "MRI = Mortgage Repayment Insurance = Decreasing Term Insurance = for HOME LOAN BORROWERS.",
+        "MRI premium is HIGH initially and DECREASES as loan repays. Also called LOAN PROTECTOR POLICY.",
+        "Whole Life = protection + saving, death + maturity benefit, INDEFINITE cover (lifelong).",
+        "Whole Life does NOT have PERIODIC SURVIVAL BENEFIT — that is only in Money Back plans.",
+        "A policy with INDEFINITE cover = WHOLE LIFE PLAN.",
+        "Endowment = protection + saving, death + maturity + periodic survival benefit.",
+        "MONEY BACK PLAN = best example of ENDOWMENT plan.",
+        "Money received at equal intervals in money back plan = PERIODIC SURVIVAL BENEFIT/CLAIM.",
+        "PURE ENDOWMENT = only saving, no death benefit. Best for person who wants SAVINGS ONLY.",
+        "LOAN can only be taken against ENDOWMENT POLICIES (have cash value). Not term or mortgage."
+      ]
+    }
+  ]
+}

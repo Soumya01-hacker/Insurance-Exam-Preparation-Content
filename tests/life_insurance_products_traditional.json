@@ -1,0 +1,188 @@
+{
+  "chapter_id": "life_insurance_products_traditional",
+  "chapter_title": "Chapter 3 (Life Section): Life Insurance Products — Traditional",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "L_ch03_q01",
+      "text": "Which of the following correctly describes a Term Insurance Plan?",
+      "options": [
+        "It has both death benefit and maturity benefit",
+        "It has only a protection element with no saving element",
+        "It has both protection and saving elements",
+        "It provides periodic survival benefits every 5 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Term Insurance has ONLY the protection element — there is NO saving element. It pays a death benefit if the insured dies during the term. If the insured survives the full term, NO money is returned. There is no maturity benefit or periodic survival benefit."
+    },
+    {
+      "id": "L_ch03_q02",
+      "text": "What is the MAIN ADVANTAGE of a Term Insurance Plan?",
+      "options": [
+        "Protection",
+        "Savings",
+        "Thrift",
+        "Price (Low Premium)"
+      ],
+      "correct_index": 3,
+      "explanation": "The MAIN ADVANTAGE of a term insurance plan is its PRICE — it has the LOWEST premium compared to all other life insurance plans. This makes it affordable for everyone, especially low-income individuals who need maximum life cover at minimum cost."
+    },
+    {
+      "id": "L_ch03_q03",
+      "text": "A term insurance plan is BEST advised for which type of individual?",
+      "options": [
+        "An individual from a high-income group wanting maximum returns",
+        "An individual who wants periodic payouts every 5 years",
+        "An individual who needs insurance but has a low budget",
+        "An individual who wants life-long risk cover"
+      ],
+      "correct_index": 2,
+      "explanation": "Term insurance is best suited for individuals from the LOW INCOME GROUP or anyone who needs life coverage but has a limited budget. Its premium is the lowest among all life insurance products, making it the most affordable option for protection."
+    },
+    {
+      "id": "L_ch03_q04",
+      "text": "Which of the following is correct regarding a Term Insurance Plan?",
+      "options": [
+        "Term insurance comes with lifelong renewability",
+        "All term insurance plans have a built-in disability rider",
+        "Term insurance can be bought as a stand-alone policy as well as as a rider with another policy",
+        "Term insurance cannot be converted into any other plan"
+      ],
+      "correct_index": 2,
+      "explanation": "Term Insurance can be purchased as a STAND-ALONE policy (independently) OR as a RIDER attached to another life insurance policy. It does NOT come with lifelong renewability, does not have a built-in disability rider in all plans, and CAN be converted to whole life if a convert option is present."
+    },
+    {
+      "id": "L_ch03_q05",
+      "text": "Mortgage Repayment Insurance (MRI) is an example of which type of term insurance?",
+      "options": [
+        "Increasing Term Insurance",
+        "Term Insurance with Return of Premium",
+        "Decreasing Term Insurance",
+        "Whole Life Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "Mortgage Repayment Insurance (MRI) is the most common example of DECREASING TERM INSURANCE. As the home loan is repaid through EMIs, the outstanding loan amount reduces, and accordingly the insurance coverage and premium also decrease over time."
+    },
+    {
+      "id": "L_ch03_q06",
+      "text": "Mortgage Repayment Insurance (MRI) is specifically designed for:",
+      "options": [
+        "Business owners with key employees",
+        "Home loan borrowers",
+        "Senior citizens above 60 years",
+        "Low-income group individuals without property"
+      ],
+      "correct_index": 1,
+      "explanation": "Mortgage Repayment Insurance (MRI) — also called Loan Protector Policy — is specifically designed for HOME LOAN BORROWERS. If the borrower dies during the loan tenure, the insurer pays the remaining loan amount to the bank, ensuring the family retains the house."
+    },
+    {
+      "id": "L_ch03_q07",
+      "text": "A policy that provides risk cover for an INDEFINITE or lifelong period is called:",
+      "options": [
+        "Whole Life Insurance Plan",
+        "Endowment Insurance Plan",
+        "Money Back Plan",
+        "Term Insurance Plan"
+      ],
+      "correct_index": 0,
+      "explanation": "WHOLE LIFE INSURANCE provides risk cover for the ENTIRE LIFE of the insured — for an indefinite period. Since we do not know how long a person will live, the cover duration is indefinite. Term, endowment, and money back plans all have a fixed, defined policy term."
+    },
+    {
+      "id": "L_ch03_q08",
+      "text": "The premium paid for Whole Life Insurance is ________ compared to Term Insurance.",
+      "options": [
+        "Lower",
+        "Equal",
+        "Higher",
+        "Not comparable"
+      ],
+      "correct_index": 2,
+      "explanation": "The premium for WHOLE LIFE INSURANCE is HIGHER than for term insurance. This is because whole life insurance offers both death and maturity benefits, has both protection and saving elements, and provides lifelong cover — all of which justify a higher premium than the pure-protection term plan."
+    },
+    {
+      "id": "L_ch03_q09",
+      "text": "The money received at EQUAL TIME INTERVALS (e.g., every 5 years) in a money back policy is called:",
+      "options": [
+        "Death Claim",
+        "Surrender Claim",
+        "Maturity Benefit",
+        "Periodic Survival Benefit"
+      ],
+      "correct_index": 3,
+      "explanation": "The money received at equal periodic intervals (such as every 5 years) during the term of a money back policy is called PERIODIC SURVIVAL BENEFIT or PERIODIC SURVIVAL CLAIM. It is called 'survival' benefit because it is paid to the insured for surviving each milestone period."
+    },
+    {
+      "id": "L_ch03_q10",
+      "text": "Which of the following is the BEST EXAMPLE of an Endowment Insurance Plan?",
+      "options": [
+        "Term Insurance Policy",
+        "Whole Life Insurance Policy",
+        "Money Back Insurance Policy",
+        "Mortgage Repayment Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "The MONEY BACK INSURANCE POLICY is the best example of an ENDOWMENT INSURANCE PLAN. It provides both death and maturity benefits, along with periodic survival benefits paid at equal intervals throughout the policy term. All money back plans fall under the endowment category."
+    },
+    {
+      "id": "L_ch03_q11",
+      "text": "Which of the following features does a Whole Life Insurance Plan NOT possess?",
+      "options": [
+        "Saving Benefit",
+        "Death Benefit",
+        "Periodic Survival Benefit",
+        "Bonus Benefit"
+      ],
+      "correct_index": 2,
+      "explanation": "PERIODIC SURVIVAL BENEFIT (money received at equal time intervals) is a feature of MONEY BACK PLANS only, NOT whole life insurance. Whole life insurance offers saving, death, and bonus benefits — but not the periodic survival payouts that money back plans provide."
+    },
+    {
+      "id": "L_ch03_q12",
+      "text": "Mr. Bansal wants a policy ONLY for saving purposes. Which plan would you recommend?",
+      "options": [
+        "Term Insurance",
+        "Pure Endowment Plan",
+        "Whole Life Insurance",
+        "Unit Linked Insurance Plan (ULIP)"
+      ],
+      "correct_index": 1,
+      "explanation": "A PURE ENDOWMENT PLAN is the best fit for Mr. Bansal as he wants the policy purely for saving. In a pure endowment plan, the insured receives the maturity amount if they survive the term — it is solely a savings instrument. There is no death benefit, making it a pure savings product."
+    },
+    {
+      "id": "L_ch03_q13",
+      "text": "Under which policy can the policyholder avail a LOAN?",
+      "options": [
+        "Endowment Policy",
+        "Term Insurance Policy",
+        "Mortgage Insurance Policy",
+        "All of the above"
+      ],
+      "correct_index": 0,
+      "explanation": "A policyholder can take a loan only against ENDOWMENT POLICIES because they have a cash/saving value that serves as collateral. Term insurance and mortgage insurance do NOT have a saving component, so no loan facility is available under them."
+    },
+    {
+      "id": "L_ch03_q14",
+      "text": "Rajeev is married and has a 4-year-old son. Which plan would be MOST suitable for him?",
+      "options": [
+        "Child Plan",
+        "Term Insurance Plan",
+        "Whole Life Insurance Plan",
+        "Money Back Plan"
+      ],
+      "correct_index": 0,
+      "explanation": "Since Rajeev has a 4-year-old son, the examiner is hinting at the child's financial future — education, marriage etc. The most suitable plan is a CHILD PLAN, which is specifically designed to secure a child's future financial needs and goals."
+    },
+    {
+      "id": "L_ch03_q15",
+      "text": "The primary purpose of purchasing a Life Insurance product is:",
+      "options": [
+        "Tax Rebate",
+        "Safe Investment Avenue",
+        "Protection against loss of economic value of an individual's productive abilities",
+        "Wealth Accumulation"
+      ],
+      "correct_index": 2,
+      "explanation": "The PRIMARY purpose of Life Insurance is PROTECTION — specifically, protection against the loss of economic value caused by the death or incapacity of the insured. Life insurance is a contingency product, not a wealth accumulation or pure investment product. Tax benefits and safe investment are secondary benefits."
+    }
+  ]
+}
