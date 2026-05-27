@@ -628,7 +628,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/applications_of_life_insurance.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/applications_of_life_insurance.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/applications_of_life_insurance.json"
             },
             {
               "id": "pricing_and_valuation_in_life_insurance",

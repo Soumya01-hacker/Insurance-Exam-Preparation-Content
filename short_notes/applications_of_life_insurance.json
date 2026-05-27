@@ -1,0 +1,145 @@
+{
+  "chapterId": "applications_of_life_insurance",
+  "title": "Chapter 5 (Life Section): Applications of Life Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🔑 Three Major Applications of Life Insurance",
+      "cards": [
+        {
+          "title": "Overview",
+          "content": "Life insurance does not only protect against premature death — it has many other important applications. This chapter covers THREE major applications from which many exam questions are asked: (1) MWP Act 1874, (2) Keyman Insurance, (3) Mortgage Redemption Insurance (MRI).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👩👧 Application 1 — MWP Act (Married Women's Property Act, 1874)",
+      "cards": [
+        {
+          "title": "What is the MWP Act?",
+          "content": "The Married Women's Property Act, 1874 (MWP Act) is a feature that can be added to ANY life insurance policy. Under this Act, the benefits of the policy are EXCLUSIVELY for the WIFE AND CHILDREN of the insured. Even the insured (life assured) himself has NO rights over the policy benefits.",
+          "color": "blue"
+        },
+        {
+          "title": "Why is MWP Act Used?",
+          "content": "If a person has business loans or debts, creditors can seize all his property and assets in case of non-payment. BUT a policy endorsed under the MWP Act is BEYOND THE REACH OF CREDITORS — it is protected and cannot be seized. Only the wife and children benefit from it.",
+          "color": "blue"
+        },
+        {
+          "title": "Trust Created Under MWP Act",
+          "content": "A SEPARATE TRUST is ALWAYS CREATED for a policy under the MWP Act. The TRUSTEE manages the policy and receives all benefits (maturity or death claim). The trustee can be: (1) The wife, (2) The children (age above 18), or (3) Both. ALL BENEFITS are paid to the TRUSTEE — not directly to the wife or insured.",
+          "color": "blue"
+        },
+        {
+          "title": "What if No Trustee is Appointed?",
+          "content": "If the policyholder did NOT appoint a special trustee at the time of purchasing the policy under MWP Act, then the OFFICIAL TRUSTEE OF THE STATE (Government) automatically becomes the trustee. The policy benefits then flow through this official trustee to the wife and children.",
+          "color": "blue"
+        },
+        {
+          "title": "Beneficiaries Under MWP Act",
+          "content": "If a policy is endorsed under the MWP Act, the BENEFICIARIES are the WIFE AND CHILDREN of the insured ONLY. Not parents, not in-laws, not the insured himself. The insured (life assured) has ZERO rights on the policy benefits.",
+          "color": "blue"
+        },
+        {
+          "title": "MWP Act — What CANNOT be Done",
+          "content": "A policy under MWP Act CANNOT be: (1) SURRENDERED, (2) NOMINATED (nomination is not applicable), (3) ASSIGNED. These options are not available because the policy belongs solely to the trust for the wife and children.",
+          "color": "blue"
+        },
+        {
+          "title": "Who Gets Maturity and Death Claim Under MWP?",
+          "content": "Under MWP Act, ALL benefits — whether MATURITY CLAIM or DEATH CLAIM — are paid to the TRUSTEE ONLY. Not to the policy holder, not directly to the wife. Always: benefits go to the TRUSTEE.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏢 Application 2 — Keyman Insurance",
+      "cards": [
+        {
+          "title": "What is Keyman Insurance?",
+          "content": "Keyman Insurance is a SPECIALLY DESIGNED BUSINESS INSURANCE — made for businesses, not individuals personally. A KEY MAN is a key person (director, partner, or any critical individual) whose presence directly impacts the business. If this person is unable to work, the business suffers significant losses.",
+          "color": "blue"
+        },
+        {
+          "title": "Who is a Key Man?",
+          "content": "A Key Man can be: (1) A DIRECTOR of the company, (2) A PARTNER, (3) Any other important individual whose work directly affects the business performance. The Key Man is the 'backbone' of the business.",
+          "color": "blue"
+        },
+        {
+          "title": "Key Features of Keyman Insurance",
+          "content": "(1) It is a TYPE OF TERM INSURANCE. (2) Benefits are LINKED TO THE COMPANY — not to the key person personally. (3) The COMPANY pays the premium, not the individual. (4) The COMPANY receives the insurance benefits. (5) It covers LOSSES to the business when the key person is unable to work.",
+          "color": "blue"
+        },
+        {
+          "title": "Sum Assured in Keyman Insurance",
+          "content": "The Sum Assured in Keyman Insurance is generally linked to the BUSINESS PROFITABILITY. The more profitable the business and the greater the key person's contribution, the higher the sum assured of the Keyman Insurance policy.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does Keyman Insurance Cover?",
+          "content": "Keyman Insurance covers LOSSES TO THE BUSINESS during the period when the key person is unable to work (due to death or disability). It does NOT cover property theft, general liabilities, or errors and omissions. It specifically covers business income losses due to the incapacity of the key person.",
+          "color": "blue"
+        },
+        {
+          "title": "Keyman Insurance vs Employee Benefits",
+          "content": "If an employer pays Keyman Life Insurance with benefits payable to HIMSELF (the employer/business), then this premium is NOT a deductible compensation paid to employees. Health Insurance with benefits payable to EMPLOYEES qualifies as employee compensation.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏠 Application 3 — Mortgage Redemption Insurance (MRI)",
+      "cards": [
+        {
+          "title": "What is Mortgage Redemption Insurance?",
+          "content": "Mortgage Redemption Insurance (MRI) — also called LOAN PROTECTOR POLICY — is specially designed for HOME LOAN BORROWERS. If the earning member dies during the home loan tenure, the insurance company pays the REMAINING LOAN AMOUNT to the bank, and the family retains the house.",
+          "color": "blue"
+        },
+        {
+          "title": "How MRI Works",
+          "content": "When a home loan is taken, the house is MORTGAGED with the bank. The earning member pays EMI every month. If something happens to him, the bank would take the house. MRI prevents this — the insurance company clears the remaining loan with the bank and the house goes to the family.",
+          "color": "blue"
+        },
+        {
+          "title": "MRI as Decreasing Term Insurance",
+          "content": "MRI is categorised as DECREASING TERM INSURANCE because the premium STARTS HIGH and DECREASES over time. As the outstanding home loan amount reduces with each EMI payment, the risk decreases, and so does the premium.",
+          "color": "blue"
+        },
+        {
+          "title": "Mortgage — Meaning",
+          "content": "MORTGAGE is the practice of pledging (charging) a property as security/collateral for a loan. The borrower continues to LIVE in the property even though it is mortgaged. The property is released (redeemed) once the full loan is repaid.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 5 Life (Quick Memory)",
+      "items": [
+        "3 Applications: MWP Act 1874 + Keyman Insurance + MRI.",
+        "MWP Act: Benefits ONLY for WIFE and CHILDREN. Insured has NO rights.",
+        "MWP Act: A TRUST is always created. Benefits go to the TRUSTEE.",
+        "MWP Act: Trustee = wife, children above 18, or both.",
+        "MWP Act: No trustee appointed → OFFICIAL TRUSTEE OF STATE becomes trustee.",
+        "MWP Act: Policy CANNOT be surrendered, nominated, or assigned.",
+        "MWP Act: ALL benefits (maturity + death) → payable to TRUSTEE only.",
+        "MWP Act policy: BEYOND THE REACH of creditors — even if insured has business debts.",
+        "Keyman Insurance: BUSINESS INSURANCE, type of TERM INSURANCE.",
+        "Keyman Insurance: KEY MAN = director, partner, or critical person.",
+        "Keyman Insurance: Benefits linked to COMPANY, not to the individual personally.",
+        "Keyman Insurance: Sum assured linked to BUSINESS PROFITABILITY.",
+        "Keyman Insurance: Covers BUSINESS LOSSES when key person is unable to work.",
+        "MRI = Mortgage Redemption Insurance = LOAN PROTECTOR POLICY.",
+        "MRI: Designed for HOME LOAN BORROWERS.",
+        "MRI: TYPE = DECREASING TERM INSURANCE.",
+        "MRI: Premium is HIGH initially and DECREASES as loan outstanding reduces.",
+        "Mortgage = pledging property as collateral for a loan while continuing to live in it."
+      ]
+    }
+  ]
+}

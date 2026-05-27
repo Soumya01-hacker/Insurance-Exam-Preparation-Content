@@ -1,0 +1,188 @@
+{
+  "chapter_id": "applications_of_life_insurance",
+  "chapter_title": "Chapter 5 (Life Section): Applications of Life Insurance",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "L_ch05_q01",
+      "text": "Under a policy endorsed under the MWP Act 1874, who has the RIGHTS over the policy benefits?",
+      "options": [
+        "The Insured (Life Assured) only",
+        "The Insured and his parents",
+        "The Wife and Children of the Insured only",
+        "All family members equally"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the MWP Act (Married Women's Property Act) 1874, the benefits of the policy belong EXCLUSIVELY to the WIFE AND CHILDREN of the insured. The insured (life assured) himself has NO rights over the policy benefits. Not even parents or in-laws have any claim."
+    },
+    {
+      "id": "L_ch05_q02",
+      "text": "Under the MWP Act, if the policyholder does NOT appoint a special trustee, to whom will the policy benefits be paid?",
+      "options": [
+        "Next of Kin (relatives)",
+        "Official Trustee of the State (Government)",
+        "The Insurer",
+        "The Insured himself"
+      ],
+      "correct_index": 1,
+      "explanation": "If the policyholder does NOT appoint a special trustee for a policy under the MWP Act, the OFFICIAL TRUSTEE OF THE STATE (appointed by the government) automatically becomes the trustee. All policy benefits flow through this official trustee to the wife and children."
+    },
+    {
+      "id": "L_ch05_q03",
+      "text": "Under MWP Act, the maturity claim is paid to:",
+      "options": [
+        "The Policyholder",
+        "The Trustee",
+        "The Nominee",
+        "The Insurer"
+      ],
+      "correct_index": 1,
+      "explanation": "Under the MWP Act, ALL benefits — whether MATURITY CLAIM or DEATH CLAIM — are paid to the TRUSTEE only. Never to the policyholder (insured), never directly to the wife or children as individuals. The trustee then administers the funds for the benefit of the wife and children."
+    },
+    {
+      "id": "L_ch05_q04",
+      "text": "Mahesh has business loans and runs a business on borrowed capital. Which of the following assets is BEYOND THE REACH of his creditors?",
+      "options": [
+        "Property registered in Mahesh's name",
+        "Mahesh's Bank Account",
+        "A term insurance policy purchased under Section 6 of the MWP Act",
+        "Mahesh's business equipment"
+      ],
+      "correct_index": 2,
+      "explanation": "A policy purchased and endorsed under the MWP Act is BEYOND THE REACH of creditors. Even if the insured has business debts, creditors cannot seize or claim the benefits of an MWP-endorsed policy. The policy belongs entirely to the trust created for the wife and children."
+    },
+    {
+      "id": "L_ch05_q05",
+      "text": "If a policy is endorsed under the MWP Act, the beneficiaries are the WIFE and:",
+      "options": [
+        "Children",
+        "Parents",
+        "Parents-in-law",
+        "The Policyholder himself"
+      ],
+      "correct_index": 0,
+      "explanation": "Under the MWP Act, the beneficiaries are the WIFE AND CHILDREN of the insured ONLY. Not parents, not parents-in-law, not the policyholder himself. The insured has no personal rights on the policy benefits under the MWP Act."
+    },
+    {
+      "id": "L_ch05_q06",
+      "text": "Under the MWP Act, which of the following CANNOT be done with the policy?",
+      "options": [
+        "Claim the death benefit",
+        "Surrender the policy",
+        "Receive maturity benefit through trustee",
+        "Create a trust"
+      ],
+      "correct_index": 1,
+      "explanation": "A policy under the MWP Act CANNOT be SURRENDERED, NOMINATED, or ASSIGNED. These actions are not permitted because the policy is held in trust exclusively for the wife and children. The insured cannot surrender or transfer the policy to anyone."
+    },
+    {
+      "id": "L_ch05_q07",
+      "text": "Keyman Insurance is BEST described as:",
+      "options": [
+        "Insurance taken by an individual for their own benefit",
+        "A specially designed business insurance to protect against loss of a key person",
+        "A health insurance plan for company directors",
+        "A term plan for low-income group employees"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman Insurance is a SPECIALLY DESIGNED BUSINESS INSURANCE that provides financial protection to the business if a key person (director, partner, or critical employee) dies or becomes unable to work. The company takes the insurance, pays the premium, and receives the benefits."
+    },
+    {
+      "id": "L_ch05_q08",
+      "text": "The Sum Assured in Keyman Insurance is generally linked to:",
+      "options": [
+        "Business Expenditure",
+        "The Age of the Key Person",
+        "Business Profitability",
+        "The Number of Employees"
+      ],
+      "correct_index": 2,
+      "explanation": "The Sum Assured in Keyman Insurance is generally linked to BUSINESS PROFITABILITY. The more profitable the business and the greater the key person's contribution to that profitability, the higher the sum assured. It reflects the financial loss the business would suffer in the key person's absence."
+    },
+    {
+      "id": "L_ch05_q09",
+      "text": "Which of the following losses would be COVERED under Keyman Insurance?",
+      "options": [
+        "Property theft from the company premises",
+        "Losses during the extended period when the key person is unable to work",
+        "General liabilities of the business",
+        "Losses due to errors and omissions by employees"
+      ],
+      "correct_index": 1,
+      "explanation": "Keyman Insurance specifically covers BUSINESS INCOME LOSSES incurred during the period when the key person is unable to work — due to death or disability. It does NOT cover property theft, general liabilities, or errors and omissions by other employees."
+    },
+    {
+      "id": "L_ch05_q10",
+      "text": "Ajay pays insurance premiums for his employees. Which of the following will NOT be treated as deductible compensation paid to employees?",
+      "options": [
+        "Health Insurance with benefits payable to employees",
+        "Keyman Life Insurance with benefits payable to Ajay (the employer)",
+        "Group Term Insurance with benefits payable to employees' families",
+        "Group Health Insurance for employee dependants"
+      ],
+      "correct_index": 1,
+      "explanation": "KEYMAN LIFE INSURANCE with benefits payable to the EMPLOYER (Ajay) will NOT be treated as employee compensation, because the benefit does not go to the employees — it goes to the business/employer. Health insurance with benefits payable to employees IS considered employee compensation."
+    },
+    {
+      "id": "L_ch05_q11",
+      "text": "What is the OBJECTIVE of Mortgage Redemption Insurance?",
+      "options": [
+        "Providing financial protection to businesses against key person loss",
+        "Providing financial protection for home loan borrowers",
+        "Providing periodic survival benefits to the insured",
+        "Providing tax-free maturity benefits"
+      ],
+      "correct_index": 1,
+      "explanation": "The primary objective of Mortgage Redemption Insurance (MRI) is PROVIDING FINANCIAL PROTECTION FOR HOME LOAN BORROWERS. If the borrower dies during the loan tenure, the insurer pays the outstanding loan to the bank, ensuring the family keeps the house without bearing the remaining debt."
+    },
+    {
+      "id": "L_ch05_q12",
+      "text": "Mortgage Redemption Insurance (MRI) can be categorised under which type of insurance?",
+      "options": [
+        "Increasing Term Life Insurance",
+        "Decreasing Term Life Insurance",
+        "Whole Life Insurance",
+        "Endowment Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "MRI is categorised under DECREASING TERM LIFE INSURANCE. The coverage and premium decrease over time as the outstanding home loan reduces with each EMI payment. Since the risk decreases as the loan is repaid, the insurance coverage proportionately decreases — making it a classic decreasing term plan."
+    },
+    {
+      "id": "L_ch05_q13",
+      "text": "Mortgage Redemption Insurance is also called:",
+      "options": [
+        "Key Person Policy",
+        "MWP Policy",
+        "Loan Protector Policy",
+        "Child Plan"
+      ],
+      "correct_index": 2,
+      "explanation": "Mortgage Redemption Insurance (MRI) is also called LOAN PROTECTOR POLICY. This name reflects its purpose — it protects the home loan borrower (and their family) from the financial burden of the outstanding home loan in case of the borrower's death."
+    },
+    {
+      "id": "L_ch05_q14",
+      "text": "The practice of pledging (charging) property as collateral for a loan while continuing to live in it is called:",
+      "options": [
+        "Insurance",
+        "Mortgage",
+        "Indemnity",
+        "Subrogation"
+      ],
+      "correct_index": 1,
+      "explanation": "MORTGAGE is the practice of pledging property as security/collateral for a loan. The borrower continues to reside in the property even though it is mortgaged. The property is 'redeemed' (released from mortgage) once the loan is fully repaid."
+    },
+    {
+      "id": "L_ch05_q15",
+      "text": "Under Keyman Insurance, who is described as the KEY MAN?",
+      "options": [
+        "The lowest-paid employee in the company",
+        "A director, partner, or any key individual who directly affects the business",
+        "The insurance agent who sells the policy",
+        "The government official who approves the policy"
+      ],
+      "correct_index": 1,
+      "explanation": "A KEY MAN is a DIRECTOR, PARTNER, or any other CRITICAL INDIVIDUAL whose work directly affects the business — and whose absence (death or disability) would cause significant financial loss to the company. Keyman Insurance protects the business against this financial risk."
+    }
+  ]
+}
