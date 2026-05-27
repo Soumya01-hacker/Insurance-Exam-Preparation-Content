@@ -1,0 +1,188 @@
+{
+  "chapterId": "regulatory_aspects_for_insurance_agents",
+  "title": "Chapter 10 (Common Section): Regulatory Aspects of Insurance Agent",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📜 Key Acts Governing Insurance in India",
+      "cards": [
+        {
+          "title": "Insurance Act, 1938",
+          "content": "The Insurance Act, 1938 is the primary legislation governing and regulating insurance business in India. It was passed in the year 1938 and is still in force today (with amendments). This is the backbone act for all insurance regulation in India.",
+          "color": "blue"
+        },
+        {
+          "title": "IRDA Act, 1999",
+          "content": "The IRDA Act (Insurance Regulatory and Development Authority Act) was passed in the year 1999. This Act led to the establishment of IRDAI in April 2000. The Act empowers IRDAI to regulate, promote, and ensure orderly growth of the insurance industry in India.",
+          "color": "blue"
+        },
+        {
+          "title": "Main Purpose of These Regulations",
+          "content": "The main purpose of all insurance rules and regulations is to PROTECT THE INTEREST OF THE POLICYHOLDER. Every regulation — whether about agents, companies, or products — is ultimately designed to ensure that the customer (policyholder) is treated fairly and their money is safe.",
+          "color": "blue"
+        },
+        {
+          "title": "Which Act is NOT Linked to Insurance Business?",
+          "content": "The Income Tax Act is NOT linked to insurance business. It is a separate legislation governing income taxation in India. The Insurance Act 1938, IRDA Act 1999, and other insurance-related acts are all linked to insurance business — but the Income Tax Act is not.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👤 Insurance Agent — Identity and Role",
+      "cards": [
+        {
+          "title": "Who Does an Insurance Agent Represent?",
+          "content": "An Insurance Agent represents the Insurance Company (Insurer). The agent's identity and authority come from the company they are appointed by. When an agent sells a policy, they are acting on behalf of and representing their insurance company — NOT the customer.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does an Insurance Agent Promote and Sell?",
+          "content": "An Insurance Agent promotes and sells a PROMISE on behalf of the Insurance Company — specifically, the promise that if the insured pays premium and suffers a loss (misfortune), the company will compensate them. The agent does not sell a tangible product — they sell assurance and financial protection.",
+          "color": "blue"
+        },
+        {
+          "title": "Individual Agent vs Composite Agent",
+          "content": "Individual Agent = An agent who sells ONLY Life Insurance. Composite Agent = An agent who sells BOTH Life Insurance AND General Insurance. General Insurance includes Motor Insurance, Health Insurance, Fire Insurance, Marine Insurance, etc. A Composite Agent can deal with more than one Life Insurance company AND one General Insurance company.",
+          "color": "blue"
+        },
+        {
+          "title": "Minimum Qualification for Insurance Agent",
+          "content": "The minimum educational qualification required to become an Insurance Agent in India is Class 10 (Matriculation / SSC pass). There is no degree requirement — a 10th pass certificate is sufficient to apply for an insurance agent license.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Agency Appointment Letter — Who Authorizes and Who Gives",
+      "cards": [
+        {
+          "title": "CRITICAL: Two Different Questions — Two Different Answers",
+          "content": "This is one of the most commonly confused topics in IC-38 exams. There are TWO different questions with TWO different answers: (1) WHO AUTHORIZES the Agency Appointment Letter? → IRDAI. (2) WHO GIVES (issues) the Agency Appointment Letter? → The Insurer (Insurance Company).",
+          "color": "blue"
+        },
+        {
+          "title": "Simple Analogy to Remember",
+          "content": "Think of your Class 10 Board Certificate: Who AUTHORIZES it? → The Exam Board (e.g., CBSE, State Board). Who GIVES it to you? → Your School. Similarly: IRDAI = The Board (Authorizes). Insurer = The School (Actually gives/issues the letter to the agent).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏛️ What IRDAI Regulates and Does NOT Regulate",
+      "cards": [
+        {
+          "title": "Entities Regulated by IRDAI",
+          "content": "IRDAI regulates: (1) Insurance Companies (Insurers), (2) Insurance Agents, (3) Insurance Brokers. All three categories are directly under IRDAI's regulatory control and must comply with IRDAI rules.",
+          "color": "blue"
+        },
+        {
+          "title": "Entity NOT Regulated by IRDAI",
+          "content": "Employees of the Insurance Company are NOT regulated by IRDAI. They are employees of a private or government organization and are governed by labor laws and their company's internal policies — not by IRDAI directly. This is a common exam trap.",
+          "color": "blue"
+        },
+        {
+          "title": "IRDAI Regulations — Insurer's Obligations",
+          "content": "IRDAI regulations prescribe the insurer's obligations in three areas: (1) At the Point of Sale — how policies are sold. (2) Towards Policy Servicing — how policies are maintained and updated. (3) Towards Control of Expenses — how company expenditure is managed. Customer Relationship Management (CRM) is the AGENT's responsibility, NOT the insurer's obligation under IRDAI regulations.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "✅ What an Agent MUST Do — Code of Conduct",
+      "cards": [
+        {
+          "title": "Permitted Actions for an Insurance Agent",
+          "content": "An Insurance Agent MUST: (1) Indicate the scale of commission if asked by the customer — transparency is required. (2) Disclose their license on demand — show the license when a customer asks for it. (3) Indicate the premium to be charged — inform the customer of the exact premium amount. (4) Inform the insurer of all relevant facts about the prospect — full disclosure is required. (5) Advise the prospect on nomination — guide them on who to name as nominee. (6) Render assistance in claim settlement — help the client when they need to make a claim.",
+          "color": "blue"
+        },
+        {
+          "title": "PROHIBITED Actions for an Insurance Agent",
+          "content": "An Insurance Agent must NOT: (1) Share commission by way of Rebate — giving commission back to the customer as a discount (rebate) is illegal and prohibited. (2) Offer rates different from those offered by the Insurer — agents cannot invent their own pricing. (3) Multi-Level Marketing (MLM) — using MLM networks to sell insurance is prohibited. (4) Sharing of Commission — sharing earned commission with unauthorized persons is not allowed.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT Prohibited — Commission",
+          "content": "Commission earned by an agent for selling policies is NOT prohibited. Commission is the legal, legitimate income of an insurance agent. Agents can receive commission and can disclose the amount to customers if asked — but they CANNOT share or rebate this commission back to customers.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📄 Agent License — Validity, Renewal, and Cancellation",
+      "cards": [
+        {
+          "title": "License Validity Period",
+          "content": "An Insurance Agent's license is valid for 3 Years. After 3 years, the agent must apply for renewal to continue practicing. The license is issued after the agent completes the required training and passes the licensing exam.",
+          "color": "blue"
+        },
+        {
+          "title": "License Renewal — Key Facts",
+          "content": "When renewing an agent's license: (1) NO FEE is required to be paid for renewal. (2) NO additional training is required at the time of renewal. The renewal process is straightforward — just applying for renewal within the prescribed timeframe.",
+          "color": "blue"
+        },
+        {
+          "title": "Duplicate License — When Issued",
+          "content": "A Duplicate License is issued by the authority only when the original license has been LOST. If a license is revoked, suspended, or withdrawn (cancelled due to misconduct), a duplicate is NOT issued — the agent must reapply.",
+          "color": "blue"
+        },
+        {
+          "title": "License Cancellation — Criminal Misconduct",
+          "content": "If an Insurance Agent is found guilty of Criminal Misappropriation (using money entrusted to them for a wrong purpose), the Designated Person (authority) will CANCEL the agent's license. The license is not merely suspended — it is cancelled.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "📜 Key Dates — Regulatory History",
+      "items": [
+        {
+          "year": "1938",
+          "text": "Insurance Act, 1938 passed — first and primary legislation to regulate insurance business in India."
+        },
+        {
+          "year": "1999",
+          "text": "IRDA Act (Bill) passed in 1999 — establishing the legal framework for the Insurance Regulatory and Development Authority."
+        },
+        {
+          "year": "2000",
+          "text": "IRDAI formally established in April 2000 — began functioning as the supreme regulator of the insurance industry."
+        },
+        {
+          "year": "2014",
+          "text": "IRDA renamed to IRDAI — 'of India' was added to the name: Insurance Regulatory and Development Authority of India."
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips (Quick Memory)",
+      "items": [
+        "Main purpose of insurance regulations = Protect the interest of the Policyholder.",
+        "Insurance Act = 1938 (regulation of insurance business). IRDA Act = 1999 (establishing IRDAI).",
+        "IRDAI established = April 2000. IRDA Bill PASSED = 1999.",
+        "Income Tax Act is NOT linked to insurance business.",
+        "Insurance Agent represents = The Insurance COMPANY (not the customer).",
+        "Individual Agent = Sells ONLY Life Insurance. Composite Agent = Sells Life + General Insurance.",
+        "Minimum qualification for agent = 10th Pass (Class X / Matriculation).",
+        "Agency Appointment Letter AUTHORIZED BY = IRDAI. GIVEN BY = The Insurer (Insurance Company).",
+        "IRDAI regulates: Insurance Companies, Agents, Brokers. Does NOT regulate: Employees of Insurance Company.",
+        "Agent MUST disclose commission if asked, show license on demand, inform of premium, disclose all facts about prospect.",
+        "Agent MUST NOT give rebate, offer different rates, use MLM, share commission.",
+        "Commission is LEGAL for agents — it is NOT prohibited.",
+        "Agent license is valid for 3 YEARS. No fee, no training required for renewal.",
+        "Duplicate license = Issued only when license is LOST (not when revoked or suspended).",
+        "Criminal Misappropriation by agent = License CANCELLED by Designated Person.",
+        "CRM (Customer Relationship Management) = AGENT's responsibility, NOT insurer's obligation under IRDAI.",
+        "IRDAI prescribes insurer's obligations for: Point of Sale, Policy Servicing, Control of Expenses."
+      ]
+    }
+  ]
+}

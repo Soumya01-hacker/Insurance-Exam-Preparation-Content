@@ -1,0 +1,188 @@
+{
+  "chapter_id": "regulatory_aspects_for_insurance_agents",
+  "chapter_title": "Chapter 10 (Common Section): Regulatory Aspects of Insurance Agent",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch10C_q01",
+      "text": "Which of the following entity is NOT regulated by IRDAI?",
+      "options": [
+        "Insurance Companies",
+        "Insurance Agents",
+        "Brokers",
+        "Employees of the Insurance Company"
+      ],
+      "correct_index": 3,
+      "explanation": "IRDAI regulates Insurance Companies, Insurance Agents, and Brokers — all of whom are directly involved in the insurance business. However, Employees of an Insurance Company are governed by labor laws and their company's internal policies, not by IRDAI directly. This is a very common exam trap."
+    },
+    {
+      "id": "ch10C_q02",
+      "text": "An Insurance Agent represents the ________.",
+      "options": [
+        "Insurance Company",
+        "Policyholder",
+        "Government of India",
+        "IRDAI"
+      ],
+      "correct_index": 0,
+      "explanation": "An Insurance Agent represents the Insurance Company (Insurer). When an agent sells a policy, advises a customer, or collects a premium, they are acting on behalf of their insurance company. The agent's authority and identity come from the company they are appointed by."
+    },
+    {
+      "id": "ch10C_q03",
+      "text": "Agency Appointment Letter is GIVEN BY ________.",
+      "options": [
+        "Government of India",
+        "IRDAI",
+        "General Insurance Corporation",
+        "The Insurer (Insurance Company)"
+      ],
+      "correct_index": 3,
+      "explanation": "The Agency Appointment Letter is GIVEN (physically issued) by the Insurer (Insurance Company). However, it is AUTHORIZED by IRDAI. This distinction is critical: IRDAI authorizes the letter (gives it legal validity), but the insurance company actually gives/issues it to the agent. These are two separate questions with two separate answers."
+    },
+    {
+      "id": "ch10C_q04",
+      "text": "What is NOT prohibited in the latest Insurance Regulations?",
+      "options": [
+        "Rebate",
+        "Multi-Level Marketing",
+        "Sharing of Commission",
+        "Commission"
+      ],
+      "correct_index": 3,
+      "explanation": "Commission earned by an agent for selling insurance policies is NOT prohibited — it is the agent's legal and legitimate income. What IS prohibited under insurance regulations: giving Rebate (returning commission to customers as discount), Multi-Level Marketing (MLM networks), and Sharing of Commission with unauthorized persons."
+    },
+    {
+      "id": "ch10C_q05",
+      "text": "Identify the statement which is NOT correct regarding what an Insurance Agent should do:",
+      "options": [
+        "Indicate the scale of commission if asked by the customer",
+        "Share the commission by way of Rebate",
+        "Disclose his license on demand",
+        "Indicate the premium to be charged"
+      ],
+      "correct_index": 1,
+      "explanation": "Sharing commission by way of Rebate is PROHIBITED under insurance regulations. An agent legally earns commission but cannot give it back to the customer as a discount or rebate — this is considered an unfair trade practice. Indicating commission, disclosing license, and stating premium are all required and permitted actions."
+    },
+    {
+      "id": "ch10C_q06",
+      "text": "Which of the following is INCORRECT regarding an Insurance Agent's duties?",
+      "options": [
+        "An agent is expected to inform the insurer all relevant facts about the prospect",
+        "Advise the prospect on nomination",
+        "Offer rates different from those offered by the Insurer",
+        "Render assistance in claim settlement"
+      ],
+      "correct_index": 2,
+      "explanation": "Offering rates different from those offered by the Insurer is INCORRECT — agents cannot invent their own pricing or offer discounts not approved by the insurance company. All premium rates are set by the insurer. Informing the insurer of relevant facts, advising on nomination, and helping with claims are all proper agent duties."
+    },
+    {
+      "id": "ch10C_q07",
+      "text": "Which of the following Acts is insurance business in India NOT linked to?",
+      "options": [
+        "Insurance Act, 1938",
+        "IRDA Act, 1999",
+        "Motor Vehicles Act",
+        "Income Tax Act"
+      ],
+      "correct_index": 3,
+      "explanation": "The Income Tax Act is a separate legislation covering income taxation — it is NOT directly linked to the regulation of insurance business. The Insurance Act 1938, IRDA Act 1999, and Motor Vehicles Act (which makes motor insurance mandatory) are all linked to insurance business in India."
+    },
+    {
+      "id": "ch10C_q08",
+      "text": "IRDAI Regulations prescribe the Insurer's obligations. Which of the following is INCORRECT?",
+      "options": [
+        "At the Point of Sale",
+        "Towards Policy Servicing",
+        "Towards Control of Expenses",
+        "Customer Relationship Management"
+      ],
+      "correct_index": 3,
+      "explanation": "Customer Relationship Management (CRM) is the responsibility of the Insurance AGENT — not the insurer's obligation under IRDAI regulations. The insurer's IRDAI-prescribed obligations cover: Point of Sale (how policies are sold), Policy Servicing (maintaining policies), and Control of Expenses. Direct customer relationship is managed by agents, not companies."
+    },
+    {
+      "id": "ch10C_q09",
+      "text": "What is the minimum qualification required for an Insurance Agent?",
+      "options": [
+        "Graduate (Bachelor's Degree)",
+        "Class 12 Pass",
+        "Class 10 Pass (Matriculation)",
+        "Post-Graduate"
+      ],
+      "correct_index": 2,
+      "explanation": "The minimum educational qualification required to become an Insurance Agent in India is Class 10 Pass (Matriculation / SSC). No degree is required. This relatively low entry barrier allows people from all economic backgrounds to become insurance agents and contribute to insurance penetration in India."
+    },
+    {
+      "id": "ch10C_q10",
+      "text": "An agent who sells ONLY Life Insurance is known as ________.",
+      "options": [
+        "Composite Agent",
+        "General Agent",
+        "Individual Agent",
+        "Broker"
+      ],
+      "correct_index": 2,
+      "explanation": "An agent who sells ONLY Life Insurance is called an Individual Agent. A Composite Agent deals with both Life Insurance AND General Insurance (like Motor and Health Insurance). A Broker is different from an agent — brokers represent clients rather than insurance companies."
+    },
+    {
+      "id": "ch10C_q11",
+      "text": "What is the product an Insurance Agent promotes and sells?",
+      "options": [
+        "Policy (Insurance document)",
+        "Mutual Fund",
+        "A Promise on behalf of the Insurance Company to compensate loss if misfortune occurs",
+        "None of these"
+      ],
+      "correct_index": 2,
+      "explanation": "An Insurance Agent promotes and sells a Promise on behalf of the Insurance Company — the promise that if the insured pays the premium and suffers a loss (misfortune), the company will compensate them. Insurance is not a tangible product but a contract of assurance and protection."
+    },
+    {
+      "id": "ch10C_q12",
+      "text": "In which year was the IRDA Bill (Act) passed?",
+      "options": [
+        "1999",
+        "2000",
+        "2014",
+        "1938"
+      ],
+      "correct_index": 0,
+      "explanation": "The IRDA Bill (IRDA Act) was passed in 1999. As a result, IRDAI was formally established and began operations in April 2000. Note the distinction: the Bill was PASSED in 1999, but IRDAI was ESTABLISHED in 2000. Both years are asked in exams — read each question carefully."
+    },
+    {
+      "id": "ch10C_q13",
+      "text": "If an agent is found guilty of Criminal Misappropriation, the Designated Person will ________.",
+      "options": [
+        "Cancel the License",
+        "Issue a Duplicate License",
+        "Renew the Existing License",
+        "Take some fee from the agent"
+      ],
+      "correct_index": 0,
+      "explanation": "If an Insurance Agent is found guilty of Criminal Misappropriation (misusing money entrusted to them), the Designated Person (authority) will CANCEL the agent's license. The license is not just suspended — it is permanently cancelled. This protects policyholders from dishonest agents."
+    },
+    {
+      "id": "ch10C_q14",
+      "text": "The authority may issue a Duplicate License in case it is ________.",
+      "options": [
+        "Lost",
+        "Revoked",
+        "Suspended",
+        "Withdrawn"
+      ],
+      "correct_index": 0,
+      "explanation": "A Duplicate License is issued by the authority ONLY when the original license has been LOST. If the license has been revoked (taken away as punishment), suspended (temporarily stopped), or withdrawn (cancelled), a duplicate is NOT issued. In those cases, the agent must address the regulatory issue before any new license is considered."
+    },
+    {
+      "id": "ch10C_q15",
+      "text": "An agent's license is to be renewed ________.",
+      "options": [
+        "Every year",
+        "Every 2 years",
+        "Every 3 years",
+        "Every 5 years"
+      ],
+      "correct_index": 2,
+      "explanation": "An Insurance Agent's license is valid for 3 Years and must be renewed every 3 years. Key facts about renewal: NO fee is required, and NO additional training is needed at the time of renewal. The agent simply applies for renewal before the license expires to maintain their authorization to sell insurance."
+    }
+  ]
+}

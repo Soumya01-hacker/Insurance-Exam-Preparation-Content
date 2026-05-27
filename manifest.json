@@ -456,7 +456,10 @@
                 "Renewal of Insurance Agent License"
               ],
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/regulatory_aspects_for_insurance_agents.pdf",
-              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json"
+              "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/regulatory_aspects_for_insurance_agents.json",
+              "short_notes_url": "short_notes/regulatory_aspects_for_insurance_agents.json",
+              "total_questions": 15,
+              "duration_minutes": 18
             }
           ]
         },
