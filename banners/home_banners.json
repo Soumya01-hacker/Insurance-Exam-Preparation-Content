@@ -5,7 +5,7 @@
       "title": "Become an IRDAI Licensed Agent",
       "subtitle": "Pass IC-38 — Start Your Career Today",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_irdai.png",
-      "action_target": "/study-material",
+      "action_target": "",
       "gradient_start": "0F172A",
       "gradient_end": "1E3A8A",
       "icon": "school"
@@ -15,7 +15,7 @@
       "title": "IC-38 Exam Insurance Mock Test",
       "subtitle": "Practice Smart. Score High. Get Licensed.",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_feature.png",
-      "action_target": "/test-series",
+      "action_target": "",
       "gradient_start": "1E3A8A",
       "gradient_end": "3B82F6",
       "icon": "assignment"
@@ -25,7 +25,7 @@
       "title": "IC-38 Complete Preparation",
       "subtitle": "Notes + Mock Tests + Videos — All in One Place",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_3.png",
-      "action_target": "/study-material",
+      "action_target": "",
       "gradient_start": "1E1B4B",
       "gradient_end": "4338CA",
       "icon": "book"
@@ -35,7 +35,7 @@
       "title": "Smart Preparation, Better Results",
       "subtitle": "All-in-One App for IC-38 Exam Success",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_app_showcase.png",
-      "action_target": "/test-series",
+      "action_target": "",
       "gradient_start": "064E3B",
       "gradient_end": "10B981",
       "icon": "star"
