@@ -1,0 +1,188 @@
+{
+  "chapter_id": "features_of_insurance_contract",
+  "chapter_title": "Chapter 4 (Common Section): Features of Insurance Contract",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch04_q01",
+      "text": "Insurance contracts are governed by which Act in India?",
+      "options": [
+        "The Insurance Act, 1938",
+        "The IRDAI Act, 1999",
+        "The Indian Contract Act, 1872",
+        "The Life Insurance Corporation Act, 1956"
+      ],
+      "correct_index": 2,
+      "explanation": "Insurance contracts in India are legal contracts made according to the Indian Contract Act, 1872. This Act governs the validity, enforceability, and conditions of all contracts, including insurance contracts. They are NOT verbal contracts — they are written, legally enforceable agreements."
+    },
+    {
+      "id": "ch04_q02",
+      "text": "Which element of a valid insurance contract deals directly with the PREMIUM paid by the insured?",
+      "options": [
+        "Offer and Acceptance",
+        "Consideration",
+        "Free Consent",
+        "Capacity of Parties"
+      ],
+      "correct_index": 1,
+      "explanation": "The premium paid by the insured is the CONSIDERATION in an insurance contract. Consideration means something of value exchanged by both parties. The insured pays premium (consideration) and in return receives the insurer's promise of financial protection (the insurer's consideration)."
+    },
+    {
+      "id": "ch04_q03",
+      "text": "Both parties to an insurance contract must agree and understand the same thing in the same sense. This is referred to as:",
+      "options": [
+        "Consideration of Legality",
+        "Free Consent",
+        "Consensus Ad Idem",
+        "Acceptance"
+      ],
+      "correct_index": 2,
+      "explanation": "'Consensus Ad Idem' is the Latin term meaning 'meeting of minds'. It means both parties in the contract agree on the same terms, in the same manner. This mutual agreement is a fundamental requirement for a valid insurance contract."
+    },
+    {
+      "id": "ch04_q04",
+      "text": "Which of the following is an example of COERCION in an insurance contract?",
+      "options": [
+        "Ramesh signs a contract without reading the fine print",
+        "Ramesh threatens to kill Mahesh if he does not sign the contract",
+        "Ramesh uses his professional position to get Mahesh to sign",
+        "Ramesh provides false information to get Mahesh to sign"
+      ],
+      "correct_index": 1,
+      "explanation": "Coercion means applying pressure through CRIMINAL MEANS to force someone to sign a contract. Option B — 'threatening to kill someone' — is a criminal act and a perfect example of coercion. Option C is Undue Influence (using professional position). Option D is Misrepresentation (false information)."
+    },
+    {
+      "id": "ch04_q05",
+      "text": "Which of the following is NOT a valid consideration for an insurance contract?",
+      "options": [
+        "Money",
+        "Property",
+        "Bribe",
+        "Jewellery"
+      ],
+      "correct_index": 2,
+      "explanation": "A bribe is an illegal payment and cannot be a valid consideration for any contract. Contracts based on bribes are illegal and unenforceable. Money, property, and jewellery are all legitimate forms of consideration for insurance contracts."
+    },
+    {
+      "id": "ch04_q06",
+      "text": "Which party is NOT eligible to personally enter into a life insurance contract?",
+      "options": [
+        "Business Owner",
+        "Minor (person below 18 years)",
+        "Housewife",
+        "Government Employee"
+      ],
+      "correct_index": 1,
+      "explanation": "A MINOR (person below 18 years of age) cannot personally enter into a life insurance contract as they lack legal capacity. However, a minor CAN be insured — the contract is made with their parent or legal guardian as the proposer. Business owners, housewives, and government employees can all enter insurance contracts."
+    },
+    {
+      "id": "ch04_q07",
+      "text": "A wrong statement made during contract negotiation WITHOUT any intention to deceive is called:",
+      "options": [
+        "Fraud",
+        "Misrepresentation",
+        "Coercion",
+        "Undue Influence"
+      ],
+      "correct_index": 1,
+      "explanation": "Misrepresentation refers to inaccurate statements made during contract negotiation without fraudulent intent. It can be innocent (accidental mistake) or fraudulent (deliberate). Both are classified as misrepresentation and both types can make an insurance contract voidable."
+    },
+    {
+      "id": "ch04_q08",
+      "text": "An insurance contract can be declared VOID when which of the following is found?",
+      "options": [
+        "Only Fraudulent Misrepresentation",
+        "Only Innocent Misrepresentation",
+        "Both Innocent and Fraudulent Misrepresentation",
+        "Only when the premium is not paid"
+      ],
+      "correct_index": 2,
+      "explanation": "An insurance contract can be declared void when ANY form of misrepresentation is found — whether INNOCENT (no intention to deceive) or FRAUDULENT (deliberate deception). Both types of misrepresentation are grounds for voiding the contract."
+    },
+    {
+      "id": "ch04_q09",
+      "text": "The Grace Period for a Life Insurance policy with MONTHLY premium payment mode is:",
+      "options": [
+        "30 days",
+        "15 days",
+        "45 days",
+        "7 days"
+      ],
+      "correct_index": 1,
+      "explanation": "For Life Insurance policies where the premium payment mode is MONTHLY, the Grace Period is 15 DAYS. For all other modes (Quarterly, Half-Yearly, Yearly), the Grace Period is 30 days. Grace Period is the extra time given to pay the premium after the due date, during which the policy remains in force."
+    },
+    {
+      "id": "ch04_q10",
+      "text": "Which type of insurance policy has NO grace period as per IRDAI rules?",
+      "options": [
+        "Life Insurance",
+        "Health Insurance",
+        "Motor Insurance",
+        "Travel Insurance"
+      ],
+      "correct_index": 2,
+      "explanation": "MOTOR INSURANCE has NO grace period. Motor insurance policies must be renewed before the expiry date. However, for Comprehensive Motor Policies specifically, if the policy lapses for 90 days, the No Claim Bonus benefit is permanently lost."
+    },
+    {
+      "id": "ch04_q11",
+      "text": "For a Comprehensive Motor Insurance Policy, the No Claim Bonus benefit is lost if the policy remains lapsed for more than:",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "correct_index": 2,
+      "explanation": "For Comprehensive Motor Insurance policies, if the policy has lapsed (not renewed) for 90 DAYS, the No Claim Bonus (NCB) benefit is forfeited. NCB is a discount on premium given for not making any claims. After 90 days of lapse, this accumulated benefit is lost."
+    },
+    {
+      "id": "ch04_q12",
+      "text": "A policyholder who wishes to return their insurance policy because they are not satisfied can do so within how many days of receiving the policy document?",
+      "options": [
+        "60 days",
+        "45 days",
+        "30 days",
+        "15 days"
+      ],
+      "correct_index": 3,
+      "explanation": "The FREE LOOK PERIOD (also called Cool Off Period) is 15 DAYS from the date of receiving the policy document. During this period, the policyholder can return the policy if unsatisfied. The insurer refunds the premium after deducting minor expenses like medical examination fees and stamp duty charges."
+    },
+    {
+      "id": "ch04_q13",
+      "text": "Which of the following persons CANNOT be insured by Ramesh under a Life Insurance policy?",
+      "options": [
+        "Ramesh's House",
+        "Ramesh's Spouse",
+        "Ramesh's Friend",
+        "Ramesh's Parents"
+      ],
+      "correct_index": 2,
+      "explanation": "Ramesh CANNOT insure his FRIEND under Life Insurance because there is no legally recognised insurable interest between friends. Under Life Insurance, a person can only insure: (1) Spouse, (2) Children, (3) Parents, and (4) Parents-in-law. Friends do not fall in any of these categories."
+    },
+    {
+      "id": "ch04_q14",
+      "text": "When a policyholder returns the policy during the Free Look Period, what does the insurance company refund?",
+      "options": [
+        "100% of the premium without any deduction",
+        "50% of the premium",
+        "The premium after adjusting for proportionate risk premium, medical examination and stamp duty charges",
+        "No refund is given"
+      ],
+      "correct_index": 2,
+      "explanation": "When a policy is returned during the Free Look Period, the insurance company refunds the premium AFTER deducting: (1) Proportionate risk premium for the period covered, (2) Medical examination expenses, and (3) Stamp duty charges. The full 100% premium is NOT refunded — only the balance after these deductions."
+    },
+    {
+      "id": "ch04_q15",
+      "text": "Which among the following statements correctly defines the Free Look Period?",
+      "options": [
+        "Extra time to pay premium after the due date",
+        "A period during which the insured can cancel and get a refund if not satisfied with the policy",
+        "Time given to the insurer to process the claim",
+        "Period during which no premium is charged"
+      ],
+      "correct_index": 1,
+      "explanation": "The Free Look Period (also called Cool Off Period) is the time — 15 days from receipt of the policy document — during which the policyholder can cancel the policy and receive a refund if not satisfied. It is NOT a grace period for premium payment. Option A describes the Grace Period, which is a different concept."
+    }
+  ]
+}
