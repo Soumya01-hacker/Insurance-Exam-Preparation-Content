@@ -1,0 +1,231 @@
+{
+  "chapterId": "life_insurance_documentation",
+  "title": "Chapter 7: Life Insurance Documentation (Life Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📑 Three Stages of Life Insurance Documentation",
+      "cards": [
+        {
+          "title": "Overview of Three Documentation Stages",
+          "content": "Life Insurance documentation is covered in THREE stages: (1) PROPOSAL STAGE — documents required when applying for a policy. (2) POLICY STAGE — documents issued after the policy is approved and issued. (3) POLICY CONDITIONS AND PRIVILEGES — the rights, conditions, and special provisions within the policy contract.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Stage 1: Proposal Stage Documents",
+      "cards": [
+        {
+          "title": "1. Prospectus",
+          "content": "A Prospectus is a FORMAL LEGAL DOCUMENT used by insurance companies that provides COMPLETE DETAILS about their product. When an insurance company launches a new product (policy), it issues a prospectus containing all information about that product so that the customer can make an informed decision. This is the starting document of the sales process.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Proposal Form",
+          "content": "The Proposal Form is the APPLICATION DOCUMENT used to make a proposal (apply) for an insurance policy. It is filled by the agent on behalf of the client. The agent filling the proposal form is also the PRIMARY UNDERWRITER because the agent gathers and submits accurate client information. Without a proposal form, the policy process cannot begin.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Medical Examiner's Report",
+          "content": "The Medical Examiner's Report is prepared by a doctor and contains the physical health parameters of the proposer: HEIGHT, WEIGHT, and BLOOD PRESSURE (BP). It does NOT contain emotional behavior, social status, or previous policy details. This report helps the insurer assess the health risk of the proposer.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Age Proof — Standard vs Non-Standard",
+          "content": "STANDARD Age Proofs (accepted by insurer): School/10th Certificate, Birth Certificate, Passport, PAN Card, any government-issued document with date of birth. NON-STANDARD Age Proofs (NOT accepted by insurer): Horoscope, Ration Card, Village Panchayat Certificate. These are non-standard and cannot be used as valid age proof.",
+          "color": "blue"
+        },
+        {
+          "title": "5. Address Proof",
+          "content": "Valid Address Proof documents include: Driving License, Passport, Telephone Bill, Electricity Bill, Bank Passbook, Voter ID Card, or any government-issued document containing a valid address. These prove the proposer's place of residence.",
+          "color": "blue"
+        },
+        {
+          "title": "6. Moral Hazard Report",
+          "content": "A Moral Hazard Report is a report which states that after purchasing insurance, the client will NOT put themselves in any dangerous/risky position intentionally. It deals with the BEHAVIORAL RISK of the insured. Moral Hazard = increased risky behavior by the insured AFTER purchasing insurance (because they feel protected). Key exam answer: Moral Hazard = increased risky behavior FOLLOWING the purchase of insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔑 KYC — Know Your Customer",
+      "cards": [
+        {
+          "title": "What is KYC?",
+          "content": "KYC stands for KNOW YOUR CUSTOMER. KYC documents required include: (1) Photograph, (2) Age Proof, (3) Address Proof, (4) Income Proof. These four documents collectively form the KYC requirement for a life insurance proposal.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧾 FPR — First Premium Receipt",
+      "cards": [
+        {
+          "title": "What is FPR?",
+          "content": "FPR stands for FIRST PREMIUM RECEIPT. It is the receipt issued by the insurer when the first premium is paid at the cash counter. FPR is the EVIDENCE that the insurance CONTRACT HAS BEGUN between the insurer and the insured. This is a critical exam point — FPR = proof that the contract has started.",
+          "color": "blue"
+        },
+        {
+          "title": "What Information Does FPR Contain?",
+          "content": "The First Premium Receipt (FPR) contains: (1) Name and Address of the life insured. (2) Policy Number. (3) Premium Amount Paid. (4) Frequency of Premium Payment. (5) Next Due Date of Premium. (6) DOC — Date of Commencement. (7) Date of Final Maturity. (8) Date of Payment of Last Premium. (9) Sum Assured.",
+          "color": "blue"
+        },
+        {
+          "title": "Receipt for Subsequent Premiums",
+          "content": "After the First Premium, when the policyholder continues paying subsequent premiums, the receipt issued is called REVIVAL PREMIUM RECEIPT — not renewal or restoration receipt. Each subsequent premium paid revives the contract for the next period.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📃 Policy Document — Three Parts",
+      "cards": [
+        {
+          "title": "Policy Document — Overview",
+          "content": "The POLICY DOCUMENT is the FINAL PROOF of the insurance contract between the insurer and the insured. It is the most important document in the policy stage. The policy document has THREE parts: (1) Policy Schedule, (2) Standard Provisions, (3) Specific Policy Provisions.",
+          "color": "blue"
+        },
+        {
+          "title": "Part 1: Policy Schedule",
+          "content": "The Policy Schedule is the FIRST PART of the policy document. It is on the FACE PAGE and is also called the HEART of the policy contract. It contains: Name of insurance company, Name, Address, Date of Birth of policyholder, Sum Assured, Date of Commencement, Date of Maturity, Name of Nominee, Policy Number, Insurer's promise to pay, Signature of authorized signatory, Stamp, and Address of local insurance inspector.",
+          "color": "blue"
+        },
+        {
+          "title": "Part 2: Standard Provisions",
+          "content": "Standard Provisions is the SECOND PART of the policy document. It contains ALL THE RIGHTS, PRIVILEGES, AND CONDITIONS applicable under the contract. This section tells the policyholder what they are entitled to and what conditions apply — such as grace period, lapse, revival, loan provisions, etc.",
+          "color": "blue"
+        },
+        {
+          "title": "Part 3: Specific Policy Provisions",
+          "content": "Specific Policy Provisions is the THIRD PART of the policy document. It contains the legal contract between insurer and insured regarding specific conditions like GRACE PERIOD details. The grace period, its duration, and related rights are covered under specific policy provisions.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏳ Grace Period — Rules and Consequences",
+      "cards": [
+        {
+          "title": "What is Grace Period?",
+          "content": "Grace Period is the EXTRA TIME given by the insurer AFTER the premium due date within which the policyholder can still pay their premium and keep the policy active. During the grace period, the policy continues in force — it does NOT lapse.",
+          "color": "blue"
+        },
+        {
+          "title": "Duration of Grace Period",
+          "content": "The standard length of Grace Period is 30 DAYS or 1 MONTH — both are correct. The exam answer is 'Both 30 days and 1 month' because some months (like February) have fewer than 30 days, so the correct option is '1 month or 30 days'. Do NOT pick only '30 days' or only '1 month' when the combined option is available.",
+          "color": "blue"
+        },
+        {
+          "title": "Death During Grace Period — What Happens?",
+          "content": "If the policyholder DIES during the Grace Period (without having paid the due premium): The insurance company WILL pay the claim to the nominee. However, the LAST UNPAID PREMIUM will be DEDUCTED from the claim amount. The remaining balance is paid to the nominee. Key point: claim IS payable even if the death occurs during the grace period.",
+          "color": "blue"
+        },
+        {
+          "title": "When Does Policy Lapse?",
+          "content": "A policy is deemed LAPSED when the policyholder does NOT pay the premium even within the Grace Period after the due date. Due Date → 30 days Grace Period → still not paid → POLICY LAPSES. After lapse, the insurance cover ceases until the policy is revived.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Free Look Period and Revival",
+      "cards": [
+        {
+          "title": "Free Look Period (Cool Off Period)",
+          "content": "The Free Look Period is 15 DAYS from the date the policyholder receives the policy. During this period, if the policyholder is not satisfied with the terms, they can RETURN the policy and get a REFUND. The insurer deducts small expenses incurred and returns the balance. Also called Cool Off Period.",
+          "color": "blue"
+        },
+        {
+          "title": "Revival / Reinstatement of a Lapsed Policy",
+          "content": "If a policy has lapsed (due to non-payment of premium beyond the grace period), the policyholder can REVIVE or REINSTATE the policy by paying the outstanding premiums plus interest. This facility to restart a lapsed policy is called REVIVAL or REINSTATEMENT. Both terms mean the same thing.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏦 Non-Forfeiture Provisions — GSV and Policy Loan",
+      "cards": [
+        {
+          "title": "GSV — Guaranteed Surrender Value",
+          "content": "GSV = Guaranteed Surrender Value. As per Indian law, if a policyholder has paid premiums CONTINUOUSLY FOR AT LEAST 3 YEARS, they are entitled to GSV when they withdraw/surrender the policy. The GSV amount depends on the premiums paid during those 3 years. Minimum condition: 3 consecutive years of premium payment.",
+          "color": "blue"
+        },
+        {
+          "title": "Policy Loan",
+          "content": "A policyholder can take a LOAN against their life insurance policy. Condition: the policy must have been in force for at least 3 years. When a loan is taken, the policy is ASSIGNED to the insurer as collateral — but there is NO CHANGE in the policy itself. When the loan is repaid, the policy is REASSIGNED back to the policyholder.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👤 Nomination — Rules and Provisions",
+      "cards": [
+        {
+          "title": "What is Nomination?",
+          "content": "Nomination is the process of designating a person (NOMINEE) who will receive the claim amount in the event of the death of the insured. Nomination is done under SECTION 39 of the Insurance Act, 1938. The policyholder can nominate ONE OR MORE persons as nominee.",
+          "color": "blue"
+        },
+        {
+          "title": "When is an Appointee Required?",
+          "content": "An APPOINTEE must be appointed when the NOMINEE IS A MINOR (below 18 years of age). The appointee is the adult who will receive the claim on behalf of the minor nominee. The role of the appointee ENDS when the nominee turns 18 years old.",
+          "color": "blue"
+        },
+        {
+          "title": "Nominee's Rights — Important Distinction",
+          "content": "The NOMINEE has the right to receive the claim amount ONLY IF THE INSURED DIES. If the insured is alive and the policy matures, the NOMINEE has NO RIGHT over the maturity money — it belongs entirely to the POLICYHOLDER. Nominee's right is triggered only by the death of the insured.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "✏️ Endorsement — Policy Changes",
+      "cards": [
+        {
+          "title": "What is Endorsement?",
+          "content": "Endorsement means making CHANGES or ALTERATIONS to the existing policy. Endorsements are allowed only for specific changes permitted by the insurer. Permitted endorsements include: Change of Name or Address correction, Change of Nominee, Splitting one policy into two or more, Change in Premium Payment Mode. NOT all changes are permitted — only those allowed by the insurer.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 7: Life Insurance Documentation",
+      "items": [
+        "Three documentation stages: Proposal Stage, Policy Stage, Policy Conditions and Privileges.",
+        "Prospectus = FORMAL LEGAL DOCUMENT giving complete product details.",
+        "Proposal Form = APPLICATION document used for making a proposal. Agent fills it = Primary Underwriter.",
+        "Medical Examiner's Report contains: HEIGHT, WEIGHT, BLOOD PRESSURE only.",
+        "Standard Age Proof: School Certificate, Birth Certificate, Passport, PAN Card.",
+        "NON-Standard Age Proof: Horoscope, Ration Card, Village Panchayat Certificate.",
+        "KYC = Photograph + Age Proof + Address Proof + Income Proof.",
+        "FPR = First Premium Receipt = EVIDENCE that the insurance CONTRACT HAS BEGUN.",
+        "Subsequent premium receipt after first = REVIVAL PREMIUM RECEIPT.",
+        "Moral Hazard = INCREASED risky behavior AFTER purchasing insurance.",
+        "Policy Document = FINAL PROOF of insurance contract. Has THREE parts.",
+        "Part 1 = Policy Schedule (face page, heart of policy). Part 2 = Standard Provisions (rights & conditions). Part 3 = Specific Policy Provisions (grace period etc.).",
+        "Grace Period = 30 days OR 1 month (both are correct — exam answer = '1 month or 30 days').",
+        "Death during Grace Period → CLAIM IS PAID but last UNPAID PREMIUM IS DEDUCTED.",
+        "Policy Lapse = premium not paid even after grace period expires.",
+        "Free Look Period = 15 DAYS to return policy if not satisfied.",
+        "Revival/Reinstatement = restarting a lapsed policy by paying due premiums + interest.",
+        "GSV = Guaranteed Surrender Value. Requires minimum 3 YEARS of continuous premium payment.",
+        "Policy Loan requires minimum 3 YEARS of policy in force.",
+        "Nomination under SECTION 39 of Insurance Act, 1938.",
+        "Appointee required when NOMINEE IS A MINOR (below 18 years). Appointee's role ends at nominee's 18th birthday.",
+        "Nominee has rights ONLY on insured's DEATH — no rights if insured is alive.",
+        "Endorsement = making permitted changes to an existing policy."
+      ]
+    }
+  ]
+}

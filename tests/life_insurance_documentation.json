@@ -1,0 +1,248 @@
+{
+  "chapter_id": "life_insurance_documentation",
+  "chapter_title": "Chapter 7: Life Insurance Documentation (Life Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": "ch7_q01",
+      "text": "During which period can a policyholder return the policy and get a refund if they are not satisfied with it?",
+      "options": [
+        "Grace Period",
+        "Free Look Period",
+        "Revival Period",
+        "Surrender Period"
+      ],
+      "correct_index": 1,
+      "explanation": "The FREE LOOK PERIOD (also called Cool Off Period) is the 15-day window from the date of receiving the policy during which the policyholder can return the policy if unsatisfied. The insurer deducts small expenses and refunds the balance."
+    },
+    {
+      "id": "ch7_q02",
+      "text": "Which of the following is an example of a STANDARD Age Proof accepted by insurance companies?",
+      "options": [
+        "Ration Card",
+        "Horoscope",
+        "Passport",
+        "Village Panchayat Certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "PASSPORT is a standard age proof. Ration Card, Horoscope, and Village Panchayat Certificate are all NON-STANDARD age proofs and are NOT accepted by insurance companies. Standard proofs include School Certificate, Birth Certificate, Passport, PAN Card, and government-issued IDs with date of birth."
+    },
+    {
+      "id": "ch7_q03",
+      "text": "Which of the following can be attributed to 'Moral Hazard'?",
+      "options": [
+        "Increased risky behavior FOLLOWING the purchase of insurance",
+        "Increased risky behavior PRIOR to the purchase of insurance",
+        "Decreased risky behavior following the purchase of insurance",
+        "Engaging in criminal acts after being insured"
+      ],
+      "correct_index": 0,
+      "explanation": "Moral Hazard is INCREASED RISKY BEHAVIOR FOLLOWING the purchase of insurance. After getting insured, a person may take more risks because they feel financially protected. Option D (criminal acts) is wrong because a criminal endangers others, not just themselves — this is a common exam trap."
+    },
+    {
+      "id": "ch7_q04",
+      "text": "Which of the following features are checked in the Medical Examiner's Report?",
+      "options": [
+        "Emotional behavior of the proposer",
+        "Height, Weight, and Blood Pressure of the proposer",
+        "Social Status of the proposer",
+        "Truthfulness of the proposer"
+      ],
+      "correct_index": 1,
+      "explanation": "The Medical Examiner's Report contains only HEIGHT, WEIGHT, and BLOOD PRESSURE of the proposer. Emotional behavior, social status, and truthfulness are not physical health parameters and are not part of the medical examiner's assessment."
+    },
+    {
+      "id": "ch7_q05",
+      "text": "A DASH is a formal legal document used by insurance companies that provides details about their product.",
+      "options": [
+        "Policy Document",
+        "Proposal Form",
+        "FPR — First Premium Receipt",
+        "Prospectus"
+      ],
+      "correct_index": 3,
+      "explanation": "PROSPECTUS is the formal legal document used by insurance companies to provide complete information about their products to customers. When a new policy is launched, the insurer issues a prospectus so customers can make an informed choice."
+    },
+    {
+      "id": "ch7_q06",
+      "text": "The application document used for making a proposal for a life insurance policy is known as:",
+      "options": [
+        "Prospectus",
+        "Policy Document",
+        "Proposal Form",
+        "FPR"
+      ],
+      "correct_index": 2,
+      "explanation": "The PROPOSAL FORM is the application document used to apply for a life insurance policy. It is filled by the agent on behalf of the client. The agent filling the proposal form is the primary underwriter as they gather and submit accurate client information."
+    },
+    {
+      "id": "ch7_q07",
+      "text": "From the following age proof documents, which is classified as NON-STANDARD by insurance companies?",
+      "options": [
+        "School Certificate",
+        "ID Card of Defense Personnel",
+        "Ration Card",
+        "Certificate of Baptism"
+      ],
+      "correct_index": 2,
+      "explanation": "RATION CARD is a NON-STANDARD age proof and is NOT accepted by insurance companies. School Certificate, Defense ID Card, and Certificate of Baptism are all STANDARD age proofs accepted by insurers."
+    },
+    {
+      "id": "ch7_q08",
+      "text": "Which of the following documents is evidence of the contract between the insurer and insured?",
+      "options": [
+        "Proposal Form",
+        "Policy Document",
+        "Prospectus",
+        "Claim Form"
+      ],
+      "correct_index": 1,
+      "explanation": "The POLICY DOCUMENT is the final evidence/proof of the insurance contract between the insurer and the insured. The proposal form initiates the process, but the policy document is the legal proof of the concluded contract. Note: FPR is evidence that the contract has BEGUN — the policy document is evidence of the contract itself."
+    },
+    {
+      "id": "ch7_q09",
+      "text": "Which of the following statements is CORRECT regarding the First Premium Receipt (FPR)?",
+      "options": [
+        "Proposal form acceptance is evidence that the policy contract has begun",
+        "Acceptance of premium is evidence that the policy has begun",
+        "First Premium Receipt is evidence that the policy contract has begun",
+        "Premium quote is evidence that the policy contract has begun"
+      ],
+      "correct_index": 2,
+      "explanation": "The FIRST PREMIUM RECEIPT (FPR) is the evidence that the insurance policy contract has BEGUN. When the first premium is paid and FPR is issued, it signifies the formal commencement of the contract between insurer and insured."
+    },
+    {
+      "id": "ch7_q10",
+      "text": "For subsequent premiums paid after the first premium, the insurance company issues:",
+      "options": [
+        "Revival Premium Receipt",
+        "Restoration Premium Receipt",
+        "Restatement Premium Receipt",
+        "Renewal Premium Receipt"
+      ],
+      "correct_index": 0,
+      "explanation": "After the first premium, each subsequent premium payment results in the insurer issuing a REVIVAL PREMIUM RECEIPT. Each payment revives the policy for the next premium period. This is a direct exam question in IC-38."
+    },
+    {
+      "id": "ch7_q11",
+      "text": "Which of the following forms the FIRST PART of a standard insurance policy document?",
+      "options": [
+        "Policy Schedule",
+        "Standard Provisions",
+        "Specific Policy Provisions",
+        "Claim Procedure"
+      ],
+      "correct_index": 0,
+      "explanation": "The POLICY SCHEDULE is the FIRST PART of the policy document. It is on the face page and is considered the heart of the policy contract. It contains key details like policyholder's name, sum assured, date of commencement, maturity date, nominee name, and policy number."
+    },
+    {
+      "id": "ch7_q12",
+      "text": "In a standard insurance policy document, the Standard Provisions section contains information on:",
+      "options": [
+        "Date of Commencement, Date of Maturity, Due Date of Last Premium",
+        "Name of Nominee",
+        "Rights, Privileges, and other conditions applicable under the contract",
+        "Insurer's promise to pay and authorized signatory's signature"
+      ],
+      "correct_index": 2,
+      "explanation": "The STANDARD PROVISIONS section (second part of the policy document) contains ALL RIGHTS, PRIVILEGES, and CONDITIONS applicable under the contract — such as grace period rules, lapse conditions, revival provisions, and non-forfeiture rights. Options A, B, and D are part of the Policy Schedule (first part)."
+    },
+    {
+      "id": "ch7_q13",
+      "text": "Under what circumstances does a policyholder need to appoint an APPOINTEE?",
+      "options": [
+        "When the insured is a minor",
+        "When the nominee is a minor",
+        "When the policyholder is not of sound mind",
+        "When the policyholder is not married"
+      ],
+      "correct_index": 1,
+      "explanation": "An APPOINTEE must be appointed when the NOMINEE IS A MINOR (below 18 years). The appointee, who is an adult, receives the claim on behalf of the minor nominee. The appointee's role automatically ends when the nominee turns 18 years old."
+    },
+    {
+      "id": "ch7_q14",
+      "text": "For a policy to acquire a Guaranteed Surrender Value (GSV), how long must the premium be paid?",
+      "options": [
+        "At least 1 consecutive year",
+        "At least 3 consecutive years",
+        "At least 5 consecutive years",
+        "At least 2 consecutive years"
+      ],
+      "correct_index": 1,
+      "explanation": "As per Indian law, a policy acquires the Guaranteed Surrender Value (GSV) only after the policyholder has paid premiums CONTINUOUSLY FOR AT LEAST 3 YEARS. The GSV amount depends on the total premiums paid in those 3 years."
+    },
+    {
+      "id": "ch7_q15",
+      "text": "When is a policy deemed to be LAPSED?",
+      "options": [
+        "When the premium is not paid on the due date",
+        "When the insured falls ill",
+        "When the premium is not paid even within the Grace Period after the due date",
+        "When the insured changes their address"
+      ],
+      "correct_index": 2,
+      "explanation": "A policy is LAPSED when the premium is NOT paid even within the GRACE PERIOD (30 days) after the due date. Missing just the due date does not lapse the policy — there is a grace period. Lapse occurs only when that grace period also expires without payment."
+    },
+    {
+      "id": "ch7_q16",
+      "text": "Which of the following is CORRECT regarding the Grace Period of a life insurance policy?",
+      "options": [
+        "Standard length of Grace Period is 1 month only",
+        "Standard length of Grace Period is 30 days only",
+        "Standard length of Grace Period is 1 month or 30 days",
+        "Standard length of Grace Period is 1 month and 31 days"
+      ],
+      "correct_index": 2,
+      "explanation": "The correct answer is '1 MONTH OR 30 DAYS' — both are correct representations of the grace period. Since some months (like February) have fewer than 30 days, the answer '1 month or 30 days' captures both accurately. This is a deliberate IC-38 exam trap."
+    },
+    {
+      "id": "ch7_q17",
+      "text": "If a policyholder does not pay the premium by the due date and DIES during the Grace Period, what happens?",
+      "options": [
+        "No claim is payable as premium was not paid",
+        "Full claim is paid without any deduction",
+        "Last unpaid premium is deducted and the remaining claim is paid to the nominee",
+        "Claim is paid only after revival of the policy"
+      ],
+      "correct_index": 2,
+      "explanation": "If the insured dies DURING the Grace Period (even without paying the premium), the CLAIM IS PAYABLE to the nominee. However, the LAST UNPAID PREMIUM is DEDUCTED from the claim amount. The remaining balance is then paid to the nominee."
+    },
+    {
+      "id": "ch7_q18",
+      "text": "Life Insurance Policy Nomination is allowed under which Section of the Insurance Act, 1938?",
+      "options": [
+        "Section 10",
+        "Section 38",
+        "Section 39",
+        "Section 45"
+      ],
+      "correct_index": 2,
+      "explanation": "Nomination in a life insurance policy is governed by SECTION 39 of the Insurance Act, 1938. Under this section, the policyholder can nominate one or more persons as nominees. If the nominee is a minor, an appointee must also be appointed."
+    },
+    {
+      "id": "ch7_q19",
+      "text": "A nominee's right to receive money from a life insurance policy is applicable:",
+      "options": [
+        "At any time the nominee demands it",
+        "When the insured is alive and the policy matures",
+        "Only when the insured dies",
+        "Both on maturity and on death of the insured"
+      ],
+      "correct_index": 2,
+      "explanation": "The NOMINEE's right to receive money is triggered ONLY UPON THE DEATH OF THE INSURED. If the insured is alive and the policy matures, the maturity benefit belongs entirely to the POLICYHOLDER — not the nominee. The nominee has NO rights over the money if the insured is alive."
+    },
+    {
+      "id": "ch7_q20",
+      "text": "Which of the following changes can be made to an existing life insurance policy through Endorsement?",
+      "options": [
+        "Change of Name or Address correction",
+        "Change of Nominee",
+        "Change in Premium Payment Mode",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Endorsement allows permitted changes to an existing policy. Allowed endorsements include: Change of Name/Address, Change of Nominee, Splitting one policy into two, and Change in Premium Payment Mode. All three listed options are valid endorsements — hence 'All of the above' is correct."
+    }
+  ]
+}
