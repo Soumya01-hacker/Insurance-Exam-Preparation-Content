@@ -1,0 +1,195 @@
+{
+  "chapterId": "health_ch4_underwriting",
+  "title": "Chapter 4: Health Insurance Underwriting (Health Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🔍 What is Underwriting? — Purpose and Definition",
+      "cards": [
+        {
+          "title": "Purpose of Underwriting",
+          "content": "The purpose of Underwriting in health insurance (same as life insurance) is RISK SELECTION and RISK PRICING. This means: (1) Selecting which risks to accept or reject. (2) Pricing each risk appropriately by calculating the correct premium. The underwriting process ensures the insurer is not taking on risks that are too high without charging an appropriate premium.",
+          "color": "blue"
+        },
+        {
+          "title": "Main Goal of Underwriter — Prevent Adverse Selection",
+          "content": "The MAIN PURPOSE of an underwriter is to PREVENT ADVERSE SELECTION AGAINST THE INSURER. Adverse selection means riskier individuals are more likely to buy insurance, which could lead to higher claims than expected. Underwriting controls this by properly assessing risk before accepting a proposal.",
+          "color": "blue"
+        },
+        {
+          "title": "Health Insurance Underwriting = Morbidity",
+          "content": "Health Insurance underwriting is based on the concept of MORBIDITY — which means the number of diseases or incidence of illness. Unlike life insurance (which deals with mortality/death), health insurance underwriting evaluates the likelihood of illness and disease.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👤 Primary and Secondary Underwriter",
+      "cards": [
+        {
+          "title": "Primary Underwriter — AGENT",
+          "content": "The PRIMARY UNDERWRITER is always the AGENT. The agent is the first person to assess the prospect, gather information, and make initial judgements about the risk. The agent is therefore considered the first or primary underwriter in the insurance process.",
+          "color": "blue"
+        },
+        {
+          "title": "Secondary Underwriting — Office Level",
+          "content": "Secondary Underwriting is done at the OFFICE LEVEL by the designated Underwriting Officer. After the agent submits the proposal, the underwriting officer at the insurer's office conducts a detailed assessment. The final decision on risk acceptance and pricing is made at this level.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Factors Affecting Morbidity (Disease Risk)",
+      "cards": [
+        {
+          "title": "Factors That AFFECT Morbidity",
+          "content": "The following factors affect morbidity (number of diseases) in an individual: (1) Age — older people are more prone to diseases. (2) Gender — certain diseases are gender-specific. (3) Habits — smoking, drinking, unhealthy lifestyle increase disease risk. (4) Occupation — certain jobs carry higher health risks. (5) Family History — hereditary conditions affect risk. (6) Past Illness — previous medical history matters. (7) Current Health Status — existing conditions. (8) Place of Residence — location-based environmental risks.",
+          "color": "blue"
+        },
+        {
+          "title": "Factor That does NOT Affect Morbidity — Spouse's Job",
+          "content": "SPOUSE'S JOB does NOT affect the morbidity of an individual. While age, gender, habits, occupation, family history, past illness, current health status, and place of residence all affect disease risk — the job held by the insured's spouse has no direct bearing on the insured's health risk. This is a key exam trap.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Core Principles of Health Insurance",
+      "cards": [
+        {
+          "title": "1. Utmost Good Faith (Uberrimae Fidei)",
+          "content": "Utmost Good Faith requires complete honesty and full disclosure from BOTH the insurer AND the insured. Both parties must not hide any material information. In underwriting, this principle must be followed by BOTH the insurer and the insured — not just one party.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Insurable Interest",
+          "content": "Insurable Interest means the policyholder must have a genuine financial interest in the life or health of the insured person. If no loss is suffered, there is no insurable interest. This principle ensures insurance is not used as gambling.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Indemnity",
+          "content": "The Principle of Indemnity means the insured is compensated for ACTUAL LOSSES up to the extent of the SUM INSURED. The insured cannot profit from a claim — they can only be restored to their pre-loss financial position. Health insurance pays actual medical expenses up to the sum insured limit.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Contribution and Proximate Cause",
+          "content": "Contribution applies when the same risk is insured with more than one insurer — each insurer pays proportionally. Proximate Cause means the insurer checks the MAIN REASON (direct cause) behind the claim to decide if it is payable. Only if the proximate cause is a covered event will the claim be paid.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Medical vs Non-Medical Underwriting",
+      "cards": [
+        {
+          "title": "Medical Underwriting",
+          "content": "In Medical Underwriting, the proposed insured must undergo a MEDICAL EXAMINATION and tests BEFORE the policy is issued. This gives the insurer detailed information about the applicant's current health status, helping accurate risk assessment and pricing.",
+          "color": "blue"
+        },
+        {
+          "title": "Non-Medical Underwriting",
+          "content": "In Non-Medical Underwriting, NO medical examination is required before issuing the policy. The insurer relies only on the information provided in the Proposal Form and declarations made by the proposer. This is used for younger, lower-risk applicants or lower sum insured amounts.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Proposal Form and Underwriting Process",
+      "cards": [
+        {
+          "title": "Primary Source of Information for Underwriter",
+          "content": "The FIRST and PRIMARY source of information for an underwriter about any applicant is the PROPOSAL FORM. The proposal form contains all key details — age, health history, occupation, family history, sum assured choice — all filled by the proposer. Age proof, financial documents, and medical records are secondary.",
+          "color": "blue"
+        },
+        {
+          "title": "When is the Underwriting Process Complete?",
+          "content": "The underwriting process is complete when: 'The received information is carefully assessed and classified into the appropriate risk category.' This is the correct definition. It does NOT end when the proposal form is filled, when tests are done, or when the policy is issued. The process ends at risk classification.",
+          "color": "blue"
+        },
+        {
+          "title": "Who Decides to Accept or Reject Risk?",
+          "content": "It is the UNDERWRITER who decides whether to accept or reject a risk (i.e., whether to issue the policy or not). Not the agent, not the surveyor, not the insured — the underwriter makes the final risk acceptance decision.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🦾 Claims on Accident — Loss of Limb vs Loss of Life",
+      "cards": [
+        {
+          "title": "If Accident Causes Loss of Limb AND Loss of Life",
+          "content": "If an accident results in both Loss of Limb AND Loss of Life, the insurer pays for LOSS OF LIFE. Loss of Life is the greater and final loss. When both events occur together, the claim is settled for the higher loss — which is loss of life. Loss of limb means loss of an arm, leg, etc., but life continues; loss of life is terminal.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧾 Medical Examiner's Report",
+      "cards": [
+        {
+          "title": "What is IN a Medical Examiner's Report?",
+          "content": "A Medical Examiner's Report contains: (1) Height of the proposer. (2) Weight of the proposer. (3) Blood Pressure (BP) of the proposer. These are physical health parameters recorded by the medical examiner to assess the health status of the applicant.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT in a Medical Examiner's Report?",
+          "content": "PREVIOUS POLICY PARTICULARS (details of old policies) are NOT included in the Medical Examiner's Report. A medical examiner's job is to assess current physical health — not to review insurance history. Policy particulars belong in the Proposal Form or insurance records.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Tax Relief on Health Insurance Premium",
+      "cards": [
+        {
+          "title": "Under Which Section is Health Insurance Premium Tax Deductible?",
+          "content": "The premium paid for a health insurance policy qualifies for tax deduction under SECTION 80D of the Income Tax Act. This is different from life insurance premium, which is deductible under Section 80C. Remember: Health = 80D. Life = 80C. Do not mix these two.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📅 Free Look Period",
+      "cards": [
+        {
+          "title": "Free Look Period in Health Insurance",
+          "content": "The Free Look Period in health insurance is 15 DAYS from the date of receipt of the policy document. During this period, if the policyholder is not satisfied with the terms and conditions, they can return the policy and get a refund. Note: The free look period in LIFE insurance is also 15 days for regular policies (30 days for policies sold via distance marketing). For IC-38 exam, health = 15 days.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 4: Health Insurance Underwriting",
+      "items": [
+        "Underwriting = Risk Selection + Risk Pricing.",
+        "Main purpose of underwriter = PREVENT ADVERSE SELECTION against the insurer.",
+        "Health insurance underwriting is based on MORBIDITY (not mortality).",
+        "PRIMARY underwriter = AGENT. Secondary underwriting = Office level underwriting officer.",
+        "Factors affecting morbidity: Age, Gender, Habits, Occupation, Family History, Past Illness, Current Health Status, Place of Residence.",
+        "Spouse's JOB does NOT affect morbidity of the insured — key exam trap.",
+        "Utmost Good Faith must be followed by BOTH insurer AND insured.",
+        "Principle of Indemnity = insured paid for ACTUAL LOSSES to the extent of Sum Insured.",
+        "Medical Underwriting = medical examination required BEFORE policy issuance.",
+        "Non-Medical Underwriting = NO medical examination required.",
+        "Primary source of information for underwriter = PROPOSAL FORM.",
+        "Underwriting process is complete when information is assessed and classified into risk category.",
+        "Who decides to accept or reject risk = UNDERWRITER.",
+        "Accident causing loss of limb AND loss of life → insurer pays for LOSS OF LIFE.",
+        "Medical Examiner's Report contains Height, Weight, BP. Does NOT contain previous policy particulars.",
+        "Health insurance premium tax benefit = Section 80D (NOT 80C).",
+        "Free Look Period in health insurance = 15 DAYS from receipt of policy document."
+      ]
+    }
+  ]
+}

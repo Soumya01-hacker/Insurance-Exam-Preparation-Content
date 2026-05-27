@@ -1,0 +1,188 @@
+{
+  "chapter_id": "health_ch4_underwriting",
+  "chapter_title": "Chapter 4: Health Insurance Underwriting (Health Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch4_q01",
+      "text": "Underwriting in health insurance is a process of:",
+      "options": [
+        "Collecting premium from insured",
+        "Settling insurance claims",
+        "Risk Selection and Risk Pricing",
+        "Issuing policy documents"
+      ],
+      "correct_index": 2,
+      "explanation": "Underwriting is the process of RISK SELECTION (deciding which risks to accept or reject) and RISK PRICING (determining the correct premium for a given risk). This is the standard definition used in IC-38 for both health and life insurance."
+    },
+    {
+      "id": "ch4_q02",
+      "text": "The main purpose of an underwriter in health insurance is to:",
+      "options": [
+        "Maximize premium income for the insurer",
+        "Prevent adverse selection against the insurer",
+        "Ensure all proposals are accepted",
+        "Reduce the number of claims"
+      ],
+      "correct_index": 1,
+      "explanation": "The MAIN PURPOSE of an underwriter is to PREVENT ADVERSE SELECTION AGAINST THE INSURER. Adverse selection occurs when high-risk individuals are more likely to buy insurance than low-risk ones, leading to higher-than-expected claims. Underwriting controls this through proper risk assessment."
+    },
+    {
+      "id": "ch4_q03",
+      "text": "The principle of Utmost Good Faith in underwriting is required to be followed by:",
+      "options": [
+        "Insured only",
+        "Insurer only",
+        "Both Insurer and Insured",
+        "Medical Examiner only"
+      ],
+      "correct_index": 2,
+      "explanation": "Utmost Good Faith (Uberrimae Fidei) must be followed by BOTH the Insurer AND the Insured. Both parties must disclose all material facts honestly. It is not a one-sided obligation — it applies equally to both parties."
+    },
+    {
+      "id": "ch4_q04",
+      "text": "Which of the following factors does NOT affect the morbidity (disease risk) of an individual?",
+      "options": [
+        "Gender",
+        "Spouse's Job",
+        "Habits",
+        "Residence Location"
+      ],
+      "correct_index": 1,
+      "explanation": "Spouse's Job does NOT affect the morbidity of the insured individual. All other factors — gender, habits (smoking, drinking), and residence location (environmental health risks) — do affect the individual's disease risk. This is a key exam trap in IC-38."
+    },
+    {
+      "id": "ch4_q05",
+      "text": "As per the principle of Indemnity, in health insurance the insured is paid for:",
+      "options": [
+        "Actual losses to the extent of Sum Insured",
+        "Sum Insured irrespective of actual amount spent",
+        "Fixed amount agreed between both parties",
+        "Actual losses irrespective of Sum Insured"
+      ],
+      "correct_index": 0,
+      "explanation": "Under the Principle of Indemnity, health insurance pays for ACTUAL LOSSES to the extent of the SUM INSURED. The insured cannot receive more than the actual loss incurred, and the sum insured is the upper cap. This prevents profiting from insurance."
+    },
+    {
+      "id": "ch4_q06",
+      "text": "The first and primary source of information about an applicant for the underwriter is:",
+      "options": [
+        "Age Proof",
+        "Financial Documents",
+        "Previous Medical Records",
+        "Proposal Form"
+      ],
+      "correct_index": 3,
+      "explanation": "The PROPOSAL FORM is the first and primary source of information for the underwriter. It contains all relevant details — age, health history, occupation, habits, family history, and sum assured — as declared by the proposer. All other documents are supplementary."
+    },
+    {
+      "id": "ch4_q07",
+      "text": "The underwriting process is considered complete when:",
+      "options": [
+        "All information is collected through the proposal form",
+        "All medical examinations and tests are completed",
+        "Received information is carefully assessed and classified into appropriate risk category",
+        "The policy is issued to the proposer after risk selection and pricing"
+      ],
+      "correct_index": 2,
+      "explanation": "The underwriting process is complete when the received information is carefully ASSESSED and CLASSIFIED into the appropriate risk category. Filling the proposal form and completing tests are steps within the process. The process concludes at risk classification — not at policy issuance."
+    },
+    {
+      "id": "ch4_q08",
+      "text": "Who decides whether to accept or reject a risk in a health insurance proposal?",
+      "options": [
+        "Insured",
+        "Underwriter",
+        "Agent",
+        "Surveyor"
+      ],
+      "correct_index": 1,
+      "explanation": "The UNDERWRITER decides whether to accept or reject a risk. It is the underwriter's responsibility to evaluate the proposal, assess the risk, and determine whether to accept, decline, or accept with loading/exclusions. The agent is the primary underwriter but final risk acceptance decisions lie with the office-level underwriter."
+    },
+    {
+      "id": "ch4_q09",
+      "text": "Who is always considered the PRIMARY underwriter in health insurance?",
+      "options": [
+        "IRDAI Officer",
+        "Underwriting Officer at Head Office",
+        "Agent",
+        "TPA"
+      ],
+      "correct_index": 2,
+      "explanation": "The AGENT is always the PRIMARY underwriter. The agent is the first person to interact with the prospect, gather information, and make initial risk observations. Secondary underwriting is done at the office level by the designated underwriting officer."
+    },
+    {
+      "id": "ch4_q10",
+      "text": "For underwriting a health insurance policy, one must know:",
+      "options": [
+        "Causes of fire on goods",
+        "Port and road conditions",
+        "Age, Medical Aspects, Fitness Level and Family History of the proposer",
+        "All of the above"
+      ],
+      "correct_index": 2,
+      "explanation": "For underwriting a health insurance policy, the underwriter needs to know the Age, Medical Aspects, Fitness Level, and Family History of the proposer. Information about fires or road conditions is irrelevant to health insurance underwriting."
+    },
+    {
+      "id": "ch4_q11",
+      "text": "Which of the following is NOT contained in a Medical Examiner's Report?",
+      "options": [
+        "Previous Policy Particulars",
+        "Height and Weight of the proposer",
+        "Blood Pressure of the proposer",
+        "Both B and C are correct contents of the report"
+      ],
+      "correct_index": 0,
+      "explanation": "PREVIOUS POLICY PARTICULARS are NOT part of the Medical Examiner's Report. A medical examiner only records current physical health data such as Height, Weight, and Blood Pressure. Policy history is captured in other documents such as the proposal form."
+    },
+    {
+      "id": "ch4_q12",
+      "text": "If an accident results in both Loss of Limb and Loss of Life, the insurer pays for:",
+      "options": [
+        "Loss of Life",
+        "Loss of Limb",
+        "Both Loss of Life and Loss of Limb",
+        "Neither — accident is excluded"
+      ],
+      "correct_index": 0,
+      "explanation": "When an accident results in BOTH loss of limb AND loss of life, the insurer pays for LOSS OF LIFE — which is the greater and final loss. Loss of life is the ultimate outcome, so the claim is settled against life loss. Both cannot be paid simultaneously."
+    },
+    {
+      "id": "ch4_q13",
+      "text": "Health insurance premium qualifies for tax relief under which section of the Income Tax Act?",
+      "options": [
+        "Section 80C",
+        "Section 80D",
+        "Section 10(10D)",
+        "Section 80E"
+      ],
+      "correct_index": 1,
+      "explanation": "Health insurance premium qualifies for tax deduction under SECTION 80D of the Income Tax Act. This is specifically for health/medical insurance premiums. Life insurance premium is covered under Section 80C. Do not mix these two — this is a very commonly tested exam question."
+    },
+    {
+      "id": "ch4_q14",
+      "text": "In Non-Medical Underwriting for health insurance:",
+      "options": [
+        "Insured must undergo full medical examination before policy is issued",
+        "No medical examination is required before policy issuance",
+        "Only blood tests are required",
+        "Medical examination is done after claim is filed"
+      ],
+      "correct_index": 1,
+      "explanation": "In Non-Medical Underwriting, NO medical examination is required before the policy is issued. The insurer relies solely on the information provided in the Proposal Form. This is typically used for younger applicants or lower sum insured proposals."
+    },
+    {
+      "id": "ch4_q15",
+      "text": "What is the Free Look Period allowed from the date of receipt of a health insurance policy document?",
+      "options": [
+        "10 days",
+        "15 days",
+        "30 days",
+        "90 days"
+      ],
+      "correct_index": 1,
+      "explanation": "The Free Look Period in health insurance is 15 DAYS from the date of receipt of the policy document. During this period, if the policyholder is not satisfied, they can return the policy and receive a refund. This is the same as the free look period for regular life insurance policies."
+    }
+  ]
+}
