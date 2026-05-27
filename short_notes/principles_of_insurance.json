@@ -1,0 +1,202 @@
+{
+  "chapterId": "principles_of_insurance",
+  "title": "Chapter 3 (Common Section): Principles of Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📜 Overview — Insurance as a Contract",
+      "cards": [
+        {
+          "title": "Insurance is a Legal Contract",
+          "content": "Insurance is a contract between two parties — the Insurer (Insurance Company) and the Insured (Policyholder). This contract is governed by the Indian Contract Act, 1872. Seven key principles apply to every insurance contract.",
+          "color": "blue"
+        },
+        {
+          "title": "How Many Principles?",
+          "content": "There are SEVEN Principles of Insurance: (1) Utmost Good Faith, (2) Insurable Interest, (3) Indemnity, (4) Subrogation, (5) Contribution, (6) Mitigation of Loss, (7) Proximate Cause. These must be memorised in order.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔑 Principle 1 — Utmost Good Faith (Uberrima Fides)",
+      "cards": [
+        {
+          "title": "Meaning of Utmost Good Faith",
+          "content": "Both the Insurer and Insured have a duty to disclose all material facts (important information) to each other completely and correctly during the making of the insurance contract. Neither party should hide anything relevant.",
+          "color": "blue"
+        },
+        {
+          "title": "Latin Term — Uberrima Fides",
+          "content": "The Latin term for this principle is 'Uberrima Fides' (also written as Uberrimae Fides). Its meaning is UTMOST GOOD FAITH — Maximum Truth. If asked 'meaning of Uberrima Fides', the answer is always Utmost Good Faith.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 Principle 2 — Insurable Interest",
+      "cards": [
+        {
+          "title": "What is Insurable Interest?",
+          "content": "The insured must have a FINANCIAL INTEREST in the subject matter of insurance. Only items or lives in which a person has economic value can be insured. Without insurable interest, insurance is not valid. Example: You can insure your own car, not a stranger's car.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurable Interest in Life Insurance — WHEN?",
+          "content": "In Life Insurance, insurable interest must be present AT THE TIME OF TAKING OUT (purchasing) the policy. It is NOT checked at the time of claim. This is different from general insurance where insurable interest must exist at both purchase and claim time.",
+          "color": "blue"
+        },
+        {
+          "title": "Why Insurance is NOT Gambling",
+          "content": "Insurance is NOT gambling because of the presence of INSURABLE INTEREST. In gambling, no financial interest exists in what is bet upon. In insurance, the insured always has a genuine financial interest in the insured subject.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Principle 3 — Indemnity",
+      "cards": [
+        {
+          "title": "Meaning of Indemnity",
+          "content": "Indemnity means the insurer promises to compensate the insured for the ACTUAL LOSS suffered — no more, no less. The compensation amount is limited to the Sum Assured OR the actual loss, whichever is LESS. The insured cannot profit from a claim.",
+          "color": "blue"
+        },
+        {
+          "title": "Applicability of Indemnity",
+          "content": "Principle of Indemnity applies to: Fire Insurance, Marine Insurance, Motor Insurance, and all General Insurance policies. It does NOT apply to Life Insurance because the value of a human life cannot be measured in exact money terms.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Principle 4 — Subrogation",
+      "cards": [
+        {
+          "title": "What is Subrogation?",
+          "content": "After the insurer pays the claim to the insured for a damaged property, the rights over that damaged (salvage) property are TRANSFERRED from the insured to the insurer. The insurer then owns whatever remains of the damaged property.",
+          "color": "blue"
+        },
+        {
+          "title": "Salvage — Belongs to Insurer",
+          "content": "Salvage means the remains of damaged property. On payment of loss (claim), salvage belongs to the INSURER (Insurance Company). This is a direct application of the Principle of Subrogation. Not the surveyor, not local authorities — the INSURER.",
+          "color": "blue"
+        },
+        {
+          "title": "Applicability",
+          "content": "Subrogation applies to GENERAL INSURANCE contracts only (fire, motor, marine etc.). It operates under the broader Principle of Indemnity.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🤝 Principle 5 — Contribution",
+      "cards": [
+        {
+          "title": "What is Contribution?",
+          "content": "If the insured has taken insurance for the same property from MORE THAN ONE insurance company, the total compensation received from all companies together CANNOT EXCEED the actual loss suffered. Each company contributes proportionately.",
+          "color": "blue"
+        },
+        {
+          "title": "Double Insurance — No Profit Allowed",
+          "content": "Principle of Contribution ensures the insured does NOT profit by insuring with multiple insurers. The total payout across all insurers = actual loss only. This principle is also called the principle of Double Insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Co-Insurance vs Contribution",
+          "content": "Co-Insurance = proportionate sharing of risk among more than one insurer on the SAME policy. Example: Insurer covers 80%, insured bears 20%. Contribution = multiple separate insurance policies on the same property from different companies.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ Principle 6 — Mitigation of Loss",
+      "cards": [
+        {
+          "title": "What is Mitigation of Loss?",
+          "content": "Even after getting insurance, the insured has a DUTY to take all necessary steps to minimize or reduce the loss when danger occurs. Getting insured does not mean the insured can be careless about their property.",
+          "color": "blue"
+        },
+        {
+          "title": "Practical Example",
+          "content": "If a person has insured their car, they still must lock it properly. They cannot stop taking precautions just because they are insured. If danger is foreseen, all reasonable steps to prevent or reduce loss must be taken.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔍 Principle 7 — Proximate Cause (Causa Proxima)",
+      "cards": [
+        {
+          "title": "What is Proximate Cause?",
+          "content": "When a loss occurs due to multiple reasons, this principle identifies the PRIMARY or NEAREST cause — the main cause that actually led to the loss. Only if this proximate cause is covered under the policy will the claim be paid.",
+          "color": "blue"
+        },
+        {
+          "title": "Famous Exam Example — Ajay's Story",
+          "content": "Ajay falls off a horse → breaks his back → lands in pool of water → gets pneumonia → admitted to hospital → dies of pneumonia. The PROXIMATE CAUSE of death is FALLING OFF A HORSE — because without the fall, nothing else would have happened. Not pneumonia, not broken back.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📌 Additional Key Terms from This Chapter",
+      "cards": [
+        {
+          "title": "Reinsurance",
+          "content": "When one insurance company gets itself insured by ANOTHER insurance company. Reinsurance is also called 'Insurance of Insurance'. It is a contract between two insurers — the original insurer and another insurer.",
+          "color": "blue"
+        },
+        {
+          "title": "Misrepresentation",
+          "content": "A WRONG STATEMENT made during the negotiation of a contract. Key point: Misrepresentation can be INNOCENT (no fraud intended) or FRAUDULENT (with intent to deceive). Both types are called misrepresentation and both can void the contract.",
+          "color": "blue"
+        },
+        {
+          "title": "Coercion",
+          "content": "Applying PRESSURE through criminal means to force someone to sign a contract. Example: 'Sign the contract or I will kill you.' Coercion makes a contract void. Not to be confused with undue influence (using professional authority/position to pressure someone).",
+          "color": "blue"
+        },
+        {
+          "title": "Diversification",
+          "content": "The process of SPREADING one's investment across different kinds of assets to reduce risk. Example: Investing in stocks, bonds, real estate, gold simultaneously instead of putting all money in one place.",
+          "color": "blue"
+        },
+        {
+          "title": "Insurance Intermediary",
+          "content": "Intermediaries in insurance include: Insurance Agents, Corporate Agents, Insurance Brokers. A SHARE BROKER is NOT an insurance intermediary. Share brokers deal in stock market — they have no role in insurance distribution.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 3 (Quick Memory)",
+      "items": [
+        "7 Principles: Utmost Good Faith → Insurable Interest → Indemnity → Subrogation → Contribution → Mitigation of Loss → Proximate Cause.",
+        "Uberrima Fides = Utmost Good Faith = Maximum Truth.",
+        "Insurable Interest in Life Insurance = must exist at TIME OF PURCHASE (not at claim time).",
+        "Insurance is NOT gambling because of INSURABLE INTEREST.",
+        "Indemnity: compensation = actual loss OR sum assured, whichever is LESS.",
+        "Indemnity applies to General Insurance (fire, motor, marine) — NOT to Life Insurance.",
+        "Subrogation: after claim paid, salvage belongs to INSURER (not surveyor, not insured).",
+        "Contribution: insured with multiple insurers cannot earn PROFIT — total claim ≤ actual loss.",
+        "Co-Insurance = proportionate risk sharing within one policy (e.g., 80% insurer, 20% insured).",
+        "Mitigation = insured's duty to reduce loss even after getting insurance.",
+        "Proximate Cause = PRIMARY/NEAREST cause of loss. Ajay story: proximate cause = falling off horse.",
+        "Reinsurance = insurance company getting insured by another company = insurance of insurance.",
+        "Misrepresentation = wrong statement; can be INNOCENT or FRAUDULENT — both are misrepresentation.",
+        "Coercion = criminal pressure. Undue Influence = professional/positional pressure.",
+        "Share Broker is NOT an insurance intermediary."
+      ]
+    }
+  ]
+}

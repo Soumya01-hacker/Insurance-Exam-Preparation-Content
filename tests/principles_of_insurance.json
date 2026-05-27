@@ -1,0 +1,188 @@
+{
+  "chapter_id": "principles_of_insurance",
+  "chapter_title": "Chapter 3 (Common Section): Principles of Insurance",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch03_q01",
+      "text": "What is the Latin term for the Principle of Utmost Good Faith in insurance?",
+      "options": [
+        "Causa Proxima",
+        "Uberrima Fides",
+        "Consensus Ad Idem",
+        "Caveat Emptor"
+      ],
+      "correct_index": 1,
+      "explanation": "The Latin term for the Principle of Utmost Good Faith is 'Uberrima Fides'. It means that both the insurer and the insured must disclose all material facts completely and correctly to each other while forming the insurance contract. It represents Maximum Truth in insurance."
+    },
+    {
+      "id": "ch03_q02",
+      "text": "The Principle of Indemnity is applicable to which type of insurance?",
+      "options": [
+        "Life Insurance only",
+        "Both Life and General Insurance",
+        "General Insurance only",
+        "Health Insurance only"
+      ],
+      "correct_index": 2,
+      "explanation": "The Principle of Indemnity applies to General Insurance (fire, motor, marine insurance) only. It does NOT apply to Life Insurance because the value of a human life cannot be precisely measured in money. Under indemnity, the insured receives compensation equal to the actual loss — no profit is allowed."
+    },
+    {
+      "id": "ch03_q03",
+      "text": "After the insurer pays the claim on a damaged vehicle, the salvage (remains of the vehicle) belongs to whom?",
+      "options": [
+        "The Insured",
+        "The Surveyor",
+        "The Insurer",
+        "Local Authorities"
+      ],
+      "correct_index": 2,
+      "explanation": "As per the Principle of Subrogation, once the insurer pays the claim, the rights over the damaged (salvaged) property transfer from the insured to the INSURER. The insurer then owns whatever remains of the damaged property and can recover value from it."
+    },
+    {
+      "id": "ch03_q04",
+      "text": "According to the Principle of Contribution, if the same property is insured with more than one insurance company, which of the following is correct?",
+      "options": [
+        "Compensation cannot be paid",
+        "Compensation is paid in full by all the insurers separately",
+        "Compensation is paid by only one insurer",
+        "Compensation paid by all the insurers together cannot exceed the actual loss suffered"
+      ],
+      "correct_index": 3,
+      "explanation": "The Principle of Contribution states that if the same property is insured with multiple insurers, the total compensation from all companies together CANNOT exceed the actual loss. The insured cannot profit by taking multiple insurances. Each insurer pays proportionately."
+    },
+    {
+      "id": "ch03_q05",
+      "text": "Ajay falls off a horse, breaks his back, contracts pneumonia in a pool of water, and dies in hospital due to pneumonia. What is the Proximate Cause of his death?",
+      "options": [
+        "Pneumonia",
+        "Broken Back",
+        "Falling off a Horse",
+        "Hospital Treatment"
+      ],
+      "correct_index": 2,
+      "explanation": "The Proximate Cause is the PRIMARY or NEAREST cause of loss — the event that started the chain of events. Ajay's fall from the horse triggered everything: the broken back, the pool, the pneumonia, and the death. Without the fall, nothing else would have occurred. Hence, 'Falling off a Horse' is the proximate cause."
+    },
+    {
+      "id": "ch03_q06",
+      "text": "Which principle of insurance ensures that the insured does not profit by insuring the same property with multiple insurers?",
+      "options": [
+        "Subrogation",
+        "Contribution",
+        "Indemnity",
+        "Proximate Cause"
+      ],
+      "correct_index": 1,
+      "explanation": "The Principle of Contribution ensures the insured cannot earn profit from double or multiple insurance. The total claim across all insurers cannot exceed the actual loss. This is specifically the purpose of the Contribution principle, also known as the principle of Double Insurance."
+    },
+    {
+      "id": "ch03_q07",
+      "text": "The transfer of all rights and remedies with respect to the subject matter of insurance from the insured to the insurer is called:",
+      "options": [
+        "Contribution",
+        "Subrogation",
+        "Mitigation of Loss",
+        "Risk Pooling"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation is the principle where, after paying the insurance claim, the insurer acquires all rights over the damaged property. Rights transfer from the insured to the insurer. This prevents the insured from claiming both insurance compensation AND any residual value from the damaged property."
+    },
+    {
+      "id": "ch03_q08",
+      "text": "Which principle makes it mandatory for the insured to take reasonable steps to reduce or minimize a loss, even if the property is insured?",
+      "options": [
+        "Principle of Indemnity",
+        "Principle of Contribution",
+        "Principle of Utmost Good Faith",
+        "Principle of Mitigation of Loss"
+      ],
+      "correct_index": 3,
+      "explanation": "The Principle of Mitigation of Loss requires the insured to take all necessary steps to minimize or prevent loss, even after insuring the property. Having insurance does not mean the insured can be negligent or careless about their assets."
+    },
+    {
+      "id": "ch03_q09",
+      "text": "When must Insurable Interest be present in a LIFE INSURANCE contract?",
+      "options": [
+        "At the time of taking out the insurance (policy purchase)",
+        "At the time of claim",
+        "Insurable Interest is not required in Life Insurance",
+        "Either at the time of purchase or at the time of claim"
+      ],
+      "correct_index": 0,
+      "explanation": "In Life Insurance, Insurable Interest must be present AT THE TIME OF TAKING OUT (purchasing) the policy. It is not required to exist at the time of claim. This differs from General Insurance where insurable interest must exist at both policy inception and at the time of loss."
+    },
+    {
+      "id": "ch03_q10",
+      "text": "Insurance is NOT considered gambling primarily because of the presence of which element?",
+      "options": [
+        "Premium",
+        "Insurable Interest",
+        "Principle of Utmost Good Faith",
+        "Sum Assured"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance is NOT gambling because of Insurable Interest. In insurance, the insured has a genuine financial stake in the subject matter. In gambling, there is no pre-existing financial interest. Insurable Interest is what distinguishes insurance from wagering/gambling contracts."
+    },
+    {
+      "id": "ch03_q11",
+      "text": "A contract between two insurers where one insurance company gets itself insured by another insurance company is called:",
+      "options": [
+        "Co-insurance",
+        "Reinsurance",
+        "Double Insurance",
+        "Group Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "Reinsurance is when an insurance company (the original insurer) gets insured by another insurance company to spread its risk. It is also called 'Insurance of Insurance'. It is a contract between two insurers, not between an individual and an insurer."
+    },
+    {
+      "id": "ch03_q12",
+      "text": "Co-insurance involves proportionate sharing of insurance among more than one insurer. This is an example of which principle?",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Contribution",
+        "Proximate Cause"
+      ],
+      "correct_index": 2,
+      "explanation": "Co-insurance is a form of the Principle of Contribution where risk is proportionately shared. For example, the insurer covers 80% of the loss and the insured bears the remaining 20%. The total risk is spread among more than one party — the core idea of contribution."
+    },
+    {
+      "id": "ch03_q13",
+      "text": "Which of the following is NOT an insurance intermediary?",
+      "options": [
+        "Corporate Agent",
+        "Share Broker",
+        "Insurance Broker",
+        "Insurance Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "A Share Broker deals in the buying and selling of shares in the stock market and is NOT an insurance intermediary. Insurance intermediaries include Insurance Agents, Corporate Agents, and Insurance Brokers — all of whom facilitate the sale and servicing of insurance products."
+    },
+    {
+      "id": "ch03_q14",
+      "text": "A wrong statement made during the negotiation of an insurance contract WITHOUT any fraudulent intention is called:",
+      "options": [
+        "Fraud",
+        "Coercion",
+        "Misrepresentation",
+        "Undue Influence"
+      ],
+      "correct_index": 2,
+      "explanation": "Misrepresentation is a wrong or inaccurate statement made during the negotiation of a contract without fraudulent intent. It can be innocent (no bad intention) or fraudulent (with intent to deceive). Both types are termed misrepresentation and can render the insurance contract void."
+    },
+    {
+      "id": "ch03_q15",
+      "text": "For an asset to be insured, it must necessarily have which of the following?",
+      "options": [
+        "Moral Value",
+        "Social Value",
+        "International Value",
+        "Economic Value"
+      ],
+      "correct_index": 3,
+      "explanation": "For any asset to be insured, it must have ECONOMIC VALUE — a measurable financial worth. Air, for example, has no individual economic value and cannot be insured. Only assets with economic value can be the subject of an insurance contract and have insurable interest attached to them."
+    }
+  ]
+}
