@@ -1,6 +1,6 @@
 {
-  "chapter_id": "health_ch4_underwriting",
-  "chapter_title": "Chapter 4: Health Insurance Underwriting (Health Section — IC-38)",
+  "chapter_id": "health_insurance_underwriting",
+  "chapter_title": "Chapter 4: Health Insurance Underwriting (Health Section \u2014 IC-38)",
   "pass_marks": 9,
   "total_questions": 15,
   "questions": [
@@ -38,7 +38,7 @@
         "Medical Examiner only"
       ],
       "correct_index": 2,
-      "explanation": "Utmost Good Faith (Uberrimae Fidei) must be followed by BOTH the Insurer AND the Insured. Both parties must disclose all material facts honestly. It is not a one-sided obligation — it applies equally to both parties."
+      "explanation": "Utmost Good Faith (Uberrimae Fidei) must be followed by BOTH the Insurer AND the Insured. Both parties must disclose all material facts honestly. It is not a one-sided obligation \u2014 it applies equally to both parties."
     },
     {
       "id": "ch4_q04",
@@ -50,7 +50,7 @@
         "Residence Location"
       ],
       "correct_index": 1,
-      "explanation": "Spouse's Job does NOT affect the morbidity of the insured individual. All other factors — gender, habits (smoking, drinking), and residence location (environmental health risks) — do affect the individual's disease risk. This is a key exam trap in IC-38."
+      "explanation": "Spouse's Job does NOT affect the morbidity of the insured individual. All other factors \u2014 gender, habits (smoking, drinking), and residence location (environmental health risks) \u2014 do affect the individual's disease risk. This is a key exam trap in IC-38."
     },
     {
       "id": "ch4_q05",
@@ -74,7 +74,7 @@
         "Proposal Form"
       ],
       "correct_index": 3,
-      "explanation": "The PROPOSAL FORM is the first and primary source of information for the underwriter. It contains all relevant details — age, health history, occupation, habits, family history, and sum assured — as declared by the proposer. All other documents are supplementary."
+      "explanation": "The PROPOSAL FORM is the first and primary source of information for the underwriter. It contains all relevant details \u2014 age, health history, occupation, habits, family history, and sum assured \u2014 as declared by the proposer. All other documents are supplementary."
     },
     {
       "id": "ch4_q07",
@@ -86,7 +86,7 @@
         "The policy is issued to the proposer after risk selection and pricing"
       ],
       "correct_index": 2,
-      "explanation": "The underwriting process is complete when the received information is carefully ASSESSED and CLASSIFIED into the appropriate risk category. Filling the proposal form and completing tests are steps within the process. The process concludes at risk classification — not at policy issuance."
+      "explanation": "The underwriting process is complete when the received information is carefully ASSESSED and CLASSIFIED into the appropriate risk category. Filling the proposal form and completing tests are steps within the process. The process concludes at risk classification \u2014 not at policy issuance."
     },
     {
       "id": "ch4_q08",
@@ -143,10 +143,10 @@
         "Loss of Life",
         "Loss of Limb",
         "Both Loss of Life and Loss of Limb",
-        "Neither — accident is excluded"
+        "Neither \u2014 accident is excluded"
       ],
       "correct_index": 0,
-      "explanation": "When an accident results in BOTH loss of limb AND loss of life, the insurer pays for LOSS OF LIFE — which is the greater and final loss. Loss of life is the ultimate outcome, so the claim is settled against life loss. Both cannot be paid simultaneously."
+      "explanation": "When an accident results in BOTH loss of limb AND loss of life, the insurer pays for LOSS OF LIFE \u2014 which is the greater and final loss. Loss of life is the ultimate outcome, so the claim is settled against life loss. Both cannot be paid simultaneously."
     },
     {
       "id": "ch4_q13",
@@ -158,7 +158,7 @@
         "Section 80E"
       ],
       "correct_index": 1,
-      "explanation": "Health insurance premium qualifies for tax deduction under SECTION 80D of the Income Tax Act. This is specifically for health/medical insurance premiums. Life insurance premium is covered under Section 80C. Do not mix these two — this is a very commonly tested exam question."
+      "explanation": "Health insurance premium qualifies for tax deduction under SECTION 80D of the Income Tax Act. This is specifically for health/medical insurance premiums. Life insurance premium is covered under Section 80C. Do not mix these two \u2014 this is a very commonly tested exam question."
     },
     {
       "id": "ch4_q14",

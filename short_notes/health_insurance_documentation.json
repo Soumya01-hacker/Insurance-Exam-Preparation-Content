@@ -1,11 +1,11 @@
 {
-  "chapterId": "health_ch2_documentation",
-  "title": "Chapter 2: Health Insurance Documentation (Health Section — IC-38)",
+  "chapterId": "health_insurance_documentation",
+  "title": "Chapter 2: Health Insurance Documentation (Health Section \u2014 IC-38)",
   "theme": "Premium Blue-Gold",
   "sections": [
     {
       "type": "note_card",
-      "title": "📋 Proposal Form — Key Details",
+      "title": "\ud83d\udccb Proposal Form \u2014 Key Details",
       "cards": [
         {
           "title": "What is Included in a Health Insurance Proposal Form?",
@@ -14,11 +14,11 @@
         },
         {
           "title": "Processing Time for an Insurance Proposal",
-          "content": "As per IRDAI guidelines, an insurance company must process an insurance proposal within 30 DAYS. This is a fixed regulatory requirement — not 15 days, not 45 days. The answer is 30 days.",
+          "content": "As per IRDAI guidelines, an insurance company must process an insurance proposal within 30 DAYS. This is a fixed regulatory requirement \u2014 not 15 days, not 45 days. The answer is 30 days.",
           "color": "blue"
         },
         {
-          "title": "Premium Payment by Cheque — When Does Risk Begin?",
+          "title": "Premium Payment by Cheque \u2014 When Does Risk Begin?",
           "content": "When premium is paid by cheque, the RISK is assumed from the date on which the CHEQUE IS RECEIVED BY THE INSURANCE COMPANY. Not from the date the cheque is posted, not from the date it is deposited in the bank, and not from the date it is issued by the proposer. Receipt by the insurer is the key event.",
           "color": "blue"
         }
@@ -26,7 +26,7 @@
     },
     {
       "type": "note_card",
-      "title": "📜 Warranty in a Health Insurance Policy",
+      "title": "\ud83d\udcdc Warranty in a Health Insurance Policy",
       "cards": [
         {
           "title": "What is a Warranty?",
@@ -34,31 +34,31 @@
           "color": "blue"
         },
         {
-          "title": "Exam Trap — Warranty Definition",
-          "content": "Common wrong answer: 'A warranty is a condition employed without being stated in the policy.' This is INCORRECT. A warranty IS expressly stated in the policy — and additionally communicated separately. Do not confuse warranty with implied conditions.",
+          "title": "Exam Trap \u2014 Warranty Definition",
+          "content": "Common wrong answer: 'A warranty is a condition employed without being stated in the policy.' This is INCORRECT. A warranty IS expressly stated in the policy \u2014 and additionally communicated separately. Do not confuse warranty with implied conditions.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "✏️ Endorsement and Grace Period",
+      "title": "\u270f\ufe0f Endorsement and Grace Period",
       "cards": [
         {
           "title": "What is Endorsement?",
-          "content": "An Endorsement is the process of making AMENDMENTS (changes) to an existing insurance policy. If any terms or conditions of the policy need to be modified, this is done through Endorsement. Endorsements are permitted in health insurance policies — just as in life insurance policies.",
+          "content": "An Endorsement is the process of making AMENDMENTS (changes) to an existing insurance policy. If any terms or conditions of the policy need to be modified, this is done through Endorsement. Endorsements are permitted in health insurance policies \u2014 just as in life insurance policies.",
           "color": "blue"
         },
         {
           "title": "Grace Period in Health Insurance",
-          "content": "The Grace Period in Health Insurance is 30 DAYS — same as in Life Insurance. Grace period is the additional time given after the premium due date during which the policyholder can still pay the premium to keep the policy active. If premium is paid within the grace period, the policy remains in force.",
+          "content": "The Grace Period in Health Insurance is 30 DAYS \u2014 same as in Life Insurance. Grace period is the additional time given after the premium due date during which the policyholder can still pay the premium to keep the policy active. If premium is paid within the grace period, the policy remains in force.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🏥 Coverage — What is Included and Excluded",
+      "title": "\ud83c\udfe5 Coverage \u2014 What is Included and Excluded",
       "cards": [
         {
           "title": "Items Covered Under Health Insurance",
@@ -66,46 +66,46 @@
           "color": "blue"
         },
         {
-          "title": "Item NOT Covered — Blood Donation Charges",
+          "title": "Item NOT Covered \u2014 Blood Donation Charges",
           "content": "Blood DONATION Charges are NOT covered under a typical health insurance policy. Note carefully: 'Blood donation' means donating blood, not receiving blood transfusion. The charges incurred for donating blood are excluded. Operation theater, bed, and test report charges ARE covered.",
           "color": "blue"
         },
         {
-          "title": "Exclusions in Health Insurance — Definition",
+          "title": "Exclusions in Health Insurance \u2014 Definition",
           "content": "Exclusion in a health insurance policy means DISEASES SPECIFICALLY NOT COVERED under the policy. Common exclusions include: AIDS, STDs (Sexually Transmitted Diseases), Plastic Surgery, Dental Treatment (unless due to accident), Aesthetic/Cosmetic Treatment. A policy does NOT cover all diseases without exception.",
           "color": "blue"
         },
         {
           "title": "Typical Exclusions from Health Insurance",
-          "content": "Typical health insurance policies EXCLUDE expenses related to: (1) Plastic Surgery, (2) Dental Treatment (routine), (3) Aesthetic/Cosmetic Treatment. All three are excluded — the answer in IC-38 exam is 'All of the Above' when these three are presented as options.",
+          "content": "Typical health insurance policies EXCLUDE expenses related to: (1) Plastic Surgery, (2) Dental Treatment (routine), (3) Aesthetic/Cosmetic Treatment. All three are excluded \u2014 the answer in IC-38 exam is 'All of the Above' when these three are presented as options.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🏨 Day Care Centre and Day Care Procedures",
+      "title": "\ud83c\udfe8 Day Care Centre and Day Care Procedures",
       "cards": [
         {
           "title": "What is a Day Care Centre?",
-          "content": "A Day Care Centre is a medical facility where PROCEDURES REQUIRING LESS THAN 24 HOURS of hospitalization are performed. The patient is admitted and discharged within a day. It is NOT just about daytime admission — it specifically refers to procedures completable within 24 hours.",
+          "content": "A Day Care Centre is a medical facility where PROCEDURES REQUIRING LESS THAN 24 HOURS of hospitalization are performed. The patient is admitted and discharged within a day. It is NOT just about daytime admission \u2014 it specifically refers to procedures completable within 24 hours.",
           "color": "blue"
         },
         {
-          "title": "Day Care Procedures — Examples",
-          "content": "Procedures that ARE Day Care procedures: Cataract surgery, Dental treatment, Optical services/treatment. These can be completed within 24 hours. NOT a Day Care procedure: BYPASS SURGERY — because bypass surgery requires prolonged admission (several days) in the hospital and cannot be done as a day care procedure.",
+          "title": "Day Care Procedures \u2014 Examples",
+          "content": "Procedures that ARE Day Care procedures: Cataract surgery, Dental treatment, Optical services/treatment. These can be completed within 24 hours. NOT a Day Care procedure: BYPASS SURGERY \u2014 because bypass surgery requires prolonged admission (several days) in the hospital and cannot be done as a day care procedure.",
           "color": "blue"
         },
         {
-          "title": "Exam Trap — Bypass Surgery",
-          "content": "When asked 'Which of the following is NOT a day care procedure?' — the answer is BYPASS SURGERY. Cataract, dental, and optical services all qualify as day care. Bypass surgery requires multi-day hospitalization.",
+          "title": "Exam Trap \u2014 Bypass Surgery",
+          "content": "When asked 'Which of the following is NOT a day care procedure?' \u2014 the answer is BYPASS SURGERY. Cataract, dental, and optical services all qualify as day care. Bypass surgery requires multi-day hospitalization.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🔄 Portability in Health Insurance",
+      "title": "\ud83d\udd04 Portability in Health Insurance",
       "cards": [
         {
           "title": "What is Portability?",
@@ -116,7 +116,7 @@
     },
     {
       "type": "note_card",
-      "title": "🩺 Pre-Existing Illness — Definition and Coverage",
+      "title": "\ud83e\ude7a Pre-Existing Illness \u2014 Definition and Coverage",
       "cards": [
         {
           "title": "What is Pre-Existing Illness?",
@@ -132,7 +132,7 @@
     },
     {
       "type": "note_card",
-      "title": "💊 Health Plus Life Combo Products",
+      "title": "\ud83d\udc8a Health Plus Life Combo Products",
       "cards": [
         {
           "title": "What is a Health Plus Life Combo Product?",
@@ -143,7 +143,7 @@
     },
     {
       "type": "note_card",
-      "title": "💳 Cashless Facility — Exact Meaning",
+      "title": "\ud83d\udcb3 Cashless Facility \u2014 Exact Meaning",
       "cards": [
         {
           "title": "What Does 'Cashless Facility' Mean?",
@@ -154,7 +154,7 @@
     },
     {
       "type": "tips",
-      "title": "🚀 Exam Pro-Tips — Chapter 2: Health Insurance Documentation",
+      "title": "\ud83d\ude80 Exam Pro-Tips \u2014 Chapter 2: Health Insurance Documentation",
       "items": [
         "Proposal processing time as per IRDAI guidelines = 30 DAYS.",
         "Risk on cheque payment = assumed from the date cheque is RECEIVED by the insurance company.",
@@ -164,7 +164,7 @@
         "Blood DONATION charges are NOT covered under health insurance.",
         "Exclusions = diseases specifically NOT covered. Examples: AIDS, STDs, Plastic Surgery, Dental, Cosmetic.",
         "Day Care Centre = procedures requiring LESS THAN 24 hours hospitalization.",
-        "Bypass Surgery is NOT a Day Care procedure — requires multi-day stay.",
+        "Bypass Surgery is NOT a Day Care procedure \u2014 requires multi-day stay.",
         "Cataract, Dental, Optical = Day Care procedures.",
         "Portability = right to switch policy within same company OR transfer to another insurer.",
         "Pre-Existing Illness = covered only AFTER a waiting period.",

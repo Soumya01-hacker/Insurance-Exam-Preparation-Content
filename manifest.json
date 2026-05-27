@@ -827,7 +827,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
@@ -866,7 +867,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
@@ -894,7 +896,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
@@ -1513,7 +1516,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
@@ -1552,7 +1556,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
@@ -1580,7 +1585,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",
@@ -2336,7 +2342,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_documentation.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_documentation.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_documentation.json"
             },
             {
               "id": "health_insurance_products",
@@ -2375,7 +2382,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_products.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_products.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_products.json"
             },
             {
               "id": "health_insurance_underwriting",
@@ -2403,7 +2411,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_underwriting.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_underwriting.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_underwriting.json"
             },
             {
               "id": "health_insurance_claims",

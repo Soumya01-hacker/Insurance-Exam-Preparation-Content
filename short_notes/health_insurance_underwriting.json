@@ -1,11 +1,11 @@
 {
-  "chapterId": "health_ch4_underwriting",
-  "title": "Chapter 4: Health Insurance Underwriting (Health Section — IC-38)",
+  "chapterId": "health_insurance_underwriting",
+  "title": "Chapter 4: Health Insurance Underwriting (Health Section \u2014 IC-38)",
   "theme": "Premium Blue-Gold",
   "sections": [
     {
       "type": "note_card",
-      "title": "🔍 What is Underwriting? — Purpose and Definition",
+      "title": "\ud83d\udd0d What is Underwriting? \u2014 Purpose and Definition",
       "cards": [
         {
           "title": "Purpose of Underwriting",
@@ -13,28 +13,28 @@
           "color": "blue"
         },
         {
-          "title": "Main Goal of Underwriter — Prevent Adverse Selection",
+          "title": "Main Goal of Underwriter \u2014 Prevent Adverse Selection",
           "content": "The MAIN PURPOSE of an underwriter is to PREVENT ADVERSE SELECTION AGAINST THE INSURER. Adverse selection means riskier individuals are more likely to buy insurance, which could lead to higher claims than expected. Underwriting controls this by properly assessing risk before accepting a proposal.",
           "color": "blue"
         },
         {
           "title": "Health Insurance Underwriting = Morbidity",
-          "content": "Health Insurance underwriting is based on the concept of MORBIDITY — which means the number of diseases or incidence of illness. Unlike life insurance (which deals with mortality/death), health insurance underwriting evaluates the likelihood of illness and disease.",
+          "content": "Health Insurance underwriting is based on the concept of MORBIDITY \u2014 which means the number of diseases or incidence of illness. Unlike life insurance (which deals with mortality/death), health insurance underwriting evaluates the likelihood of illness and disease.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "👤 Primary and Secondary Underwriter",
+      "title": "\ud83d\udc64 Primary and Secondary Underwriter",
       "cards": [
         {
-          "title": "Primary Underwriter — AGENT",
+          "title": "Primary Underwriter \u2014 AGENT",
           "content": "The PRIMARY UNDERWRITER is always the AGENT. The agent is the first person to assess the prospect, gather information, and make initial judgements about the risk. The agent is therefore considered the first or primary underwriter in the insurance process.",
           "color": "blue"
         },
         {
-          "title": "Secondary Underwriting — Office Level",
+          "title": "Secondary Underwriting \u2014 Office Level",
           "content": "Secondary Underwriting is done at the OFFICE LEVEL by the designated Underwriting Officer. After the agent submits the proposal, the underwriting officer at the insurer's office conducts a detailed assessment. The final decision on risk acceptance and pricing is made at this level.",
           "color": "blue"
         }
@@ -42,27 +42,27 @@
     },
     {
       "type": "note_card",
-      "title": "📋 Factors Affecting Morbidity (Disease Risk)",
+      "title": "\ud83d\udccb Factors Affecting Morbidity (Disease Risk)",
       "cards": [
         {
           "title": "Factors That AFFECT Morbidity",
-          "content": "The following factors affect morbidity (number of diseases) in an individual: (1) Age — older people are more prone to diseases. (2) Gender — certain diseases are gender-specific. (3) Habits — smoking, drinking, unhealthy lifestyle increase disease risk. (4) Occupation — certain jobs carry higher health risks. (5) Family History — hereditary conditions affect risk. (6) Past Illness — previous medical history matters. (7) Current Health Status — existing conditions. (8) Place of Residence — location-based environmental risks.",
+          "content": "The following factors affect morbidity (number of diseases) in an individual: (1) Age \u2014 older people are more prone to diseases. (2) Gender \u2014 certain diseases are gender-specific. (3) Habits \u2014 smoking, drinking, unhealthy lifestyle increase disease risk. (4) Occupation \u2014 certain jobs carry higher health risks. (5) Family History \u2014 hereditary conditions affect risk. (6) Past Illness \u2014 previous medical history matters. (7) Current Health Status \u2014 existing conditions. (8) Place of Residence \u2014 location-based environmental risks.",
           "color": "blue"
         },
         {
-          "title": "Factor That does NOT Affect Morbidity — Spouse's Job",
-          "content": "SPOUSE'S JOB does NOT affect the morbidity of an individual. While age, gender, habits, occupation, family history, past illness, current health status, and place of residence all affect disease risk — the job held by the insured's spouse has no direct bearing on the insured's health risk. This is a key exam trap.",
+          "title": "Factor That does NOT Affect Morbidity \u2014 Spouse's Job",
+          "content": "SPOUSE'S JOB does NOT affect the morbidity of an individual. While age, gender, habits, occupation, family history, past illness, current health status, and place of residence all affect disease risk \u2014 the job held by the insured's spouse has no direct bearing on the insured's health risk. This is a key exam trap.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "⚖️ Core Principles of Health Insurance",
+      "title": "\u2696\ufe0f Core Principles of Health Insurance",
       "cards": [
         {
           "title": "1. Utmost Good Faith (Uberrimae Fidei)",
-          "content": "Utmost Good Faith requires complete honesty and full disclosure from BOTH the insurer AND the insured. Both parties must not hide any material information. In underwriting, this principle must be followed by BOTH the insurer and the insured — not just one party.",
+          "content": "Utmost Good Faith requires complete honesty and full disclosure from BOTH the insurer AND the insured. Both parties must not hide any material information. In underwriting, this principle must be followed by BOTH the insurer and the insured \u2014 not just one party.",
           "color": "blue"
         },
         {
@@ -72,19 +72,19 @@
         },
         {
           "title": "3. Indemnity",
-          "content": "The Principle of Indemnity means the insured is compensated for ACTUAL LOSSES up to the extent of the SUM INSURED. The insured cannot profit from a claim — they can only be restored to their pre-loss financial position. Health insurance pays actual medical expenses up to the sum insured limit.",
+          "content": "The Principle of Indemnity means the insured is compensated for ACTUAL LOSSES up to the extent of the SUM INSURED. The insured cannot profit from a claim \u2014 they can only be restored to their pre-loss financial position. Health insurance pays actual medical expenses up to the sum insured limit.",
           "color": "blue"
         },
         {
           "title": "4. Contribution and Proximate Cause",
-          "content": "Contribution applies when the same risk is insured with more than one insurer — each insurer pays proportionally. Proximate Cause means the insurer checks the MAIN REASON (direct cause) behind the claim to decide if it is payable. Only if the proximate cause is a covered event will the claim be paid.",
+          "content": "Contribution applies when the same risk is insured with more than one insurer \u2014 each insurer pays proportionally. Proximate Cause means the insurer checks the MAIN REASON (direct cause) behind the claim to decide if it is payable. Only if the proximate cause is a covered event will the claim be paid.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🏥 Medical vs Non-Medical Underwriting",
+      "title": "\ud83c\udfe5 Medical vs Non-Medical Underwriting",
       "cards": [
         {
           "title": "Medical Underwriting",
@@ -100,11 +100,11 @@
     },
     {
       "type": "note_card",
-      "title": "📝 Proposal Form and Underwriting Process",
+      "title": "\ud83d\udcdd Proposal Form and Underwriting Process",
       "cards": [
         {
           "title": "Primary Source of Information for Underwriter",
-          "content": "The FIRST and PRIMARY source of information for an underwriter about any applicant is the PROPOSAL FORM. The proposal form contains all key details — age, health history, occupation, family history, sum assured choice — all filled by the proposer. Age proof, financial documents, and medical records are secondary.",
+          "content": "The FIRST and PRIMARY source of information for an underwriter about any applicant is the PROPOSAL FORM. The proposal form contains all key details \u2014 age, health history, occupation, family history, sum assured choice \u2014 all filled by the proposer. Age proof, financial documents, and medical records are secondary.",
           "color": "blue"
         },
         {
@@ -114,25 +114,25 @@
         },
         {
           "title": "Who Decides to Accept or Reject Risk?",
-          "content": "It is the UNDERWRITER who decides whether to accept or reject a risk (i.e., whether to issue the policy or not). Not the agent, not the surveyor, not the insured — the underwriter makes the final risk acceptance decision.",
+          "content": "It is the UNDERWRITER who decides whether to accept or reject a risk (i.e., whether to issue the policy or not). Not the agent, not the surveyor, not the insured \u2014 the underwriter makes the final risk acceptance decision.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🦾 Claims on Accident — Loss of Limb vs Loss of Life",
+      "title": "\ud83e\uddbe Claims on Accident \u2014 Loss of Limb vs Loss of Life",
       "cards": [
         {
           "title": "If Accident Causes Loss of Limb AND Loss of Life",
-          "content": "If an accident results in both Loss of Limb AND Loss of Life, the insurer pays for LOSS OF LIFE. Loss of Life is the greater and final loss. When both events occur together, the claim is settled for the higher loss — which is loss of life. Loss of limb means loss of an arm, leg, etc., but life continues; loss of life is terminal.",
+          "content": "If an accident results in both Loss of Limb AND Loss of Life, the insurer pays for LOSS OF LIFE. Loss of Life is the greater and final loss. When both events occur together, the claim is settled for the higher loss \u2014 which is loss of life. Loss of limb means loss of an arm, leg, etc., but life continues; loss of life is terminal.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🧾 Medical Examiner's Report",
+      "title": "\ud83e\uddfe Medical Examiner's Report",
       "cards": [
         {
           "title": "What is IN a Medical Examiner's Report?",
@@ -141,14 +141,14 @@
         },
         {
           "title": "What is NOT in a Medical Examiner's Report?",
-          "content": "PREVIOUS POLICY PARTICULARS (details of old policies) are NOT included in the Medical Examiner's Report. A medical examiner's job is to assess current physical health — not to review insurance history. Policy particulars belong in the Proposal Form or insurance records.",
+          "content": "PREVIOUS POLICY PARTICULARS (details of old policies) are NOT included in the Medical Examiner's Report. A medical examiner's job is to assess current physical health \u2014 not to review insurance history. Policy particulars belong in the Proposal Form or insurance records.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "💰 Tax Relief on Health Insurance Premium",
+      "title": "\ud83d\udcb0 Tax Relief on Health Insurance Premium",
       "cards": [
         {
           "title": "Under Which Section is Health Insurance Premium Tax Deductible?",
@@ -159,7 +159,7 @@
     },
     {
       "type": "note_card",
-      "title": "📅 Free Look Period",
+      "title": "\ud83d\udcc5 Free Look Period",
       "cards": [
         {
           "title": "Free Look Period in Health Insurance",
@@ -170,14 +170,14 @@
     },
     {
       "type": "tips",
-      "title": "🚀 Exam Pro-Tips — Chapter 4: Health Insurance Underwriting",
+      "title": "\ud83d\ude80 Exam Pro-Tips \u2014 Chapter 4: Health Insurance Underwriting",
       "items": [
         "Underwriting = Risk Selection + Risk Pricing.",
         "Main purpose of underwriter = PREVENT ADVERSE SELECTION against the insurer.",
         "Health insurance underwriting is based on MORBIDITY (not mortality).",
         "PRIMARY underwriter = AGENT. Secondary underwriting = Office level underwriting officer.",
         "Factors affecting morbidity: Age, Gender, Habits, Occupation, Family History, Past Illness, Current Health Status, Place of Residence.",
-        "Spouse's JOB does NOT affect morbidity of the insured — key exam trap.",
+        "Spouse's JOB does NOT affect morbidity of the insured \u2014 key exam trap.",
         "Utmost Good Faith must be followed by BOTH insurer AND insured.",
         "Principle of Indemnity = insured paid for ACTUAL LOSSES to the extent of Sum Insured.",
         "Medical Underwriting = medical examination required BEFORE policy issuance.",
@@ -185,7 +185,7 @@
         "Primary source of information for underwriter = PROPOSAL FORM.",
         "Underwriting process is complete when information is assessed and classified into risk category.",
         "Who decides to accept or reject risk = UNDERWRITER.",
-        "Accident causing loss of limb AND loss of life → insurer pays for LOSS OF LIFE.",
+        "Accident causing loss of limb AND loss of life \u2192 insurer pays for LOSS OF LIFE.",
         "Medical Examiner's Report contains Height, Weight, BP. Does NOT contain previous policy particulars.",
         "Health insurance premium tax benefit = Section 80D (NOT 80C).",
         "Free Look Period in health insurance = 15 DAYS from receipt of policy document."
