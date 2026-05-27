@@ -1,0 +1,184 @@
+{
+  "chapterId": "life_insurance_claims",
+  "title": "Chapter 9 (Life Section): Life Insurance Claims",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📌 What is a Claim? — Definition",
+      "cards": [
+        {
+          "title": "Claim = Demand, NOT a Request",
+          "content": "A Claim in life insurance is always a DEMAND made by the insured or the insured's beneficiary/nominee to the insurer to honour the promise made in the policy contract. It is NEVER a request. The insurer had promised in the policy document that if the insured dies, the nominee will receive the death benefit; and if the insured survives the term, they receive the maturity benefit. This promise must be fulfilled when triggered. Exam Trap: Any option using the word 'request' for a claim is WRONG.",
+          "color": "blue"
+        },
+        {
+          "title": "Main Objective of a Life Insurance Policy",
+          "content": "The PRIMARY objective of taking a life insurance policy is PROTECTION — protecting the family financially in the event of premature death. Tax benefits, savings, and investment are secondary advantages but NOT the main objective. Exam Answer: Main objective = Protection.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Types of Claims — Two Main Categories",
+      "cards": [
+        {
+          "title": "1. Survival Claim (Maturity Claim)",
+          "content": "A Survival Claim is paid when the insured SURVIVES the full policy term and the policy matures. The insured has paid all premiums, remained alive throughout the term, and now receives the maturity amount. This is also called Maturity Claim. In a Money Back Policy, similar payments made at periodic intervals during the policy term are called Periodic Survival Claims or Periodic Survival Benefits.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Death Claim",
+          "content": "A Death Claim is made by the nominee/beneficiary when the insured DIES during the policy term. The insurer pays the Sum Assured (plus bonuses if applicable) to the nominee. Death can be of two types: (1) Natural Death, (2) Accidental Death — each requiring different sets of documents.",
+          "color": "blue"
+        },
+        {
+          "title": "Other Types of Policy Payments",
+          "content": "Besides death and maturity claims, the following payments also occur during the policy term: (1) Periodic Survival Benefit (Money Back Policy), (2) Surrender Value — when the policyholder surrenders (closes) the policy before term, (3) Rider Benefits — additional cover claims like critical illness, accidental death rider, (4) Maturity Claim — at end of term.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⏰ Early Death Claim — Key Definition",
+      "cards": [
+        {
+          "title": "What is an Early Death Claim?",
+          "content": "An Early Death Claim is a death claim where the insured dies WITHIN 3 YEARS of the policy being issued. If death occurs before 3 years from the date of policy commencement, it is classified as an Early Death Claim and is subject to more thorough investigation by the insurer. Examples: Death at 6 months, 1 year, 1.5 years, 2 years — ALL are Early Death Claims. Death at 5 years = NOT an Early Death Claim.",
+          "color": "blue"
+        },
+        {
+          "title": "Exam Question on Early Death Claim",
+          "content": "If options are: 6 months, 1.5 years, 2 years, and 5 years — you must pick the ODD ONE OUT. Answer = 5 years, because it does NOT fall within the 3-year early death claim window. All others (6 months, 1.5 years, 2 years) qualify as early death claims.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📄 Documents Required for Death Claims",
+      "cards": [
+        {
+          "title": "Documents for Natural Death Claim",
+          "content": "For a Natural Death Claim, the nominee submits: (1) Death Claim Form, (2) Certificate of Cremation/Burial, (3) Treating Physician's Certificate (doctor who treated the deceased), (4) Hospital Certificate (if death occurred in hospital), (5) Employer's Certificate (if the insured was employed). NO Inquest Report is required for natural death.",
+          "color": "blue"
+        },
+        {
+          "title": "Additional Document for Accidental Death Claim",
+          "content": "In case of Accidental Death, the police get involved. They take the body and conduct a POST-MORTEM. After the post-mortem, the police prepare a report called the INQUEST REPORT. This Inquest Report is the ADDITIONAL document required for accidental death claims — not needed in natural death. Exam Question: 'Which extra document is needed only for accidental death?' = Inquest Report.",
+          "color": "blue"
+        },
+        {
+          "title": "First Requirement of Corporation in Death Claim Cases",
+          "content": "The FIRST requirement of the insurance corporation (company) when a death claim is made is the INTIMATION OF DEATH — a formal notice/information about the death of the insured. Without this, the claim process cannot begin. Exam Answer: First requirement in death claim = Intimation of Death.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Policy Assignment and Claim Payment",
+      "cards": [
+        {
+          "title": "Who Gets the Claim When Policy is Assigned?",
+          "content": "If a policyholder makes an ABSOLUTE ASSIGNMENT of the policy in favour of another person (called the Assignee), then the Assignee becomes the legal owner of the policy. ALL claim payments — including rider benefits, death benefit, maturity — are paid to the ASSIGNEE and NOT to the original insured. Example: Mahesh assigns his policy to Karan. Mahesh has a heart attack and claims ₹50,000 under Critical Illness Rider. Claim is paid to KARAN (the assignee), not Mahesh.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔁 Policy Reinstatement",
+      "cards": [
+        {
+          "title": "Reinstating a Lapsed Policy — Two Requirements",
+          "content": "If a policyholder stops paying premiums and the policy lapses, they can REINSTATE (revive) the policy. Two key requirements for reinstatement: (1) Reinstatement Fee (payment of all outstanding premium arrears with interest), (2) Proof of Continuing Good Health (a health declaration or medical certificate showing the insured is still in good health). Exam Answer = Reinstatement Fee + Proof of Continuing Good Health.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📬 Claim When Policy Document Not Yet Received",
+      "cards": [
+        {
+          "title": "Death Before Receiving Policy Document",
+          "content": "If a person buys a policy, the insurer accepts the premium and dispatches the policy document, but the insured dies before physically receiving the policy document — the nominee is still ENTITLED TO THE FULL CLAIM. Why? Because the insurance contract starts when the proposal is accepted and the FIRST PREMIUM RECEIPT (FPR) is issued. The FPR is itself evidence that the contract is in force. The physical policy document is sent later but the contract already exists.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧍 Missing Person — Presumed Dead After 7 Years",
+      "cards": [
+        {
+          "title": "When is a Missing Person Considered Dead?",
+          "content": "According to Indian law, if a person is MISSING and there is no trace or news of them even after 7 YEARS, they are legally presumed to be dead. Only after 7 years can the insurance company process and pay a death claim for a missing person. Exam Answer: Missing person presumed dead = After 7 years.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💰 ULIP Death Benefit — Fund Value",
+      "cards": [
+        {
+          "title": "What is Paid on Death in a ULIP Plan?",
+          "content": "ULIP (Unit Linked Insurance Plan) is a market-linked insurance product. If the insured dies before the maturity of the ULIP policy, the nominee receives the HIGHER of: (1) Sum Assured, OR (2) Fund Value (the market value of the investment at the time of death). This guaranteed payment structure protects the nominee from market downturns at the time of death. Exam Answer: ULIP death benefit = Higher of Sum Assured and Fund Value.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "❌ Survival Claim — What Does NOT Trigger It",
+      "cards": [
+        {
+          "title": "Incorrect Statement About Survival Claim (Exam Trap)",
+          "content": "A Survival Claim is triggered when the insured SURVIVES the policy term — it is a living benefit. INCORRECT statement: 'Claim is paid on the maturity of a Term Insurance Policy.' This is WRONG because Term Insurance has NO maturity benefit. In a term plan, if the insured dies during the term, the nominee gets the death benefit. If the insured survives the term — NO amount is paid. Term insurance = pure death cover, no survival/maturity benefit.",
+          "color": "blue"
+        },
+        {
+          "title": "Money Back Policy — Periodic Survival Claim",
+          "content": "In a Money Back Policy, the insured receives periodic payments at set milestones during the policy term. These payments are called PERIODIC SURVIVAL CLAIMS or PERIODIC SURVIVAL BENEFITS. This is the only policy where survival claim is paid in installments before the full maturity, not as a single lump sum at the end.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔤 Assurance — Life Insurance Term",
+      "cards": [
+        {
+          "title": "What Does 'Assurance' Refer To?",
+          "content": "The term 'Assurance' refers specifically to LIFE INSURANCE business. Assurance means certainty — life insurance assures payment either on death OR on survival (maturity). General insurance (fire, motor, marine) is called 'insurance' not 'assurance' because these cover uncertain events. Whenever the exam uses the word 'assurance', the answer always relates to Life Insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 9 (Life) Quick Memory",
+      "items": [
+        "Claim = DEMAND (never a request). Made by insured or nominee to the insurer.",
+        "Main objective of life insurance = PROTECTION (not tax benefit, not savings, not investment).",
+        "Two main claim types: Survival Claim (insured lives) and Death Claim (insured dies during term).",
+        "Early Death Claim = death within 3 years of policy start. After 3 years = NOT early death.",
+        "Natural death documents: Claim form, Cremation certificate, Treating physician cert, Hospital cert, Employer cert. NO inquest report.",
+        "Accidental death ADDITIONAL document = INQUEST REPORT (prepared by police after post-mortem).",
+        "First requirement in death claim = INTIMATION OF DEATH.",
+        "Absolute Assignment = Assignee (Karan) gets full claim, NOT the original insured.",
+        "Policy reinstatement requires = Reinstatement Fee + Proof of Continuing Good Health.",
+        "Death before receiving policy doc = Nominee gets FULL claim. FPR is proof of contract.",
+        "Missing person presumed dead = After 7 YEARS as per law.",
+        "ULIP death benefit = HIGHER of Sum Assured or Fund Value.",
+        "Term Insurance = NO survival/maturity benefit. 'Claim paid on maturity of term plan' = INCORRECT statement.",
+        "Money Back Policy = Periodic Survival Claim paid at milestones.",
+        "'Assurance' term = always refers to LIFE INSURANCE only."
+      ]
+    }
+  ] 
+}

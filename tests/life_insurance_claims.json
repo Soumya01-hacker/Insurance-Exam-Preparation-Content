@@ -1,0 +1,188 @@
+{
+  "chapter_id": "life_insurance_claims",
+  "chapter_title": "Chapter 9 (Life Section): Life Insurance Claims",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch09L_q01",
+      "text": "Which of the following statements BEST describes the concept of a Claim in Life Insurance?",
+      "options": [
+        "A claim is a request that the insured makes to the insurer",
+        "A claim is a DEMAND that the insurer should make good on the promise specified in the contract",
+        "A claim is a demand that the insured should make good the commitment specified in the agreement",
+        "A claim is a request submitted by the insurer to the insured"
+      ],
+      "correct_index": 1,
+      "explanation": "A claim in life insurance is always a DEMAND — not a request — made by the insured or their nominee/beneficiary to the INSURER to honour the promise specified in the policy contract. The insurer is the one who made the promise and must fulfil it. Options using the word 'request' or suggesting that the insured fulfils the commitment are incorrect."
+    },
+    {
+      "id": "ch09L_q02",
+      "text": "In which policy is the claim payment made in the form of PERIODIC payments during the policy term?",
+      "options": [
+        "Money Back Policy",
+        "Term Insurance Policy",
+        "Whole Life Policy",
+        "Endowment Policy"
+      ],
+      "correct_index": 0,
+      "explanation": "In a Money Back Policy, the insured receives periodic survival benefit payments at set milestones during the policy term — these are called Periodic Survival Claims or Periodic Survival Benefits. No other policy type makes payments periodically during the term in this manner. Term, whole life, and endowment policies do not provide periodic payouts during the term."
+    },
+    {
+      "id": "ch09L_q03",
+      "text": "Mahesh assigned his life insurance policy absolutely in favour of Karan. Mahesh suffers a heart attack and a claim of ₹50,000 arises under the Critical Illness Rider. To whom will the claim payment be made?",
+      "options": [
+        "To Mahesh",
+        "To Karan",
+        "Payment shared equally between Mahesh and Karan",
+        "Neither will receive as there is a conflict"
+      ],
+      "correct_index": 1,
+      "explanation": "When a policy is absolutely assigned to another person, the Assignee (Karan) becomes the legal owner of the policy. All rights and benefits under the policy — including all claim payments — belong to the Assignee. Therefore, even though Mahesh suffered the heart attack, the claim of ₹50,000 is payable to Karan, not Mahesh."
+    },
+    {
+      "id": "ch09L_q04",
+      "text": "Praveen died in a car accident. His beneficiary is submitting documents for a death claim. Which of the following is the ADDITIONAL document required for accidental death that is NOT required for natural death?",
+      "options": [
+        "Death Claim Form",
+        "Certificate of Cremation",
+        "Inquest Report",
+        "Treating Physician's Certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "In accidental death cases, the police get involved — they take custody of the body, conduct a post-mortem examination, and prepare the Inquest Report. This report is the EXTRA document required only for accidental death claims. For natural deaths, the claim form, cremation certificate, treating physician certificate, and hospital certificate are required — but NO inquest report."
+    },
+    {
+      "id": "ch09L_q05",
+      "text": "Which of the following is an EARLY DEATH CLAIM?",
+      "options": [
+        "Death occurring 5 years after policy commencement",
+        "Death occurring 4 years after policy commencement",
+        "Death occurring 2 years after policy commencement",
+        "Death occurring 3 years and 1 day after policy commencement"
+      ],
+      "correct_index": 2,
+      "explanation": "An Early Death Claim is triggered when the insured dies WITHIN 3 YEARS of the policy being issued. Death at 2 years clearly falls within this 3-year window. Death at 5 years, 4 years, or 3 years and 1 day are all beyond the 3-year threshold and are therefore NOT early death claims."
+    },
+    {
+      "id": "ch09L_q06",
+      "text": "Identify the INCORRECT statement regarding Survival Claims.",
+      "options": [
+        "Claim is paid when the insured survives to the maturity date of an endowment policy",
+        "Claim is paid on the maturity of a Money Back Policy",
+        "Claim is paid on the maturity of a Term Insurance Policy",
+        "Periodic payments in a Money Back Policy are called Periodic Survival Claims"
+      ],
+      "correct_index": 2,
+      "explanation": "A Term Insurance Policy provides ONLY a death benefit — if the insured dies during the term, the nominee receives the sum assured. If the insured survives the term, NO amount is paid. Therefore, the statement 'claim is paid on the maturity of a term insurance policy' is INCORRECT. Term insurance has no survival or maturity benefit whatsoever."
+    },
+    {
+      "id": "ch09L_q07",
+      "text": "A payment made under a Money Back Policy upon reaching a milestone is classified as which type of claim?",
+      "options": [
+        "Death Claim",
+        "Maturity Claim",
+        "Periodic Survival Claim",
+        "Surrender Value"
+      ],
+      "correct_index": 2,
+      "explanation": "In a Money Back Policy, the policyholder receives payments at pre-defined intervals or milestones during the policy term. These are called Periodic Survival Claims or Periodic Survival Benefits. They are not death claims (insured is alive), not maturity claims (term hasn't ended), and not surrender value (policy is not being cancelled)."
+    },
+    {
+      "id": "ch09L_q08",
+      "text": "Shankar buys a 10-year ULIP plan. He dies before the maturity of the policy. Which of the following will be paid to his nominee?",
+      "options": [
+        "Only the Sum Assured",
+        "Higher of Sum Assured and Fund Value",
+        "Only the Fund Value",
+        "Guaranteed Surrender Value"
+      ],
+      "correct_index": 1,
+      "explanation": "In a ULIP (Unit Linked Insurance Plan), which is a market-linked product, the death benefit payable to the nominee is the HIGHER of the Sum Assured OR the Fund Value (the market value of the investment at the time of death). This ensures the nominee is protected from market fluctuations and receives the maximum possible benefit."
+    },
+    {
+      "id": "ch09L_q09",
+      "text": "In case of a Death Claim, what is the FIRST requirement of the insurance corporation?",
+      "options": [
+        "Imitation of Death",
+        "Intimation of Death",
+        "Certificate of Death",
+        "All of the above simultaneously"
+      ],
+      "correct_index": 1,
+      "explanation": "The very FIRST step in any death claim process is INTIMATION OF DEATH — a formal notification to the insurance company about the death of the insured. Without this intimation, the insurer cannot begin any claims processing. The death certificate, claim form, and other documents come after the initial intimation has been given."
+    },
+    {
+      "id": "ch09L_q10",
+      "text": "If the customer has stopped paying premiums and wants to REINSTATE the lapsed policy, what are the TWO most important things required?",
+      "options": [
+        "Reinstatement Fee and Proof of Continuing Good Health",
+        "Premium Cheque and Health Declaration only",
+        "Only Health Certificate",
+        "Premium Cheque with Arrears only"
+      ],
+      "correct_index": 0,
+      "explanation": "To reinstate a lapsed life insurance policy, two things are always required: (1) Reinstatement Fee — payment of all outstanding premium arrears along with applicable interest, and (2) Proof of Continuing Good Health — a medical certificate or health declaration confirming the insured is still in good health. Both are mandatory; one alone is not sufficient."
+    },
+    {
+      "id": "ch09L_q11",
+      "text": "Mr. Customer took a policy but died before receiving the policy document that was dispatched by the insurer. Is the nominee entitled to the claim?",
+      "options": [
+        "Entitled to full claim",
+        "Entitled to partial claim only",
+        "Not entitled to any claim",
+        "Only the premium paid will be returned"
+      ],
+      "correct_index": 0,
+      "explanation": "The nominee is entitled to the FULL claim. An insurance contract comes into force as soon as the proposal is accepted by the insurer and the first premium is paid — as evidenced by the First Premium Receipt (FPR). The physical policy document is just a written record of the existing contract. Not receiving it does not invalidate the contract that is already legally in force."
+    },
+    {
+      "id": "ch09L_q12",
+      "text": "According to law, after how many years can a MISSING PERSON be considered as dead for insurance claim purposes?",
+      "options": [
+        "5 years",
+        "7 years",
+        "10 years",
+        "15 years"
+      ],
+      "correct_index": 1,
+      "explanation": "Under Indian law (as per Section 108 of the Indian Evidence Act), a person who has been missing and unheard of for 7 YEARS is legally presumed to be dead. Only after this 7-year period can the insurance company process and pay a death claim on behalf of a missing insured. The nominee must wait for 7 years from the date of disappearance."
+    },
+    {
+      "id": "ch09L_q13",
+      "text": "If the insured dies BEFORE the expiry of the policy term, this is known as ________.",
+      "options": [
+        "Surrender",
+        "Foreclosure",
+        "Death Claim",
+        "Maturity Claim"
+      ],
+      "correct_index": 2,
+      "explanation": "When the insured dies before the policy term ends — whether it is a natural death or accidental death — the payment made to the nominee is called a Death Claim. Surrender occurs when the policyholder voluntarily closes the policy before maturity. Maturity claim is received when the insured survives the full term. Foreclosure is not a standard insurance term for this situation."
+    },
+    {
+      "id": "ch09L_q14",
+      "text": "The term 'Assurance' refers to ________.",
+      "options": [
+        "Life Insurance Business",
+        "Fire Insurance Business",
+        "Motor Vehicle Insurance Business",
+        "Marine Insurance Business"
+      ],
+      "correct_index": 0,
+      "explanation": "The term 'Assurance' is used exclusively for Life Insurance. Assurance implies certainty — a life insurance policy assures payment either on death (death benefit) or on survival to maturity (maturity benefit). General insurance products like fire, motor, and marine insurance deal with uncertain events and are referred to as 'Insurance', not 'Assurance'."
+    },
+    {
+      "id": "ch09L_q15",
+      "text": "What is the MAIN OBJECTIVE of taking a Life Insurance Policy?",
+      "options": [
+        "Tax Benefits",
+        "Savings",
+        "Investment",
+        "Protection"
+      ],
+      "correct_index": 3,
+      "explanation": "The PRIMARY and most fundamental objective of a life insurance policy is PROTECTION — specifically protecting the family and dependents from financial hardship in the event of the insured's premature death. While tax benefits, savings, and investment are advantages that come with certain insurance plans, they are secondary benefits. Protection of human life value is the core purpose of life insurance."
+    }
+  ]
+}
