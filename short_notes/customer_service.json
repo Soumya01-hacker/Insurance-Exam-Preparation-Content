@@ -1,0 +1,180 @@
+{
+  "chapterId": "customer_service",
+  "title": "Chapter 8 (Common Section): Customer Service",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "⭐ SERVQUAL — Five Indicators of Service Quality",
+      "cards": [
+        {
+          "title": "What is SERVQUAL?",
+          "content": "SERVQUAL (Service Quality) is a well-known model that defines the five key indicators of service quality that every insurance agent must demonstrate. Remember the acronym RARRE: Reliability, Assurance, Responsiveness, Empathy, Ethics. Any other quality like 'cleverness', 'trickery', or 'smartness' is NOT a service quality indicator.",
+          "color": "blue"
+        },
+        {
+          "title": "1. Reliability",
+          "content": "Reliability means being dependable and trustworthy. A reliable agent consistently keeps their promises and delivers what they say they will. Customers must be able to count on the agent to be consistent and accurate in their service.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Assurance",
+          "content": "Assurance means building trust and confidence in the customer's mind. The agent must have the knowledge, courtesy, and ability to convey trust to the customer. Customers should feel confident that the agent is competent and will handle their needs properly.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Responsiveness",
+          "content": "Responsiveness means accountability and willingness to help customers promptly. A responsive agent is available, answers queries quickly, and takes responsibility for resolving customer issues without delay.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Empathy",
+          "content": "Empathy means having genuine sympathy and understanding of the customer's problems, needs, and feelings. Without empathy, an agent cannot truly understand what the customer requires and cannot provide personalised and meaningful service.",
+          "color": "blue"
+        },
+        {
+          "title": "5. Ethics",
+          "content": "Ethics means having moral behaviour and putting the customer's interest FIRST — above the agent's own personal gain or commission. Ethical behaviour helps build long-term trust between the agent and the insured and is the foundation of a good professional relationship. Exam Tip: 'Cleverness is NOT an indicator of service quality' — always pick cleverness/trickery as the wrong option.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "👂 Active Listening — Key Skill of a Good Agent",
+      "cards": [
+        {
+          "title": "What is Active Listening?",
+          "content": "Active Listening means listening attentively and with full focus to the customer. 'Before we can be good speakers, we must be good listeners.' Only by listening carefully can an agent truly understand the customer's needs.",
+          "color": "blue"
+        },
+        {
+          "title": "Three Elements of Active Listening",
+          "content": "(1) Paying Attention — focusing completely on what the customer is saying. (2) Resonating / Responding Nature — nodding, acknowledging, showing that you are following the conversation (giving occasional nods and smiles). (3) Giving Feedback — responding appropriately so the customer knows they have been heard and understood. Exam Tip: ALL THREE together = Active Listening. Answer = All of the above.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT Active Listening? (Exam Trap)",
+          "content": "Being Extremely Judgmental is NOT part of active listening. A judgmental person forms opinions before fully hearing what someone has to say. This destroys the quality of listening. Always pick 'Being Extremely Judgmental' as the option that does NOT belong to active listening.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📦 Tangible vs Intangible Products — Insurance is Intangible",
+      "cards": [
+        {
+          "title": "Tangible Products",
+          "content": "Tangible products are physical goods that can be seen, touched, and felt. Examples: Car, Mobile Phone, Clothes, Food items, Furniture. When you go to a market and buy something physical, it is a tangible product.",
+          "color": "blue"
+        },
+        {
+          "title": "Intangible Products — Insurance",
+          "content": "Intangible products are those that cannot be physically seen or touched. Insurance is the classic example of an intangible product. You cannot hold an insurance policy in your hand as a physical object — it is a contract, a promise, a service. Exam Question: 'Which is NOT a tangible good?' — Answer: Insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💼 Customer Lifetime Value (CLV)",
+      "cards": [
+        {
+          "title": "What is Customer Lifetime Value?",
+          "content": "Customer Lifetime Value (CLV) is defined as the sum of economic benefits that can be achieved by building a long-term relationship with a customer. It is NOT just the cost of servicing the customer or the number of policies sold — it refers to the total value (economic benefit) derived from a loyal, long-term customer relationship.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛡️ Consumer Protection Act 1986 — Consumer vs Customer",
+      "cards": [
+        {
+          "title": "Consumer vs Customer — Important Difference",
+          "content": "A Consumer is a person who buys goods or services for PERSONAL USE. A Customer is a person who buys goods for RESALE PURPOSE. Under the Consumer Protection Act 1986, a person buying goods for resale is NOT classified as a consumer — they are a customer (trader). This is a very frequently tested distinction in IC-38.",
+          "color": "blue"
+        },
+        {
+          "title": "Who can file a complaint under Consumer Protection Act 1986?",
+          "content": "The following can file a complaint: (1) Any Consumer who has suffered. (2) Legal Heir of a Deceased Consumer. (3) Any Registered Consumer Association. All three have the legal right to approach consumer courts. Answer = All of the Above.",
+          "color": "blue"
+        },
+        {
+          "title": "What does Consumer Protection Act deal with?",
+          "content": "The Consumer Protection Act protects the interests of all consumers — whether they have purchased insurance, bought goods from a shopkeeper, or used any product or brand. It applies to: Complaints against Insurance Companies + Complaints against Shopkeepers + Complaints against Brands. Answer = All of the Above.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚗 Mandatory Insurance in India",
+      "cards": [
+        {
+          "title": "Which Insurance is Mandatory in India?",
+          "content": "Motor Insurance (Third-Party Motor Insurance) is the ONLY insurance that is mandatory (compulsory) by law in India. All vehicle owners must have at least Third-Party Motor Insurance to legally drive on Indian roads. No other type of insurance — life, health, home — is legally mandatory. This is a direct exam question.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🤝 Building Trust and First Impressions",
+      "cards": [
+        {
+          "title": "Elements that Promote Trust",
+          "content": "Three elements promote trust in customer relationships: (1) Attraction — the agent's personality and presence should naturally attract and draw the customer's confidence. (2) Communication — the agent must communicate clearly, accurately, and honestly. (3) Being Present — the agent must be available to customers when they need them. Exam Answer = Attraction + Communication + Being Present.",
+          "color": "blue"
+        },
+        {
+          "title": "How to Create a Good First Impression",
+          "content": "A good first impression in customer relationships is created by: (1) Being Confident — displaying self-assurance and knowledge. (2) Being On Time — punctuality shows respect for the customer. (3) Showing Interest — genuinely engaging with the customer's needs. Exam Answer = All of the above (Being Confident + On Time + Showing Interest).",
+          "color": "blue"
+        },
+        {
+          "title": "Service Failure Creates Two Feelings in Customer (Exam Fact)",
+          "content": "When the insurance company fails in its service delivery, it creates two specific feelings in the customer's mind: (1) Sense of Unfairness — the customer feels they have been treated unjustly. (2) Hurt of Ego — the customer feels disrespected and their dignity is affected. Exam Answer = Sense of Unfairness and Hurt of Ego.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧠 Soft Skills vs Hard Skills",
+      "cards": [
+        {
+          "title": "What are Soft Skills?",
+          "content": "Soft Skills refer to a person's ability to interact effectively and harmoniously with other workers, customers, and people in general — both at work and outside of work. Soft skills include communication, empathy, teamwork, and emotional intelligence. An insurance agent's ability to relate to customers and colleagues is a soft skill, not a technical/hard skill.",
+          "color": "blue"
+        },
+        {
+          "title": "Agent's Role in Customer Service",
+          "content": "An insurance agent's role in providing customer service does NOT end at the point of selling the policy. The agent's role BEGINS at the stage of sale and CONTINUES throughout the entire duration of the insurance contract. The agent must service the customer at every stage — from policy purchase to claim settlement.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 8 Quick Memory",
+      "items": [
+        "SERVQUAL = Service Quality. Five indicators: Reliability, Assurance, Responsiveness, Empathy, Ethics. Cleverness/Trickery is NOT an indicator.",
+        "Active Listening = Paying Attention + Resonating/Nodding + Giving Feedback = ALL THREE. NOT: being extremely judgmental.",
+        "Insurance = Intangible Product (not visible, not physical). Car, mobile, clothes = Tangible.",
+        "Motor Insurance = ONLY mandatory insurance in India.",
+        "Customer Lifetime Value = Sum of economic benefits from long-term customer relationship.",
+        "Consumer = buys for personal use. Customer = buys for resale. Person buying for resale is NOT a consumer under CPA 1986.",
+        "Who can file complaint under CPA 1986? Consumer + Legal Heir + Registered Association = All of the above.",
+        "Consumer Protection Act covers: Insurance + Shopkeeper + Brand = All of the above.",
+        "Trust Elements = Attraction + Communication + Being Present.",
+        "First Impression = Being Confident + Being On Time + Showing Interest = All of the above.",
+        "Service Failure feelings = Sense of Unfairness + Hurt of Ego.",
+        "Soft Skills = ability to interact effectively with people at work and outside.",
+        "Agent's role = Starts at sale, continues throughout contract duration. Does NOT end at sale.",
+        "Ethical behaviour puts CUSTOMER'S INTEREST FIRST, not agent's own benefit."
+      ]
+    }
+  ]
+}

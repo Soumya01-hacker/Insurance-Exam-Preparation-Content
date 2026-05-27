@@ -1,0 +1,188 @@
+{
+  "chapter_id": "customer_service",
+  "chapter_title": "Chapter 8 (Common Section): Customer Service",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch08_q01",
+      "text": "What is meant by 'Customer Lifetime Value'?",
+      "options": [
+        "Sum of costs incurred while servicing the customer over his lifetime",
+        "Rank given to the customer based on the business generated",
+        "Sum of economic benefits achieved by building a long-term relationship with the customer",
+        "Maximum amount of insurance that can be attributed to the customer"
+      ],
+      "correct_index": 2,
+      "explanation": "Customer Lifetime Value (CLV) refers to the total economic benefit an agent or insurer derives from building and maintaining a long-term relationship with a customer. It is not just about cost or a single transaction — it represents the overall value the customer brings over the course of the relationship."
+    },
+    {
+      "id": "ch08_q02",
+      "text": "Under the Consumer Protection Act 1986, who CANNOT be classified as a consumer?",
+      "options": [
+        "A person who hires goods and services for personal use",
+        "A person who buys goods for resale purposes",
+        "A person who buys goods for consideration and uses them",
+        "A person who uses services of another for a consideration"
+      ],
+      "correct_index": 1,
+      "explanation": "A Consumer is someone who purchases goods or services for their own personal use. A person who buys goods for resale is a trader/customer, not a consumer. Under the Consumer Protection Act 1986, such a person cannot be classified as a consumer and therefore does not have the right to file a consumer complaint."
+    },
+    {
+      "id": "ch08_q03",
+      "text": "Dash is NOT an indicator of Service Quality as per the SERVQUAL model.",
+      "options": [
+        "Cleverness",
+        "Reliability",
+        "Empathy",
+        "Responsiveness"
+      ],
+      "correct_index": 0,
+      "explanation": "The SERVQUAL model identifies five indicators of service quality: Reliability, Assurance, Responsiveness, Empathy, and Ethics. 'Cleverness' or trickery has absolutely no place in service quality — in fact, it is contrary to the ethical standards an insurance agent must follow. The correct answer is Cleverness."
+    },
+    {
+      "id": "ch08_q04",
+      "text": "Which of the following is NOT a part of Active Listening?",
+      "options": [
+        "Paying attention to the speaker",
+        "Being extremely judgmental",
+        "Empathetic listening",
+        "Responding appropriately"
+      ],
+      "correct_index": 1,
+      "explanation": "Active Listening involves: paying full attention to the speaker, resonating/empathising with what is being said, and responding appropriately with feedback. Being extremely judgmental — forming opinions before fully hearing someone — is the opposite of active listening and has no place in it. This is a common exam trap."
+    },
+    {
+      "id": "ch08_q05",
+      "text": "Dash is NOT a Tangible Good.",
+      "options": [
+        "Car",
+        "Mobile Phone",
+        "Insurance",
+        "Furniture"
+      ],
+      "correct_index": 2,
+      "explanation": "Tangible goods are physical items that can be seen and touched — like a car, mobile phone, or furniture. Insurance is an intangible product because it is a contract/promise, not a physical object. You cannot hold, see, or touch insurance. This is a key concept in understanding why agent skills are so important in selling insurance."
+    },
+    {
+      "id": "ch08_q06",
+      "text": "Which is the ONLY insurance that is mandatory (compulsory by law) in India?",
+      "options": [
+        "Life Insurance",
+        "Health Insurance",
+        "Home Insurance",
+        "Motor Insurance"
+      ],
+      "correct_index": 3,
+      "explanation": "Motor Insurance (specifically Third-Party Motor Insurance) is the only insurance mandated by law in India. Under the Motor Vehicles Act, every vehicle on public roads must have at least Third-Party insurance coverage. No other insurance — life, health, or home — is legally compulsory in India."
+    },
+    {
+      "id": "ch08_q07",
+      "text": "Which of the following correctly describes 'Ethical Behaviour' for an insurance agent?",
+      "options": [
+        "Ethical behaviour is impossible while selling insurance",
+        "Ethical behaviour is not necessary for insurance agents",
+        "Ethical behaviour helps in developing trust between agent and insured",
+        "Ethical behaviour means always prioritising the agent's own income"
+      ],
+      "correct_index": 2,
+      "explanation": "Ethical behaviour is the foundation of the agent-customer relationship. It means putting the customer's interest before the agent's own benefit and maintaining moral conduct at all times. Ethical behaviour builds trust between the agent and the insured, which leads to long-term relationships and quality service."
+    },
+    {
+      "id": "ch08_q08",
+      "text": "Active Listening involves ________.",
+      "options": [
+        "Paying attention to the speaker",
+        "Giving occasional nods and smiles",
+        "Providing feedback to the speaker",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Active Listening is a combination of three key behaviours: paying full attention to the speaker, giving occasional nods and smiles (resonating), and providing appropriate feedback. All three together constitute active listening. Any one of them alone is insufficient — the answer is All of the Above."
+    },
+    {
+      "id": "ch08_q09",
+      "text": "Expand the term SERVQUAL.",
+      "options": [
+        "Super Queen Service Quality",
+        "Supreme Court Quality",
+        "Service Quality",
+        "Seven Questions"
+      ],
+      "correct_index": 2,
+      "explanation": "SERVQUAL is a well-known model used in service management and stands for Service Quality. It is the framework used to measure and evaluate the quality of service provided to customers, and it is specifically applied to insurance agents who are expected to demonstrate the five service quality indicators: Reliability, Assurance, Responsiveness, Empathy, and Ethics."
+    },
+    {
+      "id": "ch08_q10",
+      "text": "The role of an Insurance Agent in providing Customer Service ________.",
+      "options": [
+        "Ends at the sale of the policy",
+        "Ends at the settlement of the claim",
+        "Starts when visiting the insured's premises",
+        "Begins at the stage of sale and continues through the duration of the contract"
+      ],
+      "correct_index": 3,
+      "explanation": "An insurance agent's customer service responsibility does not end once the policy is sold or even when the claim is settled. The agent's role begins at the point of sale and continues throughout the entire duration of the insurance contract. The agent must be available to answer questions, help with endorsements, assist with claims, and renew policies."
+    },
+    {
+      "id": "ch08_q11",
+      "text": "The ability to interact effectively with other workers and customers both at work and outside is called ________.",
+      "options": [
+        "Hard Skills",
+        "Soft Skills",
+        "Negotiating Skills",
+        "Questioning Skills"
+      ],
+      "correct_index": 1,
+      "explanation": "Soft Skills refer to interpersonal abilities — the capacity to communicate effectively, empathise, collaborate, and build relationships with people at and outside the workplace. Hard Skills are technical abilities related to a specific job. For an insurance agent, soft skills like empathy, communication, and active listening are essential for providing great customer service."
+    },
+    {
+      "id": "ch08_q12",
+      "text": "Which of the following elements PROMOTE TRUST in customer relationships?",
+      "options": [
+        "Communication, Assertiveness and Being Present",
+        "Politeness, Attraction, Communication",
+        "Attraction, Communication and Being Present",
+        "Affirmation, Assertiveness and Attraction"
+      ],
+      "correct_index": 2,
+      "explanation": "Three elements that promote trust are: Attraction (the agent's personality draws the customer's confidence), Communication (clear and honest communication), and Being Present (availability when the customer needs you). Together, these three create a foundation of trust between agent and customer."
+    },
+    {
+      "id": "ch08_q13",
+      "text": "In a customer's mind, a service failure by the insurance company creates which two feelings?",
+      "options": [
+        "Confusion and Myth",
+        "Dishonesty and Revenge",
+        "Ignorance and Sympathy",
+        "Sense of Unfairness and Hurt of Ego"
+      ],
+      "correct_index": 3,
+      "explanation": "When an insurance company fails in its service delivery — for example, by delaying claims or providing poor support — it creates two specific negative emotions in the customer: (1) Sense of Unfairness — feeling that they have been treated unjustly, and (2) Hurt of Ego — feeling disrespected and that their dignity has been ignored."
+    },
+    {
+      "id": "ch08_q14",
+      "text": "A good First Impression in customer relationships is created by ________.",
+      "options": [
+        "Being confident only",
+        "Being on time only",
+        "Showing interest only",
+        "Being confident, on time, and showing interest — all of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Creating a great first impression requires a combination of behaviours: being confident (shows competence), being on time (shows respect), and showing interest in the customer (shows that you care about their needs). All three together form a strong and positive first impression. The answer is All of the Above."
+    },
+    {
+      "id": "ch08_q15",
+      "text": "Who can file a complaint under the Consumer Protection Act 1986?",
+      "options": [
+        "Legal heir of the deceased consumer",
+        "Any registered consumer association",
+        "Any consumer",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Under the Consumer Protection Act 1986, complaints can be filed by: (1) Any Consumer who has faced a problem directly, (2) The Legal Heir of a Consumer who has passed away, and (3) Any Registered Consumer Association acting on behalf of consumers. All three have the legal standing to approach consumer courts or dispute redressal agencies."
+    }
+  ]
+}
