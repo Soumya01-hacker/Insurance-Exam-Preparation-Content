@@ -117,12 +117,12 @@
       "text": "A Warranty in an insurance policy means ________.",
       "options": [
         "A condition expressly stated in the policy",
-        "A condition that must be communicated verbally to the client",
+        "A condition that has to be literally complied with",
         "Both A and B",
         "None of the above"
       ],
       "correct_index": 2,
-      "explanation": "A Warranty is a condition that is: (1) expressly stated in writing in the insurance policy, and (2) also needs to be communicated verbally by the agent to the client. Both elements together define what a warranty is in the context of insurance documentation. Hence, the correct answer includes both A and B."
+      "explanation": "A Warranty is a condition that is: (1) expressly stated in writing in the insurance policy, and (2) must be literally complied with. Both elements together define what a warranty is in the legal context of an insurance contract. Hence, the correct answer includes both A and B."
     },
     {
       "id": "ch07_q11",
