@@ -448,7 +448,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
@@ -1405,7 +1406,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",
@@ -2226,7 +2228,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/grievance_redressal_mechanism.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/grievance_redressal_mechanism.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/grievance_redressal_mechanism.json"
             },
             {
               "id": "regulatory_aspects_for_insurance_agents",

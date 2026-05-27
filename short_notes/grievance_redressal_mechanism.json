@@ -1,0 +1,157 @@
+{
+  "chapterId": "grievance_redressal_mechanism",
+  "title": "Chapter 9 (Common Section): Grievance Redressal Mechanism",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🏛️ Overview — Why Grievance Redressal Exists",
+      "cards": [
+        {
+          "title": "Insurance as an Intangible Product",
+          "content": "Insurance is an intangible product — unlike physical goods, you cannot see or touch it. If a physical product is defective, you return it. Similarly, if an insurance company fails to honour its promise (e.g., rejects or delays a claim), the policyholder needs a formal mechanism to complain and seek justice. This is why Grievance Redressal Mechanisms exist.",
+          "color": "blue"
+        },
+        {
+          "title": "IRDAI Protection Regulation — PPHI 2002",
+          "content": "To protect the interests of policyholders, IRDAI issued the Protection of Policyholders' Interests (PPHI) Regulations 2002. Under these regulations, IGMS was established to handle insurance-related complaints. All grievance systems in insurance ultimately trace back to this IRDAI regulation.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💻 IGMS — Integrated Grievance Management System",
+      "cards": [
+        {
+          "title": "What is IGMS?",
+          "content": "IGMS stands for Integrated Grievance Management System. It is an online system set up by IRDAI where a policyholder can register and lodge complaints about their insurance policy. Once a complaint is registered on IGMS, it is automatically forwarded to the respective insurance company for resolution. IGMS is the FIRST system a policyholder should approach for insurance complaints.",
+          "color": "blue"
+        },
+        {
+          "title": "How to Approach IRDAI for a Policy Complaint?",
+          "content": "If a consumer has a complaint about their insurance policy and wants to reach IRDAI, they should do so through IGMS (Integrated Grievance Management System). Exam Tip: The answer to 'How to approach IRDAI for an insurance complaint?' is always IGMS.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Consumer Dispute Redressal Agencies — Three Levels",
+      "cards": [
+        {
+          "title": "Important: Consumer Protection Act 2019 (New Values)",
+          "content": "The original Consumer Protection Act 1986 has been updated by the Consumer Protection Act 2019. The monetary limits for each forum have been revised. Exams may still reference old values — but always use the NEW values from CPA 2019. This is a critical exam trap.",
+          "color": "blue"
+        },
+        {
+          "title": "Level 1 — District Forum (District Consumer Disputes Redressal Commission)",
+          "content": "Jurisdiction: Compensation claims up to ₹1 Crore. Old limit (CPA 1986): Up to ₹20 Lakh. New limit (CPA 2019): Up to ₹1 Crore. Works at the District level. This is the first formal consumer court a person can approach for any consumer grievance including insurance.",
+          "color": "blue"
+        },
+        {
+          "title": "Level 2 — State Commission (State Consumer Disputes Redressal Commission)",
+          "content": "Jurisdiction: Compensation claims between ₹1 Crore and ₹10 Crore. Old limit (CPA 1986): ₹20 Lakh to ₹1 Crore. New limit (CPA 2019): ₹1 Crore to ₹10 Crore. Works at the State level. If dissatisfied with the District Forum, the complainant can also appeal to the State Commission.",
+          "color": "blue"
+        },
+        {
+          "title": "Level 3 — National Commission (National Consumer Disputes Redressal Commission)",
+          "content": "Jurisdiction: Compensation claims ABOVE ₹10 Crore. This is the highest level of consumer dispute resolution. It handles the largest and most complex consumer cases in the country. If the State Commission's order is not acceptable, the matter can be escalated to the National Commission.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Consumer Forum — Filing a Complaint",
+      "cards": [
+        {
+          "title": "How to File a Complaint in Consumer Forum",
+          "content": "Filing a complaint in consumer forums is simple and accessible: (1) No Fee Required — there is no charge to file a complaint. (2) Complainant or Authorised Agent — the person can appear themselves or send an authorised representative. (3) No Advocate Required — a lawyer is not mandatory; the complaint can be filed by the person themselves. (4) Mode of Filing — the complaint can be submitted in writing, by post, by email, or through the official website.",
+          "color": "blue"
+        },
+        {
+          "title": "Five Common Types of Insurance Complaints",
+          "content": "The five most common types of insurance-related complaints are: (1) Delay in Settlement of Claims — insurer is slow to process claims. (2) Non-Settlement of Claims — insurer simply refuses to settle. (3) Repudiation of Claims — insurer formally rejects the claim. (4) Quantum of Loss — insurer pays less than the actual loss suffered. (5) Policy Terms and Conditions — disputes over the interpretation of policy wording.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧑⚖️ Insurance Ombudsman — Key Facts",
+      "cards": [
+        {
+          "title": "What is the Insurance Ombudsman?",
+          "content": "The Insurance Ombudsman (also called Insurance Lokpal) is a quasi-judicial authority set up specifically to resolve insurance-related disputes quickly and fairly. The Ombudsman acts as a neutral arbitrator between policyholders and insurance companies. The role was established under the Redressal of Public Grievances Rules 1998, which was made under the Insurance Act 1938.",
+          "color": "blue"
+        },
+        {
+          "title": "When was the Insurance Ombudsman Established?",
+          "content": "The Insurance Ombudsman was established on 11 November 1998 under the Redressal of Public Grievances Rules 1998 (framed under the Insurance Act 1938). There are currently 17 Insurance Ombudsmen across India.",
+          "color": "blue"
+        },
+        {
+          "title": "Monetary Limit for Ombudsman Complaints",
+          "content": "The Insurance Ombudsman can hear complaints where the compensation claim is up to ₹30 Lakh. If the claim value exceeds ₹30 Lakh, the policyholder must go to the consumer court instead. This limit is a direct exam question.",
+          "color": "blue"
+        },
+        {
+          "title": "Time Limit to Approach Ombudsman",
+          "content": "A policyholder must file their complaint with the Insurance Ombudsman within 1 year from the date of rejection of the claim by the insurer. If more than 1 year has passed since the rejection, the complaint will not be entertained by the Ombudsman.",
+          "color": "blue"
+        },
+        {
+          "title": "Other Key Conditions for Ombudsman Complaint",
+          "content": "(1) The complaint must not be pending in any other court or consumer forum. (2) The complaint can be filed in WRITING only — not orally over phone, not face-to-face, and not through newspaper advertisement. (3) Complaints can be made against BOTH private and government (public sector) insurers. (4) No fees or charges are required to file a complaint with the Ombudsman.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🛒 Consumer Rights — Right to Seek Redressal",
+      "cards": [
+        {
+          "title": "Right to Seek Redressal",
+          "content": "When a consumer receives defective goods or deficient services, they have the Right to Seek Redressal. This means the consumer can approach consumer dispute redressal agencies and demand compensation, replacement, or corrective action. This is one of the fundamental consumer rights under the Consumer Protection Act.",
+          "color": "blue"
+        },
+        {
+          "title": "Valid vs Invalid Basis for Consumer Complaint",
+          "content": "Valid bases for a complaint include: charging above MRP, no allergy warning on medicine bottle, or selling a defective product. INVALID basis: A shopkeeper not advising the customer on the best product in the category — this is not a legal obligation of the shopkeeper and cannot form the basis of a consumer complaint.",
+          "color": "blue"
+        },
+        {
+          "title": "Standardisation Marks — Hallmark",
+          "content": "The standardised quality mark for JEWELLERY in India is called HALLMARK. Other marks: ISI mark is for industrial goods (like electrical appliances), FPO mark is for food products. Hallmark = Jewellery. This is a direct and frequently tested exam question.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 9 Quick Memory",
+      "items": [
+        "IGMS = Integrated Grievance Management System. Set up by IRDAI. First point of contact for insurance complaints.",
+        "IRDAI Regulation for policyholder protection = PPHI Regulations 2002 (Protection of Policyholders' Interests).",
+        "Consumer Forum Levels (CPA 2019 — NEW values): District = Up to ₹1 Crore. State = ₹1 Crore to ₹10 Crore. National = Above ₹10 Crore.",
+        "Old values (CPA 1986): District = Up to ₹20 Lakh. State = ₹20 Lakh to ₹1 Crore. National = Above ₹1 Crore.",
+        "Filing complaint in consumer forum: No fee, no advocate needed, in writing/email/post/website, can send authorised agent.",
+        "Insurance Ombudsman established: 11 November 1998 under Redressal of Public Grievances Rules 1998 (Insurance Act 1938).",
+        "Total Ombudsmen in India = 17.",
+        "Ombudsman claim limit = Up to ₹30 Lakh.",
+        "Time limit to approach Ombudsman = 1 year from date of rejection by insurer.",
+        "Complaint to Ombudsman must be IN WRITING. NOT oral, NOT by phone, NOT face-to-face.",
+        "No fees required to approach Ombudsman.",
+        "Complaint can be filed against BOTH private and government insurers.",
+        "Complaint must NOT be pending in any other court or consumer forum.",
+        "Five types of insurance complaints: Delay in settlement, Non-settlement, Repudiation, Quantum of loss, Policy terms dispute.",
+        "Right to Seek Redressal = consumer right when receiving defective goods or deficient services.",
+        "Hallmark = Standardisation mark for JEWELLERY. ISI = industrial goods. FPO = food products.",
+        "Consumer = buys for personal use. NOT consumer = buys for resale (that's a customer/trader).",
+        "Most appropriate option to complain about insurance = Insurance Ombudsman (not police, not district court)."
+      ]
+    }
+  ]
+}

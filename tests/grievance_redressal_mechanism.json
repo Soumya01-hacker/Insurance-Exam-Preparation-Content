@@ -1,0 +1,188 @@
+{
+  "chapter_id": "grievance_redressal_mechanism",
+  "chapter_title": "Chapter 9 (Common Section): Grievance Redressal Mechanism",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch09_q01",
+      "text": "Rights of a Consumer are protected under ________.",
+      "options": [
+        "Insurance Act 1938",
+        "Consumer Protection Act 1986",
+        "PMLA 2002",
+        "IRDAI Regulations 2002"
+      ],
+      "correct_index": 1,
+      "explanation": "The rights of consumers in India are protected under the Consumer Protection Act 1986. This Act establishes consumer courts at the District, State, and National levels and gives consumers the legal right to seek redressal against defective goods, deficient services, and unfair trade practices — including complaints against insurance companies."
+    },
+    {
+      "id": "ch09_q02",
+      "text": "Under the Consumer Protection Act 1986, who CANNOT be classified as a Consumer?",
+      "options": [
+        "A person who hires goods and services for personal use",
+        "A person who buys goods for resale purposes",
+        "A person who buys goods for consideration and uses them personally",
+        "A person who uses services of another for a consideration"
+      ],
+      "correct_index": 1,
+      "explanation": "A Consumer is defined as a person who buys goods or services for personal use and consumption. A person who buys goods for the purpose of reselling them is a trader or customer, NOT a consumer. Since their purchase is for commercial gain and not personal use, they are excluded from the protections of the Consumer Protection Act."
+    },
+    {
+      "id": "ch09_q03",
+      "text": "Who can file a complaint under the Consumer Protection Act 1986?",
+      "options": [
+        "Legal Heir of the deceased consumer",
+        "Any Registered Consumer Association",
+        "Any Consumer",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Under the Consumer Protection Act 1986, the right to file a complaint is available to: (1) Any aggrieved Consumer, (2) The Legal Heir of a Consumer who has passed away, and (3) Any Registered Consumer Association acting on behalf of consumers. All three have legal standing to approach consumer dispute redressal agencies."
+    },
+    {
+      "id": "ch09_q04",
+      "text": "A consumer has the right to get relief in the case of defective goods and deficient services. This falls under which consumer right?",
+      "options": [
+        "Right to be Informed",
+        "Right to Choose",
+        "Right to be Heard",
+        "Right to Seek Redressal"
+      ],
+      "correct_index": 3,
+      "explanation": "The Right to Seek Redressal is the consumer's right to demand compensation, replacement, or corrective action when they have received defective goods or deficient services. This includes insurance-related grievances. It is one of the fundamental rights granted to every consumer under the Consumer Protection Act."
+    },
+    {
+      "id": "ch09_q05",
+      "text": "The standardised quality mark on JEWELLERY is called ________.",
+      "options": [
+        "ISI",
+        "FPO",
+        "Hallmark",
+        "CERC"
+      ],
+      "correct_index": 2,
+      "explanation": "The standardisation mark specifically used for jewellery in India is called Hallmark. It certifies the purity and quality of gold and silver jewellery. ISI mark is used for industrial and electrical goods, while FPO mark is for food products. Hallmark is a Bureau of Indian Standards (BIS) certification."
+    },
+    {
+      "id": "ch09_q06",
+      "text": "A consumer having a complaint regarding their insurance policy can approach IRDAI through ________.",
+      "options": [
+        "IGMS (Integrated Grievance Management System)",
+        "District Consumer Forum",
+        "Insurance Ombudsman",
+        "All of the above"
+      ],
+      "correct_index": 0,
+      "explanation": "To approach IRDAI directly regarding an insurance policy complaint, the policyholder must use IGMS — Integrated Grievance Management System. IGMS is IRDAI's official online platform where complaints are registered and forwarded to the respective insurance company. District Forum and Ombudsman are separate channels and are not pathways to IRDAI specifically."
+    },
+    {
+      "id": "ch09_q07",
+      "text": "Which forum has jurisdiction to entertain matters where the compensation claim is up to ₹30 Lakh?",
+      "options": [
+        "High Court",
+        "District Forum",
+        "State Commission",
+        "National Commission"
+      ],
+      "correct_index": 1,
+      "explanation": "As per the Consumer Protection Act 2019, the District Consumer Disputes Redressal Commission (District Forum) has jurisdiction over cases where the compensation value is up to ₹1 Crore. A claim of ₹30 Lakh falls well within this limit. The District Forum is the first and most accessible level for consumer complaints."
+    },
+    {
+      "id": "ch09_q08",
+      "text": "Expand the term IGMS.",
+      "options": [
+        "Insurance General Management System",
+        "Integrated General Management Services",
+        "Integrated Grievance Management System",
+        "Insurance Grievance Monitoring System"
+      ],
+      "correct_index": 2,
+      "explanation": "IGMS stands for Integrated Grievance Management System. It is an online portal set up by IRDAI where policyholders can register complaints about their insurance policies. Complaints lodged on IGMS are directed to the respective insurance company for resolution. It is the primary channel for approaching IRDAI for insurance-related grievances."
+    },
+    {
+      "id": "ch09_q09",
+      "text": "Which of the following CANNOT form the basis of a valid consumer complaint?",
+      "options": [
+        "Shopkeeper charging a price above the MRP of the product",
+        "Shopkeeper not advising the customer on the best product in the category",
+        "Allergy warning not provided on the drug bottle",
+        "A product being defective or substandard"
+      ],
+      "correct_index": 1,
+      "explanation": "A shopkeeper has no legal obligation to advise a customer on which product is the best in a category. Not giving such advice cannot form the basis of a valid consumer complaint. However, charging above MRP, not providing allergy warnings on medicine, or selling defective products are all valid grounds for a consumer complaint as they violate consumer rights."
+    },
+    {
+      "id": "ch09_q10",
+      "text": "What is the most appropriate option for a policyholder to lodge an insurance policy-related complaint?",
+      "options": [
+        "Police",
+        "Supreme Court",
+        "Insurance Ombudsman",
+        "District Civil Court"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Ombudsman is the most appropriate and specialised authority for resolving insurance-related disputes quickly, informally, and at no cost to the complainant. It is specifically established for insurance grievances and provides faster resolution than courts. Police and civil courts are not the right channels for insurance policy complaints."
+    },
+    {
+      "id": "ch09_q11",
+      "text": "How must a complaint be filed with the Insurance Ombudsman?",
+      "options": [
+        "In writing (written application)",
+        "Orally over the phone",
+        "Orally in a face-to-face meeting",
+        "Through a newspaper advertisement"
+      ],
+      "correct_index": 0,
+      "explanation": "A complaint with the Insurance Ombudsman must be made IN WRITING. The complainant can submit a written application on plain paper. Oral complaints over phone, face-to-face verbal complaints, and newspaper advertisements are not valid modes of filing. The written mode ensures there is a formal and documented record of the grievance."
+    },
+    {
+      "id": "ch09_q12",
+      "text": "What is the time limit for approaching the Insurance Ombudsman after rejection of a claim?",
+      "options": [
+        "6 months from rejection",
+        "2 years from rejection",
+        "1 year from rejection by the insurer",
+        "No time limit"
+      ],
+      "correct_index": 2,
+      "explanation": "A policyholder must file their complaint with the Insurance Ombudsman within 1 year from the date on which the insurance company rejected the claim. If this 1-year window passes without a complaint being filed, the Ombudsman will not entertain the case. Timely action is therefore very important for policyholders."
+    },
+    {
+      "id": "ch09_q13",
+      "text": "Are there any fees or charges required to file a complaint with the Insurance Ombudsman?",
+      "options": [
+        "Yes, a nominal fee is required",
+        "No, there are no fees or charges",
+        "Yes, fees depend on the claim amount",
+        "Yes, an advocate's fee must be paid"
+      ],
+      "correct_index": 1,
+      "explanation": "Filing a complaint with the Insurance Ombudsman is completely FREE. No fees, charges, or legal costs are required. This makes the Ombudsman an accessible and affordable mechanism for all policyholders, including those from lower-income groups, to seek justice against insurance companies."
+    },
+    {
+      "id": "ch09_q14",
+      "text": "Can a complaint be made against a PRIVATE insurance company with the Insurance Ombudsman?",
+      "options": [
+        "No, only government insurers can be complained against",
+        "Yes, complaints can be filed against private insurers too",
+        "Only if the private insurer agrees",
+        "Only through IRDAI"
+      ],
+      "correct_index": 1,
+      "explanation": "The Insurance Ombudsman has jurisdiction over ALL insurance companies — both private sector and public sector (government) insurers. Whether it is LIC, SBI Life, HDFC Life, ICICI Prudential, or any other insurer, a policyholder can file a complaint with the Ombudsman against any of them if the complaint falls within the prescribed limits and conditions."
+    },
+    {
+      "id": "ch09_q15",
+      "text": "As per the Consumer Protection Act 2019, what is the monetary jurisdiction of the District Consumer Forum?",
+      "options": [
+        "Up to ₹10 Lakh",
+        "Up to ₹20 Lakh",
+        "Up to ₹50 Lakh",
+        "Up to ₹1 Crore"
+      ],
+      "correct_index": 3,
+      "explanation": "Under the Consumer Protection Act 2019, the District Consumer Disputes Redressal Commission (District Forum) can hear cases where the value of goods, services, and compensation does not exceed ₹1 Crore. The previous limit under CPA 1986 was ₹20 Lakh. This revision was made to reduce the burden on State and National Commissions and make redressal more accessible at the district level."
+    }
+  ]
+}
