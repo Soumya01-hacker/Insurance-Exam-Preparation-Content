@@ -1,5 +1,5 @@
 {
-  "chapter_id": "features_of_insurance_contract",
+  "chapter_id": "features_of_insurance_contracts",
   "chapter_title": "Chapter 4 (Common Section): Features of Insurance Contract",
   "pass_marks": 9,
   "total_questions": 15,
@@ -14,7 +14,7 @@
         "The Life Insurance Corporation Act, 1956"
       ],
       "correct_index": 2,
-      "explanation": "Insurance contracts in India are legal contracts made according to the Indian Contract Act, 1872. This Act governs the validity, enforceability, and conditions of all contracts, including insurance contracts. They are NOT verbal contracts — they are written, legally enforceable agreements."
+      "explanation": "Insurance contracts in India are legal contracts made according to the Indian Contract Act, 1872. This Act governs the validity, enforceability, and conditions of all contracts, including insurance contracts. They are NOT verbal contracts \u2014 they are written, legally enforceable agreements."
     },
     {
       "id": "ch04_q02",
@@ -50,7 +50,7 @@
         "Ramesh provides false information to get Mahesh to sign"
       ],
       "correct_index": 1,
-      "explanation": "Coercion means applying pressure through CRIMINAL MEANS to force someone to sign a contract. Option B — 'threatening to kill someone' — is a criminal act and a perfect example of coercion. Option C is Undue Influence (using professional position). Option D is Misrepresentation (false information)."
+      "explanation": "Coercion means applying pressure through CRIMINAL MEANS to force someone to sign a contract. Option B \u2014 'threatening to kill someone' \u2014 is a criminal act and a perfect example of coercion. Option C is Undue Influence (using professional position). Option D is Misrepresentation (false information)."
     },
     {
       "id": "ch04_q05",
@@ -74,7 +74,7 @@
         "Government Employee"
       ],
       "correct_index": 1,
-      "explanation": "A MINOR (person below 18 years of age) cannot personally enter into a life insurance contract as they lack legal capacity. However, a minor CAN be insured — the contract is made with their parent or legal guardian as the proposer. Business owners, housewives, and government employees can all enter insurance contracts."
+      "explanation": "A MINOR (person below 18 years of age) cannot personally enter into a life insurance contract as they lack legal capacity. However, a minor CAN be insured \u2014 the contract is made with their parent or legal guardian as the proposer. Business owners, housewives, and government employees can all enter insurance contracts."
     },
     {
       "id": "ch04_q07",
@@ -98,7 +98,7 @@
         "Only when the premium is not paid"
       ],
       "correct_index": 2,
-      "explanation": "An insurance contract can be declared void when ANY form of misrepresentation is found — whether INNOCENT (no intention to deceive) or FRAUDULENT (deliberate deception). Both types of misrepresentation are grounds for voiding the contract."
+      "explanation": "An insurance contract can be declared void when ANY form of misrepresentation is found \u2014 whether INNOCENT (no intention to deceive) or FRAUDULENT (deliberate deception). Both types of misrepresentation are grounds for voiding the contract."
     },
     {
       "id": "ch04_q09",
@@ -170,7 +170,7 @@
         "No refund is given"
       ],
       "correct_index": 2,
-      "explanation": "When a policy is returned during the Free Look Period, the insurance company refunds the premium AFTER deducting: (1) Proportionate risk premium for the period covered, (2) Medical examination expenses, and (3) Stamp duty charges. The full 100% premium is NOT refunded — only the balance after these deductions."
+      "explanation": "When a policy is returned during the Free Look Period, the insurance company refunds the premium AFTER deducting: (1) Proportionate risk premium for the period covered, (2) Medical examination expenses, and (3) Stamp duty charges. The full 100% premium is NOT refunded \u2014 only the balance after these deductions."
     },
     {
       "id": "ch04_q15",
@@ -182,7 +182,7 @@
         "Period during which no premium is charged"
       ],
       "correct_index": 1,
-      "explanation": "The Free Look Period (also called Cool Off Period) is the time — 15 days from receipt of the policy document — during which the policyholder can cancel the policy and receive a refund if not satisfied. It is NOT a grace period for premium payment. Option A describes the Grace Period, which is a different concept."
+      "explanation": "The Free Look Period (also called Cool Off Period) is the time \u2014 15 days from receipt of the policy document \u2014 during which the policyholder can cancel the policy and receive a refund if not satisfied. It is NOT a grace period for premium payment. Option A describes the Grace Period, which is a different concept."
     }
   ]
 }

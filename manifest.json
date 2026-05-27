@@ -315,7 +315,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/features_of_insurance_contracts.json"
             },
             {
               "id": "underwriting_and_rating",
@@ -1271,7 +1272,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/features_of_insurance_contracts.json"
             },
             {
               "id": "underwriting_and_rating",
@@ -2091,7 +2093,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/features_of_insurance_contracts.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/features_of_insurance_contracts.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/features_of_insurance_contracts.json"
             },
             {
               "id": "underwriting_and_rating",
