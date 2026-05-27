@@ -1,0 +1,177 @@
+{
+  "chapterId": "health_ch2_documentation",
+  "title": "Chapter 2: Health Insurance Documentation (Health Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📋 Proposal Form — Key Details",
+      "cards": [
+        {
+          "title": "What is Included in a Health Insurance Proposal Form?",
+          "content": "The Proposal Form is the PRIMARY document used to apply for a health insurance policy. It contains: (1) Name, Address, Contact Number, and Bank Details of the proposer. (2) Profession of the proposer. (3) Sum Assured choice. (4) Details of current and previous insurance policies. The premium charged depends on the Age of the proposer and the Sum Assured chosen.",
+          "color": "blue"
+        },
+        {
+          "title": "Processing Time for an Insurance Proposal",
+          "content": "As per IRDAI guidelines, an insurance company must process an insurance proposal within 30 DAYS. This is a fixed regulatory requirement — not 15 days, not 45 days. The answer is 30 days.",
+          "color": "blue"
+        },
+        {
+          "title": "Premium Payment by Cheque — When Does Risk Begin?",
+          "content": "When premium is paid by cheque, the RISK is assumed from the date on which the CHEQUE IS RECEIVED BY THE INSURANCE COMPANY. Not from the date the cheque is posted, not from the date it is deposited in the bank, and not from the date it is issued by the proposer. Receipt by the insurer is the key event.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📜 Warranty in a Health Insurance Policy",
+      "cards": [
+        {
+          "title": "What is a Warranty?",
+          "content": "A Warranty is a condition that is EXPRESSLY STATED in the policy document AND is also communicated to the insured SEPARATELY (verbally, outside the policy document). It is the duty of the agent to separately inform the insured about the warranty condition. So both written mention in the policy AND separate communication to the insured are required.",
+          "color": "blue"
+        },
+        {
+          "title": "Exam Trap — Warranty Definition",
+          "content": "Common wrong answer: 'A warranty is a condition employed without being stated in the policy.' This is INCORRECT. A warranty IS expressly stated in the policy — and additionally communicated separately. Do not confuse warranty with implied conditions.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "✏️ Endorsement and Grace Period",
+      "cards": [
+        {
+          "title": "What is Endorsement?",
+          "content": "An Endorsement is the process of making AMENDMENTS (changes) to an existing insurance policy. If any terms or conditions of the policy need to be modified, this is done through Endorsement. Endorsements are permitted in health insurance policies — just as in life insurance policies.",
+          "color": "blue"
+        },
+        {
+          "title": "Grace Period in Health Insurance",
+          "content": "The Grace Period in Health Insurance is 30 DAYS — same as in Life Insurance. Grace period is the additional time given after the premium due date during which the policyholder can still pay the premium to keep the policy active. If premium is paid within the grace period, the policy remains in force.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Coverage — What is Included and Excluded",
+      "cards": [
+        {
+          "title": "Items Covered Under Health Insurance",
+          "content": "A standard health insurance policy covers: Operation Theater Charges, Bed Charges, Doctor/Physician/Anesthetist Fees, Medicines, Diagnostic Tests, and Test Reports. All of these are valid medical hospitalization expenses and are included in coverage.",
+          "color": "blue"
+        },
+        {
+          "title": "Item NOT Covered — Blood Donation Charges",
+          "content": "Blood DONATION Charges are NOT covered under a typical health insurance policy. Note carefully: 'Blood donation' means donating blood, not receiving blood transfusion. The charges incurred for donating blood are excluded. Operation theater, bed, and test report charges ARE covered.",
+          "color": "blue"
+        },
+        {
+          "title": "Exclusions in Health Insurance — Definition",
+          "content": "Exclusion in a health insurance policy means DISEASES SPECIFICALLY NOT COVERED under the policy. Common exclusions include: AIDS, STDs (Sexually Transmitted Diseases), Plastic Surgery, Dental Treatment (unless due to accident), Aesthetic/Cosmetic Treatment. A policy does NOT cover all diseases without exception.",
+          "color": "blue"
+        },
+        {
+          "title": "Typical Exclusions from Health Insurance",
+          "content": "Typical health insurance policies EXCLUDE expenses related to: (1) Plastic Surgery, (2) Dental Treatment (routine), (3) Aesthetic/Cosmetic Treatment. All three are excluded — the answer in IC-38 exam is 'All of the Above' when these three are presented as options.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏨 Day Care Centre and Day Care Procedures",
+      "cards": [
+        {
+          "title": "What is a Day Care Centre?",
+          "content": "A Day Care Centre is a medical facility where PROCEDURES REQUIRING LESS THAN 24 HOURS of hospitalization are performed. The patient is admitted and discharged within a day. It is NOT just about daytime admission — it specifically refers to procedures completable within 24 hours.",
+          "color": "blue"
+        },
+        {
+          "title": "Day Care Procedures — Examples",
+          "content": "Procedures that ARE Day Care procedures: Cataract surgery, Dental treatment, Optical services/treatment. These can be completed within 24 hours. NOT a Day Care procedure: BYPASS SURGERY — because bypass surgery requires prolonged admission (several days) in the hospital and cannot be done as a day care procedure.",
+          "color": "blue"
+        },
+        {
+          "title": "Exam Trap — Bypass Surgery",
+          "content": "When asked 'Which of the following is NOT a day care procedure?' — the answer is BYPASS SURGERY. Cataract, dental, and optical services all qualify as day care. Bypass surgery requires multi-day hospitalization.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔄 Portability in Health Insurance",
+      "cards": [
+        {
+          "title": "What is Portability?",
+          "content": "Portability in Health Insurance gives an individual the RIGHT to: (1) Move from one policy to another policy WITHIN THE SAME insurance company, OR (2) Transfer the policy from ONE insurance company to ANOTHER insurance company. BOTH options are correct under portability. The insured's waiting period and other benefits are carried forward during portability.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🩺 Pre-Existing Illness — Definition and Coverage",
+      "cards": [
+        {
+          "title": "What is Pre-Existing Illness?",
+          "content": "Pre-Existing Illness refers to any illness or injury for which the insured had ALREADY received treatment BEFORE taking the health insurance policy. This is called Pre-Existing Illness (also referred to as Pre-Existing Disease or PED).",
+          "color": "blue"
+        },
+        {
+          "title": "How is Pre-Existing Illness Covered?",
+          "content": "Pre-Existing Illness in health insurance is covered AFTER A WAITING PERIOD. The insurer imposes a waiting period (typically 2-4 years depending on the insurer) before pre-existing conditions become eligible for claims. They are NOT covered from day one.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💊 Health Plus Life Combo Products",
+      "cards": [
+        {
+          "title": "What is a Health Plus Life Combo Product?",
+          "content": "A Health Plus Life Combo Product is a combination of: (1) Health Insurance from a Non-Life (General) Insurance Company + Life Cover from a Life Insurance Company, OR (2) Health Insurance from a Stand-Alone Health Insurance Company + Life Cover from a Life Insurance Company. BOTH combinations are valid and correct under IC-38.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💳 Cashless Facility — Exact Meaning",
+      "cards": [
+        {
+          "title": "What Does 'Cashless Facility' Mean?",
+          "content": "Cashless Facility means: The HOSPITAL directly gets its bills settled by the INSURER. The insured does NOT need to pay the bills first and then claim reimbursement. The hospital submits the bills directly to the insurer or TPA for settlement. The insured only presents their Smart ID Card at the network hospital.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 2: Health Insurance Documentation",
+      "items": [
+        "Proposal processing time as per IRDAI guidelines = 30 DAYS.",
+        "Risk on cheque payment = assumed from the date cheque is RECEIVED by the insurance company.",
+        "Warranty = Expressly stated in the policy AND communicated separately to the insured.",
+        "Endorsement = process for making changes/amendments to a policy.",
+        "Grace Period in Health Insurance = 30 DAYS (same as Life Insurance).",
+        "Blood DONATION charges are NOT covered under health insurance.",
+        "Exclusions = diseases specifically NOT covered. Examples: AIDS, STDs, Plastic Surgery, Dental, Cosmetic.",
+        "Day Care Centre = procedures requiring LESS THAN 24 hours hospitalization.",
+        "Bypass Surgery is NOT a Day Care procedure — requires multi-day stay.",
+        "Cataract, Dental, Optical = Day Care procedures.",
+        "Portability = right to switch policy within same company OR transfer to another insurer.",
+        "Pre-Existing Illness = covered only AFTER a waiting period.",
+        "Health Plus Life Combo = Health from General/Stand-alone insurer + Life from Life insurer.",
+        "Cashless = Hospital settles bills directly with insurer. Insured does NOT pay.",
+        "Exclusions from typical health policy: Plastic Surgery + Dental + Aesthetic = ALL of the above."
+      ]
+    }
+  ]
+}

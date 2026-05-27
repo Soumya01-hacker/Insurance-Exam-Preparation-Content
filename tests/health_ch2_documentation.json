@@ -1,0 +1,188 @@
+{
+  "chapter_id": "health_ch2_documentation",
+  "chapter_title": "Chapter 2: Health Insurance Documentation (Health Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch2_q01",
+      "text": "As per IRDAI guidelines, in how many days should an insurance company process an insurance proposal?",
+      "options": [
+        "15 days",
+        "21 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct_index": 2,
+      "explanation": "As per IRDAI guidelines, an insurance company must process an insurance proposal within 30 days. This is a regulatory requirement. Neither 15 nor 45 days is correct."
+    },
+    {
+      "id": "ch2_q02",
+      "text": "When premium is paid by cheque, from which date is the risk assumed by the insurance company?",
+      "options": [
+        "Date on which cheque is posted",
+        "Date on which cheque is deposited by the insurance company in the bank",
+        "Date on which cheque is received by the insurance company",
+        "Date on which cheque is issued by the proposer"
+      ],
+      "correct_index": 2,
+      "explanation": "When premium is paid by cheque, the risk is assumed from the date the cheque is RECEIVED by the insurance company. Not from the date it was posted, deposited in the bank, or issued by the proposer. Receipt by the insurer is the key triggering event."
+    },
+    {
+      "id": "ch2_q03",
+      "text": "Which of the following correctly describes a 'Warranty' in an insurance policy?",
+      "options": [
+        "A condition employed without being stated in the policy",
+        "A condition implied by the insurer but not written anywhere",
+        "A condition expressly stated in the policy and communicated separately to the insured",
+        "A condition imposed by IRDAI on the insurer only"
+      ],
+      "correct_index": 2,
+      "explanation": "A Warranty is a condition that is expressly stated in the policy document AND is also communicated separately to the insured (typically by the agent). Both elements — written in the policy AND separate communication — are required."
+    },
+    {
+      "id": "ch2_q04",
+      "text": "If certain terms and conditions of a health insurance policy need to be modified after issuance, this is done through:",
+      "options": [
+        "Renewal",
+        "Endorsement",
+        "Rider",
+        "Resubmission"
+      ],
+      "correct_index": 1,
+      "explanation": "Any changes or amendments to an existing insurance policy are made through an ENDORSEMENT. Endorsements are permitted in both life and health insurance policies. Renewal simply continues the policy; it does not modify terms."
+    },
+    {
+      "id": "ch2_q05",
+      "text": "What is the Grace Period allowed for premium payment in a health insurance policy?",
+      "options": [
+        "15 days",
+        "21 days",
+        "30 days",
+        "60 days"
+      ],
+      "correct_index": 2,
+      "explanation": "The Grace Period in health insurance is 30 days — the same as in life insurance. This is the additional time allowed after the premium due date within which the policyholder can pay the premium and keep the policy active."
+    },
+    {
+      "id": "ch2_q06",
+      "text": "Which of the following items is NOT covered under a typical health insurance cover?",
+      "options": [
+        "Operation Theater Charges",
+        "Blood Donation Charges",
+        "Bed Charges",
+        "Test Reports"
+      ],
+      "correct_index": 1,
+      "explanation": "Blood DONATION Charges are NOT covered under a health insurance policy. Operation Theater charges, Bed Charges, and Test Report charges are all covered under standard health insurance hospitalization benefits."
+    },
+    {
+      "id": "ch2_q07",
+      "text": "What does 'Day Care Centre' mean in the context of health insurance?",
+      "options": [
+        "Patients are admitted during daytime only",
+        "There is no provision for round-the-clock treatment",
+        "Centre where procedures requiring less than 24 hours hospitalization are done",
+        "A centre exclusively for elderly patients"
+      ],
+      "correct_index": 2,
+      "explanation": "A Day Care Centre is a medical facility where procedures requiring LESS THAN 24 HOURS of hospitalization are performed. The patient is admitted and discharged within the same day. It is not about daytime-only admission."
+    },
+    {
+      "id": "ch2_q08",
+      "text": "Which of the following is NOT a Day Care procedure?",
+      "options": [
+        "Cataract Treatment",
+        "Dental Treatment",
+        "Bypass Surgery",
+        "Optical Services"
+      ],
+      "correct_index": 2,
+      "explanation": "Bypass Surgery is NOT a Day Care procedure because it requires multi-day hospitalization and a prolonged recovery period. Cataract treatment, dental treatment, and optical services can all be completed within 24 hours and qualify as Day Care procedures."
+    },
+    {
+      "id": "ch2_q09",
+      "text": "What does 'Portability' mean in health insurance?",
+      "options": [
+        "Right to move from one policy to another within the same company only",
+        "Right to transfer the policy from one insurer to another only",
+        "Both — right to switch within the same company OR transfer to another insurer",
+        "Right to cancel the policy and get a full refund"
+      ],
+      "correct_index": 2,
+      "explanation": "Portability in health insurance gives the insured BOTH rights: (1) to move from one policy to another within the SAME company, and (2) to transfer the policy from one insurer to another. Both options are correct, making 'Both are correct' the right answer."
+    },
+    {
+      "id": "ch2_q10",
+      "text": "An illness or injury for which treatment was required BEFORE taking the health insurance policy is called:",
+      "options": [
+        "Post-Operative Illness",
+        "Pre-Existing Illness",
+        "Chronic Illness",
+        "Excluded Illness"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre-Existing Illness (or Pre-Existing Disease — PED) refers to any condition for which the insured had already received treatment before purchasing the health insurance policy. This is a key underwriting concept in health insurance."
+    },
+    {
+      "id": "ch2_q11",
+      "text": "How can a Pre-Existing Illness be covered under a health insurance policy?",
+      "options": [
+        "After the illness is cured",
+        "Before the illness is contracted",
+        "After the illness is diagnosed during the policy period",
+        "After a Waiting Period"
+      ],
+      "correct_index": 3,
+      "explanation": "Pre-Existing Illness is covered in health insurance only AFTER a Waiting Period. The insurer imposes a waiting period (typically 2–4 years) before pre-existing conditions become eligible for claims. They are not covered from day one of the policy."
+    },
+    {
+      "id": "ch2_q12",
+      "text": "Which of the following statements is CORRECT regarding exclusions in health insurance policies?",
+      "options": [
+        "Health insurance policies cover all illnesses without any exclusion",
+        "There could be exclusions such as AIDS and STDs",
+        "Both A and B are correct",
+        "None of the above is correct"
+      ],
+      "correct_index": 1,
+      "explanation": "Health insurance policies do NOT cover all diseases. They have specific exclusions such as AIDS, STDs (Sexually Transmitted Diseases), cosmetic procedures, etc. Statement B is correct. Statement A is false."
+    },
+    {
+      "id": "ch2_q13",
+      "text": "Typical health insurance policies exclude expenses related to which of the following?",
+      "options": [
+        "Plastic Surgery",
+        "Dental Treatment",
+        "Aesthetic/Cosmetic Treatment",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Typical health insurance policies EXCLUDE expenses related to Plastic Surgery, Dental Treatment (routine), and Aesthetic/Cosmetic Treatment. All three are excluded — making 'All of the above' the correct answer."
+    },
+    {
+      "id": "ch2_q14",
+      "text": "Health Plus Life Combo Products would mean a combination of:",
+      "options": [
+        "Health insurance from a Non-Life company + Life cover from a Life insurance company",
+        "Health insurance from a Stand-Alone Health company + Life cover from a Life insurance company",
+        "Both A and B are correct",
+        "None of the above"
+      ],
+      "correct_index": 2,
+      "explanation": "A Health Plus Life Combo Product is a combination of health insurance (from a Non-Life insurer OR a Stand-Alone Health insurer) with a life cover from a Life Insurance company. Both combinations are valid — hence 'Both are correct'."
+    },
+    {
+      "id": "ch2_q15",
+      "text": "What does 'Cashless Facility' mean in health insurance?",
+      "options": [
+        "The insured carries no cash but pays by card",
+        "The insured pays the bills and takes a reimbursement letter",
+        "The hospital directly gets the bills settled by the insurer",
+        "The insured pre-deposits money with the TPA before treatment"
+      ],
+      "correct_index": 2,
+      "explanation": "Cashless Facility means the HOSPITAL directly gets its bills settled by the INSURER (or TPA). The insured does not pay anything at the time of treatment. The insured simply presents their Smart ID Card at the network hospital and the bills are settled directly between the hospital and insurer."
+    }
+  ]
+}
