@@ -1,34 +1,34 @@
 {
   "banners": [
     {
-      "id": "banner_career",
+      "id": "banner_irdai_career",
       "title": "Become an IRDAI Licensed Agent",
       "subtitle": "Pass IC-38 — Start Your Career Today",
-      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_2.png",
+      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_irdai.png",
       "action_target": "/study-material",
       "gradient_start": "0F172A",
       "gradient_end": "1E3A8A",
       "icon": "school"
     },
     {
-      "id": "banner_study",
+      "id": "banner_preparation",
       "title": "IC-38 Complete Preparation",
       "subtitle": "Notes + Mock Tests + Videos — All in One Place",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_3.png",
-      "action_target": "/test-series",
+      "action_target": "/study-material",
       "gradient_start": "1E1B4B",
       "gradient_end": "4338CA",
       "icon": "assignment"
     },
     {
-      "id": "banner_video",
-      "title": "IC-38 Exam Strategy Guide",
-      "subtitle": "Expert Tips — Pass in First Attempt",
-      "image_url": "https://img.youtube.com/vi/O7rKKAFIM1g/hqdefault.jpg",
-      "action_target": "https://youtu.be/O7rKKAFIM1g",
-      "gradient_start": "7C2D12",
-      "gradient_end": "DC2626",
-      "icon": "play_circle"
+      "id": "banner_app_showcase",
+      "title": "Smart Preparation, Better Results",
+      "subtitle": "All-in-One App for IC-38 Exam Success",
+      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_app_showcase.png",
+      "action_target": "/test-series",
+      "gradient_start": "064E3B",
+      "gradient_end": "10B981",
+      "icon": "star"
     }
   ]
 }
