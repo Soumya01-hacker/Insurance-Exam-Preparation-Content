@@ -1,0 +1,188 @@
+{
+  "chapter_id": "health_insurance_claims",
+  "chapter_title": "Chapter 5: Health Insurance Claims (Health Section — IC-38)",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch5_q01",
+      "text": "Who among the following is NOT a stakeholder in the insurance claim process?",
+      "options": [
+        "Human Resource Department",
+        "Regulator",
+        "Insurance Company Shareholders",
+        "TPA"
+      ],
+      "correct_index": 2,
+      "explanation": "SHAREHOLDERS of the insurance company are NOT stakeholders in the insurance claim process. Shareholders are financial investors in the company and have no role in individual claim settlement. TPA, Regulator, and HR Department are all involved in the claim process."
+    },
+    {
+      "id": "ch5_q02",
+      "text": "Which document maintained at the hospital details all treatments given to an inpatient?",
+      "options": [
+        "Investigation Report",
+        "Discharge Summary",
+        "Proposal Form",
+        "TPA Authorization Letter"
+      ],
+      "correct_index": 0,
+      "explanation": "The INVESTIGATION REPORT is the document maintained at the hospital that details all treatments, procedures, medicines, and diagnostic tests given to an inpatient during their hospital stay. It is a comprehensive medical record used in claim processing."
+    },
+    {
+      "id": "ch5_q03",
+      "text": "The amount of provision made for all claims in the books of the insurer based on the status of the claim is known as:",
+      "options": [
+        "Pooling",
+        "Provisioning",
+        "Reserving",
+        "Investing"
+      ],
+      "correct_index": 2,
+      "explanation": "RESERVING is the term for the financial provision made by the insurer in its books for all outstanding and anticipated claims. Insurance companies maintain reserves to ensure they can honor all future claim payments. This is a standard accounting and actuarial practice."
+    },
+    {
+      "id": "ch5_q04",
+      "text": "Which of the following documents is NOT required when submitting a Permanent Total Disability (PTD) claim?",
+      "options": [
+        "Completed Personal Accident Claim Form signed by claimant",
+        "Attested copy of FIR if applicable",
+        "Permanent Disability Certificate from Civil Surgeon",
+        "Fitness Certificate from treating doctor certifying insured is fit for normal duties"
+      ],
+      "correct_index": 3,
+      "explanation": "A FITNESS CERTIFICATE certifying the insured is fit for normal duties is NOT required for a PTD claim — in fact, it is contradictory to a disability claim. Required documents are the claim form, FIR copy (if applicable), and permanent disability certificate from a Civil Surgeon."
+    },
+    {
+      "id": "ch5_q05",
+      "text": "Who is considered the Primary Stakeholder in the insurance claim process?",
+      "options": [
+        "Customer (Policyholder)",
+        "Insurance Company",
+        "TPA",
+        "IRDAI"
+      ],
+      "correct_index": 0,
+      "explanation": "The CUSTOMER (policyholder/insured) is the PRIMARY STAKEHOLDER in any insurance claim process — whether life or health. All other parties are secondary stakeholders. The customer's interest is the central purpose of the entire insurance claim mechanism."
+    },
+    {
+      "id": "ch5_q06",
+      "text": "Girish Saxena's insurance claim was denied by the insurance company. Apart from making a representation to the insurer, what other option does Girish Saxena have?",
+      "options": [
+        "Approach the Government",
+        "Approach Legal Authorities / Insurance Ombudsman",
+        "Approach the Insurance Agent",
+        "Nothing can be done in case of denial"
+      ],
+      "correct_index": 1,
+      "explanation": "If an insurance company denies a claim, the insured can approach LEGAL AUTHORITIES or the INSURANCE OMBUDSMAN — which are specially designed quasi-judicial bodies handling only insurance disputes. Approaching the agent or government is not the correct redressal mechanism."
+    },
+    {
+      "id": "ch5_q07",
+      "text": "Rajeev Mehto's insurance claim is investigated and it is found that his brother Rajesh (not a family member under the policy) was admitted to the hospital and treatment claimed under Rajeev's individual policy. What type of fraud is this?",
+      "options": [
+        "Impersonation Fraud",
+        "Fabrication of Documents",
+        "Exaggeration of Expenses",
+        "Converting Outpatient to Inpatient"
+      ],
+      "correct_index": 0,
+      "explanation": "This is IMPERSONATION FRAUD — where the policyholder has fraudulently claimed treatment expenses for another person (brother) under their own individual health policy when there is no family floater in place. Impersonation fraud is personal-level fraud where someone else's identity or policy is misused."
+    },
+    {
+      "id": "ch5_q08",
+      "text": "Under which of the following conditions is Domiciliary Hospitalization covered under a health insurance policy?",
+      "options": [
+        "When the patient prefers to be treated at home",
+        "When the patient cannot be removed to a hospital or nursing home due to lack of accommodation",
+        "When the patient has no health insurance",
+        "When the patient is admitted but discharged early"
+      ],
+      "correct_index": 1,
+      "explanation": "Domiciliary Hospitalization is covered when the PATIENT CANNOT BE REMOVED TO A HOSPITAL OR NURSING HOME — typically due to lack of accommodation. Home treatment in this situation is treated as equivalent to hospitalization. Patient preference alone does not qualify."
+    },
+    {
+      "id": "ch5_q09",
+      "text": "For admission of a Domiciliary Hospitalization claim, the minimum period of medical treatment should be:",
+      "options": [
+        "24 hours",
+        "48 hours",
+        "3 days",
+        "4 days"
+      ],
+      "correct_index": 2,
+      "explanation": "The minimum period of medical treatment for a domiciliary hospitalization claim is 3 DAYS (72 hours). Treatment at home for less than 3 days does not qualify as domiciliary hospitalization and cannot be claimed under health insurance."
+    },
+    {
+      "id": "ch5_q10",
+      "text": "The Smart ID Card used by the insured at network hospitals for cashless health insurance treatment is issued by:",
+      "options": [
+        "Only the Insurer",
+        "Only the TPA",
+        "Either the Insurer or the TPA",
+        "IRDAI"
+      ],
+      "correct_index": 2,
+      "explanation": "The Smart ID Card can be issued by EITHER the Insurer OR the TPA — both are authorized to issue it. The card is used by the insured to access cashless treatment at network hospitals. The correct answer is 'Either A or B'."
+    },
+    {
+      "id": "ch5_q11",
+      "text": "TPA (Third Party Administrator) is licensed by:",
+      "options": [
+        "Insurance Company",
+        "Surveyor",
+        "Central Government",
+        "IRDAI"
+      ],
+      "correct_index": 3,
+      "explanation": "TPA is licensed by IRDAI (Insurance Regulatory and Development Authority of India). TPA is a separate regulatory entity — not licensed by insurance companies, surveyors, or the government directly. IRDAI oversees the functioning of all TPAs in India."
+    },
+    {
+      "id": "ch5_q12",
+      "text": "Which of the following codes captures the procedure performed to treat an illness in health insurance claim processing?",
+      "options": [
+        "ICD Code",
+        "TPA Code",
+        "CPT Code",
+        "PPN Code"
+      ],
+      "correct_index": 2,
+      "explanation": "CPT stands for Current Procedure Terminology. CPT codes are standardized medical codes used to record the specific procedure performed during treatment. They are used in medical billing and health insurance claim processing to identify exactly what was done."
+    },
+    {
+      "id": "ch5_q13",
+      "text": "If a person does NOT make any claim in their health insurance policy during the year, what benefit do they receive?",
+      "options": [
+        "Cover ceases and policy is cancelled",
+        "Cover is subject to certain exclusions",
+        "Sum insured decreases",
+        "No Claim Bonus is allowed for claim-free years"
+      ],
+      "correct_index": 3,
+      "explanation": "If no claim is made in a health insurance policy year, the insured receives a NO CLAIM BONUS (NCB). The policy does NOT lapse or get cancelled. NCB rewards the insured with an increased sum insured or premium discount for claim-free years."
+    },
+    {
+      "id": "ch5_q14",
+      "text": "In a Reimbursement Claim under health insurance, what does the insured do?",
+      "options": [
+        "The insurer pays the hospital directly without the insured paying anything",
+        "The insured first pays for treatment and then submits documents to claim reimbursement",
+        "The TPA pays upfront and the insured repays later",
+        "The government covers the costs and the insurer refunds the government"
+      ],
+      "correct_index": 1,
+      "explanation": "In a Reimbursement Claim, the INSURED PAYS FIRST from their own pocket for the medical treatment. After discharge, the insured submits all bills, prescriptions, and reports to the TPA or insurer and receives reimbursement of the eligible expenses. This can be done at any hospital — not just network hospitals."
+    },
+    {
+      "id": "ch5_q15",
+      "text": "An insured shows airfare expenses as part of their medical claim to inflate the amount. This is an example of which type of fraud?",
+      "options": [
+        "Impersonation Fraud",
+        "Fabrication of Documents",
+        "Exaggeration / Extrapolation of Expenses",
+        "Converting Outpatient to Inpatient"
+      ],
+      "correct_index": 2,
+      "explanation": "Showing personal or non-medical expenses (like airfare) as medical expenses to inflate the claim amount is EXAGGERATION / EXTRAPOLATION OF EXPENSES fraud. This involves misrepresenting or inflating actual costs to get a higher claim payout than legitimately entitled."
+    }
+  ]
+}

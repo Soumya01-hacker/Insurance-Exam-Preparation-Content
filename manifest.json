@@ -927,7 +927,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_claims.json"
             }
           ]
         }
@@ -1616,7 +1617,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_claims.json"
             }
           ]
         },
@@ -2442,7 +2444,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/health_insurance_claims.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/health_insurance_claims.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "short_notes/health_insurance_claims.json"
             }
           ]
         }

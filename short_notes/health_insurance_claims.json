@@ -1,0 +1,204 @@
+{
+  "chapterId": "health_insurance_claims",
+  "title": "Chapter 5: Health Insurance Claims (Health Section — IC-38)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🤝 Insurance Promise and Primary Stakeholder",
+      "cards": [
+        {
+          "title": "Insurance is a Promise — Policy is the Witness",
+          "content": "Insurance is fundamentally a PROMISE made by the insurer to the insured. The Policy Document is the WITNESS (proof) of that promise. The actual test of any insurance company comes at the time of claim — claims handling is therefore the most important function of an insurer.",
+          "color": "blue"
+        },
+        {
+          "title": "Primary Stakeholder in a Health Insurance Claim",
+          "content": "The CUSTOMER (policyholder/insured) is the PRIMARY STAKEHOLDER in any insurance claim process — whether life or health. All other parties such as TPA, regulator, HR department, and others are secondary stakeholders. The customer's interest is supreme and central to the claim process.",
+          "color": "blue"
+        },
+        {
+          "title": "Who is NOT a Stakeholder in a Claim Process?",
+          "content": "SHAREHOLDERS of the insurance company are NOT stakeholders in the insurance claim process. Shareholders are investors in the company — they have no direct role in how individual claims are processed or settled. TPA, Regulator, and HR Department are all stakeholders; shareholders are not.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "💳 Two Types of Health Insurance Claims",
+      "cards": [
+        {
+          "title": "1. Cashless Claim",
+          "content": "In a Cashless Claim, the insured gets treated at a NETWORK HOSPITAL that is pre-approved by the insurer and TPA. The hospital provides health services first and then directly settles the bills with the insurer/TPA after submitting the required documents. The insured does NOT pay anything out-of-pocket at the hospital.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Reimbursement Claim",
+          "content": "In a Reimbursement Claim, the insured pays for the treatment from their OWN MONEY first. After discharge, the insured submits all bills, reports, and documents to the TPA or insurer and gets the expenses reimbursed. This facility can be used at any hospital — not just network hospitals.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏛️ Insurance Ombudsman — When Claim is Denied",
+      "cards": [
+        {
+          "title": "What is Insurance Ombudsman?",
+          "content": "Insurance Ombudsman are specially established quasi-judicial bodies (courts) that handle ONLY insurance-related disputes and grievances. If an insured's claim is denied by the insurance company and the insured is not satisfied with the response, they can approach the Insurance Ombudsman for redressal.",
+          "color": "blue"
+        },
+        {
+          "title": "What to Do When Claim is Rejected?",
+          "content": "If an insurance company denies a claim (like in the case of Girish Saxena in the exam question), the insured can: (1) Represent to the insurer (first step), OR (2) Approach LEGAL AUTHORITIES / Insurance Ombudsman. The correct answer per IC-38 exam options is to 'approach legal authorities' if ombudsman is not listed.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔍 Types of Insurance Fraud",
+      "cards": [
+        {
+          "title": "1. Impersonation Fraud",
+          "content": "Impersonation Fraud occurs when the insured or policyholder commits fraud at a PERSONAL LEVEL — such as claiming treatment for another person (e.g., a family member or friend) under their own policy when no family floater plan is in place. Classic exam example: Rajeev Mehto claims for his brother Rajesh under his own individual policy — this is Impersonation Fraud.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Fabrication of Documents",
+          "content": "Fabrication of Documents fraud occurs when the insured creates or alters documents (bills, medical records, reports) to obtain a claim that they are not entitled to or to inflate the claim amount. This is a deliberate fraudulent act.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Exaggeration / Extrapolation of Expenses",
+          "content": "Exaggeration of Expenses (also called Extrapolation of Expenses) occurs when the insured shows inflated or false expenses to get a higher claim. Example: Showing airfare or expensive personal costs as medical expenses. This fraud category is about inflating the actual claim amount.",
+          "color": "blue"
+        },
+        {
+          "title": "4. Converting to Inpatient",
+          "content": "This type of fraud involves converting an outpatient or domiciliary treatment into an inpatient admission on paper — just to claim higher hospitalization expenses from the insurer. The patient may not actually require admission but it is shown fraudulently.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📄 Important Hospital Document — Investigation Report",
+      "cards": [
+        {
+          "title": "Document Detailing Treatment Given to an Inpatient",
+          "content": "The document maintained at the HOSPITAL that details all treatments, procedures, medicines, and tests given to an inpatient is called the INVESTIGATION REPORT. This report is the comprehensive medical record of the patient's entire hospital stay and treatment. It is key evidence for processing a claim.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Reserving and CPT Codes",
+      "cards": [
+        {
+          "title": "What is Reserving?",
+          "content": "RESERVING is the term used for the amount of provision made for all claims in the books of the insurer based on the status of the claim. Insurance companies are required to keep financial reserves against outstanding and IBNR (Incurred But Not Reported) claims. This ensures the insurer can pay all future claims.",
+          "color": "blue"
+        },
+        {
+          "title": "CPT — Current Procedure Terminology",
+          "content": "CPT stands for Current Procedure Terminology. CPT codes are standardized codes used by doctors and hospitals to capture (record) the specific PROCEDURE performed to treat an illness. These codes are used in medical billing and claim processing. The correct full form must be memorized: Current Procedure Terminology.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏠 Domiciliary Hospitalization — Claim Rules",
+      "cards": [
+        {
+          "title": "When is Domiciliary Hospitalization Claim Covered?",
+          "content": "Domiciliary Hospitalization is covered under a health insurance policy WHEN THE PATIENT CANNOT BE REMOVED TO A HOSPITAL OR NURSING HOME due to lack of accommodation there. The rule is that no patient can be denied treatment by simply saying 'we have no space' — in such cases, home treatment is covered.",
+          "color": "blue"
+        },
+        {
+          "title": "Minimum Treatment Period for Domiciliary Claim",
+          "content": "For a domiciliary hospitalization claim to be valid, the minimum period of medical treatment at home must be 3 DAYS (72 hours). Treatment of less than 3 days at home does NOT qualify for a domiciliary hospitalization claim under health insurance.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🪪 Smart ID Card and TPA",
+      "cards": [
+        {
+          "title": "Who Issues the Smart ID Card?",
+          "content": "The Smart ID Card used by the insured at network hospitals for cashless treatment can be issued by EITHER the Insurer OR the TPA. Both are authorized to issue the Smart ID Card. The correct exam answer when asked 'who issues the smart ID card?' is 'Either Insurer or TPA' — both are correct.",
+          "color": "blue"
+        },
+        {
+          "title": "TPA — Licensing Authority",
+          "content": "TPA (Third Party Administrator) is licensed by IRDAI (Insurance Regulatory and Development Authority of India). Not by the insurance company, not by the government, not by any surveyor. TPA is a separate entity regulated by IRDAI to manage health insurance claims.",
+          "color": "blue"
+        },
+        {
+          "title": "Bail Bond Cases — Who Pays Upfront?",
+          "content": "In BAIL BOND CASES, the ASSISTANCE COMPANY (TPA) pays the amount upfront on behalf of the insured and later claims it from the insurance company. These are special cases where immediate payment is needed and the TPA facilitates it.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Documents for Permanent Total Disability Claim",
+      "cards": [
+        {
+          "title": "Documents Required for PTD Claim",
+          "content": "For a Permanent Total Disability (PTD) claim, the following documents are required: (1) Duly completed Personal Accident Claim Form signed by the claimant. (2) Attested copy of FIR (if applicable). (3) Permanent Disability Certificate from a Civil Surgeon or equivalent competent doctor certifying the disability.",
+          "color": "blue"
+        },
+        {
+          "title": "Document NOT Required for PTD Claim",
+          "content": "A FITNESS CERTIFICATE from the treating doctor certifying the insured is fit to perform normal duties is NOT required for a Permanent Total Disability claim. In fact, it is contradictory — if the person is permanently and totally disabled, a fitness certificate saying they are fit is irrelevant and counterproductive.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🎁 No Claim Bonus",
+      "cards": [
+        {
+          "title": "What Happens If No Claim is Made?",
+          "content": "If an insured does NOT make any claim in a health insurance policy year, they are rewarded with a NO CLAIM BONUS (NCB). The policy cover does NOT cease; it is NOT cancelled. Instead, the insured benefits from NCB — which can be in the form of an increased sum insured or a discount on the renewal premium for claim-free years.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 5: Health Insurance Claims",
+      "items": [
+        "Insurance = a Promise. Policy = witness to that promise.",
+        "Primary Stakeholder in claim process = CUSTOMER (policyholder).",
+        "Shareholders of insurer = NOT a stakeholder in claim process.",
+        "Two types of claims: Cashless (hospital settled directly) and Reimbursement (insured pays first).",
+        "Cashless = available only at Network Hospitals. Reimbursement = any hospital.",
+        "Claim denied? → Insured can approach Insurance Ombudsman or Legal Authorities.",
+        "Insurance Ombudsman = specially designed courts for insurance disputes only.",
+        "Impersonation Fraud = personal-level fraud — e.g., claiming for another person under your own policy.",
+        "Fabrication of Documents = forging/altering documents to get a claim.",
+        "Exaggeration of Expenses = inflating actual costs (e.g., showing airfare as medical expense).",
+        "Converting outpatient to inpatient on paper = another type of fraud.",
+        "Hospital document for inpatient treatment details = INVESTIGATION REPORT.",
+        "Reserving = provision made in insurer's books for all outstanding claims.",
+        "CPT = Current Procedure Terminology = codes for medical procedures.",
+        "Domiciliary hospitalization covered when patient CANNOT be moved to hospital.",
+        "Minimum treatment period for domiciliary claim = 3 DAYS.",
+        "Smart ID Card issued by = Insurer OR TPA — both are correct.",
+        "TPA licensed by = IRDAI.",
+        "Bail Bond cases — TPA pays upfront, later claims from insurer.",
+        "PTD Claim does NOT need fitness certificate — needs disability certificate.",
+        "No Claim Bonus = reward for claim-free years. Policy does NOT lapse if no claim is made."
+      ]
+    }
+  ]
+}
