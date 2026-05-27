@@ -1,0 +1,188 @@
+{
+  "chapter_id": "life_insurance_underwriting",
+  "chapter_title": "Chapter 8 (Life Section): Life Insurance Underwriting",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "ch08L_q01",
+      "text": "Which of the following cases is MOST LIKELY to be Declined or Postponed by a Life Insurer?",
+      "options": [
+        "Healthy 18-year-old",
+        "Obese person",
+        "Person suffering from AIDS",
+        "Housewife with no income of her own"
+      ],
+      "correct_index": 2,
+      "explanation": "A person suffering from AIDS presents an extremely high and critical mortality risk that cannot be covered at any standard or loaded premium rate. Life insurers will decline or postpone such cases. A healthy 18-year-old, an obese person, and a housewife without income are all insurable — their risks can be assessed and accommodated. Only AIDS is a ground for decline or postponement."
+    },
+    {
+      "id": "ch08L_q02",
+      "text": "Which of the following is the BEST example of Moral Hazard?",
+      "options": [
+        "A stunt artist dies while performing a stunt",
+        "A person starts drinking copious amounts of alcohol AFTER getting insured",
+        "Insured defaulting on premium payment",
+        "Proposer giving incorrect information on the proposal form"
+      ],
+      "correct_index": 1,
+      "explanation": "Moral Hazard occurs when a person changes their behaviour AFTER getting insured — specifically becoming more reckless because they feel financially protected by the policy. A person who starts drinking excessively AFTER taking insurance is a textbook example of moral hazard. The stunt artist's risk existed before the policy; the default on premium and false information are separate issues."
+    },
+    {
+      "id": "ch08L_q03",
+      "text": "Why is Heredity History an important factor in Medical Underwriting?",
+      "options": [
+        "It tells the underwriter about the person's lifestyle",
+        "Certain diseases can be passed on from parents to children",
+        "It helps calculate the premium paying capacity",
+        "It is required by IRDAI as a mandatory KYC document"
+      ],
+      "correct_index": 1,
+      "explanation": "Heredity (genetic history) is asked during medical underwriting because certain diseases — such as diabetes, heart disease, and some cancers — have a genetic component and can pass from parents to children. If a proposer's parents had such conditions, the underwriter needs to factor in this elevated hereditary risk when assessing the proposal."
+    },
+    {
+      "id": "ch08L_q04",
+      "text": "Which of the following BEST describes the role of an Underwriter in an insurance company?",
+      "options": [
+        "Process Claims",
+        "Decide the Acceptability of Risk",
+        "Product Design and Architecture",
+        "Customer Relations Manager"
+      ],
+      "correct_index": 1,
+      "explanation": "The core role of an underwriter is to assess, classify, and decide the acceptability of the risk presented in a proposal. This includes deciding whether to accept the risk at standard rates, apply an extra premium, postpone, or decline the case. Underwriters do not process claims, design products, or manage customer relationships — those are handled by other departments."
+    },
+    {
+      "id": "ch08L_q05",
+      "text": "Which of the following is NOT an Underwriter's decision?",
+      "options": [
+        "Risk Acceptance at standard rates",
+        "Applying extra premium loading",
+        "Postponement of the risk",
+        "Claim Rejection"
+      ],
+      "correct_index": 3,
+      "explanation": "An underwriter's decisions are made at the time of issuing a policy and include: accepting at standard rates, charging an extra premium, declining, or postponing. Claim Rejection is handled by the claims department AFTER the policy is issued and is NOT an underwriter's function. The underwriter's work ends once the policy is issued."
+    },
+    {
+      "id": "ch08L_q06",
+      "text": "Which of the following will NEGATIVELY affect a person's insurability?",
+      "options": [
+        "Daily jogging",
+        "Banned Substance Abuse",
+        "Lazy nature",
+        "Procrastination"
+      ],
+      "correct_index": 1,
+      "explanation": "Banned Substance Abuse — being addicted to prohibited or harmful substances — significantly increases the proposer's health risk and mortality risk. This will negatively affect their insurability and may lead to a higher premium, postponement, or decline. Daily jogging is a healthy habit; lazy nature and procrastination are personality traits that do not pose a medical or mortality risk."
+    },
+    {
+      "id": "ch08L_q07",
+      "text": "Under which method of underwriting does the underwriter assign POSITIVE rating points for all NEGATIVE and ADVERSE factors?",
+      "options": [
+        "Judgment Method",
+        "Standard Method",
+        "Numerical Rating Method",
+        "Medical Assessment Method"
+      ],
+      "correct_index": 2,
+      "explanation": "In the Numerical Rating Method, the underwriter assigns numerical scores (positive rating points) for each adverse or negative factor — such as high age, dangerous occupation, poor health history, or hazardous habits. The total score is compared against standard tables to determine the degree of extra risk and the extra premium to be charged."
+    },
+    {
+      "id": "ch08L_q08",
+      "text": "Under Risk Classification, which category describes a person whose anticipated mortality corresponds to the standard lives represented by the Mortality Table?",
+      "options": [
+        "Standard Life",
+        "Sub-Standard Life",
+        "Declined Life",
+        "Preferred Life"
+      ],
+      "correct_index": 0,
+      "explanation": "A Standard Life is a person whose risk of death (anticipated mortality) matches exactly the average mortality shown in the standard Mortality Table. Such persons are neither better nor worse than average — they qualify for insurance at standard (normal) premium rates without any extra loading or restrictions."
+    },
+    {
+      "id": "ch08L_q09",
+      "text": "Which of the following proposals is NOT LIKELY to qualify under Non-Medical Underwriting?",
+      "options": [
+        "Savita, age 26, software engineer in an IT company",
+        "Mahesh, age 50, working in a coal mine",
+        "Satish, age 28, bank employee applying for ₹1 crore cover",
+        "Praveen, age 30, departmental store employee applying for a 10-year endowment plan"
+      ],
+      "correct_index": 1,
+      "explanation": "Non-Medical Underwriting is suitable for young, healthy individuals in safe occupations with moderate sum assured. Mahesh is 50 years old (higher age = higher mortality risk) and works in a coal mine (hazardous occupation with elevated physical risk). Both these factors make him ineligible for non-medical underwriting — a full medical examination will be required for his case."
+    },
+    {
+      "id": "ch08L_q10",
+      "text": "Sheena is suffering from acute (severe) diabetes and has applied for an insurance plan. Which underwriting method will the underwriter MOST LIKELY use?",
+      "options": [
+        "Judgment Method",
+        "Numerical Rating Method",
+        "Standard Method",
+        "Non-Medical Method"
+      ],
+      "correct_index": 0,
+      "explanation": "For complex, unusual, or critical medical cases like acute diabetes, the underwriter uses the Judgment Method. This method relies on the underwriter's professional experience and expertise to assess risks that cannot be easily quantified by standard tables. Numerical rating alone may be insufficient for such severe conditions."
+    },
+    {
+      "id": "ch08L_q11",
+      "text": "Which of the following information is NOT contained in a Medical Examiner's Report?",
+      "options": [
+        "Previous Policy Particulars",
+        "Height and Weight of the Proposer",
+        "Blood Pressure of the Proposer",
+        "Medical test results"
+      ],
+      "correct_index": 0,
+      "explanation": "A Medical Examiner's Report contains health-related data gathered during the physical examination — such as height, weight, blood pressure, test results, and the doctor's clinical observations. It does NOT include Previous Policy Particulars (details of old insurance policies). Policy history is an administrative matter, not a medical one."
+    },
+    {
+      "id": "ch08L_q12",
+      "text": "When is a Medical Report of the Life Insured ESSENTIAL?",
+      "options": [
+        "When the Sum Assured is high and age is high",
+        "To know the medical characteristics of the proposal",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "correct_index": 2,
+      "explanation": "A medical report becomes essential in two key situations: (1) When the sum assured AND the age of the proposer are both high — this indicates higher financial exposure and mortality risk. (2) When the medical characteristics of the proposal need to be examined in detail. Both conditions independently necessitate a medical report, so the answer is Both A and B."
+    },
+    {
+      "id": "ch08L_q13",
+      "text": "What does Moral Hazard indicate in the context of Life Insurance Underwriting?",
+      "options": [
+        "The possibility that the client undertakes dangerous activities after taking the policy",
+        "The possibility of the insured ending their own life or others' lives",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "correct_index": 2,
+      "explanation": "Moral Hazard refers to the risk of behavioural change after insurance is taken. It covers two key scenarios: (1) The insured taking up reckless or dangerous activities post-policy because they feel protected, and (2) The possibility of the insured deliberately ending their own or someone else's life to trigger a claim. Both are moral hazard situations, so the answer is Both A and B."
+    },
+    {
+      "id": "ch08L_q14",
+      "text": "The Moral Hazard Report is completed by ________.",
+      "options": [
+        "Officials of the Insurance Company",
+        "The Insurance Agent",
+        "The Medical Examiner",
+        "The Proposer"
+      ],
+      "correct_index": 0,
+      "explanation": "The Moral Hazard Report is formally completed by the Officials of the Insurance Company at the departmental underwriting level. While the insurance agent may observe and flag moral hazard indicators in the field, the official moral hazard assessment and report is prepared by the company's underwriting officers — not the agent, doctor, or proposer."
+    },
+    {
+      "id": "ch08L_q15",
+      "text": "To ascertain which of the following, is Age Proof NOT required?",
+      "options": [
+        "Assessment of Risk Profile",
+        "Premium Paying Capacity",
+        "To fix the premium amount",
+        "All of the above"
+      ],
+      "correct_index": 1,
+      "explanation": "Age Proof is used to assess the risk profile and to fix the correct premium amount — both directly linked to the proposer's age. However, Age Proof cannot reveal the proposer's financial ability to pay premiums. Premium Paying Capacity is determined through income proof and financial documents — not age proof. Hence, Age Proof is NOT required for determining premium paying capacity."
+    }
+  ]
+}

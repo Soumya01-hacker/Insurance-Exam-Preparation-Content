@@ -1,0 +1,177 @@
+{
+  "chapterId": "life_insurance_underwriting",
+  "title": "Chapter 8 (Life Section): Life Insurance Underwriting",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📌 Underwriting — Definition and Purpose",
+      "cards": [
+        {
+          "title": "What is Underwriting?",
+          "content": "Underwriting means calculating and evaluating the risk of a proposer (person who wants insurance). In Hindi it is called 'jokhim ka mulyankan'. The underwriting process has TWO main purposes: (1) To CLASSIFY the risk — is it standard, sub-standard, or declined? (2) To PRICE the risk — determine the correct premium based on the risk level.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does the Underwriter ACTUALLY Do?",
+          "content": "The underwriter's role in an insurance company is to: Decide the ACCEPTABILITY of the risk — whether a proposal should be accepted, accepted with extra premium, postponed, or declined. The underwriter is NOT responsible for: processing claims, product design, or customer relations. Exam Trap: 'Which denotes the underwriter's role?' — Answer = Decide Acceptability of Risk.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏢 Two Levels of Underwriting",
+      "cards": [
+        {
+          "title": "Level 1 — Primary Level (Field Underwriting)",
+          "content": "Primary Level Underwriting is done by the Insurance AGENT at the field level. The agent collects complete information about the proposal and assesses whether the insurance company can insure the person. This is why the agent is also called the Primary Underwriter or Field Underwriter. This is the first point of risk screening.",
+          "color": "blue"
+        },
+        {
+          "title": "Level 2 — Departmental Level (Office Underwriting)",
+          "content": "Departmental Level Underwriting is done at the insurance company's office by a specified underwriting officer. The officer thoroughly checks whether the proposal is suitable, whether the information provided is accurate, and whether the risk should be accepted, modified, or rejected.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔬 Two Methods of Underwriting",
+      "cards": [
+        {
+          "title": "1. Judgment Method",
+          "content": "In the Judgment Method, the underwriter uses personal professional judgment and experience to assess complex or unusual risks that cannot easily be quantified. This method is used for cases like: Severe or critical illnesses (e.g., acute diabetes, cancer, rare diseases). When standard numerical data is insufficient to make a decision, the underwriter applies their best professional judgment.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Numerical Rating Method",
+          "content": "In the Numerical Rating Method, the underwriter assigns POSITIVE rating points for all NEGATIVE and ADVERSE factors (e.g., high age, bad health history, dangerous occupation). A numerical score is calculated and compared against standard tables to determine the risk level and premium. Exam Tip: 'Under which method does the underwriter assign positive rating points for negative factors?' — Answer = Numerical Rating Method.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏥 Medical vs Non-Medical Underwriting",
+      "cards": [
+        {
+          "title": "Non-Medical Underwriting — Factors Considered",
+          "content": "Non-Medical Underwriting is done WITHOUT a medical examination. The underwriter relies on information provided in the proposal form. Factors considered: (1) Age of the proposer. (2) Sum Assured (amount of insurance). (3) Moral Hazard (character and lifestyle risk). (4) Excess risk factors. Non-medical underwriting is suitable for: young people, small sum assured, normal occupation.",
+          "color": "blue"
+        },
+        {
+          "title": "Medical Underwriting — Factors Considered",
+          "content": "Medical Underwriting involves a medical examination by a doctor. Factors considered: (1) Family History — diseases running in the family. (2) Heredity — genetic diseases that can pass from parents to children. (3) Personal Medical History — past illnesses, surgeries, medications. Medical underwriting is required when: age is high, sum assured is large, or there is a significant health concern.",
+          "color": "blue"
+        },
+        {
+          "title": "When is a Medical Report ESSENTIAL? (Exam Fact)",
+          "content": "A medical report is essential in TWO situations: (1) When the Sum Assured AND Age are HIGH. (2) When the Medical Characteristics of the Proposal need to be known (i.e., the person has a medical condition that requires investigation). Exam Answer = Both A and B (All of the above).",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT Included in a Medical Examiner's Report?",
+          "content": "A Medical Examiner's Report contains physical health data: Height, Weight, Blood Pressure, medical test results, etc. It does NOT contain: Previous Policy Particulars (details of old insurance policies). Policy-related history is not a medical matter and is not included in the medical report. Exam Answer = Previous Policy Particulars is NOT part of the medical examiner's report.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚠️ Moral Hazard — Very Important Exam Topic",
+      "cards": [
+        {
+          "title": "What is Moral Hazard?",
+          "content": "Moral Hazard refers to the risk that an insured person may CHANGE their behaviour AFTER getting insurance — specifically becoming more careless or even deliberately reckless because they know they are financially protected. Example: A person who starts drinking excessive alcohol AFTER taking out a life insurance policy — this is a classic moral hazard case.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does Moral Hazard Represent? (Exam Question)",
+          "content": "Moral Hazard covers TWO scenarios: (1) The possibility that a policyholder undertakes dangerous activities AFTER taking the policy. (2) The possibility that the policyholder may intentionally end their own life (or others') knowing a claim will be paid. Both together represent Moral Hazard. Exam Answer = Both A and B.",
+          "color": "blue"
+        },
+        {
+          "title": "Who Completes the Moral Hazard Report?",
+          "content": "The Moral Hazard Report is completed by the OFFICIALS OF THE INSURANCE COMPANY (departmental level). It is NOT completed by the agent, medical examiner, or proposer. The agent may observe and report moral hazard indicators, but the formal report is prepared by company officials.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📊 Risk Classification — Standard, Sub-Standard, Declined",
+      "cards": [
+        {
+          "title": "Standard Life",
+          "content": "A Standard Life is a person whose anticipated mortality corresponds exactly to the standard mortality shown in the Mortality Table. These are normal healthy individuals who qualify for insurance at standard premium rates without any extra loading. This is the most common risk category.",
+          "color": "blue"
+        },
+        {
+          "title": "Sub-Standard Life",
+          "content": "A Sub-Standard Life is a person who presents a higher-than-normal mortality risk due to health conditions, dangerous occupation, or hazardous habits. Insurance can still be provided, but with an EXTRA PREMIUM (loading) or modified terms. Example: A coal mine worker, a person with diabetes.",
+          "color": "blue"
+        },
+        {
+          "title": "Declined / Postponed Life",
+          "content": "Some cases are declined (outright refused) or postponed (deferred until the risk reduces). Cases likely to be declined or postponed: Person suffering from AIDS (critical, incurable condition). Exam Trap: A healthy 18-year-old, an obese person, and a housewife with no income will NOT be declined — only the AIDS case will be declined or postponed.",
+          "color": "blue"
+        },
+        {
+          "title": "Underwriter's Decisions — What is NOT Included?",
+          "content": "An underwriter's decisions include: Risk Acceptance at standard rates, Extra Premium loading, Declining the risk, Postponing the risk. What is NOT an underwriter's decision: CLAIM REJECTION. Claims are handled by the claims department AFTER the policy is in force. The underwriter's role is only at the time of initial risk assessment when the policy is being issued.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🧬 Heredity in Medical Underwriting",
+      "cards": [
+        {
+          "title": "Why is Heredity History Required?",
+          "content": "Heredity (genetic history) is asked in medical underwriting because CERTAIN DISEASES CAN BE PASSED FROM PARENTS TO CHILDREN through genes. If a family has a history of hereditary conditions like diabetes, heart disease, or cancer, the risk of the proposer also developing these conditions is higher. This affects the underwriter's decision on premium and acceptability.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚫 Negative Insurability Factors",
+      "cards": [
+        {
+          "title": "What Negatively Affects Insurability?",
+          "content": "The factor that NEGATIVELY affects a person's insurability is: Banned Substance Abuse — being addicted to prohibited substances significantly increases health and mortality risk and will negatively impact the underwriter's decision. Factors that do NOT negatively affect insurability: Daily jogging (healthy habit), lazy nature (not a medical risk), procrastination (not an insurance risk).",
+          "color": "blue"
+        },
+        {
+          "title": "Age Proof — What It Cannot Determine",
+          "content": "Age Proof is used for: Calculating the risk profile, Fixing the premium amount. Age Proof CANNOT determine: Premium Paying Capacity of the proposer. A person's financial ability to pay premium is determined through income proof, not age proof. Exam Answer: 'For which purpose is age proof NOT required?' = Premium Paying Capacity.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 8 (Life) Quick Memory",
+      "items": [
+        "Underwriting = Two purposes: Classify Risk + Price (Calculate) the Risk.",
+        "Primary Underwriter = Insurance Agent (field level). Departmental Underwriting = Company office officer.",
+        "Two methods: Judgment Method (for complex/critical cases like severe diabetes) and Numerical Rating Method (positive points for negative factors).",
+        "Non-Medical Underwriting factors: Age, Sum Assured, Moral Hazard. Medical Underwriting factors: Family History, Heredity, Personal History.",
+        "Medical Report essential when: Sum Assured + Age are HIGH OR Medical characteristics need to be known = Both A and B.",
+        "Medical Examiner's Report does NOT include: Previous Policy Particulars.",
+        "Moral Hazard = Change in behaviour AFTER taking policy. Example = drinking alcohol excessively after getting insured.",
+        "Moral Hazard Report = Completed by Officials of the Company (NOT agent, NOT medical examiner).",
+        "Moral Hazard = Dangerous activities after policy + possibility of ending life = Both A and B.",
+        "Declined/Postponed case = Person suffering from AIDS. Not: healthy young person, obese person, or housewife.",
+        "Underwriter's decisions = Acceptance, Extra premium, Decline, Postpone. NOT = Claim Rejection.",
+        "Standard Life = anticipated mortality matches Mortality Table = insured at standard rates.",
+        "Heredity asked in medical underwriting = certain diseases pass from parents to children.",
+        "Banned Substance Abuse = NEGATIVELY affects insurability.",
+        "Age Proof cannot determine = Premium Paying Capacity.",
+        "Numerical Rating Method = Assigns POSITIVE points for NEGATIVE/ADVERSE factors."
+      ]
+    }
+  ]
+}
