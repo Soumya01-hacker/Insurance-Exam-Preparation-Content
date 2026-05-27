@@ -1,10 +1,10 @@
 {
   "banners": [
     {
-      "id": "banner_irdai_career",
-      "title": "Become an IRDAI Licensed Agent",
-      "subtitle": "Pass IC-38 — Start Your Career Today",
-      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_irdai.png",
+      "id": "banner_female_success",
+      "title": "",
+      "subtitle": "",
+      "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_female.png",
       "action_target": "",
       "gradient_start": "0F172A",
       "gradient_end": "1E3A8A",
@@ -12,8 +12,8 @@
     },
     {
       "id": "banner_app_showcase",
-      "title": "Smart Preparation, Better Results",
-      "subtitle": "All-in-One App for IC-38 Exam Success",
+      "title": "",
+      "subtitle": "",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_app_showcase.png",
       "action_target": "",
       "gradient_start": "064E3B",
