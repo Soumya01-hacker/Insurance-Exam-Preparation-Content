@@ -2,8 +2,8 @@
   "banners": [
     {
       "id": "banner_career",
-      "title": "IRDAI Licensed Agent Banein",
-      "subtitle": "IC-38 Pass Karo — Career Shuru Karo",
+      "title": "Become an IRDAI Licensed Agent",
+      "subtitle": "Pass IC-38 — Start Your Career Today",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_2.png",
       "action_target": "/study-material",
       "gradient_start": "0F172A",
@@ -13,7 +13,7 @@
     {
       "id": "banner_study",
       "title": "IC-38 Complete Preparation",
-      "subtitle": "Notes + Mock Tests + Video — Sab Ek Jagah",
+      "subtitle": "Notes + Mock Tests + Videos — All in One Place",
       "image_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/banners/banner_3.png",
       "action_target": "/test-series",
       "gradient_start": "1E1B4B",
@@ -23,7 +23,7 @@
     {
       "id": "banner_video",
       "title": "IC-38 Exam Strategy Guide",
-      "subtitle": "Expert Tips — Pehli Baar Me Pass",
+      "subtitle": "Expert Tips — Pass in First Attempt",
       "image_url": "https://img.youtube.com/vi/O7rKKAFIM1g/hqdefault.jpg",
       "action_target": "https://youtu.be/O7rKKAFIM1g",
       "gradient_start": "7C2D12",
