@@ -1,190 +1,145 @@
 {
   "chapterId": "underwriting_and_rate_making",
-  "title": "Chapter 5 (General Section): Underwriting and Rating",
+  "title": "Chapter 2 (General Section): Underwriting and Rate Making",
   "theme": "Premium Blue-Gold",
   "sections": [
     {
       "type": "note_card",
-      "title": "📝 What is Underwriting?",
+      "title": "📝 Underwriting — Core Definition",
       "cards": [
         {
-          "title": "Definition of Underwriting",
-          "content": "Underwriting (called 'Bima Lekhan' in Hindi) is the process by which an insurance company decides: (1) Whether to accept a risk or not, (2) At what premium rate to accept the risk, and (3) On what terms and conditions. In simple words — it is the process of determining the price of insurance.",
+          "title": "What is Underwriting?",
+          "content": "Underwriting is the process of determining: (1) WHETHER the risk offered for insurance is ACCEPTABLE, and (2) If yes, at what RATE, TERMS and CONDITIONS the insurance cover will be provided. The officer who performs this entire process is called an UNDERWRITER.",
           "color": "blue"
         },
         {
-          "title": "Primary Underwriter / Field Underwriter",
-          "content": "The PRIMARY UNDERWRITER or FIELD UNDERWRITER is the INSURANCE AGENT. The agent is the first person who collects all necessary information from the customer and fills the Proposal Form. After the agent, the Proposal Form goes to the insurance company's Underwriter for further evaluation.",
+          "title": "Risk Classification in Underwriting",
+          "content": "During underwriting, risks are CLASSIFIED into different categories. The process of classifying risk and deciding which category it falls into is of great importance for RATE MAKING — it directly determines what premium will be charged.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🔄 Three Steps of the Underwriting Process",
+      "title": "💰 Rate Making — Basics",
       "cards": [
         {
-          "title": "Step 1 — Identify Risk Frequency and Severity",
-          "content": "The underwriter checks: (1) How FREQUENTLY does the risk occur? (2) What is the AMOUNT (severity) of loss that can happen? These two factors — probability and severity of risk — are the foundation of the underwriting decision.",
+          "title": "What is Rate?",
+          "content": "RATE is the price of a given unit of insurance. It is the cost charged per unit of insurance coverage. Premium = Sum Insured × Rate.",
           "color": "blue"
         },
         {
-          "title": "Step 2 — Decide Coverage Terms and Conditions",
-          "content": "The underwriter determines what will be COVERED under the policy and what the terms, conditions, and exclusions will be. This shapes the scope of the insurance product offered to the customer.",
+          "title": "Basic Objective of Rate Making",
+          "content": "The BASIC OBJECTIVE of the rate making process is to ensure that the price of insurance is ADEQUATE and REASONABLE — meaning the price charged should be correct, fair, and justified. Not too high, not too low.",
           "color": "blue"
         },
         {
-          "title": "Step 3 — Fix the Premium Rate",
-          "content": "After analysing risk probability and coverage, the underwriter fixes the PREMIUM RATE for that particular risk. Higher risk = higher premium. Lower risk = lower premium (or discount).",
+          "title": "Sum Insured",
+          "content": "SUM INSURED is the MAXIMUM AMOUNT that an insurance company will INDEMNIFY (pay) as per the policy conditions. It is the upper ceiling on the insurer's liability. Example: If Sum Insured = Rs. 10 lakh, the insurer will never pay more than Rs. 10 lakh regardless of the actual loss.",
+          "color": "blue"
+        },
+        {
+          "title": "Pure Premium — How It Grows",
+          "content": "Pure Premium is the base premium calculated to cover expected losses. It is then LOADED — a percentage is added to provide for: (1) Expenses, (2) Reserves, and (3) Profits. After adding these, pure premium becomes the FINAL PREMIUM.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "📂 Sources of Information for Underwriting",
+      "title": "⚠️ Hazard — Definition and Types",
       "cards": [
         {
-          "title": "Three Sources of Underwriting Information",
-          "content": "The underwriter gets information from: (1) PROPOSAL FORM — filled by the insurance agent, (2) RISK SURVEYS — physical inspection of the subject matter to be insured, (3) HISTORICAL CLAIM EXPERIENCE DATA — past claim records of the person or property to be insured.",
+          "title": "What is a Hazard?",
+          "content": "In insurance, HAZARD refers to conditions that CREATE and INCREASE the chance of loss. A hazard is a factor that either increases the FREQUENCY of loss (how often it occurs) or the SEVERITY/IMPACT of loss (how much damage is caused) — or BOTH.",
           "color": "blue"
         },
         {
-          "title": "Two Main Objectives of Underwriting",
-          "content": "(1) To IDENTIFY the risk — understand what type of risk it is, (2) To KNOW THE LEVEL of risk — determine how high or low the risk is. These two objectives determine the premium amount and whether insurance should be accepted.",
+          "title": "Physical Hazard",
+          "content": "PHYSICAL HAZARD is a tangible, observable condition that affects the probability or severity of loss. Key exam fact: Physical Hazard CAN BE ASCERTAINED from the information given in the PROPOSAL FORM. It is not unknown — it can be identified and assessed.",
+          "color": "blue"
+        },
+        {
+          "title": "Hazard Example — Sprinkler System",
+          "content": "Installing a SPRINKLER SYSTEM in the premises DECREASES the risk. A sprinkler system reduces the chance of fire spreading and causes less damage — it is a POSITIVE PHYSICAL FEATURE that reduces hazard and can lead to a DISCOUNT in premium.",
+          "color": "blue"
+        },
+        {
+          "title": "Sources of Information for Underwriter",
+          "content": "Valid sources of information for the underwriter: (1) Annual Accounts of Proposer, (2) Pre-Acceptance Risk Survey of the asset, (3) Proposal Form. NOT a source of information: REGISTRATION CERTIFICATE OF INSURER — this document belongs to the insurance company and has no relevance to underwriting a risk.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🏛️ Product Filing with IRDAI",
+      "title": "📋 Deductible / Excess Clause",
       "cards": [
         {
-          "title": "IRDAI Product Approval Process",
-          "content": "Before any insurance company can launch a new insurance product in the market, it must: (1) Submit the product to IRDAI for approval, (2) IRDAI verifies the product meets all guidelines, (3) IRDAI issues a UNIQUE IDENTIFICATION NUMBER (UIN) to the product, (4) Only after receiving the UIN can the product be launched in the market.",
+          "title": "What is a Deductible / Excess Clause?",
+          "content": "A DEDUCTIBLE (also called EXCESS CLAUSE) is a clause inserted in an insurance policy that requires the insured to bear a fixed initial amount of every loss themselves. The insurer pays only the amount above this threshold.",
+          "color": "blue"
+        },
+        {
+          "title": "Objective of Deductible Clause",
+          "content": "The PRIMARY PURPOSE of inserting a deductible or excess clause is to ELIMINATE SMALL CLAIMS. Since the insured has to bear small losses themselves, they will not bother filing trivial claims. This reduces administrative costs for the insurer and encourages the insured to be careful.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "💰 Premium Calculation — Rate Making",
+      "title": "🏆 No Claim Bonus (NCB)",
       "cards": [
         {
-          "title": "Premium Formula",
-          "content": "PREMIUM = SUM INSURED × RATE. Sum Insured = decided by the INSURED (policyholder) — it is the amount of coverage they want. Rate = price per unit of insurance coverage. Premium = the product of these two values.",
+          "title": "What is No Claim Bonus?",
+          "content": "NO CLAIM BONUS (NCB) is a reward given by the insurer to the insured when NO CLAIM has been made during the policy year. Example: If a car insured for a year has no accident or claim, the insured gets a discount on the premium at the time of renewal.",
           "color": "blue"
         },
         {
-          "title": "Who Decides the Sum Insured?",
-          "content": "The SUM INSURED is decided by the INSURED (the policyholder/customer). It depends on how much coverage the insured wants to take — 2 lakh, 10 lakh, 1 crore etc. It is the insured's choice, not the insurer's.",
-          "color": "blue"
-        },
-        {
-          "title": "Two Factors Affecting Rate Making",
-          "content": "(1) PROBABILITY of Risk — how likely is the risk to occur? (2) SEVERITY of Risk — if the risk occurs, how large will the loss be? Both probability AND severity together determine the insurance rate.",
-          "color": "blue"
-        },
-        {
-          "title": "Pure Premium",
-          "content": "Pure Premium is the amount that is JUST SUFFICIENT to pay for the expected losses only — based on past loss experience. It covers only the expected claims cost, with no profit margin, no expenses, no commission added to it.",
-          "color": "blue"
-        },
-        {
-          "title": "Final Premium = Pure Premium + Loadings",
-          "content": "The FINAL PREMIUM is arrived at by adding multiple components to the Pure Premium: (1) Loss Expenses and Survey Fee, (2) Agency Commission, (3) Management Expenses, (4) Profit Margin. All these are added to pure premium to form the total (final) premium.",
+          "title": "Importance of NCB",
+          "content": "No Claim Bonus is a POWERFUL STRATEGY to improve UNDERWRITING EXPERIENCE. It also forms an INTEGRAL PART OF THE RATING SYSTEM. NCB encourages policyholders to avoid small claims and take better care of their insured assets.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "📊 Discounts and Loadings",
+      "title": "🚗 Motor Insurance — Special Rating Concepts",
       "cards": [
         {
-          "title": "Discount in Premium",
-          "content": "A DISCOUNT is applied to the premium for POSITIVE features of risk. When the risk is low, well-managed, or safer than average, a discount is offered. Example: Good health, no previous claims, fire safety systems in a building.",
+          "title": "Warranty in Motor Insurance",
+          "content": "In motor insurance, one key WARRANTY (condition that must be followed) is: THE VEHICLE SHOULD NOT BE USED FOR SPEED TESTING. This is a condition written into the motor insurance policy. Other options like 'wash daily' or 'not for personal luggage' are not standard warranties.",
           "color": "blue"
         },
         {
-          "title": "Loading in Premium",
-          "content": "LOADING is added to the premium for NEGATIVE features of risk. When the risk is higher than normal, additional loading is charged. Example: A person with pre-existing health conditions, an older vehicle, dangerous occupation.",
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "type": "note_card",
-      "title": "🏥 Medical Underwriting — Special Concepts",
-      "cards": [
-        {
-          "title": "Why Hereditary History Matters",
-          "content": "In medical underwriting, the hereditary/family history of the insured is important because CERTAIN DISEASES CAN BE PASSED FROM PARENTS TO CHILDREN. If parents had hereditary diseases, the children may carry higher risk of the same diseases.",
-          "color": "blue"
-        },
-        {
-          "title": "What Negatively Affects Insurability",
-          "content": "Substance Abuse (drugs, banned substances etc.) is the key factor that NEGATIVELY affects a person's insurability. It places the person in a moral hazard category and insurance companies may decline or postpone the risk.",
-          "color": "blue"
-        },
-        {
-          "title": "Cases That Are Declined or Postponed",
-          "content": "Life insurers are likely to DECLINE or POSTPONE insurance for persons suffering from serious diseases like AIDS/HIV. Such cases carry extremely high mortality risk.",
-          "color": "blue"
-        },
-        {
-          "title": "Health Insurance Underwriting — Key Information Needed",
-          "content": "For underwriting a HEALTH INSURANCE policy, the underwriter must know: (1) Age of the person, (2) Medical history and current health condition, (3) Fitness level, (4) Family/Hereditary history. Causes of fire or port/road conditions are irrelevant for health insurance underwriting.",
-          "color": "blue"
-        }
-      ]
-    },
-    {
-      "type": "note_card",
-      "title": "🪪 KYC — Know Your Customer",
-      "cards": [
-        {
-          "title": "What are KYC Documents?",
-          "content": "KYC stands for KNOW YOUR CUSTOMER. KYC documents include: (1) Photograph, (2) Address Proof, (3) Proof of Identity. All three together form the KYC documentation for insurance.",
-          "color": "blue"
-        },
-        {
-          "title": "Objective of KYC Guidelines",
-          "content": "The main objectives of KYC guidelines are to PREVENT: (1) Identity Theft, (2) Financial Fraud, (3) Money Laundering. All three are equally important objectives.",
-          "color": "blue"
-        },
-        {
-          "title": "Why Age Proof is Taken",
-          "content": "Age proof is collected to: (1) Assess the risk profile of the insured, (2) Fix the correct premium (older age = higher premium), (3) Determine the sum assured correctly. Age proof CANNOT tell the premium paying capacity of a person — that is NOT one of its purposes.",
+          "title": "Insured Declared Value (IDV)",
+          "content": "In motor insurance, the INSURED DECLARED VALUE (IDV) is based on the MANUFACTURER'S SELLING PRICE of the vehicle. It is not the registration price, cost price, or arbitrary price. IDV represents the current market value of the vehicle and is the maximum amount payable in case of total loss.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "tips",
-      "title": "🚀 Exam Pro-Tips — Chapter 5 General (Quick Memory)",
+      "title": "🚀 Exam Pro-Tips — Chapter 2 General (Quick Memory)",
       "items": [
-        "Underwriting = process of deciding whether to accept risk and at what premium.",
-        "Primary Underwriter / Field Underwriter = INSURANCE AGENT.",
-        "3 Steps of Underwriting: (1) Identify risk frequency & severity, (2) Decide coverage terms, (3) Fix premium rate.",
-        "3 Sources of Underwriting Info: Proposal Form, Risk Survey, Historical Claim Experience Data.",
-        "2 Main Objectives: Identify the risk + Know the level of risk.",
-        "New product must get IRDAI approval + UIN number before launch.",
-        "Premium = Sum Insured × Rate.",
-        "Sum Insured is decided by the INSURED (customer), not the insurer.",
-        "2 Factors in Rate Making = PROBABILITY of risk + SEVERITY of risk.",
-        "Pure Premium = sufficient amount to pay losses only (based on past loss experience).",
-        "Final Premium = Pure Premium + Loss expenses + Agency commission + Management expenses + Profit margin.",
-        "Discount = for POSITIVE features of risk (lower risk).",
-        "Loading = for NEGATIVE features of risk (higher risk).",
-        "Hereditary history matters because diseases can pass from parents to children.",
-        "Substance abuse NEGATIVELY affects insurability.",
-        "AIDS/HIV cases are likely to be DECLINED or POSTPONED by life insurers.",
-        "KYC = Photo + Address Proof + Identity Proof.",
-        "KYC objectives = Prevent identity theft + financial fraud + money laundering.",
-        "Age proof does NOT reveal premium paying capacity.",
-        "Underwriter's decisions: Accept at standard rates, Decline, Postpone. CLAIM REJECTION is NOT an underwriter's decision."
+        "Underwriting = process of deciding if risk is acceptable and at what rate/terms.",
+        "The officer who does underwriting = UNDERWRITER.",
+        "Rate = price of a given unit of insurance.",
+        "Basic objective of rate making = price of insurance should be ADEQUATE and REASONABLE.",
+        "Sum Insured = MAXIMUM amount insurer will indemnify — upper ceiling of insurer's liability.",
+        "Pure Premium is LOADED by adding expenses + reserves + profits to become Final Premium.",
+        "Hazard = conditions that CREATE and INCREASE the chance of loss.",
+        "Hazard increases FREQUENCY (how often) and/or SEVERITY (how much damage) of loss.",
+        "Physical Hazard CAN BE ASCERTAINED from information in PROPOSAL FORM.",
+        "Sprinkler system installation = DECREASES the risk (reduces fire hazard).",
+        "Sources of underwriting info: Annual Accounts, Risk Survey, Proposal Form.",
+        "NOT a source for underwriter: REGISTRATION CERTIFICATE OF INSURER.",
+        "Deductible / Excess Clause purpose = ELIMINATE SMALL CLAIMS.",
+        "No Claim Bonus (NCB) = reward for making NO claim during the policy year.",
+        "NCB = powerful strategy to improve underwriting experience + integral part of rating system.",
+        "Motor Insurance Warranty = VEHICLE SHOULD NOT BE USED FOR SPEED TESTING.",
+        "IDV in motor insurance = based on MANUFACTURER'S SELLING PRICE."
       ]
     }
   ]

@@ -1,188 +1,188 @@
 {
   "chapter_id": "underwriting_and_rate_making",
-  "chapter_title": "Chapter 5 (General Section): Underwriting and Rating",
+  "chapter_title": "Chapter 2 (General Section): Underwriting and Rate Making",
   "pass_marks": 9,
   "total_questions": 15,
   "questions": [
     {
-      "id": "G_ch05_q01",
-      "text": "Who is called the Primary Underwriter or Field Underwriter in the insurance process?",
+      "id": "G_ch02_q01",
+      "text": "The price of a given unit of insurance is called:",
       "options": [
-        "Insurer",
-        "Insured",
-        "Insurance Agent",
-        "Insurance Broker"
-      ],
-      "correct_index": 2,
-      "explanation": "The PRIMARY UNDERWRITER or FIELD UNDERWRITER is the INSURANCE AGENT. The agent is the first person who collects all necessary information from the prospective insured and fills in the Proposal Form \u2014 which is the very first step of the underwriting process."
-    },
-    {
-      "id": "G_ch05_q02",
-      "text": "Which of the following correctly describes the role of an Underwriter in an insurance company?",
-      "options": [
-        "Process Claims",
-        "Decide Acceptability of Risk",
-        "Product Design",
-        "Customer Relationship Management"
-      ],
-      "correct_index": 1,
-      "explanation": "The primary role of an Underwriter is to DECIDE THE ACCEPTABILITY OF RISK \u2014 whether the insurance company should accept the risk and at what premium and terms. Underwriters do not process claims, design products, or manage customer relationships."
-    },
-    {
-      "id": "G_ch05_q03",
-      "text": "Which of the following is NOT an Underwriter's decision?",
-      "options": [
-        "Risk Acceptance at Standard Rates",
-        "Decline the Risk",
-        "Postponement of the Risk",
-        "Claim Rejection"
-      ],
-      "correct_index": 3,
-      "explanation": "CLAIM REJECTION is NOT an underwriter's decision. An underwriter's decisions relate to RISK ACCEPTANCE before the policy is issued \u2014 accept at standard rates, accept at modified terms, postpone, or decline. Claim rejection happens AFTER a loss occurs and is handled by the claims department."
-    },
-    {
-      "id": "G_ch05_q04",
-      "text": "The formula to calculate insurance premium is:",
-      "options": [
-        "Sum Insured \u00d7 Rate",
-        "Sum Insured \u00f7 Rate",
-        "(Sum Insured + Rate) \u00f7 1000",
-        "Rate \u00f7 Sum Insured"
+        "Rate",
+        "Premium",
+        "Sum Insured",
+        "Bonus"
       ],
       "correct_index": 0,
-      "explanation": "The premium formula is: PREMIUM = SUM INSURED \u00d7 RATE. The Sum Insured is the coverage amount chosen by the insured, and the Rate is the price per unit of insurance (determined by the underwriter based on risk assessment)."
+      "explanation": "RATE is defined as the price of a given unit of insurance. It is the cost charged per unit of coverage. The total premium is then calculated as: Premium = Sum Insured × Rate."
     },
     {
-      "id": "G_ch05_q05",
-      "text": "The Sum Insured in an insurance policy is decided by:",
+      "id": "G_ch02_q02",
+      "text": "The maximum amount that an insurance company will INDEMNIFY to someone who files a claim is called:",
       "options": [
-        "Insurer",
-        "Insured",
-        "Insurance Agent",
+        "Sum Insured",
+        "Premium",
+        "Rider Benefit",
+        "Bonus"
+      ],
+      "correct_index": 0,
+      "explanation": "SUM INSURED is the MAXIMUM AMOUNT that an insurance company will indemnify (pay) as per the policy conditions. It is the upper ceiling on the insurer's liability — the insurer will not pay beyond this amount regardless of the actual loss."
+    },
+    {
+      "id": "G_ch02_q03",
+      "text": "The BASIC OBJECTIVE of Rate Making in insurance is:",
+      "options": [
+        "To ensure the price of insurance is as high as possible",
+        "To ensure the price of insurance is adequate and reasonable",
+        "To ensure the insurer always earns maximum profit",
+        "To make insurance affordable only for the poor"
+      ],
+      "correct_index": 1,
+      "explanation": "The BASIC OBJECTIVE of the rate making process is to ensure that the PRICE OF INSURANCE IS ADEQUATE AND REASONABLE — meaning the premium charged should be fair, correct, and justified for both the insurer and the insured. Not excessively high or dangerously low."
+    },
+    {
+      "id": "G_ch02_q04",
+      "text": "Which of the following is NOT a source of information for the Underwriter?",
+      "options": [
+        "Annual Accounts of Proposer",
+        "Pre-Acceptance Risk Survey of the asset",
+        "Proposal Form",
+        "Registration Certificate of the Insurer"
+      ],
+      "correct_index": 3,
+      "explanation": "The REGISTRATION CERTIFICATE OF THE INSURER is NOT a source of information for the underwriter. It is the insurer's own document and is irrelevant to assessing a risk. Valid underwriting sources are: (1) Annual Accounts of the Proposer, (2) Pre-Acceptance Risk Survey of the asset, and (3) Proposal Form."
+    },
+    {
+      "id": "G_ch02_q05",
+      "text": "Hazards in insurance are best described as:",
+      "options": [
+        "Factors that only increase the frequency of loss",
+        "Factors that only increase the impact of loss",
+        "Factors that increase both the impact and frequency of loss",
+        "Factors that reduce the chance of loss"
+      ],
+      "correct_index": 2,
+      "explanation": "HAZARDS are conditions that increase BOTH the impact (severity) and the frequency of loss. They raise the probability that a loss will occur AND/OR increase how large the resulting damage will be. Both dimensions — frequency and impact — are characteristics of a hazard."
+    },
+    {
+      "id": "G_ch02_q06",
+      "text": "Which of the following statements is TRUE regarding Physical Hazard?",
+      "options": [
+        "Physical Hazards are unknown for rate making",
+        "Physical Hazards cannot be ascertained",
+        "Physical Hazards can be calculated from the balance sheet",
+        "Physical Hazards can be ascertained from information given in the Proposal Form"
+      ],
+      "correct_index": 3,
+      "explanation": "Physical Hazard CAN BE ASCERTAINED (identified and assessed) from the information given in the PROPOSAL FORM. Physical hazards are tangible, observable conditions — they are not unknown or hidden. The proposal form contains details about the property, location, usage etc. that reveal physical hazards."
+    },
+    {
+      "id": "G_ch02_q07",
+      "text": "Installation of a sprinkler system in the premises will:",
+      "options": [
+        "Increase the risk",
+        "Decrease the risk",
+        "Neither increase nor decrease the risk",
+        "Increase the risk of flooding"
+      ],
+      "correct_index": 1,
+      "explanation": "Installing a SPRINKLER SYSTEM in the premises DECREASES THE RISK. A sprinkler system helps control and extinguish fires quickly, reducing both the probability of a fire spreading and the extent of damage. This is a positive physical feature that lowers fire hazard and may lead to a premium discount."
+    },
+    {
+      "id": "G_ch02_q08",
+      "text": "The PRIMARY PURPOSE of inserting a Deductible or Excess Clause in an insurance policy is:",
+      "options": [
+        "To avoid all claim payments",
+        "To eliminate the payment of small claims",
+        "To increase the premium significantly",
+        "To penalise the policyholder"
+      ],
+      "correct_index": 1,
+      "explanation": "The primary purpose of a DEDUCTIBLE (or EXCESS CLAUSE) is to ELIMINATE SMALL CLAIMS. Under a deductible, the insured bears the initial portion of any loss, so they will not file trivial claims. This reduces administrative burden for the insurer and encourages the insured to take better care of insured property."
+    },
+    {
+      "id": "G_ch02_q09",
+      "text": "No Claim Bonus (NCB) is awarded when:",
+      "options": [
+        "The insured files a very large claim",
+        "No claim has been made during the policy year",
+        "The insured renews the policy for the first time",
+        "The insured pays the premium in advance"
+      ],
+      "correct_index": 1,
+      "explanation": "NO CLAIM BONUS (NCB) is a benefit/discount given by the insurer to the insured when NO CLAIM has been made during the policy year. It rewards careful behaviour — for example, a car owner who has no accidents receives a premium discount on renewal."
+    },
+    {
+      "id": "G_ch02_q10",
+      "text": "No Claim Bonus (NCB) is described as which of the following?",
+      "options": [
+        "A minor administrative tool with limited impact",
+        "A powerful strategy to improve underwriting experience and an integral part of the rating system",
+        "A tool only used in life insurance",
+        "A penalty for making too many claims"
+      ],
+      "correct_index": 1,
+      "explanation": "NCB is a POWERFUL STRATEGY to improve UNDERWRITING EXPERIENCE and forms an INTEGRAL PART OF THE RATING SYSTEM. It incentivises policyholders to avoid filing small claims, reduces claim frequency, and ultimately improves the insurer's loss ratios."
+    },
+    {
+      "id": "G_ch02_q11",
+      "text": "In Motor Insurance, one of the Warranties is:",
+      "options": [
+        "Vehicle should be washed daily",
+        "Vehicle should not be used for speed testing",
+        "Vehicle should not carry personal luggage",
+        "Vehicle should not be driven more than 200 km per day"
+      ],
+      "correct_index": 1,
+      "explanation": "In Motor Insurance, a standard WARRANTY is that the VEHICLE SHOULD NOT BE USED FOR SPEED TESTING. This condition is expressly stated in the motor insurance policy and must be complied with. Violating this warranty can void the claim. The other options are not standard insurance warranties."
+    },
+    {
+      "id": "G_ch02_q12",
+      "text": "Insured Declared Value (IDV) in Motor Insurance includes:",
+      "options": [
+        "Registration price of the vehicle",
+        "Manufacturer's cost price",
+        "Manufacturer's selling price",
+        "An arbitrary price chosen by the insured"
+      ],
+      "correct_index": 2,
+      "explanation": "INSURED DECLARED VALUE (IDV) in motor insurance is based on the MANUFACTURER'S SELLING PRICE of the vehicle (adjusted for depreciation based on the vehicle's age). It represents the current market value and is the maximum amount payable in case of total loss or theft."
+    },
+    {
+      "id": "G_ch02_q13",
+      "text": "Pure Premium, after being suitably loaded, increases because of the addition of which of the following?",
+      "options": [
+        "Taxes only",
+        "Agent's personal charges",
+        "Expenses, Reserves and Profits",
+        "Government levies only"
+      ],
+      "correct_index": 2,
+      "explanation": "Pure Premium is LOADED by adding: (1) EXPENSES of the insurer, (2) RESERVES set aside for future liabilities, and (3) PROFIT MARGIN. After adding all these to the pure premium, the final chargeable premium is arrived at. Pure premium alone only covers expected losses."
+    },
+    {
+      "id": "G_ch02_q14",
+      "text": "The process of classifying risk and deciding which category it falls into is important for:",
+      "options": [
+        "Claim Settlement",
+        "Rate Making",
+        "Policy Endorsement",
+        "Renewal Processing"
+      ],
+      "correct_index": 1,
+      "explanation": "The process of CLASSIFYING RISK into different categories is critically important for RATE MAKING. The risk category a proposer falls into directly determines the premium rate charged. Higher-risk categories attract higher rates, while lower-risk categories attract lower rates or discounts."
+    },
+    {
+      "id": "G_ch02_q15",
+      "text": "Who decides whether to accept or reject a risk in the underwriting process?",
+      "options": [
+        "The Insured",
+        "The Insurance Agent",
+        "The Underwriter",
         "IRDAI"
       ],
-      "correct_index": 1,
-      "explanation": "The SUM INSURED is decided by the INSURED (the policyholder/customer). It is the coverage amount the insured chooses \u2014 for example, Rs. 5 lakh, Rs. 50 lakh, or Rs. 1 crore. The rate (price per unit of coverage) is determined by the insurer/underwriter based on risk assessment."
-    },
-    {
-      "id": "G_ch05_q06",
-      "text": "Identify the TWO factors that affect insurance Rate Making:",
-      "options": [
-        "Probability and Severity of Risk",
-        "Source and Nature of Risk",
-        "Age and Income of the Insured",
-        "Nature and Timing of Risk"
-      ],
-      "correct_index": 0,
-      "explanation": "The two most critical factors in insurance Rate Making are: (1) PROBABILITY of Risk \u2014 how likely is the risk to occur, and (2) SEVERITY of Risk \u2014 how large will the loss be if the risk occurs. These two together determine the premium rate charged."
-    },
-    {
-      "id": "G_ch05_q07",
-      "text": "Pure Premium in insurance is best described as:",
-      "options": [
-        "Premium that is sufficiently large enough to pay for the losses only",
-        "Premium after adding all administrative costs",
-        "Premium charged to marginal members of society",
-        "Premium derived from the most recent investment returns"
-      ],
-      "correct_index": 0,
-      "explanation": "PURE PREMIUM is the amount just sufficient to pay for the EXPECTED LOSSES ONLY \u2014 based on previous loss experience data. It does not include profit margin, agency commission, or management expenses. It is the base layer of premium, before loadings are added."
-    },
-    {
-      "id": "G_ch05_q08",
-      "text": "Which of the following are added to the Pure Premium to arrive at the Final Premium?",
-      "options": [
-        "Loss Expenses and Survey Fee only",
-        "Agency Commission and Management Expenses only",
-        "Profit Margin only",
-        "Loss Expenses, Agency Commission, Management Expenses, and Profit Margin \u2014 all of the above"
-      ],
-      "correct_index": 3,
-      "explanation": "The FINAL PREMIUM is calculated by adding to the Pure Premium: (1) Loss Expenses and Survey Fee, (2) Agency Commission, (3) Management Expenses, and (4) Profit Margin. ALL of these components together form the final premium payable by the policyholder."
-    },
-    {
-      "id": "G_ch05_q09",
-      "text": "Discounts are applied to the insurance premium for:",
-      "options": [
-        "Positive features of risk (lower risk)",
-        "Negative features of risk (higher risk)",
-        "Both positive and negative features",
-        "None of the above"
-      ],
-      "correct_index": 0,
-      "explanation": "DISCOUNTS are applied to the premium for POSITIVE features of risk \u2014 when the risk level is lower than average. For example, a building equipped with fire safety sprinklers poses lower fire risk and may receive a premium discount. LOADING (extra charge) is applied for negative features of risk."
-    },
-    {
-      "id": "G_ch05_q10",
-      "text": "Loadings are applied to the insurance premium for:",
-      "options": [
-        "Positive features of risk",
-        "Negative features of risk (higher risk)",
-        "All policyholders equally",
-        "Only commercial insurance policies"
-      ],
-      "correct_index": 1,
-      "explanation": "LOADING is the additional amount charged on the premium when there are NEGATIVE features of risk \u2014 meaning the risk is higher than normal. For example, an older building with no fire safety equipment or a person with a dangerous occupation will have loading added to their premium."
-    },
-    {
-      "id": "G_ch05_q11",
-      "text": "Why is Hereditary History important during Medical Underwriting?",
-      "options": [
-        "Rich parents always have healthy children",
-        "Certain diseases can be passed from parents to children",
-        "Poor parents have malnourished children",
-        "Family environment is a critical risk factor"
-      ],
-      "correct_index": 1,
-      "explanation": "Hereditary history is important in medical underwriting because CERTAIN DISEASES CAN BE GENETICALLY PASSED FROM PARENTS TO CHILDREN. If a parent suffered from hereditary diseases, the child may carry a higher risk of the same conditions \u2014 directly affecting the risk assessment and premium."
-    },
-    {
-      "id": "G_ch05_q12",
-      "text": "Which of the following conditions will NEGATIVELY affect a person's insurability?",
-      "options": [
-        "Daily jogging habit",
-        "Substance abuse (drugs, banned substances)",
-        "Lazy nature",
-        "Habit of procrastination"
-      ],
-      "correct_index": 1,
-      "explanation": "SUBSTANCE ABUSE (use of drugs and banned substances) negatively affects insurability as it places the person in the moral hazard category. Insurance companies may decline or postpone such risks. Daily jogging is a healthy positive habit. Lazy nature and procrastination are personality traits with no direct actuarial impact."
-    },
-    {
-      "id": "G_ch05_q13",
-      "text": "For underwriting a Health Insurance policy, which information is most relevant?",
-      "options": [
-        "Causes of fire and impact on goods",
-        "Port and road conditions",
-        "Age, medical aspects, fitness level and family history",
-        "Weather conditions in the applicant's city"
-      ],
       "correct_index": 2,
-      "explanation": "For HEALTH INSURANCE underwriting, the most relevant information is: (1) Age, (2) Medical history and current health, (3) Fitness level, (4) Family/Hereditary history. Causes of fire, port conditions, and weather are completely irrelevant to health insurance risk assessment."
-    },
-    {
-      "id": "G_ch05_q14",
-      "text": "KYC stands for:",
-      "options": [
-        "Keep Your Capital",
-        "Know Your Customer",
-        "Know Your Contract",
-        "Keep Your Cover"
-      ],
-      "correct_index": 1,
-      "explanation": "KYC stands for KNOW YOUR CUSTOMER. It is a mandatory verification process in insurance where the company confirms the identity and address of the policyholder. KYC documents include a Photograph, Address Proof, and Proof of Identity."
-    },
-    {
-      "id": "G_ch05_q15",
-      "text": "To ascertain which of the following, is Age Proof NOT required?",
-      "options": [
-        "Assessment of Risk Profile",
-        "Premium Paying Capacity",
-        "Fixing the Premium",
-        "All of the above"
-      ],
-      "correct_index": 1,
-      "explanation": "Age Proof CANNOT be used to determine the PREMIUM PAYING CAPACITY of a person \u2014 financial capacity depends on income, not age alone. Age proof is required for: (1) assessing the risk profile, (2) fixing the correct premium. But it tells us nothing about whether the person can afford the premium."
+      "explanation": "The UNDERWRITER is the officer in the insurance company who decides whether to ACCEPT or REJECT (decline) a risk, and if accepted, at what rate and on what terms. The insurance agent (primary underwriter) only collects information — the final underwriting decision rests with the company's underwriter."
     }
   ]
 }
