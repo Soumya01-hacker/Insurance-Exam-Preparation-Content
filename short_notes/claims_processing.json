@@ -1,0 +1,105 @@
+{
+  "chapterId": "claims_processing",
+  "title": "Chapter 6: Claims Processing (Common Chapters)",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "📌 Concept of Claims & Importance",
+      "cards": [
+        {
+          "title": "What is a Claim?",
+          "content": "A claim is a formal request by the policyholder to the insurance company for coverage or compensation for a covered loss or policy event. It is the defining moment when the insurance promise is fulfilled.",
+          "color": "blue"
+        },
+        {
+          "title": "Importance of Settling Claims Fairly",
+          "content": "Fair and prompt claim settlement builds trust in the insurance system. It is the primary obligation of the insurer. Delayed or unfair settlements result in regulatory penalties, loss of reputation, and customer dissatisfaction.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📝 Claim Process Steps",
+      "cards": [
+        {
+          "title": "1. Intimation and Notice of Loss",
+          "content": "The first step in any claim is 'Intimation' — notifying the insurer about the loss immediately. Delay in intimation can lead to claim rejection as it hampers the insurer's ability to investigate the loss properly.",
+          "color": "blue"
+        },
+        {
+          "title": "2. Claim Forms – Types and Usage",
+          "content": "After intimation, the insured must fill a standard Claim Form detailing the loss. Different policies (Motor, Fire, Health) have specific claim forms tailored to capture relevant information.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Investigation and Assessment",
+          "content": "The insurer investigates the claim to ensure its genuineness, verify that the peril is covered, and assess the quantum of loss.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🕵️‍♂️ Role of Surveyors and Loss Assessors",
+      "cards": [
+        {
+          "title": "Independent Professionals",
+          "content": "Surveyors and Loss Assessors are independent professionals licensed by IRDAI. Their role is to impartially assess the loss, verify facts, and submit a report to the insurer determining the payable claim amount.",
+          "color": "blue"
+        },
+        {
+          "title": "When is a Surveyor Required?",
+          "content": "Under the Insurance Act, appointment of a licensed surveyor is mandatory for assessing losses above a specific statutory limit (typically Rs. 50,000 for general insurance claims).",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚙️ Post-Assessment Actions",
+      "cards": [
+        {
+          "title": "Discharge Vouchers",
+          "content": "Once the claim amount is agreed upon, the insured signs a 'Discharge Voucher'. It is a legal receipt acknowledging full and final settlement of the claim, discharging the insurer from further liability.",
+          "color": "blue"
+        },
+        {
+          "title": "Salvage",
+          "content": "Salvage refers to the damaged property left after a loss. Under the principle of indemnity, once a total loss claim is paid, the salvage belongs to the insurance company, which may sell it to recover part of the loss.",
+          "color": "blue"
+        },
+        {
+          "title": "Recoveries and Subrogation",
+          "content": "If the loss was caused by a negligent third party, the insurer, after paying the claim, steps into the shoes of the insured (Subrogation) to recover the money from the guilty party.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "⚖️ Dispute Resolution",
+      "cards": [
+        {
+          "title": "Handling Claim Disputes",
+          "content": "Disputes often arise regarding claim rejection or quantum of settlement. Options for redressal include representing to the insurer's grievance cell, approaching the Insurance Ombudsman, or filing a case in Consumer Courts.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Claims Processing",
+      "items": [
+        "First step in a claim is always Intimation/Notice of Loss.",
+        "Delay in intimation can prejudice the insurer's investigation and lead to rejection.",
+        "Surveyors are licensed by IRDAI and are mandatory for large claims.",
+        "Discharge Voucher signifies full and final settlement of a claim.",
+        "Salvage belongs to the insurer after a total loss claim is settled.",
+        "Subrogation allows the insurer to recover costs from a negligent third party.",
+        "Fair claims settlement is the ultimate test of an insurance company."
+      ]
+    }
+  ]
+}

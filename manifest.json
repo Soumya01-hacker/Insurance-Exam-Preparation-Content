@@ -1,5 +1,5 @@
 {
-  "version": "12.3.5",
+  "version": "12.3.6",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -378,7 +378,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/short_notes/claims_processing.json"
             },
             {
               "id": "documentation",
@@ -1348,7 +1349,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/short_notes/claims_processing.json"
             },
             {
               "id": "documentation",
@@ -2177,7 +2179,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/claims_processing.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/claims_processing.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/short_notes/claims_processing.json"
             },
             {
               "id": "documentation",

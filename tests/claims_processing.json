@@ -1,0 +1,188 @@
+{
+  "chapter_id": "claims_processing",
+  "chapter_title": "Chapter 6: Claims Processing",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "cp_q01",
+      "text": "What is the very first step in the claims processing cycle after a loss occurs?",
+      "options": [
+        "Signing the discharge voucher",
+        "Appointing a surveyor",
+        "Intimation and notice of loss to the insurer",
+        "Selling the salvage"
+      ],
+      "correct_index": 2,
+      "explanation": "The first step in any insurance claim process is 'Intimation' — notifying the insurer about the loss immediately so that they can register the claim and initiate the investigation."
+    },
+    {
+      "id": "cp_q02",
+      "text": "Why is immediate intimation of loss crucial for an insurance claim?",
+      "options": [
+        "To allow the insurer to immediately pay the claim",
+        "To prevent the insured from changing their mind",
+        "To enable the insurer to properly investigate the loss while evidence is fresh",
+        "To calculate the next year's premium"
+      ],
+      "correct_index": 2,
+      "explanation": "Immediate intimation is crucial because it allows the insurer to investigate the loss promptly, verify the facts, and assess the damage while the evidence is still fresh."
+    },
+    {
+      "id": "cp_q03",
+      "text": "Who licenses Surveyors and Loss Assessors in India?",
+      "options": [
+        "The Insurance Company",
+        "The Central Government",
+        "IRDAI (Insurance Regulatory and Development Authority of India)",
+        "The Police Department"
+      ],
+      "correct_index": 2,
+      "explanation": "Surveyors and Loss Assessors are independent professionals who must hold a valid license issued by IRDAI to practice in India."
+    },
+    {
+      "id": "cp_q04",
+      "text": "Under the Insurance Act, the appointment of a licensed surveyor is mandatory for assessing losses above what amount (typically in general insurance)?",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 20,000",
+        "Rs. 50,000",
+        "Rs. 1,00,000"
+      ],
+      "correct_index": 2,
+      "explanation": "The Insurance Act mandates the appointment of a licensed surveyor for assessing claims where the estimated loss is Rs. 50,000 or above in general insurance."
+    },
+    {
+      "id": "cp_q05",
+      "text": "What is the primary role of a Surveyor in the claims process?",
+      "options": [
+        "To negotiate the premium with the insured",
+        "To impartially assess the loss and verify the facts of the claim",
+        "To legally represent the insured in court",
+        "To sell the damaged property"
+      ],
+      "correct_index": 1,
+      "explanation": "The primary role of a surveyor is to conduct an independent and impartial assessment of the loss, verify the circumstances, and submit a report to the insurer detailing the payable amount."
+    },
+    {
+      "id": "cp_q06",
+      "text": "Which document must the insured sign to acknowledge the full and final settlement of a claim?",
+      "options": [
+        "Proposal Form",
+        "Cover Note",
+        "Discharge Voucher",
+        "Endorsement"
+      ],
+      "correct_index": 2,
+      "explanation": "A Discharge Voucher is signed by the insured upon receiving the claim payment, acting as a legal receipt that acknowledges full and final settlement and discharges the insurer from further liability."
+    },
+    {
+      "id": "cp_q07",
+      "text": "What does 'Salvage' refer to in the context of insurance claims?",
+      "options": [
+        "The extra premium charged for high risks",
+        "The amount deducted as depreciation",
+        "The damaged property left after a loss",
+        "The legal fees paid to the surveyor"
+      ],
+      "correct_index": 2,
+      "explanation": "Salvage refers to the damaged or partially destroyed property that remains after a loss. In a total loss claim, the salvage becomes the property of the insurer."
+    },
+    {
+      "id": "cp_q08",
+      "text": "After paying a total loss claim for a completely destroyed car, who owns the salvage (the scrap of the car)?",
+      "options": [
+        "The insured",
+        "The traffic police",
+        "The insurance company",
+        "The surveyor"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the principle of indemnity, once the insurer pays a total loss claim, they take over the ownership of the salvage to prevent the insured from making a profit by keeping both the claim money and the scrap."
+    },
+    {
+      "id": "cp_q09",
+      "text": "If an insured's property is damaged by a negligent third party, the right of the insurer to recover the claim amount from that third party is called:",
+      "options": [
+        "Contribution",
+        "Subrogation",
+        "Indemnity",
+        "Proximate Cause"
+      ],
+      "correct_index": 1,
+      "explanation": "Subrogation is the right of the insurer to step into the shoes of the insured and recover the amount of the loss from the legally liable third party, after having paid the claim."
+    },
+    {
+      "id": "cp_q10",
+      "text": "Why are different types of claim forms used for different insurance policies?",
+      "options": [
+        "To confuse the policyholder",
+        "Because different perils require specific information to be captured",
+        "To charge a fee for different forms",
+        "Because the government prints them differently"
+      ],
+      "correct_index": 1,
+      "explanation": "Claim forms are tailored to the type of policy (e.g., motor, fire, health) because different types of losses require specific details and evidence to be captured for proper assessment."
+    },
+    {
+      "id": "cp_q11",
+      "text": "A delay in intimation of a claim can lead to which of the following?",
+      "options": [
+        "Increase in the claim amount",
+        "Automatic approval of the claim",
+        "Prejudice to the insurer's investigation and possible rejection",
+        "A discount on the next premium"
+      ],
+      "correct_index": 2,
+      "explanation": "Delay in intimation prejudices the insurer's ability to verify the facts while evidence is fresh, which can lead to the claim being rejected or disputed."
+    },
+    {
+      "id": "cp_q12",
+      "text": "What is the ultimate test of an insurance company's service quality?",
+      "options": [
+        "The speed of issuing the policy",
+        "The amount of commission paid to agents",
+        "Fair and prompt settlement of claims",
+        "The number of advertisements on TV"
+      ],
+      "correct_index": 2,
+      "explanation": "The ultimate test of an insurance company is how fairly and promptly it handles and settles claims, as this is the moment the 'promise' of insurance is delivered."
+    },
+    {
+      "id": "cp_q13",
+      "text": "Which of the following is an alternative dispute resolution mechanism available to a policyholder unhappy with a claim settlement?",
+      "options": [
+        "Insurance Ombudsman",
+        "Supreme Court only",
+        "Police complaint against the agent",
+        "Approaching the local municipality"
+      ],
+      "correct_index": 0,
+      "explanation": "The Insurance Ombudsman is a specialized quasi-judicial body designed for quick and cost-effective resolution of grievances and claim disputes between policyholders and insurers."
+    },
+    {
+      "id": "cp_q14",
+      "text": "When assessing a fire insurance claim, the surveyor will primarily check if:",
+      "options": [
+        "The insured has paid next year's premium",
+        "The fire was the proximate cause of the loss and is a covered peril",
+        "The insured owns other properties",
+        "The fire department was paid a fee"
+      ],
+      "correct_index": 1,
+      "explanation": "The surveyor's primary role is to verify that the cause of the loss (proximate cause) is a peril explicitly covered under the policy (e.g., fire) and assess the resulting damage."
+    },
+    {
+      "id": "cp_q15",
+      "text": "Which document is essential to prove that an insured event occurred, often required to be submitted with a motor theft claim?",
+      "options": [
+        "Birth Certificate",
+        "FIR (First Information Report)",
+        "Marriage Certificate",
+        "Electricity Bill"
+      ],
+      "correct_index": 1,
+      "explanation": "An FIR (First Information Report) lodged with the police is a crucial piece of evidence to prove that a theft or accident occurred and is mandatorily required for such claims."
+    }
+  ]
+}
