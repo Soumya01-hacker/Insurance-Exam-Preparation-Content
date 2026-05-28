@@ -1,188 +1,188 @@
 {
   "chapter_id": "claims_processing",
-  "chapter_title": "Chapter 6: Claims Processing",
+  "chapter_title": "Chapter 6 (Common Section): Claims Processing",
   "pass_marks": 9,
   "total_questions": 15,
   "questions": [
     {
-      "id": "cp_q01",
-      "text": "What is the very first step in the claims processing cycle after a loss occurs?",
+      "id": "ch06_q01",
+      "text": "TAT in insurance claims processing stands for:",
       "options": [
-        "Signing the discharge voucher",
-        "Appointing a surveyor",
-        "Intimation and notice of loss to the insurer",
-        "Selling the salvage"
+        "Time and Turn",
+        "Time a Time",
+        "Turnaround Time",
+        "Time and Tide"
       ],
       "correct_index": 2,
-      "explanation": "The first step in any insurance claim process is 'Intimation' — notifying the insurer about the loss immediately so that they can register the claim and initiate the investigation."
+      "explanation": "TAT stands for TURNAROUND TIME. It is the specific time period within which the insurance company must complete loss assessment, verify the claim, and process it. As per IRDAI rules, standard claims must be settled within 30 days."
     },
     {
-      "id": "cp_q02",
-      "text": "Why is immediate intimation of loss crucial for an insurance claim?",
+      "id": "ch06_q02",
+      "text": "Non-Standard Claims in insurance refer to claims where:",
       "options": [
-        "To allow the insurer to immediately pay the claim",
-        "To prevent the insured from changing their mind",
-        "To enable the insurer to properly investigate the loss while evidence is fresh",
-        "To calculate the next year's premium"
+        "An accident occurred due to using a non-standard machine",
+        "Claims were intimated after a long time",
+        "The insured may have committed a breach of conditions and warranty",
+        "Loss was caused by an Act of God"
       ],
       "correct_index": 2,
-      "explanation": "Immediate intimation is crucial because it allows the insurer to investigate the loss promptly, verify the facts, and assess the damage while the evidence is still fresh."
+      "explanation": "Non-Standard Claims are claims where the INSURED HAS BREACHED (violated) the conditions, warranties, or terms of the insurance policy. These claims take longer to process as the insurer conducts detailed surveys and investigations. Compensation may be reduced or denied."
     },
     {
-      "id": "cp_q03",
-      "text": "Who licenses Surveyors and Loss Assessors in India?",
+      "id": "ch06_q03",
+      "text": "After the insurance company pays the claim for a damaged property, the SALVAGE (remains of the damaged property) belongs to:",
       "options": [
-        "The Insurance Company",
-        "The Central Government",
-        "IRDAI (Insurance Regulatory and Development Authority of India)",
-        "The Police Department"
+        "The Insured",
+        "The Surveyor",
+        "The Insurer",
+        "Local Authorities"
       ],
       "correct_index": 2,
-      "explanation": "Surveyors and Loss Assessors are independent professionals who must hold a valid license issued by IRDAI to practice in India."
+      "explanation": "On payment of loss (claim), the SALVAGE belongs to the INSURER (insurance company). This follows the Principle of Subrogation — once compensation is paid, all rights over the damaged property transfer from the insured to the insurer. The insurer can then recover any residual value from the salvage."
     },
     {
-      "id": "cp_q04",
-      "text": "Under the Insurance Act, the appointment of a licensed surveyor is mandatory for assessing losses above what amount (typically in general insurance)?",
+      "id": "ch06_q04",
+      "text": "Arbitration in insurance claim disputes is governed by which Act?",
       "options": [
-        "Rs. 10,000",
-        "Rs. 20,000",
-        "Rs. 50,000",
-        "Rs. 1,00,000"
+        "The Insurance Act, 1938",
+        "The Indian Contract Act, 1872",
+        "The Arbitration and Conciliation Act, 1996",
+        "The IRDAI Act, 1999"
       ],
       "correct_index": 2,
-      "explanation": "The Insurance Act mandates the appointment of a licensed surveyor for assessing claims where the estimated loss is Rs. 50,000 or above in general insurance."
+      "explanation": "Arbitration in insurance claim disputes is governed by the ARBITRATION AND CONCILIATION ACT, 1996. In arbitration, an arbitrator is selected by MUTUAL CONSENT of both parties (insurer and insured) and helps resolve the dispute outside of court."
     },
     {
-      "id": "cp_q05",
-      "text": "What is the primary role of a Surveyor in the claims process?",
+      "id": "ch06_q05",
+      "text": "Motor Third Party claims are settled through:",
       "options": [
-        "To negotiate the premium with the insured",
-        "To impartially assess the loss and verify the facts of the claim",
-        "To legally represent the insured in court",
-        "To sell the damaged property"
+        "Civil Court",
+        "In-House Insurance Committee",
+        "Motor Accident Claims Tribunal (MACT)",
+        "Sessions Court"
+      ],
+      "correct_index": 2,
+      "explanation": "MOTOR THIRD PARTY claims are exclusively settled through the MOTOR ACCIDENT CLAIMS TRIBUNAL (MACT). This is a specialised legal body set up to handle motor accident third-party claims. They are NOT handled by civil courts, session courts, or internal insurance committees."
+    },
+    {
+      "id": "ch06_q06",
+      "text": "In case of a FIRE CLAIM, the report from which authority is NECESSARY?",
+      "options": [
+        "Police",
+        "Surveyor",
+        "Fire Brigade",
+        "Coroner"
+      ],
+      "correct_index": 2,
+      "explanation": "For a FIRE CLAIM, the FIRE BRIGADE report is NECESSARY and mandatory. The fire brigade is typically the first authority to respond to a fire incident, and their report is the most reliable record of the cause, extent, and circumstances of the fire."
+    },
+    {
+      "id": "ch06_q07",
+      "text": "For PERSONAL ACCIDENT CLAIMS, the report of which professional is mandatory?",
+      "options": [
+        "Surveyor",
+        "Doctor",
+        "Police",
+        "Coroner"
       ],
       "correct_index": 1,
-      "explanation": "The primary role of a surveyor is to conduct an independent and impartial assessment of the loss, verify the circumstances, and submit a report to the insurer detailing the payable amount."
+      "explanation": "For PERSONAL ACCIDENT CLAIMS, the DOCTOR's report is mandatory. When a personal accident occurs, the first and most important step is medical treatment, and the doctor's medical report is the essential document to substantiate the nature and extent of the injury."
     },
     {
-      "id": "cp_q06",
-      "text": "Which document must the insured sign to acknowledge the full and final settlement of a claim?",
+      "id": "ch06_q08",
+      "text": "Claims involving THIRD PARTY PROPERTY DAMAGE are assessed on the basis of:",
       "options": [
-        "Proposal Form",
-        "Cover Note",
-        "Discharge Voucher",
-        "Endorsement"
-      ],
-      "correct_index": 2,
-      "explanation": "A Discharge Voucher is signed by the insured upon receiving the claim payment, acting as a legal receipt that acknowledges full and final settlement and discharges the insurer from further liability."
-    },
-    {
-      "id": "cp_q07",
-      "text": "What does 'Salvage' refer to in the context of insurance claims?",
-      "options": [
-        "The extra premium charged for high risks",
-        "The amount deducted as depreciation",
-        "The damaged property left after a loss",
-        "The legal fees paid to the surveyor"
-      ],
-      "correct_index": 2,
-      "explanation": "Salvage refers to the damaged or partially destroyed property that remains after a loss. In a total loss claim, the salvage becomes the property of the insurer."
-    },
-    {
-      "id": "cp_q08",
-      "text": "After paying a total loss claim for a completely destroyed car, who owns the salvage (the scrap of the car)?",
-      "options": [
-        "The insured",
-        "The traffic police",
-        "The insurance company",
-        "The surveyor"
-      ],
-      "correct_index": 2,
-      "explanation": "Under the principle of indemnity, once the insurer pays a total loss claim, they take over the ownership of the salvage to prevent the insured from making a profit by keeping both the claim money and the scrap."
-    },
-    {
-      "id": "cp_q09",
-      "text": "If an insured's property is damaged by a negligent third party, the right of the insurer to recover the claim amount from that third party is called:",
-      "options": [
-        "Contribution",
-        "Subrogation",
-        "Indemnity",
-        "Proximate Cause"
-      ],
-      "correct_index": 1,
-      "explanation": "Subrogation is the right of the insurer to step into the shoes of the insured and recover the amount of the loss from the legally liable third party, after having paid the claim."
-    },
-    {
-      "id": "cp_q10",
-      "text": "Why are different types of claim forms used for different insurance policies?",
-      "options": [
-        "To confuse the policyholder",
-        "Because different perils require specific information to be captured",
-        "To charge a fee for different forms",
-        "Because the government prints them differently"
-      ],
-      "correct_index": 1,
-      "explanation": "Claim forms are tailored to the type of policy (e.g., motor, fire, health) because different types of losses require specific details and evidence to be captured for proper assessment."
-    },
-    {
-      "id": "cp_q11",
-      "text": "A delay in intimation of a claim can lead to which of the following?",
-      "options": [
-        "Increase in the claim amount",
-        "Automatic approval of the claim",
-        "Prejudice to the insurer's investigation and possible rejection",
-        "A discount on the next premium"
-      ],
-      "correct_index": 2,
-      "explanation": "Delay in intimation prejudices the insurer's ability to verify the facts while evidence is fresh, which can lead to the claim being rejected or disputed."
-    },
-    {
-      "id": "cp_q12",
-      "text": "What is the ultimate test of an insurance company's service quality?",
-      "options": [
-        "The speed of issuing the policy",
-        "The amount of commission paid to agents",
-        "Fair and prompt settlement of claims",
-        "The number of advertisements on TV"
-      ],
-      "correct_index": 2,
-      "explanation": "The ultimate test of an insurance company is how fairly and promptly it handles and settles claims, as this is the moment the 'promise' of insurance is delivered."
-    },
-    {
-      "id": "cp_q13",
-      "text": "Which of the following is an alternative dispute resolution mechanism available to a policyholder unhappy with a claim settlement?",
-      "options": [
-        "Insurance Ombudsman",
-        "Supreme Court only",
-        "Police complaint against the agent",
-        "Approaching the local municipality"
+        "Survey Report",
+        "Police Report",
+        "Actual Purchase Bill",
+        "Declaration of Owner of the Property"
       ],
       "correct_index": 0,
-      "explanation": "The Insurance Ombudsman is a specialized quasi-judicial body designed for quick and cost-effective resolution of grievances and claim disputes between policyholders and insurers."
+      "explanation": "Claims involving THIRD PARTY PROPERTY DAMAGE are assessed on the basis of the SURVEY REPORT prepared by the licensed and qualified surveyor who physically inspects and evaluates the damage."
     },
     {
-      "id": "cp_q14",
-      "text": "When assessing a fire insurance claim, the surveyor will primarily check if:",
+      "id": "ch06_q09",
+      "text": "In HIT AND RUN cases where the vehicle causing the accident cannot be traced, claims are settled from:",
       "options": [
-        "The insured has paid next year's premium",
-        "The fire was the proximate cause of the loss and is a covered peril",
-        "The insured owns other properties",
-        "The fire department was paid a fee"
+        "Solatium Fund",
+        "IRDAI Contingency Fund",
+        "Insurance Company's Reserves",
+        "Motor Third Party Pool"
       ],
-      "correct_index": 1,
-      "explanation": "The surveyor's primary role is to verify that the cause of the loss (proximate cause) is a peril explicitly covered under the policy (e.g., fire) and assess the resulting damage."
+      "correct_index": 0,
+      "explanation": "In HIT AND RUN cases where the offending vehicle cannot be identified, claims (for death or disability) are settled from the SOLATIUM FUND under the Solatium Scheme, 1989. This fund provides consolation compensation to victims even when no insurance policy can be traced."
     },
     {
-      "id": "cp_q15",
-      "text": "Which document is essential to prove that an insured event occurred, often required to be submitted with a motor theft claim?",
+      "id": "ch06_q10",
+      "text": "When should the intimation of loss be made to the insurance company?",
       "options": [
-        "Birth Certificate",
-        "FIR (First Information Report)",
-        "Marriage Certificate",
-        "Electricity Bill"
+        "At the exact time of the loss",
+        "After 15 days of the loss",
+        "As soon as reasonably possible",
+        "Any time after the loss"
+      ],
+      "correct_index": 2,
+      "explanation": "The intimation of loss to the insurance company should be made AS SOON AS REASONABLY POSSIBLE after the loss occurs. Early notification enables faster surveys and claim processing. Delayed intimation can complicate or jeopardise the claim."
+    },
+    {
+      "id": "ch06_q11",
+      "text": "If an insurer settles a claim quickly and efficiently, what is the most significant outcome?",
+      "options": [
+        "Insurer will be tempted to receive more claims",
+        "This will be the best advertisement for the insurer",
+        "Insurer will go into financial loss",
+        "Only habitual claimants will take insurance"
       ],
       "correct_index": 1,
-      "explanation": "An FIR (First Information Report) lodged with the police is a crucial piece of evidence to prove that a theft or accident occurred and is mandatorily required for such claims."
+      "explanation": "Quick and efficient claim settlement is the BEST ADVERTISEMENT for an insurance company. It demonstrates the insurer's commitment and capability to honour their promises. Good claim experience builds trust and attracts new policyholders through word of mouth."
+    },
+    {
+      "id": "ch06_q12",
+      "text": "Which of the following activities would NOT be categorised as part of PROFESSIONAL claim settlement?",
+      "options": [
+        "Seeking information about the cause of the loss",
+        "Approaching the claim with prejudice and bias",
+        "Checking whether the loss is covered under the policy",
+        "Quantifying the amount payable under the claim"
+      ],
+      "correct_index": 1,
+      "explanation": "Approaching a claim WITH PREJUDICE or bias is NOT part of professional claim settlement. Professional settlement involves: objectively gathering cause-of-loss information, verifying coverage, and calculating the payable amount. Any approach based on prejudice, revenge, or malice is unprofessional and unethical."
+    },
+    {
+      "id": "ch06_q13",
+      "text": "For Travel Insurance policies, claims arising OUTSIDE India are assessed by:",
+      "options": [
+        "Indian Licensed Surveyors",
+        "Local surveyors in the country of loss",
+        "The Insurer's own employees",
+        "Claims Settling Agent named in the policy"
+      ],
+      "correct_index": 3,
+      "explanation": "For travel insurance claims arising outside India, the assessment is done by the CLAIMS SETTLING AGENT NAMED IN THE POLICY. The policy document specifically designates an agent (or claims handling company) in the destination country to handle overseas claims efficiently."
+    },
+    {
+      "id": "ch06_q14",
+      "text": "As per the Insurance Act, an INDEPENDENT SURVEYOR is required when the value of a claim exceeds:",
+      "options": [
+        "Rs. 5,000",
+        "Rs. 10,000",
+        "Rs. 20,000",
+        "Rs. 50,000"
+      ],
+      "correct_index": 2,
+      "explanation": "As per the Insurance Act, an INDEPENDENT LICENSED AND QUALIFIED SURVEYOR is required when the claim value EXCEEDS Rs. 20,000. Below this threshold, the insurer's internal staff can handle the survey. (Note: IRDAI has proposed revising this limit, but for the current IRDAI IC-38 exam, Rs. 20,000 is the correct answer.)"
+    },
+    {
+      "id": "ch06_q15",
+      "text": "Loss investigation in insurance claims must be conducted by:",
+      "options": [
+        "Any unlicensed surveyor",
+        "Licensed and Qualified Surveyor",
+        "Representative of the Insured",
+        "Any person holding an Engineering degree"
+      ],
+      "correct_index": 1,
+      "explanation": "Loss investigation in insurance claims must be conducted by a LICENSED AND QUALIFIED SURVEYOR. Only a surveyor who holds a valid licence and the required qualifications is authorised to conduct official loss assessments. An unlicensed person, the insured's own representative, or an engineering graduate without a surveyor's licence cannot conduct the official investigation."
     }
   ]
 }

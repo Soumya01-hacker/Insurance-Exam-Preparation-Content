@@ -1,104 +1,194 @@
 {
   "chapterId": "claims_processing",
-  "title": "Chapter 6: Claims Processing (Common Chapters)",
+  "title": "Chapter 6 (Common Section): Claims Processing",
   "theme": "Premium Blue-Gold",
   "sections": [
     {
       "type": "note_card",
-      "title": "📌 Concept of Claims & Importance",
+      "title": "⚡ Claims — The Real Test of Insurance",
       "cards": [
         {
           "title": "What is a Claim?",
-          "content": "A claim is a formal request by the policyholder to the insurance company for coverage or compensation for a covered loss or policy event. It is the defining moment when the insurance promise is fulfilled.",
+          "content": "A claim (called 'Dawa' in Hindi) is a formal request by the insured to the insurance company for compensation after a covered loss. The real test of any insurance company comes at the time of claim — it shows how efficiently the company honours its commitments.",
           "color": "blue"
         },
         {
-          "title": "Importance of Settling Claims Fairly",
-          "content": "Fair and prompt claim settlement builds trust in the insurance system. It is the primary obligation of the insurer. Delayed or unfair settlements result in regulatory penalties, loss of reputation, and customer dissatisfaction.",
+          "title": "What is Loss Assessment?",
+          "content": "Loss Assessment is the process by which the insurance company determines: (1) Whether the loss is COVERED under the policy, (2) Whether the terms, conditions, and warranties have been VIOLATED or BREACHED, (3) Whether the claim is genuine and not fraudulent.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "📝 Claim Process Steps",
+      "title": "⏱️ Turnaround Time (TAT)",
       "cards": [
         {
-          "title": "1. Intimation and Notice of Loss",
-          "content": "The first step in any claim is 'Intimation' — notifying the insurer about the loss immediately. Delay in intimation can lead to claim rejection as it hampers the insurer's ability to investigate the loss properly.",
+          "title": "What is TAT?",
+          "content": "TAT stands for TURNAROUND TIME. It is the time within which the insurance company must complete the loss assessment and process the claim. Standard claims must be paid within 30 DAYS as per IRDAI rules.",
           "color": "blue"
         },
         {
-          "title": "2. Claim Forms – Types and Usage",
-          "content": "After intimation, the insured must fill a standard Claim Form detailing the loss. Different policies (Motor, Fire, Health) have specific claim forms tailored to capture relevant information.",
-          "color": "blue"
-        },
-        {
-          "title": "3. Investigation and Assessment",
-          "content": "The insurer investigates the claim to ensure its genuineness, verify that the peril is covered, and assess the quantum of loss.",
+          "title": "What is Checked During TAT?",
+          "content": "During the Turnaround Time, the insurance company checks FOUR things: (1) Whether policy terms, conditions, and warranties have been breached, (2) Whether Utmost Good Faith has been followed, (3) Whether the loss falls within the scope (coverage) of the policy, (4) Whether the loss claimed is genuine and not fraudulent.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "🕵️‍♂️ Role of Surveyors and Loss Assessors",
+      "title": "📂 Three Categories of Claims",
       "cards": [
         {
-          "title": "Independent Professionals",
-          "content": "Surveyors and Loss Assessors are independent professionals licensed by IRDAI. Their role is to impartially assess the loss, verify facts, and submit a report to the insurer determining the payable claim amount.",
+          "title": "1. Standard Claims",
+          "content": "Standard Claims are those where: (1) The policy terms and conditions are clear, (2) No conditions or warranties have been breached by the insured. These claims are settled smoothly and quickly — WITHIN 30 DAYS as per IRDAI rules. These are the simplest category of claims.",
           "color": "blue"
         },
         {
-          "title": "When is a Surveyor Required?",
-          "content": "Under the Insurance Act, appointment of a licensed surveyor is mandatory for assessing losses above a specific statutory limit (typically Rs. 50,000 for general insurance claims).",
+          "title": "2. Non-Standard Claims",
+          "content": "Non-Standard Claims are those where the insured has BREACHED (violated) the conditions, warranties, or terms of the policy. These claims take LONGER to settle because the insurance company conducts more detailed surveys and verifications. Compensation may be reduced or refused.",
+          "color": "blue"
+        },
+        {
+          "title": "3. Act of God / Catastrophic Losses",
+          "content": "These are claims arising from NATURAL DISASTERS — storm, cyclone, flood, earthquake etc. (events caused by nature, not humans). In such cases, company surveyors reach the site QUICKLY, conduct thorough surveys, and assess all losses before processing the claim.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "⚙️ Post-Assessment Actions",
+      "title": "🚗 Salvage — Important Concept",
       "cards": [
         {
-          "title": "Discharge Vouchers",
-          "content": "Once the claim amount is agreed upon, the insured signs a 'Discharge Voucher'. It is a legal receipt acknowledging full and final settlement of the claim, discharging the insurer from further liability.",
+          "title": "What is Salvage?",
+          "content": "Salvage means the REMAINS or damaged property left after a loss has occurred (e.g., a wrecked car after an accident). After the insurer pays the claim, the salvage belongs to the INSURER (insurance company), not the insured.",
           "color": "blue"
         },
         {
-          "title": "Salvage",
-          "content": "Salvage refers to the damaged property left after a loss. Under the principle of indemnity, once a total loss claim is paid, the salvage belongs to the insurance company, which may sell it to recover part of the loss.",
-          "color": "blue"
-        },
-        {
-          "title": "Recoveries and Subrogation",
-          "content": "If the loss was caused by a negligent third party, the insurer, after paying the claim, steps into the shoes of the insured (Subrogation) to recover the money from the guilty party.",
+          "title": "Salvage Belongs to — INSURER",
+          "content": "On payment of loss/claim — salvage belongs to the INSURER. This is the direct application of the Principle of Subrogation. Options to avoid: surveyor, local authorities, insured — all wrong. Correct answer is always the INSURER.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "note_card",
-      "title": "⚖️ Dispute Resolution",
+      "title": "⚖️ Claim Disputes and Resolution",
       "cards": [
         {
-          "title": "Handling Claim Disputes",
-          "content": "Disputes often arise regarding claim rejection or quantum of settlement. Options for redressal include representing to the insurer's grievance cell, approaching the Insurance Ombudsman, or filing a case in Consumer Courts.",
+          "title": "Common Reasons for Claim Disputes",
+          "content": "Disputes between insurer and insured arise due to: (1) Delay in claim payment, (2) Complete rejection of the claim, (3) Claim admitted for a LESSER amount than what was claimed. When the insured is not satisfied, the matter goes to Grievance Redressal.",
+          "color": "blue"
+        },
+        {
+          "title": "Grievance Redressal and Ombudsman",
+          "content": "For insurance claim disputes, an OMBUDSMAN system and GRIEVANCE REDRESSAL mechanism has been set up by IRDAI. The insured can approach the ombudsman if unsatisfied with the insurer's response on their claim.",
+          "color": "blue"
+        },
+        {
+          "title": "Arbitration — Claim Dispute Resolution",
+          "content": "ARBITRATION is a method to resolve insurance claim disputes without going to court. An ARBITRATOR is chosen by BOTH parties (insurer and insured) with mutual consent. Arbitration is governed by the ARBITRATION AND CONCILIATION ACT, 1996. The arbitrator acts as a mediator and helps both parties reach a resolution.",
+          "color": "blue"
+        },
+        {
+          "title": "Motor Third Party Claims — Special Tribunal",
+          "content": "Motor Third Party claims are NOT settled in civil courts or through arbitration. They are settled through the MOTOR ACCIDENT CLAIMS TRIBUNAL (MACT). This is a specialised tribunal established exclusively for motor accident related third-party claims.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🔍 Surveyors — Role in Claims",
+      "cards": [
+        {
+          "title": "Who Investigates a Loss?",
+          "content": "Loss investigation (claims assessment) must be done by a LICENSED AND QUALIFIED SURVEYOR. An unlicensed surveyor, the insured's representative, or any random engineering graduate cannot conduct the official loss investigation.",
+          "color": "blue"
+        },
+        {
+          "title": "When is an Independent Surveyor Required?",
+          "content": "As per the Insurance Act, an INDEPENDENT SURVEYOR is required when the value of the claim is ABOVE Rs. 20,000. Below this threshold, the company's internal surveyor can handle it. (Note: IRDAI has proposed increasing this limit to Rs. 20,000+ in future but current exam answer is Rs. 20,000.)",
+          "color": "blue"
+        },
+        {
+          "title": "Claims Assessed Outside India (Travel Insurance)",
+          "content": "For Travel Insurance policies, if a claim arises OUTSIDE the country, it is assessed by the CLAIMS SETTLING AGENT named in the policy — not Indian surveyors, not the insurer's own employees. The policy document names the specific agent for overseas claim assessment.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📋 Specific Claim Types — Reports Required",
+      "cards": [
+        {
+          "title": "Fire Claim — Fire Brigade Report",
+          "content": "In case of a FIRE CLAIM, the report from the FIRE BRIGADE is NECESSARY (mandatory). The fire brigade arrives at a fire scene before the police, making their report the most critical document for fire claim processing.",
+          "color": "blue"
+        },
+        {
+          "title": "Personal Accident Claim — Doctor's Report",
+          "content": "For PERSONAL ACCIDENT CLAIMS, the report of a DOCTOR is mandatory. When an accident occurs, the first point of contact is medical assistance, making the doctor's report the essential document.",
+          "color": "blue"
+        },
+        {
+          "title": "Third Party Property Damage Claims — Survey Report",
+          "content": "Claims involving THIRD PARTY PROPERTY DAMAGE are assessed on the basis of the SURVEY REPORT prepared by the licensed surveyor who inspects the damage.",
+          "color": "blue"
+        },
+        {
+          "title": "Hit and Run Cases — Solatium Fund",
+          "content": "In HIT AND RUN cases where the vehicle that caused the accident cannot be identified, claims are settled from the SOLATIUM FUND (Solatium Scheme, 1989). This fund provides consolation compensation to victims (death or disability) when no insurance can be traced.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "📌 Claim Intimation and Professional Settlement",
+      "cards": [
+        {
+          "title": "When to Intimate a Loss",
+          "content": "The intimation of loss to the insurance company should be given AS SOON AS REASONABLY POSSIBLE after the loss occurs. Do not wait — early intimation enables faster claim processing. It should not be given 'at the exact time of loss' (impractical), nor delayed indefinitely.",
+          "color": "blue"
+        },
+        {
+          "title": "Benefit of Quick Claim Settlement",
+          "content": "If the insurer settles a claim quickly and efficiently, it acts as the BEST ADVERTISEMENT for the insurance company. Quick and fair claim settlement builds trust and reputation — it is the insurer's most powerful marketing tool.",
+          "color": "blue"
+        },
+        {
+          "title": "What is NOT Part of Professional Claim Settlement?",
+          "content": "Approaching a claim WITH PREJUDICE (bias, revenge, or malice) is NOT part of professional claim settlement. Professional settlement includes: collecting cause-of-loss information, checking if the loss is insured, and quantifying the claim amount. Prejudice has no place in this process.",
           "color": "blue"
         }
       ]
     },
     {
       "type": "tips",
-      "title": "🚀 Exam Pro-Tips — Claims Processing",
+      "title": "🚀 Exam Pro-Tips — Chapter 6 (Quick Memory)",
       "items": [
-        "First step in a claim is always Intimation/Notice of Loss.",
-        "Delay in intimation can prejudice the insurer's investigation and lead to rejection.",
-        "Surveyors are licensed by IRDAI and are mandatory for large claims.",
-        "Discharge Voucher signifies full and final settlement of a claim.",
-        "Salvage belongs to the insurer after a total loss claim is settled.",
-        "Subrogation allows the insurer to recover costs from a negligent third party.",
-        "Fair claims settlement is the ultimate test of an insurance company."
+        "TAT = TURNAROUND TIME — time for loss assessment and claim processing.",
+        "Standard claims must be paid within 30 DAYS as per IRDAI rules.",
+        "TAT checks 4 things: breach of conditions, utmost good faith, scope of policy, fraud.",
+        "3 claim categories: Standard → Non-Standard → Act of God/Catastrophic.",
+        "Standard = no breach. Non-Standard = breach of conditions. Act of God = natural disaster.",
+        "Salvage (damaged property remains) belongs to INSURER after claim is paid.",
+        "Dispute causes: delay in payment, claim rejected, claim paid for lesser amount.",
+        "Arbitration = dispute resolution by mutually agreed Arbitrator. Governed by Arbitration & Conciliation Act, 1996.",
+        "Motor Third Party claims settled by MOTOR ACCIDENT CLAIMS TRIBUNAL (MACT) — not civil court.",
+        "Loss investigation must be by LICENSED AND QUALIFIED SURVEYOR.",
+        "Independent Surveyor required if claim value exceeds Rs. 20,000.",
+        "Travel Insurance outside India: assessed by CLAIMS SETTLING AGENT named in the policy.",
+        "Fire claim: FIRE BRIGADE report is NECESSARY.",
+        "Personal Accident claim: DOCTOR's report is mandatory.",
+        "Third Party Property Damage: assessed on basis of SURVEY REPORT.",
+        "Hit and Run cases: claims from SOLATIUM FUND (Solatium Scheme, 1989).",
+        "Loss intimation to insurer: AS SOON AS REASONABLY POSSIBLE.",
+        "Quick claim settlement = BEST ADVERTISEMENT for insurer.",
+        "Approaching claim WITH PREJUDICE = NOT professional claim settlement."
       ]
     }
   ]
