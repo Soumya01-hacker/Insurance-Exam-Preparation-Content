@@ -1,5 +1,5 @@
 {
-  "version": "12.3.7",
+  "version": "12.3.8",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
@@ -1692,7 +1692,8 @@
               "book_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/textbooks/underwriting_and_rate_making.pdf",
               "test_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/tests/underwriting_and_rate_making.json",
               "total_questions": 15,
-              "duration_minutes": 18
+              "duration_minutes": 18,
+              "short_notes_url": "https://soumya01-hacker.github.io/Insurance-Exam-Preparation-Content/short_notes/underwriting_and_rate_making.json"
             },
             {
               "id": "personal_and_retail_insurance",
