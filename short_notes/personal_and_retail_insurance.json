@@ -1,0 +1,122 @@
+{
+  "chapterId": "personal_and_retail_insurance",
+  "title": "Chapter 3 (General Section): Personal and Retail Insurance",
+  "theme": "Premium Blue-Gold",
+  "sections": [
+    {
+      "type": "note_card",
+      "title": "🏠 Insurance Type 1 — Householders Insurance Policy",
+      "cards": [
+        {
+          "title": "What is Householders Insurance?",
+          "content": "Householders Insurance Policy provides COVERAGE on losses to an INSURED PROPERTY from hazards and events that are SPECIFICALLY NAMED in the policy. It covers BOTH the STRUCTURE of the house AND the CONTENTS inside the house (furniture, jewellery, books, other belongings). All covered items and hazards are clearly listed (spelled out) in the policy.",
+          "color": "blue"
+        },
+        {
+          "title": "What Does Householders Insurance Cover?",
+          "content": "Householders Insurance covers: (1) STRUCTURE of the house, (2) CONTENTS of the house (furniture, jewellery, gold/silver ornaments etc.) against: Fire, Riots, Bursting of Pipes, Earthquake. Also covers the contents against BURGLARY, HOUSEBREAKING, and THEFT.",
+          "color": "blue"
+        },
+        {
+          "title": "Gold and Silver Ornaments",
+          "content": "GOLD AND SILVER ORNAMENTS inside the house ARE COVERED under Householders Insurance Policy. This is a commonly asked exam point — they get coverage as contents of the house.",
+          "color": "blue"
+        },
+        {
+          "title": "Package / Umbrella Cover",
+          "content": "When a COMBINATION OF DIFFERENT COVERS is provided under a SINGLE DOCUMENT, it is called a PACKAGE COVER or UMBRELLA COVER. This gives multiple types of protection in one policy.",
+          "color": "blue"
+        },
+        {
+          "title": "Two Methods of Fixing Sum Insured",
+          "content": "For Householders Insurance, there are TWO methods of fixing the Sum Insured: (1) MARKET VALUE (MV) — the current market price of the property/contents, (2) REINSTATEMENT VALUE (RIV) — the cost to replace or rebuild at today's prices. Both MV and RIV are valid methods.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🏪 Insurance Type 2 — Shopkeepers Insurance Policy",
+      "cards": [
+        {
+          "title": "What is Shopkeepers Insurance?",
+          "content": "Shopkeepers Insurance covers DAMAGE to: (1) SHOP STRUCTURE and (2) SHOP CONTENTS (goods/stock) due to: Fire, Earthquake, Flooding, Burglary, and other specified damages. It also includes BUSINESS INTERRUPTION PROTECTION — compensating for loss of income when the shop cannot operate due to a covered event.",
+          "color": "blue"
+        },
+        {
+          "title": "What Shopkeepers Insurance COVERS — Dishonest Acts",
+          "content": "Shopkeepers Insurance covers DISHONEST ACTS by EMPLOYEES of the insured (e.g., employee theft or fraud). It does NOT cover dishonest acts of: the insured himself, customers, or money lenders.",
+          "color": "blue"
+        },
+        {
+          "title": "What Shopkeepers Insurance Does NOT Cover",
+          "content": "(1) WILLFUL DESTRUCTION by the INSURED — if the insured deliberately damages their own shop, no coverage. (2) Money brought by CUSTOMERS to the shop — that is not the shop's money/property. Coverage is available for: money in the till/counter at business premises, money in transit from bank to premises, and money in safe at premises.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🚗 Insurance Type 3 — Motor Insurance",
+      "cards": [
+        {
+          "title": "What is Motor Insurance?",
+          "content": "Motor Insurance covers the LOSS OF and DAMAGE TO VEHICLES due to: Accidents, and other specified reasons. It is a mandatory requirement for all vehicles plying on Indian roads.",
+          "color": "blue"
+        },
+        {
+          "title": "Third Party Insurance — Mandatory by Law",
+          "content": "As per the MOTOR VEHICLES ACT, 1988, THIRD PARTY INSURANCE is MANDATORY for all vehicles. Of the types of motor insurance (fire insurance for vehicles, own damage insurance, third party insurance), ONLY THIRD PARTY INSURANCE is legally compulsory. Driving without it is a criminal offence.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "note_card",
+      "title": "🤕 Insurance Type 4 — Personal Accident Insurance",
+      "cards": [
+        {
+          "title": "What is Personal Accident Insurance?",
+          "content": "Personal Accident Insurance (PA) Policy covers: (1) MEDICAL EXPENSES arising from an accident, (2) Compensation for PARTIAL OR PERMANENT DISABILITY caused by the accident, (3) DEATH arising from the accident. It provides financial protection against the physical and financial impact of accidental injuries.",
+          "color": "blue"
+        },
+        {
+          "title": "Coverage Area — Personal Accident",
+          "content": "Personal Accident Cover is available: (1) While TRAVELING IN INDIA, and (2) While TRAVELING IN NEIGHBORING COUNTRIES of India. It covers India AND neighboring countries — not just India, and not worldwide travel.",
+          "color": "blue"
+        },
+        {
+          "title": "Who CAN Take Personal Accident Policy?",
+          "content": "A BANK CLERK can easily take a personal accident policy — it is a standard profession with no special restrictions. Persons who CANNOT take personal accident policy: (1) Military Personnel (covered under separate military schemes), (2) Terrorists (no insurable interest/illegal activity), (3) Insolvent persons (bankrupt).",
+          "color": "blue"
+        },
+        {
+          "title": "TPA — Third Party Administrator",
+          "content": "TPA stands for THIRD PARTY ADMINISTRATOR. A TPA is an organization that acts as an intermediary between the insurance company and the policyholder for health insurance claim processing and cashless hospitalization services.",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "tips",
+      "title": "🚀 Exam Pro-Tips — Chapter 3 General (Quick Memory)",
+      "items": [
+        "Householders Insurance = covers STRUCTURE + CONTENTS (both).",
+        "Householders Insurance contents coverage includes: gold, silver ornaments, furniture, jewellery.",
+        "Householders Insurance hazards: fire, riots, bursting of pipes, earthquake, burglary, housebreaking, theft.",
+        "Package / Umbrella Cover = combination of covers in ONE document.",
+        "2 methods of Sum Insured in householders policy: MARKET VALUE (MV) + REINSTATEMENT VALUE (RIV).",
+        "Shopkeepers Insurance = shop structure + contents + business interruption protection.",
+        "Shopkeepers Insurance covers: DISHONEST ACTS OF EMPLOYEES — not of insured, customers, or money lenders.",
+        "NOT covered in shopkeeper insurance: WILLFUL DESTRUCTION by insured.",
+        "NOT covered in shopkeeper insurance: Money brought by CUSTOMERS.",
+        "Motor Vehicles Act 1988: THIRD PARTY INSURANCE = MANDATORY.",
+        "Personal Accident Insurance covers: medical expenses + partial/permanent disability + death from accident.",
+        "Personal Accident cover area: INDIA + NEIGHBORING COUNTRIES.",
+        "Who CANNOT get PA policy: Military, Terrorist, Insolvent person.",
+        "Who CAN get PA policy: Bank Clerk (standard profession).",
+        "TPA = THIRD PARTY ADMINISTRATOR (for health insurance claims)."
+      ]
+    }
+  ]
+}

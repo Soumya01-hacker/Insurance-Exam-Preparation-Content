@@ -1,0 +1,188 @@
+{
+  "chapter_id": "personal_and_retail_insurance",
+  "chapter_title": "Chapter 3 (General Section): Personal and Retail Insurance",
+  "pass_marks": 9,
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "G_ch03_q01",
+      "text": "Householders Insurance Policy covers which of the following?",
+      "options": [
+        "Gold and silver ornaments inside the house",
+        "Contents of the insured's shop",
+        "Car owned by the family",
+        "Parcels sent by post during transit"
+      ],
+      "correct_index": 0,
+      "explanation": "GOLD AND SILVER ORNAMENTS inside the house ARE COVERED under Householders Insurance Policy as they are part of the contents of the house. The policy covers the structure of the house AND its contents, including jewellery and ornaments. The shop's contents, car, and postal parcels are NOT covered under this policy."
+    },
+    {
+      "id": "G_ch03_q02",
+      "text": "Householders Insurance Policy covers:",
+      "options": [
+        "Only the structure of the home",
+        "Only the contents of the home",
+        "Both the structure and the contents of the home",
+        "Both structure and contents only when the insured is not at home"
+      ],
+      "correct_index": 2,
+      "explanation": "Householders Insurance covers BOTH the STRUCTURE of the home AND the CONTENTS of the home (furniture, jewellery, appliances etc.). Coverage is active at all times — not only when the insured is away. This dual coverage is the defining feature of householders insurance."
+    },
+    {
+      "id": "G_ch03_q03",
+      "text": "The two methods of fixing the Sum Insured under Householders Insurance Policy are:",
+      "options": [
+        "Face Value and Market Value",
+        "Market Value (MV) and Reinstatement Value (RIV)",
+        "Purchase Value and Current Value",
+        "Surrender Value and Maturity Value"
+      ],
+      "correct_index": 1,
+      "explanation": "For Householders Insurance, there are TWO methods of fixing the Sum Insured: (1) MARKET VALUE (MV) — the current market price of the property or contents, and (2) REINSTATEMENT VALUE (RIV) — the cost to replace or rebuild at today's prices. Both are accepted valuation methods."
+    },
+    {
+      "id": "G_ch03_q04",
+      "text": "When different types of insurance covers are provided under a SINGLE DOCUMENT, it is called:",
+      "options": [
+        "Group Insurance",
+        "Package or Umbrella Cover",
+        "Comprehensive Policy",
+        "Double Insurance"
+      ],
+      "correct_index": 1,
+      "explanation": "A PACKAGE COVER or UMBRELLA COVER is a combination of multiple different insurance covers provided under a single policy document. It gives the insured convenience and broad protection across various risks in one comprehensive document."
+    },
+    {
+      "id": "G_ch03_q05",
+      "text": "In Shopkeepers Insurance, which of the following is NOT covered?",
+      "options": [
+        "Machinery breakdown",
+        "Business interruption",
+        "Damage due to fire",
+        "Willful destruction by the insured"
+      ],
+      "correct_index": 3,
+      "explanation": "WILLFUL DESTRUCTION BY THE INSURED is NOT covered under Shopkeepers Insurance. If the insured deliberately damages their own shop or goods, no claim will be paid. Insurance covers accidental or unforeseen losses — not intentional destruction. Business interruption, fire damage, and machinery breakdown are all typically covered."
+    },
+    {
+      "id": "G_ch03_q06",
+      "text": "Under Shopkeepers Insurance, which money-related loss is NOT covered?",
+      "options": [
+        "Money in the till and counter at business premises",
+        "Money in transit from bank to business premises",
+        "Money in the safe at business premises",
+        "Money carried by a customer to the business premises"
+      ],
+      "correct_index": 3,
+      "explanation": "MONEY CARRIED BY A CUSTOMER to the business premises is NOT covered under Shopkeepers Insurance. That is the customer's own money, not the insured's property. Money in the till, money in transit from bank to premises, and money in the safe at premises are all covered under shopkeeper insurance."
+    },
+    {
+      "id": "G_ch03_q07",
+      "text": "Under Shopkeepers Insurance, whose DISHONEST ACT is covered?",
+      "options": [
+        "Dishonest act of the insured",
+        "Dishonest act of the employees",
+        "Dishonest act of customers",
+        "Dishonest act of money lenders"
+      ],
+      "correct_index": 1,
+      "explanation": "Shopkeepers Insurance covers the DISHONEST ACTS OF EMPLOYEES — for example, if an employee steals from the shop or commits fraud. It does NOT cover dishonest acts of the insured himself, customers, or money lenders. The employer (insured) is protected against employee dishonesty."
+    },
+    {
+      "id": "G_ch03_q08",
+      "text": "As per the Motor Vehicles Act 1988, which type of motor insurance is MANDATORY?",
+      "options": [
+        "Fire Insurance for vehicles",
+        "Own Damage Insurance",
+        "Third Party Insurance",
+        "All of the above"
+      ],
+      "correct_index": 2,
+      "explanation": "As per the MOTOR VEHICLES ACT, 1988, THIRD PARTY INSURANCE is MANDATORY for all motor vehicles in India. Driving without valid third party insurance is a punishable offence. Own damage insurance is optional, and fire insurance for vehicles is not a standalone mandatory requirement."
+    },
+    {
+      "id": "G_ch03_q09",
+      "text": "Personal Accident Insurance covers which of the following arising from an accident?",
+      "options": [
+        "Medical expenses only",
+        "Disability compensation only",
+        "Medical expenses and compensation for partial or permanent disability",
+        "Only property damage"
+      ],
+      "correct_index": 2,
+      "explanation": "Personal Accident Insurance covers: (1) MEDICAL EXPENSES arising from an accident, and (2) Compensation for PARTIAL OR PERMANENT DISABILITY caused by the accident. It also covers death due to accident. It does NOT cover property damage — that is covered under separate property insurance."
+    },
+    {
+      "id": "G_ch03_q10",
+      "text": "Personal Accident cover is available while traveling:",
+      "options": [
+        "Only in India",
+        "Only abroad",
+        "Anywhere in the world",
+        "In India and neighboring countries of India"
+      ],
+      "correct_index": 3,
+      "explanation": "Personal Accident Cover is available while traveling IN INDIA and in the NEIGHBORING COUNTRIES OF INDIA. It does not extend to all countries worldwide. This territorial limitation is important — the cover applies to India and its immediate neighboring nations."
+    },
+    {
+      "id": "G_ch03_q11",
+      "text": "Which of the following persons can take a Personal Accident Policy?",
+      "options": [
+        "A Bank Clerk",
+        "A Military Personnel",
+        "A Terrorist",
+        "An Insolvent Person"
+      ],
+      "correct_index": 0,
+      "explanation": "A BANK CLERK can easily obtain a Personal Accident Policy as it is a standard occupation with no special insurance restrictions. Military personnel are covered under separate government/military schemes. Terrorists engage in illegal activities, and insolvent (bankrupt) persons also face eligibility issues. The bank clerk is the straightforward eligible option."
+    },
+    {
+      "id": "G_ch03_q12",
+      "text": "TPA in insurance stands for:",
+      "options": [
+        "Third Party Administrator",
+        "Third People Administrator",
+        "Total Provider Arrangement",
+        "Third Portability Arrangement"
+      ],
+      "correct_index": 0,
+      "explanation": "TPA stands for THIRD PARTY ADMINISTRATOR. A TPA is an organization that acts as an intermediary between the health insurance company and the policyholder, facilitating cashless hospitalization, claim processing, and other health insurance services."
+    },
+    {
+      "id": "G_ch03_q13",
+      "text": "Shopkeepers Insurance can also include protection against:",
+      "options": [
+        "Loss of personal jewellery of the shopkeeper",
+        "Business interruption when the shop cannot operate",
+        "Medical expenses of the shopkeeper",
+        "Personal accident of customers"
+      ],
+      "correct_index": 1,
+      "explanation": "Shopkeepers Insurance can also include BUSINESS INTERRUPTION PROTECTION — compensating the shopkeeper for loss of income or profits during the period when the shop cannot operate due to a covered event like fire, flood, or earthquake. This is a key additional benefit of shopkeeper insurance."
+    },
+    {
+      "id": "G_ch03_q14",
+      "text": "Householders Insurance covers the contents of the house against which of the following?",
+      "options": [
+        "Fire and Riots only",
+        "Earthquake only",
+        "Burglary and Theft only",
+        "Fire, Riots, Bursting of Pipes, Earthquake, Burglary, Housebreaking and Theft"
+      ],
+      "correct_index": 3,
+      "explanation": "Householders Insurance covers the STRUCTURE and CONTENTS of the house against a wide range of perils: Fire, Riots, Bursting of Pipes, Earthquake AND also against Burglary, Housebreaking, and Theft. All these are covered — not just one or two categories."
+    },
+    {
+      "id": "G_ch03_q15",
+      "text": "Motor Insurance covers which of the following?",
+      "options": [
+        "Loss of life of the vehicle owner",
+        "Loss of and damage to vehicles due to accidents and other specified reasons",
+        "Loss of goods transported in the vehicle",
+        "Medical expenses of passengers inside the vehicle"
+      ],
+      "correct_index": 1,
+      "explanation": "Motor Insurance covers the LOSS OF and DAMAGE TO VEHICLES due to accidents and other specified reasons. It is designed to protect the vehicle itself. Loss of life is covered under personal accident or life insurance. Goods in transit are covered under marine/cargo insurance. Passenger medical expenses require separate accident or health coverage."
+    }
+  ]
+}
