@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Actuary",
+      "description": "A specialized mathematician who uses statistics to calculate risks, premiums, and mortality rates for the insurance company."
+    },
+    {
+      "title": "Annuity",
+      "description": "A financial contract where the insurer guarantees to pay a regular income stream to the policyholder, typically during retirement."
+    },
+    {
+      "title": "Surrender Value",
+      "description": "The amount paid by the insurance company to the policyholder if they decide to terminate the policy before maturity."
+    },
+    {
+      "title": "Underwriting",
+      "description": "The process by which an insurance company evaluates the risk of insuring a person and decides the premium to charge."
+    },
+    {
+      "title": "Premium",
+      "description": "The financial consideration or amount paid by the insured to the insurer in exchange for taking over the risk."
+    }
+  ]
+}

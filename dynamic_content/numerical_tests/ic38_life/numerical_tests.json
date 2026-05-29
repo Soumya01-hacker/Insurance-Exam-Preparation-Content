@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Grace Period Calculation",
+      "description": "If a premium of Rs. 10,000 is due on 1st April (Yearly Mode), the grace period extends to 1st May (30 days). If the insured dies on 15th April, the claim is paid after deducting the due premium."
+    },
+    {
+      "title": "Proportional Claim (General Insurance)",
+      "description": "If property worth Rs 10 Lakh is insured for Rs 5 Lakh, and suffers a loss of Rs 2 Lakh, the insurer pays only Rs 1 Lakh (50% proportion) due to under-insurance."
+    },
+    {
+      "title": "Surrender Value Formula",
+      "description": "Guaranteed Surrender Value (GSV) is typically calculated as: (Total Premiums Paid x GSV Factor) - First Year Premium."
+    }
+  ]
+}

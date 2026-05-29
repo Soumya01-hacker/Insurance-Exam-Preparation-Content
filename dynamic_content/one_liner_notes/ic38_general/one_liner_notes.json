@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Regulatory Body",
+      "description": "IRDAI (Insurance Regulatory and Development Authority of India) regulates the insurance sector in India, established in 1999."
+    },
+    {
+      "title": "Free Look Period",
+      "description": "A policyholder has 15 days (30 days for electronic policies) to review and cancel the policy for a full refund if unsatisfied."
+    },
+    {
+      "title": "Grace Period",
+      "description": "A grace period of 30 days is allowed for yearly, half-yearly, and quarterly premiums, and 15 days for monthly premiums."
+    },
+    {
+      "title": "Nomination vs Assignment",
+      "description": "Nomination transfers only the right to receive money upon death, while Assignment transfers the ownership of the policy entirely."
+    },
+    {
+      "title": "Minimum Age",
+      "description": "The minimum age for taking a standard life insurance policy in India is 18 years (majority age)."
+    }
+  ]
+}

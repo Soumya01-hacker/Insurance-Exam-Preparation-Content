@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Utmost Good Faith (Uberrima Fides)",
+      "description": "Both the insurer and the insured must transparently disclose all material facts correctly. Non-disclosure can make the contract void."
+    },
+    {
+      "title": "Insurable Interest",
+      "description": "The policyholder must suffer a direct financial loss if the insured event occurs. You cannot buy life insurance for a stranger."
+    },
+    {
+      "title": "Indemnity",
+      "description": "Insurance is meant to compensate you for the exact loss incurred, putting you back in the same financial position. (Note: Does not strictly apply to Life Insurance)."
+    },
+    {
+      "title": "Subrogation",
+      "description": "The legal right of the insurer to recover the amount of loss from a responsible third party after settling the claim with the insured."
+    },
+    {
+      "title": "Proximate Cause (Causa Proxima)",
+      "description": "When multiple causes lead to a loss, the insurer only pays if the most active, direct, and efficient cause is covered by the policy."
+    }
+  ]
+}
