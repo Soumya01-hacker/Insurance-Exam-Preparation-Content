@@ -1,20 +1,68 @@
 {
   "items": [
     {
+      "title": "1872",
+      "description": "Indian Contract Act was passed."
+    },
+    {
       "title": "1938",
       "description": "The Insurance Act was passed, which is the foundational law for all insurance business in India."
     },
     {
-      "title": "1956",
-      "description": "Life Insurance Corporation of India (LIC) was established through nationalization."
+      "title": "19/01/1956",
+      "description": "Promulgation of ordinance for the nationalization of life insurance business in India."
+    },
+    {
+      "title": "1956 (LIC Act)",
+      "description": "Life Insurance Corporation of India (LIC) Act was passed."
+    },
+    {
+      "title": "01/09/1956",
+      "description": "LIC of India came into being with its Central Office at Mumbai."
     },
     {
       "title": "1972",
       "description": "General Insurance Business (Nationalisation) Act was passed (GIBNA)."
     },
     {
+      "title": "11/11/1998",
+      "description": "Notification of establishment of Insurance Ombudsman."
+    },
+    {
       "title": "1999",
       "description": "IRDAI Act was passed to establish a statutory body to regulate and develop the insurance industry."
+    },
+    {
+      "title": "April 2000",
+      "description": "IRDA got statutory body status for Life, Non-Life, and Health Insurance Industry."
+    },
+    {
+      "title": "04/10/2010",
+      "description": "Supreme Court judgment relating to HLV (Human Life Value) of a person."
+    },
+    {
+      "title": "November 2010",
+      "description": "As per IRDA Circular, all Universal Life products to be known as Variable Insurance Products (VIP)."
+    },
+    {
+      "title": "15 Days",
+      "description": "For Underwriter to decide based on a proposal."
+    },
+    {
+      "title": "15 Days",
+      "description": "To accept Ombudsman recommendation."
+    },
+    {
+      "title": "30 Days",
+      "description": "Free Look-in Period (latest IRDAI guidelines — increased from 15 to 30 days in 2024)."
+    },
+    {
+      "title": "30 Days",
+      "description": "To honor Ombudsman Award."
+    },
+    {
+      "title": "90 Days (3 months)",
+      "description": "For Ombudsman to pass an award."
     }
   ]
 }
