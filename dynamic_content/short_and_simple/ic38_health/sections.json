@@ -1,20 +1,92 @@
 {
   "items": [
     {
-      "title": "Section 38",
-      "description": "Deals with the Assignment and Transfer of insurance policies."
+      "title": "38: Insurance Act 1938",
+      "description": "Relates to Assignment"
     },
     {
-      "title": "Section 39",
-      "description": "Deals with the Nomination of beneficiaries in a life insurance policy."
+      "title": "39: Insurance Act 1938",
+      "description": "Relates to Nomination (Includes the updated 'Beneficiary Nominee' rule)"
     },
     {
-      "title": "Section 45",
-      "description": "The Incontestability Clause: No policy can be called into question on grounds of misstatement or fraud after 3 years from issuance."
+      "title": "40B: Insurance Act 1938",
+      "description": "Limitations of expenses of management (Correction: Image wrongly listed this as Section 40. Section 40 actually deals with Prohibition of Rebates)"
     },
     {
-      "title": "MWP Act 1874 (Section 6)",
-      "description": "Married Women's Property Act ensures that the policy benefits are strictly protected for the wife/children and cannot be attached by creditors."
+      "title": "40-44: Insurance Act 1938",
+      "description": "Licensing of agents and their remunerations"
+    },
+    {
+      "title": "45: Insurance Act 1938",
+      "description": "Indisputability of the contract of insurance (Update: Claim cannot be rejected after 3 years as per recent amendment)"
+    },
+    {
+      "title": "64UM: Insurance Act 1938",
+      "description": "Need for survey of losses"
+    },
+    {
+      "title": "3 & 70: Insurance Act 1938",
+      "description": "Registration of Insurance companies and its renewals"
+    },
+    {
+      "title": "64V: Insurance Act 1938",
+      "description": "Requirements of sufficient capital to keep solvency margins (Update: Minimum Solvency Ratio is 150%)"
+    },
+    {
+      "title": "27 & 55: Insurance Act 1938",
+      "description": "Norms of investments by the insurance companies"
+    },
+    {
+      "title": "32B & 32C: Insurance Act 1938",
+      "description": "Obligation of Insurers towards rural and social sectors"
+    },
+    {
+      "title": "182: Indian Contract Act 1872",
+      "description": "Definition of agent"
+    },
+    {
+      "title": "37(1): Income tax Act 1961",
+      "description": "Premium paid as Keyman Insurance exempt as business expense"
+    },
+    {
+      "title": "6: Married women Property Act 1874",
+      "description": "Policy to be treated as a trust for the welfare of wife and children"
+    },
+    {
+      "title": "10: Indian Contract Act 1872",
+      "description": "Definition of Contract"
+    },
+    {
+      "title": "30: Indian Contract Act 1872",
+      "description": "Agreements by way of wager are void"
+    },
+    {
+      "title": "17 (2A): EPF and MP Act 1952",
+      "description": "Exemption of EDLI scheme for establishment"
+    },
+    {
+      "title": "80 (C): Income tax Act 1961",
+      "description": "Eligibility of deduction for income tax purposes (Update: Limit is up to Rs. 1.5 Lakhs)"
+    },
+    {
+      "title": "80 (DD): Income tax Act 1961",
+      "description": "Maintenance of handicapped children"
+    },
+    {
+      "title": "10 (10D): Income tax Act 1961",
+      "description": "Exemption of receipt of payments for tax purposes (Update: Death claim is 100% tax-free)"
+    },
+    {
+      "title": "80(D): Income tax Act 1961",
+      "description": "Tax deduction based on Health Insurance Premium (Correction: Image text was cut off. Limit is up to Rs. 25,000 for normal individuals, and Rs. 50,000 for senior citizens)"
+    },
+    {
+      "title": "107 & 108: Indian Evidence Act 1872",
+      "description": "Deals with the presumption of death of a person (Correction: Image blundered by calling it Income Tax Act 1961. This is Indian Evidence Act. Missing for 7 years = presumed dead)"
+    },
+    {
+      "title": "NA: ECGC ACT 1957",
+      "description": "Export Credit Guarantee Corporation of India. Established in July 1957. It offers insurance protection to exporters against payment risks. (Correction: Image wrongly stated 1956. It was established in 1957)"
     }
   ]
 }
