@@ -1,68 +1,180 @@
 {
   "items": [
     {
-      "title": "1872",
-      "description": "Indian Contract Act was passed."
-    },
-    {
-      "title": "1938",
-      "description": "The Insurance Act was passed, which is the foundational law for all insurance business in India."
+      "title": "01/09/1956",
+      "description": "LIC of India came into being with its Central Office at Mumbai."
     },
     {
       "title": "19/01/1956",
       "description": "Promulgation of ordinance for the nationalization of life insurance business in India."
     },
     {
-      "title": "1956 (LIC Act)",
-      "description": "Life Insurance Corporation of India (LIC) Act was passed."
-    },
-    {
-      "title": "01/09/1956",
-      "description": "LIC of India came into being with its Central Office at Mumbai."
-    },
-    {
-      "title": "1972",
-      "description": "General Insurance Business (Nationalisation) Act was passed (GIBNA)."
-    },
-    {
       "title": "11/11/1998",
       "description": "Notification of establishment of Insurance Ombudsman."
     },
     {
-      "title": "1999",
-      "description": "IRDAI Act was passed to establish a statutory body to regulate and develop the insurance industry."
+      "title": "04/10/2010",
+      "description": "Supreme Court judgment relating to HLV (Human Life Value) of a person. (⚠️ exact case name/citation not independently verifiable — confirm from your study material before quoting in exam)"
     },
     {
       "title": "April 2000",
       "description": "IRDA got statutory body status for Life, Non-Life, and Health Insurance Industry."
     },
     {
-      "title": "04/10/2010",
-      "description": "Supreme Court judgment relating to HLV (Human Life Value) of a person."
-    },
-    {
       "title": "November 2010",
       "description": "As per IRDA Circular, all Universal Life products to be known as Variable Insurance Products (VIP)."
-    },
-    {
-      "title": "15 Days",
-      "description": "For Underwriter to decide based on a proposal."
-    },
-    {
-      "title": "15 Days",
-      "description": "To accept Ombudsman recommendation."
     },
     {
       "title": "30 Days",
       "description": "Free Look-in Period (latest IRDAI guidelines — increased from 15 to 30 days in 2024)."
     },
     {
-      "title": "30 Days",
-      "description": "To honor Ombudsman Award."
+      "title": "15 Days",
+      "description": "Underwriter to decide on a proposal within."
     },
     {
-      "title": "90 Days (3 months)",
-      "description": "For Ombudsman to pass an award."
+      "title": "10 Days",
+      "description": "Insurer to respond to a policyholder communique/query within."
+    },
+    {
+      "title": "30 Days",
+      "description": "Insurers to pay/dispute a valid claim within (general rule, post Protection of Policyholders' Interests Regulations). Latest update: IRDAI Master Circular (Sept 2024) sets — Death claims without investigation: 15 days | Death claims with investigation: 45 days."
+    },
+    {
+      "title": "15 Days",
+      "description": "Complainant to accept the recommendation of the Ombudsman."
+    },
+    {
+      "title": "30 Days",
+      "description": "Insurers to honor and implement the Ombudsman award within."
+    },
+    {
+      "title": "90 Days",
+      "description": "Ombudsman to decide a complaint and pass an award within (3 months)."
+    },
+    {
+      "title": "90 Days",
+      "description": "Insurer to complete claim investigation within (older 2002 Regulations figure. Latest 2024 Master Circular reduces this to 45 days for life insurance death claims requiring investigation)."
+    },
+    {
+      "title": "30 Days",
+      "description": "Interest payable to claimant if Ombudsman award not implemented within this period."
+    },
+    {
+      "title": "7 Years",
+      "description": "An insured is presumed dead."
+    },
+    {
+      "title": "1 Year",
+      "description": "Complaint can be filed with Insurance Ombudsman within 1 year of claim rejection."
+    },
+    {
+      "title": "2 Years",
+      "description": "Complaint can be filed with Consumer Forum within 2 years from cause of action."
+    },
+    {
+      "title": "1872",
+      "description": "Indian Contract Act was passed."
+    },
+    {
+      "title": "1872",
+      "description": "Indian Evidence Act was passed."
+    },
+    {
+      "title": "1874",
+      "description": "Married Women's Property (MWP) Act was passed."
+    },
+    {
+      "title": "1882",
+      "description": "Transfer of Property Act was passed."
+    },
+    {
+      "title": "1912",
+      "description": "Life Insurance Companies Act was passed."
+    },
+    {
+      "title": "1923",
+      "description": "Workman Compensation Act was passed (now Employees Compensation Act)."
+    },
+    {
+      "title": "1938",
+      "description": "Insurance Act was passed."
+    },
+    {
+      "title": "1948",
+      "description": "Employees State Insurance (ESI) Act was passed."
+    },
+    {
+      "title": "1952",
+      "description": "Employees Provident Fund and Misc Provisions Act was passed."
+    },
+    {
+      "title": "1956",
+      "description": "LIC of India Act was passed."
+    },
+    {
+      "title": "1961",
+      "description": "Deposit Insurance and Credit Guarantee Corporation (DICGC) Act was passed."
+    },
+    {
+      "title": "1963",
+      "description": "Marine Insurance Act was passed."
+    },
+    {
+      "title": "1964",
+      "description": "Export Credit Guarantee Corporation (ECGC) renamed and reorganized."
+    },
+    {
+      "title": "1972",
+      "description": "General Insurance Business (Nationalization) Act (GIBNA) was passed."
+    },
+    {
+      "title": "1979",
+      "description": "Universal Life Policy introduced in the USA."
+    },
+    {
+      "title": "1986",
+      "description": "Consumer Protection Act (originally passed)."
+    },
+    {
+      "title": "1988",
+      "description": "Motor Vehicles Act was passed."
+    },
+    {
+      "title": "1990",
+      "description": "First pre-funded health insurance plan 'Bhavishya Arogya' marketed by 4 PSU general insurers."
+    },
+    {
+      "title": "1991",
+      "description": "Public Liability Insurance Act was passed."
+    },
+    {
+      "title": "1993",
+      "description": "Malhotra Committee set up."
+    },
+    {
+      "title": "1997",
+      "description": "Insurance Regulatory Authority (IRA) established."
+    },
+    {
+      "title": "1999",
+      "description": "IRDA Act passed."
+    },
+    {
+      "title": "2002",
+      "description": "Prevention of Money Laundering Act (PMLA) enacted."
+    },
+    {
+      "title": "2002",
+      "description": "General Insurance Business (Nationalization) Amendment Act was passed."
+    },
+    {
+      "title": "2005",
+      "description": "PMLA 2002 implemented."
+    },
+    {
+      "title": "2014",
+      "description": "IRDA renamed IRDAI (via Insurance Laws (Amendment) Ordinance, 26-12-2014; formally enacted as Insurance Laws (Amendment) Act, 2015 — some sources cite 2015/2016, so cross-check with your study source if exam-specific)."
     }
   ]
 }

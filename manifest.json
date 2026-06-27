@@ -1,10 +1,11 @@
 {
-  "version": "12.3.16",
+  "version": "12.3.17",
   "metadata": {
     "source": "IC38_Complete_Syllabus.pdf (Pages 1-11, Word-for-Word)",
     "passing_marks": "35% (18/50)",
     "exam": "50 MCQ | No Negative Marking",
-    "last_audit": "2026-04-24"
+    "last_audit": "2026-04-24",
+    "last_updated": "2026-06-27"
   },
   "courses": [
     {
